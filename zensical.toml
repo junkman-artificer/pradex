@@ -13,13 +13,18 @@ repo_name = "junkman-artificer/pradex"
 
 nav = [
   { "Home" = "index.md" },
-  { "Getting Started" = "getting-started/index.md" },
+  { "Getting Started" = [
+    "getting-started/index.md",
+    { "First Steps" = "getting-started/first-steps.md" },
+    { "Core Concepts" = "getting-started/core-concepts.md" },
+    { "FAQ" = "getting-started/faq.md" },
+  ] },
   { "Character Creation" = "character-creation/index.md" },
   { "Gearing Up" = "gearing-up/index.md" },
   { "Crafting" = "crafting/index.md" },
   { "Enchanting" = "enchanting/index.md" },
   { "Builds and Parties" = "builds/index.md" },
-    { "Waystones" = [
+  { "Waystones" = [
     "waystones/index.md",
     { "Maximizing Waystones" = "waystones/maximizing.md" },
     { "Regions" = [
