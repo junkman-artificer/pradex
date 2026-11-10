@@ -20,6 +20,14 @@ Your field guide to Prado, from your first character to mastering the waystones.
 
     [:lucide-arrow-right: Create](character-creation/index.md)
 
+-   :lucide-id-card:{ .lg .middle } __Classes__
+
+    ---
+
+    Leveling paths and builds for every class.
+
+    [:lucide-arrow-right: Choose](classes/index.md)
+
 -   :lucide-shield:{ .lg .middle } __Gearing Up__
 
     ---
@@ -44,13 +52,13 @@ Your field guide to Prado, from your first character to mastering the waystones.
 
     [:lucide-arrow-right: Enchant](enchanting/index.md)
 
--   :lucide-users:{ .lg .middle } __Builds and Parties__
+-   :lucide-users:{ .lg .middle } __Parties__
 
     ---
 
-    Builds that work and teams that click.
+    Which classes work well together, and why.
 
-    [:lucide-arrow-right: Build](builds/index.md)
+    [:lucide-arrow-right: Team up](parties/index.md)
 
 -   :lucide-map:{ .lg .middle } __Waystones__
 
