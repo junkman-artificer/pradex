@@ -1,6 +1,6 @@
 # Classes
 
-Every class has a fixed stat path, so your choices come down to gear, enchanting, and how you play. Pick a class to see its priorities, leveling tips, uniques to watch for, and builds.
+Every class has a fixed stat path, so your choices come down to gear, enchanting, and how you play. You can switch classes any time you're in town, and each class has its own level and experience bar, so trying a new one means leveling it from the start. Pick a class to see its priorities, leveling tips, uniques to watch for, and builds.
 
 <div class="grid cards" markdown>
 
@@ -40,7 +40,8 @@ Every class has a fixed stat path, so your choices come down to gear, enchanting
 
     ---
 
-    Buffs allies and debuffs enemies.<br>*Subscriber only.*
+    Buffs allies and debuffs enemies.<br>
+    *Subscriber only.*
 
     [:lucide-arrow-right: View class](bard.md)
 
@@ -48,7 +49,8 @@ Every class has a fixed stat path, so your choices come down to gear, enchanting
 
     ---
 
-    Fuels power with their own life.<br>*Subscriber only.*
+    Fuels power with their own life.<br>
+    *Subscriber only.*
 
     [:lucide-arrow-right: View class](blood-knight.md)
 
@@ -56,7 +58,8 @@ Every class has a fixed stat path, so your choices come down to gear, enchanting
 
     ---
 
-    Ranged marksman.<br>*Subscriber only, current season (S9).*
+    Ranged marksman.<br>
+    *Subscriber only, current season.*
 
     [:lucide-arrow-right: View class](ranger.md)
 
