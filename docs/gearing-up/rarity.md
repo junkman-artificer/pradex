@@ -11,6 +11,10 @@ Gear comes in six tiers. The higher the tier, the more affixes (Prefixes and Suf
 | <span class="rarity rarity--epic">Epic</span> | 3 / 3 | Unlimited |
 | <span class="rarity rarity--unique">Unique</span> | Fixed | None |
 
+!!! note "Slot exceptions"
+    - **Shields** can be found Socketed, but can't roll the Sockets Prefix.
+    - **Orbs, Relics, Instruments, Quivers, Shoulders, Capes, Rings, and Necklaces** can't be Socketed and can't roll the Sockets Prefix.
+
 ## What are attunements?
 
 An **attunement** is one roll when enchanting. Each roll can change an affix's effect, its tier, or its value within that tier's range. For example, if an affix rolls in a 9 to 12% range, you can spend an attunement to reroll it in hopes of hitting the max.

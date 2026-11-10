@@ -20,7 +20,7 @@ Your field guide to Prado, from your first character to mastering the waystones.
 
     [:lucide-arrow-right: Create](character-creation/index.md)
 
--   :lucide-id-card:{ .lg .middle } __Classes__
+-   :lucide-playing-card:{ .lg .middle } __Classes__
 
     ---
 

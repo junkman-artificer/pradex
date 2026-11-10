@@ -36,7 +36,14 @@ nav = [
     { "Stats" = "gearing-up/stats.md" },
     { "Where to Get Gear" = "gearing-up/sources.md" },
   ] },
-  { "Crafting" = "crafting/index.md" },
+  { "Crafting" = [
+    "crafting/index.md",
+    { "Smithing" = "crafting/smithing.md" },
+    { "Tailoring" = "crafting/tailoring.md" },
+    { "Leatherworking" = "crafting/leatherworking.md" },
+    { "Alchemy" = "crafting/alchemy.md" },
+    { "Cooking" = "crafting/cooking.md" },
+  ] },
   { "Enchanting" = "enchanting/index.md" },
   { "Parties" = "parties/index.md" },
   { "Waystones" = [
