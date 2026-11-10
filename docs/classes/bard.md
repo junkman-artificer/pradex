@@ -1,10 +1,11 @@
 # Bard
 
-[:lucide-music: Official Bard page](https://www.pradotraveler.com/classes/BRD){ .md-button target="_blank" }
+[:lucide-music: Official Bard page](https://www.pradotraveler.com/classes/BRD){ .md-button .md-button--primary target="_blank" }
 
 !!! info "At a glance"
     - **Role:** Buffs allies, debuffs enemies
     - **Availability:** Subscriber only
+    - **Weapons:** Instrument, Quiver, Dagger, Sword, Axe, Spear, Bow
     - **Playstyle:** [one line]
 
 ## Overview

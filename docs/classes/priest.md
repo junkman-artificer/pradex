@@ -1,10 +1,11 @@
 # Priest
 
-[:lucide-heart-pulse: Official Priest page](https://www.pradotraveler.com/classes/PST){ .md-button target="_blank" }
+[:lucide-heart-pulse: Official Priest page](https://www.pradotraveler.com/classes/PST){ .md-button .md-button--primary target="_blank" }
 
 !!! info "At a glance"
     - **Role:** Healer and support
     - **Availability:** Everyone
+    - **Weapons:** Relic, Dagger, Sword, Axe, Mace, Staff, Wand
     - **Playstyle:** [one line]
 
 ## Overview

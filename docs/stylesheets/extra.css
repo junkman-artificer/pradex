@@ -8,3 +8,20 @@
   height: 5rem;
   width: auto;
 }
+.md-typeset .md-button {
+  border-radius: 0.7rem;
+}
+.rarity {
+  display: inline-block;
+  padding: 0.1em 0.6em;
+  border-radius: 0.7rem;
+  font-weight: 700;
+  color: #1e1e1e;
+}
+.rarity--common   { background: #e6e6e6; }
+.rarity--socketed { background: #9e9e9e; }
+.rarity--uncommon { background: #5cbf60; }
+.rarity--rare     { background: #4a90e2; }
+.rarity--epic     { background: #b57ee6; }
+.rarity--unique   { background: #f2c230; }
+.lone-wolf-warn { color: #ff9100; }

@@ -1,10 +1,11 @@
 # Thief
 
-[:lucide-swords: Official Thief page](https://www.pradotraveler.com/classes/THF){ .md-button target="_blank" }
+[:lucide-swords: Official Thief page](https://www.pradotraveler.com/classes/THF){ .md-button .md-button--primary target="_blank" }
 
 !!! info "At a glance"
     - **Role:** Dual wielder, traps, and evasion
     - **Availability:** Everyone
+    - **Weapons:** Quiver, Dagger, Sword, Axe, Mace, Bow
     - **Playstyle:** [one line]
 
 ## Overview

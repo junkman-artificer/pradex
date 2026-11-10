@@ -1,10 +1,11 @@
 # Ranger
 
-[:lucide-bow-arrow: Official Ranger page](https://www.pradotraveler.com/classes/RNG){ .md-button target="_blank" }
+[:lucide-bow-arrow: Official Ranger page](https://www.pradotraveler.com/classes/RNG){ .md-button .md-button--primary target="_blank" }
 
 !!! info "At a glance"
     - **Role:** Ranged marksman
     - **Availability:** Subscriber only, current season only
+    - **Weapons:** Quiver, Sword, Axe, Mace, Spear, Bow
     - **Playstyle:** [one line]
 
 ## Overview

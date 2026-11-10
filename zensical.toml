@@ -30,7 +30,12 @@ nav = [
     { "Blood Knight" = "classes/blood-knight.md" },
     { "Ranger" = "classes/ranger.md" },
   ] },
-  { "Gearing Up" = "gearing-up/index.md" },
+  { "Gearing Up" = [
+    "gearing-up/index.md",
+    { "Rarity" = "gearing-up/rarity.md" },
+    { "Stats" = "gearing-up/stats.md" },
+    { "Where to Get Gear" = "gearing-up/sources.md" },
+  ] },
   { "Crafting" = "crafting/index.md" },
   { "Enchanting" = "enchanting/index.md" },
   { "Parties" = "parties/index.md" },
