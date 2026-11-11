@@ -87,3 +87,110 @@
     margin-left: 0.4rem; margin-right: 0.4rem;
   }
 }
+/* Show the logo in the header on phones and tablets */
+@media screen and (max-width: 76.234375em) {
+  .md-header__button.md-logo {
+    display: inline-block;
+    margin: 0 0.2rem;
+    padding: 0.2rem;
+  }
+  .md-header__button.md-logo img,
+  .md-header__button.md-logo svg {
+    height: 2.4rem;
+  }
+  /* Keep the menu button first, then the logo */
+  .md-header__inner > label[for="__drawer"] {
+    order: -1;
+  }
+}
+/* Hide the site name in the header (the logo already says it),
+   but keep the page title that slides in when you scroll */
+.md-header__title .md-header__topic:first-child {
+  visibility: hidden;
+}
+.md-header__title {
+  visibility: hidden;
+}
+/* ---------- Pokedex banner ---------- */
+
+/* Shaded casing with a dark hinge seam along the bottom */
+.md-header {
+  background: linear-gradient(180deg, #e8233d 0%, #d10b2c 55%, #a50822 100%);
+  border-bottom: 5px solid #5e0412;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25), 0 4px 14px rgba(0, 0, 0, 0.45);
+}
+
+/* Slightly smaller lens so the banner is tighter */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 4rem;
+}
+
+/* Three indicator lights next to the lens */
+.md-header__button.md-logo {
+  position: relative;
+  margin-right: 4rem;
+}
+.md-header__button.md-logo::after {
+  content: "";
+  position: absolute;
+  top: 0.7rem;
+  right: -3.4rem;
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #ffb3b3, #ef4444 60%, #9b1c1c);
+  border: 2px solid #3a0610;
+  box-shadow: 1.1rem 0 0 -2px #f2c230, 2.2rem 0 0 -2px #7ee08f;
+}
+
+/* The lights now live in the banner, so the screen doesn't need its own */
+[data-md-color-scheme="slate"] .md-content__inner::before {
+  display: none;
+}
+
+/* Phones: smaller lights, and drop the banner title so it isn't cut off */
+@media screen and (max-width: 76.234375em) {
+  .md-header__button.md-logo { margin-right: 3rem; }
+  .md-header__button.md-logo::after {
+    top: 0.5rem; right: -2.6rem;
+    width: 0.6rem; height: 0.6rem;
+    box-shadow: 0.85rem 0 0 -2px #f2c230, 1.7rem 0 0 -2px #7ee08f;
+  }
+}
+@media screen and (max-width: 44.984375em) {
+  .md-header__title { visibility: hidden; }
+}
+/* Tighter banner */
+.md-header__button.md-logo {
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+}
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 3rem;
+}
+.md-header__button.md-logo::after {
+  top: 0.45rem;
+}
+
+/* Keep the phone logo at its smaller size */
+@media screen and (max-width: 76.234375em) {
+  .md-header__button.md-logo img,
+  .md-header__button.md-logo svg {
+    height: 2.4rem;
+  }
+  .md-header__button.md-logo::after {
+    top: 0.5rem;
+  }
+}
+/* Trim the red space above and below the logo */
+.md-header__button.md-logo {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+}
+.md-header__button.md-logo::after {
+  top: 0.35rem;
+}
