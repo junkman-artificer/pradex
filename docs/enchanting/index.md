@@ -63,4 +63,4 @@ It costs one shard matching the item's level, plus crafting materials for that t
     Imbuing refills your attunements, so use every Uncommon attunement to land great starting affixes or push their values to the max before imbuing to Rare.
 
 !!! bug "Attunements didn't refill?"
-    That's a bug. Report it on the [Prado Discord]([Discord invite link]) for help.
+    That's a bug. Report it on the [Prado Discord](https://discord.gg/CnB2zBeN65) for help.

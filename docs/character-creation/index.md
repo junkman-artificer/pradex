@@ -5,7 +5,7 @@
 !!! tip "Free ring with a friend code"
     Entering a friend code gets you a free ring with **+1 Health Regen and +1 Mana Regen**, which is a big boost early on.
 
-    Don't have a friend who plays? Join the [Prado Discord]([Discord invite link]) and ask for a code. Players are happy to share.
+    Don't have a friend who plays? Join the [Prado Discord](https://discord.gg/CnB2zBeN65) and ask for a code. Players are happy to share.
 
 ## Heads up
 

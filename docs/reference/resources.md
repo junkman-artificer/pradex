@@ -54,7 +54,7 @@ Filter by item type, stat requirement, and item level to see every Prefix and Su
 
     Ask questions, get a friend code, and report bugs.
 
-    [:lucide-external-link: Join the Discord]([Discord invite link]){ target="_blank" }
+    [:lucide-external-link: Join the Discord](https://discord.gg/CnB2zBeN65){ target="_blank" }
 
 -   :lucide-map:{ .lg .middle } __Runecrafting Combinations__
 

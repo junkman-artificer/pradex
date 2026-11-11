@@ -4,10 +4,10 @@ What each status effect does, how to apply it, and how to protect yourself from 
 
 Each status lists:
 
+- **At a glance:** its type, how long it lasts, whether it stacks, and whether a Shield can make you immune.
 - **Apply it:** stats, consumables, and abilities that cause it.
 - **Make it stronger:** things that boost the status itself.
 - **Works well with:** things that take advantage of a target that has it.
-- **Protect against it:** ways to avoid or resist it.
 
 Abilities are listed by name. Higher ranks of the same ability are stronger or last longer. See each [class page](../classes/index.md) for exact numbers.
 
@@ -17,7 +17,13 @@ Abilities are listed by name. Higher ranks of the same ability are stronger or l
 
 ## Bleed
 
-Deals damage over time, and stacks. [More detail.]
+!!! info "At a glance"
+    - **Type:** Damage over time
+    - **Duration:** 4 to 7 seconds, depending on the source
+    - **Stacks:** Yes
+    - **Immunity:** Immune to Bleed (Shield Prefix)
+
+[What it does.]
 
 - **Apply it:**
     - % Chance to Apply Bleed (Suffix)
@@ -27,16 +33,26 @@ Deals damage over time, and stacks. [More detail.]
     - % Bonus Damage to Bleeding Targets (Suffix)
     - Death Strike: extra damage per Bleed stack (Blood Knight)
     - Heart Strike: heals per Bleed stack (Blood Knight)
-- **Protect against it:** Immune to Bleed (Prefix, Shields only)
 
 ## Blind
+
+!!! info "At a glance"
+    - **Type:** [ ]
+    - **Duration:** [ ]
+    - **Stacks:** [ ]
+    - **Immunity:** Immune to Blind (Shield Prefix)
 
 [What it does.]
 
 - **Apply it:** % Chance to Apply Blind (Suffix)
-- **Protect against it:** Immune to Blind (Prefix, Shields only)
 
 ## Burn
+
+!!! info "At a glance"
+    - **Type:** Damage over time
+    - **Duration:** 3 seconds from abilities
+    - **Stacks:** [ ]
+    - **Immunity:** Immune to Burn (Shield Prefix)
 
 Deals damage over time. Each rank deals more:
 
@@ -55,32 +71,52 @@ Higher ranks of Burn abilities apply higher ranks of Burn.
     - Fireball, Firebrand Weapon, Dragon's Breath (Magician)
     - Explosive Shot (Ranger)
 - **Make it stronger:** Fire Spell Power: every 4 points adds 1 Burn damage
-- **Protect against it:** Immune to Burn (Prefix, Shields only)
 
 ## Curse
+
+!!! info "At a glance"
+    - **Type:** Debuff
+    - **Duration:** 5 seconds
+    - **Stacks:** [ ]
+    - **Immunity:** None
 
 Lowers the target's magic resistance by **40%** for **5 seconds**.
 
 - **Apply it:** % Chance to Curse (Suffix)
-- **Protect against it:** [ ]
 
 ## Deep Wound
+
+!!! info "At a glance"
+    - **Type:** Debuff
+    - **Duration:** 5 seconds
+    - **Stacks:** [ ]
+    - **Immunity:** None
 
 Reduces the target's healing from all sources by **40%** for **5 seconds**.
 
 - **Apply it:** % Chance to Deep Wound (Suffix)
-- **Protect against it:** [ ]
 
 ## Enfeeble
+
+!!! info "At a glance"
+    - **Type:** Debuff
+    - **Duration:** 5 seconds
+    - **Stacks:** [ ]
+    - **Immunity:** None
 
 Reduces the target's damage by **40%** for **5 seconds**.
 
 - **Apply it:** % Chance to Enfeeble (Suffix)
-- **Protect against it:** [ ]
 
 ## Freeze
 
-[What it does.] Base duration depends on the source, from 1 to 3 seconds. Freeze has diminishing returns and doesn't stack. See [Freeze and Stun](index.md#freeze-and-stun).
+!!! info "At a glance"
+    - **Type:** Crowd control
+    - **Duration:** 1 to 3 seconds, depending on the source
+    - **Stacks:** No, and it has diminishing returns
+    - **Immunity:** Immune to Freeze (Shield Prefix)
+
+[What it does.] For how diminishing returns work, see [Freeze and Stun](index.md#freeze-and-stun).
 
 - **Apply it:**
     - % Chance to Apply Freeze (Suffix)
@@ -89,16 +125,26 @@ Reduces the target's damage by **40%** for **5 seconds**.
     - Freezing Shot (Ranger)
 - **Make it stronger:** Frost Spell Power: every 4 points adds 0.2 seconds
 - **Works well with:** % Bonus Damage to Frozen Targets (Suffix)
-- **Protect against it:** Immune to Freeze (Prefix, Shields only)
 
 ## Hamstring
+
+!!! info "At a glance"
+    - **Type:** Debuff
+    - **Duration:** 5 seconds
+    - **Stacks:** [ ]
+    - **Immunity:** None
 
 Lowers the target's evasion by **40%** for **5 seconds**.
 
 - **Apply it:** % Chance to Hamstring (Suffix)
-- **Protect against it:** [ ]
 
 ## Poison
+
+!!! info "At a glance"
+    - **Type:** Damage over time
+    - **Duration:** [ ]
+    - **Stacks:** Yes
+    - **Immunity:** Immune to Poison (Shield Prefix)
 
 Applied in stacks. [What each stack does.]
 
@@ -114,9 +160,14 @@ Applied in stacks. [What each stack does.]
     - % Bonus Damage to Poisoned Targets (Suffix)
     - Venomous Strike: extra damage per Poison stack (Thief)
     - Leech and Extraction: restore health and mana per Poison stack (Thief)
-- **Protect against it:** Immune to Poison (Prefix, Shields only)
 
 ## Slow
+
+!!! info "At a glance"
+    - **Type:** Crowd control
+    - **Duration:** 1 to 1.75 seconds, depending on the source
+    - **Stacks:** [ ]
+    - **Immunity:** None
 
 [What it does.]
 
@@ -124,21 +175,30 @@ Applied in stacks. [What each stack does.]
     - Thunderclap (Warrior)
     - Requiem of Suffering, Sorcerer's Lament (Bard)
 - **Make it stronger:** Performance: every point adds 0.2 seconds to song-based Slows (Bard)
-- **Protect against it:** [ ]
 
 ## Stun
 
-[What it does.] Base duration depends on the source, from 1 to 3 seconds. Stun has diminishing returns and doesn't stack. See [Freeze and Stun](index.md#freeze-and-stun).
+!!! info "At a glance"
+    - **Type:** Crowd control
+    - **Duration:** 1 to 3 seconds, depending on the source
+    - **Stacks:** No, and it has diminishing returns
+    - **Immunity:** None
+
+[What it does.] For how diminishing returns work, see [Freeze and Stun](index.md#freeze-and-stun).
 
 - **Apply it:**
     - % Chance to Apply Stun (Suffix)
     - Kidney Punch, Subduing Strike (Thief)
 - **Works well with:** % Bonus Damage to Stunned Targets (Suffix)
-- **Protect against it:** [ ]
 
 ## Sunder Armor
+
+!!! info "At a glance"
+    - **Type:** Debuff
+    - **Duration:** 5 seconds
+    - **Stacks:** [ ]
+    - **Immunity:** None
 
 Reduces the target's armor by **40%** for **5 seconds**.
 
 - **Apply it:** % Chance to Sunder Armor (Suffix)
-- **Protect against it:** [ ]
