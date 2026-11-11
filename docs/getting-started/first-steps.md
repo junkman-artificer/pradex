@@ -8,9 +8,11 @@ Follow these in order during your first session. Each step links to the full gui
 
 [:lucide-arrow-right: Full guide: Character Creation](../character-creation/index.md)
 
-## 2. [Next thing to do]
+## 2. Aim for 5,000 steps a day
 
-[What to do and why it matters early.]
+Your first 5,000 steps each day earn the most Vita, plus 200 bonus experience. Making it a daily habit from the start is the easiest way to keep progressing.
+
+[:lucide-arrow-right: How Vita works](core-concepts.md#vita)
 
 ## 3. [Next thing to do]
 
