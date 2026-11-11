@@ -5,7 +5,7 @@ site_name = "Pradex"
 # site_description = "A field guide to the world of Prado"
 # site_author = "Ezraek"
 
-copyright = "Copyright &copy; 2026 Ezraek"
+copyright = "Copyright &copy; 2026 Ezraek<br><strong>Prado Traveler</strong> and its game content &copy; 2026 Prado Industries, Inc.<br><strong>Pradex</strong> is an unofficial fan site and is not affiliated with or endorsed by Prado Industries."
 
 repo_url = "https://github.com/junkman-artificer/pradex"
 repo_name = "junkman-artificer/pradex"
