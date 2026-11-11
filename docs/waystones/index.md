@@ -8,7 +8,7 @@
 
     ---
 
-    Party size, Vita costs, and getting the most from every run.
+    Deck building and getting the most from every run.
 
     [:lucide-arrow-right: Read more](maximizing.md)
 

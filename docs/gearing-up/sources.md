@@ -10,7 +10,7 @@ There are six ways to get gear. Most players use all of them at different points
 
 [What normal monsters drop while leveling.]
 
-Unique Monsters in waystones drop 1 to 3 pieces of gear, depending on [party size](../waystones/maximizing.md#party-size-and-gear-drops). Monster drops are also the only way to find an <span class="rarity rarity--epic">Epic</span>.
+Unique Monsters in waystones drop 1 to 3 pieces of gear, depending on [party size](../parties/index.md#party-size-and-gear-drops). Monster drops are also the only way to find an <span class="rarity rarity--epic">Epic</span>.
 
 ## Treasure
 

@@ -108,7 +108,7 @@ Unique
 :   A tier of items that come as-is, often with special effects. See [Rarity](../gearing-up/rarity.md#unique).
 
 Unique Monster
-:   A waystone monster that drops 1 to 3 pieces of gear. See [Maximizing Waystones](../waystones/maximizing.md#party-size-and-gear-drops).
+:   A waystone monster that drops 1 to 3 pieces of gear. See [Parties](../parties/index.md#party-size-and-gear-drops).
 
 Unique Treasure
 :   A waystone treasure that gives each player a random item. See [Regions](../waystones/regions/index.md).
