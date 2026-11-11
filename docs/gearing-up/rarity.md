@@ -56,4 +56,16 @@ Crafted gear always starts as Uncommon with both slots filled. Uncommon gear fro
 
 ### <span class="rarity rarity--rare">Rare</span>
 
-Holds up to 3 Prefixes and 3 Suffixes. Rare items don't get Uncommon's higher affix floor, so there's much more variance. You have
+Holds up to 3 Prefixes and 3 Suffixes. Rare items don't get Uncommon's higher affix floor, so there's much more variance. You have more slots to work with, but landing exactly the rolls you want is harder.
+
+A well-rolled Rare can handle pretty much everything, which makes it the realistic goal for most players.
+
+### <span class="rarity rarity--epic">Epic</span>
+
+Same slots as Rare, but with **unlimited attunements**, so you can keep rolling until it's exactly what you want (as long as you have the materials).
+
+Epics are rarer than Uniques and can't be farmed. They only show up as random monster drops, and just a handful are found each season. Enjoy one if you find it, but don't plan around it.
+
+### <span class="rarity rarity--unique">Unique</span>
+
+Comes as-is, with no attunements. Uniques are often extremely powerful or have special effects you won't find on other items of their type.

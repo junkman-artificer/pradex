@@ -29,3 +29,61 @@
 .flame--red    { color: #ef6b63; }
 .flame--green  { color: #5cbf60; }
 .flame--purple { color: #b57ee6; }
+/* ---------- Pokedex theme ---------- */
+
+/* Display font for headings */
+@font-face { font-family: "Chakra Petch"; font-weight: 600; src: url("../fonts/chakra-petch-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Chakra Petch"; font-weight: 700; src: url("../fonts/chakra-petch-latin-700-normal.woff2") format("woff2"); }
+
+/* Screen green for links and highlights */
+[data-md-color-scheme="slate"] {
+  --pdx-screen: #7ee08f;
+  --md-typeset-a-color: var(--pdx-screen);
+  --md-accent-fg-color: #a6f0b2;
+}
+
+/* Headings: chunky and bright */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: var(--md-default-fg-color);
+}
+.md-typeset h1 { font-weight: 700; margin-bottom: 0.6em; }
+.md-typeset h1::after {
+  content: ""; display: block; width: 3rem; height: 0.25rem;
+  margin-top: 0.35rem; border-radius: 1rem; background: var(--md-primary-fg-color);
+}
+
+/* The screen: framed content panel with indicator lights */
+[data-md-color-scheme="slate"] .md-content__inner {
+  position: relative;
+  background: #161a20;
+  border: 3px solid #2c313a;
+  border-top: 6px solid var(--md-primary-fg-color);
+  border-radius: 1rem;
+  padding: 1.6rem 1.8rem 1.2rem;
+  box-shadow: inset 0 0 2.5rem rgba(126, 224, 143, 0.04);
+}
+[data-md-color-scheme="slate"] .md-content__inner::before {
+  content: ""; position: absolute; top: 0.9rem; right: 1.1rem;
+  width: 0.55rem; height: 0.55rem; border-radius: 50%;
+  background: #ef4444;
+  box-shadow: 0.9rem 0 0 #f2c230, 1.8rem 0 0 #7ee08f;
+  transform: translateX(-1.8rem);
+}
+
+/* Keep card grids at two columns inside the screen */
+.md-typeset .grid.cards {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+}
+
+/* Lighter frame on phones */
+@media screen and (max-width: 44.984375em) {
+  [data-md-color-scheme="slate"] .md-content__inner {
+    padding: 1.2rem 1rem 1rem;
+    border-width: 2px;
+    border-top-width: 5px;
+    margin-left: 0.4rem; margin-right: 0.4rem;
+  }
+}
