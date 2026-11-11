@@ -48,6 +48,10 @@ nav = [
     "enchanting/index.md",
     { "Strategy" = "enchanting/strategy.md" },
   ] },
+  { "Combat" = [
+    "combat/index.md",
+    { "Status Effects" = "combat/status-effects.md" },
+  ] },
   { "Parties" = "parties/index.md" },
   { "Waystones" = [
     "waystones/index.md",
@@ -62,7 +66,12 @@ nav = [
     ] },
   ] },
   { "Economy" = "economy/index.md" },
-  { "Reference" = "reference/index.md" },
+  { "Reference" = [
+    "reference/index.md",
+    { "Glossary" = "reference/glossary.md" },
+    { "Resources" = "reference/resources.md" },
+    { "What's Changed" = "reference/changelog.md" },
+  ] },
 ]
 
 extra_css = [

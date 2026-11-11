@@ -20,7 +20,7 @@ Your field guide to Prado, from your first character to mastering the waystones.
 
     [:lucide-arrow-right: Create](character-creation/index.md)
 
--   :lucide-playing-card:{ .lg .middle } __Classes__
+-   :lucide-playing-cards-fan:{ .lg .middle } __Classes__
 
     ---
 
@@ -51,6 +51,14 @@ Your field guide to Prado, from your first character to mastering the waystones.
     Priorities, tricks, and ideas.
 
     [:lucide-arrow-right: Enchant](enchanting/index.md)
+
+-   :lucide-crosshair:{ .lg .middle } __Combat__
+
+    ---
+
+    How fights work, formations, and status effects.
+
+    [:lucide-arrow-right: Learn combat](combat/index.md)
 
 -   :lucide-users:{ .lg .middle } __Parties__
 

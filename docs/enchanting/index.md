@@ -43,9 +43,14 @@ Keep the affix, but reroll its number within its range. [Essence cost.]
 
 ## Imbuing
 
-Imbuing raises an item's rarity by one tier, from Socketed or Common to Uncommon, then to Rare. It always refills the item's attunements, and it can raise its max attunements too.
+Imbuing raises an item's rarity by one tier. It's the only enchanting operation that uses a shard.
 
-It costs a shard matching the item's level, and usually the crafting material that matches the item too. Shards come from disenchanting.
+| Imbue | Gains | Attunements |
+|---|---|---|
+| Socketed or Common to Uncommon | 2 random affixes | Rolls 1 to 2 |
+| Uncommon to Rare | 1 to 4 more random affixes, depending on item level | Rolls a fresh 2 to 4 |
+
+It costs one shard matching the item's level, plus crafting materials for that type of gear. For example, imbuing a Linen Shirt takes 1 Strange Shard and 3 Linen Cloth. Shards come from disenchanting.
 
 | Shard | Item level |
 |---|---|
