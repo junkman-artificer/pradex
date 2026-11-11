@@ -54,4 +54,30 @@ Uniques you can find while leveling that are worth keeping an eye out for:
 
 ## In a party
 
-[What this class brings to a group.] See [Parties](../parties/index.md) for which classes pair well together.
+[What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
+
+## As a subclass
+
+A subclass can never go above level 12, so everything the Blood Knight unlocks after that is out of reach. See [Subclasses](index.md#subclasses) for how subclass levels work.
+
+??? abstract "What the Blood Knight unlocks by level 12"
+    | Level | Name | Type | What it does |
+    |---|---|---|---|
+    | 2 | Blood Strike | Active | Inflict a deep wound, dealing 85% weapon damage and applying Bleed for 10 + 3% of the enemy's Max Health over 7 seconds. |
+    | 3 | Thirst | Passive | Your defeated enemies sate a primal hunger. Restore 6% of Max Health when an enemy is defeated. |
+    | 4 | Cruel Weapon | Active | Coat your blade in cursed blood for 6 seconds. Your successful weapon attacks apply Bleed for 2% of enemy Max Health over 7 seconds. |
+    | 4 | Executioner | Trait | Your Great Sword, Great Axe, and Spear attacks gain 15% Cleave. |
+    | 5 | Blood Pact | Active | Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 4 + 3% of your Max Health. |
+    | 5 | Communion | Passive | Your successful weapon attacks grant allies 1 health regen per second for 3 seconds. This effect does not stack. |
+    | 6 | Heart Strike | Active | Plunge your weapon at the heart, dealing 85% weapon damage and healing for 2% of Max Health for every stack of Bleed on the target. |
+    | 6 | Drain Life | Active | Siphon lifeblood from a target enemy, stealing 8 to 12 + 3% Max Health. |
+    | 7 | Blood Boil | Active | Boil the blood in your enemies' veins, applying Bleed to all enemies for 8 to 12 + 3% of your Max Health over 7 seconds. |
+    | 8 | Blood Tap | Trait | Gain +1 Health Regen for every 4% of Max Health missing. |
+    | 8 | Blood Bolt | Active | Hurl a lance of crystallized blood at a target enemy, dealing 10 to 14 + 3% of your Max Health in damage. |
+    | 8 | Bloodrage | Active | Enter a bloody frenzy, purging one negative status effect and gaining Weapon Haste for 3 seconds. |
+    | 9 | Death Strike | Active | Strike at an open wound with ruthless precision, dealing 85% weapon damage +15% for every stack of Bleed on the target. |
+    | 11 | Blood Strike II | Active | Inflict a deep wound, dealing 85% weapon damage and applying Bleed for 15 + 3.75% of the enemy's Max Health over 7 seconds. |
+    | 12 | Blood Pact II | Active | Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 8 + 4% of your Max Health. |
+    | 12 | Vampiric Aura | Trait | All allies gain 15% Weapon Lifesteal. |
+
+**Pairs well with:** [Main classes that get the most out of a Blood Knight subclass, and why.]

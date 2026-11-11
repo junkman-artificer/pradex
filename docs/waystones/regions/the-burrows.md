@@ -5,6 +5,9 @@
     - **Gear drop rules:** [summary]
     - **Shares rules with:** Eastern Gate
 
+!!! tip "Unlocks subclasses"
+    Beating the **Sunken Crypt**, **The Drowned Tombs**, and **Relic's Rest** triple-deck here unlocks [subclasses](../../classes/index.md#subclasses).
+
 ## Overview
 
 [What this region is like and when players usually reach it.]
@@ -21,7 +24,7 @@
 
 **Unique Treasures** give a random item from their reward pool. Every player opens their own, so there's no competition for these.
 
-**Unique Monsters** drop 1 to 3 pieces of gear, depending on [party size](../../parties/index.md#party-size-and-gear-drops).
+**Unique Monsters** drop 1 to 3 pieces of gear, depending on [party size](../../parties/party-size.md).
 
 ### [Deck 1 name]
 

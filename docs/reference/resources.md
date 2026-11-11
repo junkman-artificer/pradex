@@ -52,7 +52,7 @@ Filter by item type, stat requirement, and item level to see every Prefix and Su
 
     ---
 
-    Ask questions, get a friend code, and report bugs.
+    A friendly community worth joining just to hang out. It's also where you can ask questions in the FAQ channel, get a friend code, and report bugs.
 
     [:lucide-external-link: Join the Discord](https://discord.gg/CnB2zBeN65){ target="_blank" }
 

@@ -72,7 +72,7 @@ Mailbox
 :   Where Trading Post items and gold are delivered. See [Economy](../economy/index.md#mailbox).
 
 Mana Loop
-:   The Priest and Magician synergy between Prayer of Healing and Arcane Infusion. See [Parties](../parties/index.md#the-mana-loop).
+:   The Priest and Magician synergy between Prayer of Healing and Arcane Infusion. See [Synergies](../parties/synergies.md#the-mana-loop).
 
 Marks of Valor
 :   Arena currency used to buy special Unique items. See [Where to Get Gear](../gearing-up/sources.md#arena).
@@ -98,6 +98,9 @@ Skill level
 Socketed
 :   A Common-grade item with built-in sockets. The base for the endgame path. See [Rarity](../gearing-up/rarity.md#socketed).
 
+Subclass
+:   A second class you can bring along once unlocked, capped at half your main class's level. See [Classes](../classes/index.md#subclasses).
+
 Suffix
 :   One of the two affix types. See [Stats](../gearing-up/stats.md).
 
@@ -108,7 +111,7 @@ Unique
 :   A tier of items that come as-is, often with special effects. See [Rarity](../gearing-up/rarity.md#unique).
 
 Unique Monster
-:   A waystone monster that drops 1 to 3 pieces of gear. See [Parties](../parties/index.md#party-size-and-gear-drops).
+:   A waystone monster that drops 1 to 3 pieces of gear. See [Party Size and Drops](../parties/party-size.md).
 
 Unique Treasure
 :   A waystone treasure that gives each player a random item. See [Regions](../waystones/regions/index.md).

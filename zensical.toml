@@ -5,7 +5,7 @@ site_name = "Pradex"
 # site_description = "A field guide to the world of Prado"
 # site_author = "Ezraek"
 
-# copyright = "Copyright &copy; 2026 Ezraek"
+copyright = "Copyright &copy; 2026 Ezraek"
 
 repo_url = "https://github.com/junkman-artificer/pradex"
 repo_name = "junkman-artificer/pradex"
@@ -52,7 +52,12 @@ nav = [
     "combat/index.md",
     { "Status Effects" = "combat/status-effects.md" },
   ] },
-  { "Parties" = "parties/index.md" },
+  { "Parties" = [
+    "parties/index.md",
+    { "Party Size and Drops" = "parties/party-size.md" },
+    { "Building a Team" = "parties/building-a-team.md" },
+    { "Synergies" = "parties/synergies.md" },
+  ] },
   { "Waystones" = [
     "waystones/index.md",
     { "Maximizing Waystones" = "waystones/maximizing.md" },

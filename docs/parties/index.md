@@ -16,59 +16,39 @@ Whoever sends the invites becomes the **party leader** and gets a crown icon. As
 
 There's no way to hand leadership to someone else. If the leader leaves, it seems to pass to the member who's been in the party the longest.
 
-## Party size and gear drops
+## Getting carried
 
-Unique Monsters drop more gear the bigger your party is, but larger parties pay more Vita per fight.
+!!! warning "Stay alive to earn experience"
+    If you're defeated in a fight, you get **no experience** from it, even if your party wins. A stronger party can only carry you if you're still standing at the end.
 
-| Party size | Gear pieces | Vita per fight |
-|---|---|---|
-| 1 player | 1 | 1 |
-| 2 players | 1 to 2 | 1 |
-| 3 players | 2 to 3 | 2 |
-| 4 players | 2 to 3, with a higher chance of 3 | 2 |
+Putting the lower-level player in the back line keeps them out of reach of enemy melee attacks, though ranged attacks and spells can still hit them.
 
-!!! tip "Go for a full party"
-    3 and 4 players pay the same Vita, but 4 players have better odds at 3 pieces. If you're already planning for a group of 3, it's worth finding a 4th if everyone isn't looking for the same thing.
+## More on parties
 
-## Building a team
+<div class="grid cards" markdown>
 
-Prado doesn't have traditional roles like tank, healer, and damage. Instead, certain class traits and abilities excel at different jobs, so it's worth thinking about how your party's classes cover each other.
+-   :lucide-scale:{ .lg .middle } __Party Size and Drops__
 
-[What a well-rounded team covers: damage, sustain, protection, support, and so on.]
+    ---
 
-Coordinated groups can also split up crafting professions and pass each other the materials they find, so everyone levels their specialty faster.
+    How party size changes gear drops and Vita costs.
 
-## Ability synergies
+    [:lucide-arrow-right: View drops](party-size.md)
 
-Some abilities work especially well together across classes.
+-   :lucide-puzzle:{ .lg .middle } __Building a Team__
 
-### The Mana Loop
+    ---
 
-**Priest + Magician:** Prayer of Healing + Arcane Infusion
+    How your party's classes can cover each other.
 
-Prayer of Healing instantly restores health and mana to all allies, and Arcane Infusion gives all allies mana regen over 3 seconds. Each one refills the other caster's mana, so the pair can keep each other casting much longer than either could alone.
+    [:lucide-arrow-right: Build a team](building-a-team.md)
 
-**Prayer of Healing** (Priest)
+-   :lucide-blend:{ .lg .middle } __Synergies__
 
-| Rank | Unlocks at | Restores to all allies | Mana cost |
-|---|---|---|---|
-| I | Level 11 | 9 health, 5 mana | 12 |
-| II | Level 18 | 30 health, 14 mana | 26 |
-| III | Level 25 | 54 health, 30 mana | 42 |
-| IV | Level 25, Tier 4 | 64 health, 40 mana | 52 |
+    ---
 
-**Arcane Infusion** (Magician)
+    Abilities from different classes that work especially well together.
 
-| Rank | Unlocks at | Mana regen to all allies | Mana cost |
-|---|---|---|---|
-| I | Level 13 | 5 per second for 3 seconds | 18 |
-| II | Level 19 | 10 per second for 3 seconds | 36 |
-| III | Level 25, Tier 2 | 15 per second for 3 seconds | 50 |
+    [:lucide-arrow-right: View synergies](synergies.md)
 
-### [Synergy name]
-
-**[Class] + [Class]:** [Ability] + [Ability]
-
-[How they work together.]
-
-For what each class brings to a group, see the **In a party** section on each [class page](../classes/index.md).
+</div>
