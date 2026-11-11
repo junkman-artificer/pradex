@@ -6,10 +6,12 @@ Gear comes in six tiers. The higher the tier, the more affixes (Prefixes and Suf
 |---|---|---|
 | <span class="rarity rarity--common">Common</span> | 0 / 0 | 0 |
 | <span class="rarity rarity--socketed">Socketed</span> | 0 / 0 | 0 |
-| <span class="rarity rarity--uncommon">Uncommon</span> | 1 / 1 | 3 |
-| <span class="rarity rarity--rare">Rare</span> | 3 / 3 | 6 |
+| <span class="rarity rarity--uncommon">Uncommon</span> | 1 / 1 | 2 (4 for subscribers) |
+| <span class="rarity rarity--rare">Rare</span> | 3 / 3 | 4 (6 for subscribers) |
 | <span class="rarity rarity--epic">Epic</span> | 3 / 3 | Unlimited |
 | <span class="rarity rarity--unique">Unique</span> | Fixed | None |
+
+Max attunements are a cap. Each item rolls its own count, which can be lower.
 
 !!! note "Slot exceptions"
     - **Shields** can be found Socketed, but can't roll the Sockets Prefix.

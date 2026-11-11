@@ -44,7 +44,10 @@ nav = [
     { "Alchemy" = "crafting/alchemy.md" },
     { "Cooking" = "crafting/cooking.md" },
   ] },
-  { "Enchanting" = "enchanting/index.md" },
+  { "Enchanting" = [
+    "enchanting/index.md",
+    { "Strategy" = "enchanting/strategy.md" },
+  ] },
   { "Parties" = "parties/index.md" },
   { "Waystones" = [
     "waystones/index.md",
@@ -162,3 +165,6 @@ pymdownx.tabbed.alternate_style = true
 pymdownx.tabbed.combine_header_slug = true
 pymdownx.tasklist.custom_checkbox = true
 pymdownx.tilde = {}
+
+[project.theme.icon.admonition]
+tip = "lucide/lightbulb"
