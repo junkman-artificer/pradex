@@ -11,7 +11,9 @@ Tricks and priorities for getting the most out of your attunements. For how ench
 
 ## Before you imbue
 
-Imbuing refills your attunements, so spend every Uncommon attunement first. Use them to land strong starting affixes or max out values, then imbue to Rare and start fresh.
+Uncommon affixes always roll from the upper half of their tiers, but Rare affixes don't. And when you imbue an Uncommon to Rare, **both of its affixes carry over** unchanged.
+
+That makes Uncommon the best place to set up your item. Spend every Uncommon attunement locking in two strong affixes and maxing their values, then imbue to Rare. You'll keep those high-floor affixes, gain new slots, and get fresh attunements to work on the rest.
 
 ## The 6th socket
 

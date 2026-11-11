@@ -24,9 +24,19 @@ Every recipe uses at least one crystal. Gear professions always use the same one
 
 Imbuing upgrades an item to the next rarity tier, from Socketed or Common to Uncommon, then to Rare. It uses crafting materials, which is why Crafting comes before Enchanting in this guide.
 
-[How imbuing works, and what each step costs.]
+For what imbuing costs and what it adds at each step, see [Imbuing](../enchanting/index.md#imbuing).
 
 For why this matters, see [the endgame path](../gearing-up/rarity.md#socketed) on the Rarity page.
+
+## Leveling a profession
+
+Crafting earns profession experience, and leveling up unlocks more advanced recipes. As you level, older recipes give less experience, so it pays to keep moving up to newer ones.
+
+!!! tip "First craft bonus"
+    The first time you craft any recipe, you get **double** its full experience, even if you've outleveled it. Try every recipe at least once, and keep an eye out for rare recipe drops.
+
+!!! info "Pick a specialty"
+    Maxing a profession takes a lot of crafting, and maxing all of them at once is very hard. Most players do better by focusing on one or two early and either funneling the other resources into party members or selling their extra materials on the [Trading Post](../economy/index.md#trading-post).
 
 ## Professions
 

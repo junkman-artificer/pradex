@@ -26,6 +26,8 @@ Prado doesn't have traditional roles like tank, healer, and damage. Instead, cer
 
 [What a well-rounded team covers: damage, sustain, protection, support, and so on.]
 
+Coordinated groups can also split up crafting professions and pass each other the materials they find, so everyone levels their specialty faster.
+
 ## Ability synergies
 
 Some abilities work especially well together across classes.
