@@ -221,3 +221,28 @@
   .md-typeset details.abstract table:not([class]) td:nth-child(3) { opacity: 0.7; text-align: right; }
   .md-typeset details.abstract table:not([class]) td:nth-child(4) { grid-column: 1 / -1; margin-top: 0.3rem; }
 }
+
+/* Unique item cards (waystone loot) */
+.md-typeset .pdx-item { margin: 0.6rem 0 1rem; padding: 0.7rem 0.8rem; border: 0.05rem solid #2c313a; border-radius: 0.7rem; background: #12161b; }
+.md-typeset .pdx-item__head { display: flex; justify-content: space-between; align-items: baseline; gap: 0.5rem; margin-bottom: 0.5rem; }
+.md-typeset .pdx-item__name { font-weight: 700; font-size: 0.85rem; color: #f2c230; }
+.md-typeset .pdx-item__slot { font-size: 0.7rem; opacity: 0.7; }
+.md-typeset .pdx-tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.4rem; margin-bottom: 0.4rem; }
+.md-typeset .pdx-tile { border: 0.05rem solid #2c313a; border-radius: 0.5rem; padding: 0.45rem 0.3rem; text-align: center; background: #1a1f26; }
+.md-typeset .pdx-tile b { display: block; font-size: 0.95rem; }
+.md-typeset .pdx-tile span { font-size: 0.62rem; opacity: 0.7; }
+.md-typeset .pdx-label { font-size: 0.7rem; font-weight: 700; margin: 0.4rem 0 0.25rem; opacity: 0.85; }
+.md-typeset .pdx-chips { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.md-typeset .pdx-chip { border: 0.05rem solid #2c313a; border-radius: 0.4rem; padding: 0.15rem 0.45rem; font-size: 0.68rem; background: #1a1f26; }
+.md-typeset .pdx-chip--none { opacity: 0.6; }
+.md-typeset .t-dmg { color: #ef6b63; } .md-typeset .t-dps { color: #f0883e; } .md-typeset .t-spd { color: #b57ee6; }
+.md-typeset .c-str { color: #f0883e; } .md-typeset .c-dex { color: #5cbf60; } .md-typeset .c-int { color: #b57ee6; }
+.md-typeset .c-sp { color: #f2c230; } .md-typeset .c-hp { color: #ef6b63; } .md-typeset .c-mana { color: #6aa8f0; }
+.md-typeset .c-bar { color: #7ee0d8; } .md-typeset .c-oth { color: #e6e6e6; }
+.md-typeset .pdx-tile b { white-space: nowrap; }
+@media screen and (max-width: 44.984375em) {
+  .md-typeset .pdx-tile b { font-size: 0.8rem; }
+  .md-typeset .pdx-tile { padding: 0.4rem 0.2rem; }
+}
+.md-typeset .pdx-item__slot { white-space: nowrap; }
+.md-typeset .pdx-item__head { flex-direction: column; align-items: flex-start; gap: 0.1rem; }
