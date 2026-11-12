@@ -33,6 +33,9 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
     - **Skill level:** 8
     - **Ingredients:** 1 Scavenger's Hide, 1 Earth Crystal
 
+!!! tip "Finding these recipes"
+    Recipes marked :lucide-scroll: aren't learned automatically. You have to find their design first, and for this tier they drop in **Eastern Gate** or **The Burrows**.
+
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
 | Coarse Boots | Boots | 7 | 8 | 7~ | [ ] | 1 Coarse Leather, 1 Waxed Thread |
@@ -41,19 +44,22 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
 | Coarse Chaps | Pants | 7 | 10 | 7~ | [ ] | 3 Coarse Leather, 1 Waxed Thread |
 | Coarse Vest | Chest | 7 | 14 | 7~ | [ ] | 3 Coarse Leather, 1 Waxed Thread |
 | Coarse Hood | Helmet | 7 | 14 | 7~ | [ ] | 3 Coarse Leather, 1 Waxed Thread |
-| Rugged Gloves | Gloves | 9 | 16 | 9~ | [ ] | 2 Coarse Leather, 1 Waxed Thread |
-| Coarse Quiver | Quiver | 7 | 16 | 7~ | [ ] | 2 Coarse Leather, 1 Waxed Thread |
-| Rugged Cape | Cape | 9 | 16 | 9~ | [ ] | 2 Coarse Leather, 1 Waxed Thread |
-| Rugged Boots | Boots | 9 | 16 | 9~ | [ ] | 2 Coarse Leather, 1 Waxed Thread |
-| Rugged Hood | Helmet | 9 | 18 | 9~ | [ ] | 4 Coarse Leather, 1 Waxed Thread |
-| Rugged Vest | Chest | 9 | 18 | 9~ | [ ] | 4 Coarse Leather, 1 Waxed Thread |
-| Rugged Chaps | Pants | 9 | 18 | 9~ | [ ] | 4 Coarse Leather, 1 Waxed Thread |
+| Rugged Gloves :lucide-scroll:{ title="Recipe has to be found" } | Gloves | 9 | 16 | 9~ | [ ] | 2 Coarse Leather, 1 Waxed Thread |
+| Coarse Quiver :lucide-scroll:{ title="Recipe has to be found" } | Quiver | 7 | 16 | 7~ | [ ] | 2 Coarse Leather, 1 Waxed Thread |
+| Rugged Cape :lucide-scroll:{ title="Recipe has to be found" } | Cape | 9 | 16 | 9~ | [ ] | 2 Coarse Leather, 1 Waxed Thread |
+| Rugged Boots :lucide-scroll:{ title="Recipe has to be found" } | Boots | 9 | 16 | 9~ | [ ] | 2 Coarse Leather, 1 Waxed Thread |
+| Rugged Hood :lucide-scroll:{ title="Recipe has to be found" } | Helmet | 9 | 18 | 9~ | [ ] | 4 Coarse Leather, 1 Waxed Thread |
+| Rugged Vest :lucide-scroll:{ title="Recipe has to be found" } | Chest | 9 | 18 | 9~ | [ ] | 4 Coarse Leather, 1 Waxed Thread |
+| Rugged Chaps :lucide-scroll:{ title="Recipe has to be found" } | Pants | 9 | 18 | 9~ | [ ] | 4 Coarse Leather, 1 Waxed Thread |
 
 ## Heavy Leather
 
 !!! note "Making Heavy Leather"
     - **Skill level:** 18
     - **Ingredients:** 2 Beast Hide, 1 Earth Crystal
+
+!!! tip "Finding these recipes"
+    Recipes marked :lucide-scroll: aren't learned automatically. You have to find their design first, and for this tier they drop in **Gloomhaven** or **Briarstone Quarry**.
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -64,20 +70,23 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
 | Dark Cowl | Helmet | 13 | 24 | 13~ | [ ] | 3 Heavy Leather, 1 Silk Thread |
 | Dark Breeches | Pants | 13 | 24 | 13~ | [ ] | 3 Heavy Leather, 1 Silk Thread |
 | Dark Spaulders | Shoulder | 13 | 24 | 13~ | [ ] | 2 Heavy Leather, 1 Silk Thread |
-| Dire Cloak | Cape | 15 | 26 | 15~ | [ ] | 2 Heavy Leather, 1 Silk Thread |
-| Dire Quiver | Quiver | 15 | 26 | 15~ | [ ] | 2 Heavy Leather, 1 Silk Thread |
-| Dire Grips | Gloves | 15 | 26 | 15~ | [ ] | 2 Heavy Leather, 1 Silk Thread |
-| Dire Stompers | Boots | 15 | 26 | 15~ | [ ] | 2 Heavy Leather, 1 Silk Thread |
-| Dire Jerkin | Chest | 15 | 28 | 15~ | [ ] | 4 Heavy Leather, 1 Silk Thread |
-| Dire Cowl | Helmet | 15 | 28 | 15~ | [ ] | 4 Heavy Leather, 1 Silk Thread |
-| Dire Breeches | Pants | 15 | 28 | 15~ | [ ] | 4 Heavy Leather, 1 Silk Thread |
-| Dire Spaulders | Shoulder | 15 | 28 | 15~ | [ ] | 3 Heavy Leather, 1 Silk Thread |
+| Dire Cloak :lucide-scroll:{ title="Recipe has to be found" } | Cape | 15 | 26 | 15~ | [ ] | 2 Heavy Leather, 1 Silk Thread |
+| Dire Quiver :lucide-scroll:{ title="Recipe has to be found" } | Quiver | 15 | 26 | 15~ | [ ] | 2 Heavy Leather, 1 Silk Thread |
+| Dire Grips :lucide-scroll:{ title="Recipe has to be found" } | Gloves | 15 | 26 | 15~ | [ ] | 2 Heavy Leather, 1 Silk Thread |
+| Dire Stompers :lucide-scroll:{ title="Recipe has to be found" } | Boots | 15 | 26 | 15~ | [ ] | 2 Heavy Leather, 1 Silk Thread |
+| Dire Jerkin :lucide-scroll:{ title="Recipe has to be found" } | Chest | 15 | 28 | 15~ | [ ] | 4 Heavy Leather, 1 Silk Thread |
+| Dire Cowl :lucide-scroll:{ title="Recipe has to be found" } | Helmet | 15 | 28 | 15~ | [ ] | 4 Heavy Leather, 1 Silk Thread |
+| Dire Breeches :lucide-scroll:{ title="Recipe has to be found" } | Pants | 15 | 28 | 15~ | [ ] | 4 Heavy Leather, 1 Silk Thread |
+| Dire Spaulders :lucide-scroll:{ title="Recipe has to be found" } | Shoulder | 15 | 28 | 15~ | [ ] | 3 Heavy Leather, 1 Silk Thread |
 
 ## Frost Leather
 
 !!! note "Making Frost Leather"
     - **Skill level:** 28
     - **Ingredients:** 2 Frost Hide, 1 Earth Crystal
+
+!!! tip "Finding these recipes"
+    Recipes marked :lucide-scroll: aren't learned automatically. You have to find their design first, and for this tier they drop in **Stormwatch** or **Icetooth Base Camp**.
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -88,14 +97,14 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
 | Mountain Hood | Helmet | 19 | 34 | 19~ | [ ] | 4 Frost Leather, 1 Mountain Thread |
 | Mountain Guard | Chest | 19 | 34 | 19~ | [ ] | 4 Frost Leather, 1 Mountain Thread |
 | Mountain Legguards | Pants | 19 | 34 | 19~ | [ ] | 4 Frost Leather, 1 Mountain Thread |
-| Polar Grasps | Gloves | 21 | 36 | 21~ | [ ] | 3 Frost Leather, 1 Mountain Thread |
-| Polar Treads | Boots | 21 | 36 | 21~ | [ ] | 3 Frost Leather, 1 Mountain Thread |
-| Mountain Quiver | Quiver | 19 | 36 | 19~ | [ ] | 3 Frost Leather, 1 Mountain Thread |
-| Polar Cloak | Cape | 21 | 36 | 21~ | [ ] | 3 Frost Leather, 1 Mountain Thread |
-| Polar Legguards | Pants | 21 | 38 | 21~ | [ ] | 5 Frost Leather, 1 Mountain Thread |
-| Polar Spaulders | Shoulder | 21 | 38 | 21~ | [ ] | 4 Frost Leather, 1 Mountain Thread |
-| Polar Guard | Chest | 21 | 38 | 21~ | [ ] | 5 Frost Leather, 1 Mountain Thread |
-| Polar Hood | Helmet | 21 | 38 | 21~ | [ ] | 5 Frost Leather, 1 Mountain Thread |
+| Polar Grasps :lucide-scroll:{ title="Recipe has to be found" } | Gloves | 21 | 36 | 21~ | [ ] | 3 Frost Leather, 1 Mountain Thread |
+| Polar Treads :lucide-scroll:{ title="Recipe has to be found" } | Boots | 21 | 36 | 21~ | [ ] | 3 Frost Leather, 1 Mountain Thread |
+| Mountain Quiver :lucide-scroll:{ title="Recipe has to be found" } | Quiver | 19 | 36 | 19~ | [ ] | 3 Frost Leather, 1 Mountain Thread |
+| Polar Cloak :lucide-scroll:{ title="Recipe has to be found" } | Cape | 21 | 36 | 21~ | [ ] | 3 Frost Leather, 1 Mountain Thread |
+| Polar Legguards :lucide-scroll:{ title="Recipe has to be found" } | Pants | 21 | 38 | 21~ | [ ] | 5 Frost Leather, 1 Mountain Thread |
+| Polar Spaulders :lucide-scroll:{ title="Recipe has to be found" } | Shoulder | 21 | 38 | 21~ | [ ] | 4 Frost Leather, 1 Mountain Thread |
+| Polar Guard :lucide-scroll:{ title="Recipe has to be found" } | Chest | 21 | 38 | 21~ | [ ] | 5 Frost Leather, 1 Mountain Thread |
+| Polar Hood :lucide-scroll:{ title="Recipe has to be found" } | Helmet | 21 | 38 | 21~ | [ ] | 5 Frost Leather, 1 Mountain Thread |
 
 ## Dragon Leather
 
@@ -103,13 +112,16 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
     - **Skill level:** 38
     - **Ingredients:** 2 Dragon Hide, 1 Earth Crystal
 
+!!! tip "Finding these recipes"
+    Recipes marked :lucide-scroll: aren't learned automatically. You have to find their design first, and for this tier they drop from [waystones](../waystones/index.md).
+
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
-| Dragonhide Quiver | Quiver | 25 | 40 | 25~ | [ ] | 3 Dragon Leather, 1 Mythriss Thread |
-| Dragonhide Spaulders | Shoulder | 25 | 40 | 25~ | [ ] | 4 Dragon Leather, 1 Mythriss Thread |
-| Dragonhide Leggings | Pants | 25 | 40 | 25~ | [ ] | 5 Dragon Leather, 1 Mythriss Thread |
-| Dragonhide Visage | Helmet | 25 | 40 | 25~ | [ ] | 5 Dragon Leather, 1 Mythriss Thread |
-| Dragonhide Handguards | Gloves | 25 | 40 | 25~ | [ ] | 3 Dragon Leather, 1 Mythriss Thread |
-| Dragonhide Cloak | Cape | 25 | 40 | 25~ | [ ] | 3 Dragon Leather, 1 Mythriss Thread |
-| Dragonhide Boots | Boots | 25 | 40 | 25~ | [ ] | 3 Dragon Leather, 1 Mythriss Thread |
-| Dragonhide Cuirass | Chest | 25 | 40 | 25~ | [ ] | 5 Dragon Leather, 1 Mythriss Thread |
+| Dragonhide Quiver :lucide-scroll:{ title="Recipe has to be found" } | Quiver | 25 | 40 | 25~ | [ ] | 3 Dragon Leather, 1 Mythriss Thread |
+| Dragonhide Spaulders :lucide-scroll:{ title="Recipe has to be found" } | Shoulder | 25 | 40 | 25~ | [ ] | 4 Dragon Leather, 1 Mythriss Thread |
+| Dragonhide Leggings :lucide-scroll:{ title="Recipe has to be found" } | Pants | 25 | 40 | 25~ | [ ] | 5 Dragon Leather, 1 Mythriss Thread |
+| Dragonhide Visage :lucide-scroll:{ title="Recipe has to be found" } | Helmet | 25 | 40 | 25~ | [ ] | 5 Dragon Leather, 1 Mythriss Thread |
+| Dragonhide Handguards :lucide-scroll:{ title="Recipe has to be found" } | Gloves | 25 | 40 | 25~ | [ ] | 3 Dragon Leather, 1 Mythriss Thread |
+| Dragonhide Cloak :lucide-scroll:{ title="Recipe has to be found" } | Cape | 25 | 40 | 25~ | [ ] | 3 Dragon Leather, 1 Mythriss Thread |
+| Dragonhide Boots :lucide-scroll:{ title="Recipe has to be found" } | Boots | 25 | 40 | 25~ | [ ] | 3 Dragon Leather, 1 Mythriss Thread |
+| Dragonhide Cuirass :lucide-scroll:{ title="Recipe has to be found" } | Chest | 25 | 40 | 25~ | [ ] | 5 Dragon Leather, 1 Mythriss Thread |

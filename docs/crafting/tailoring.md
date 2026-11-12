@@ -22,16 +22,19 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
     - **Skill level:** 1
     - **Ingredients:** 1 Flax Fibers, 1 Wind Crystal
 
+!!! tip "Finding these recipes"
+    Recipes marked :lucide-scroll: aren't learned automatically. You have to find their pattern first, and for this tier they drop in **Westfall**.
+
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
 | Linen Slippers | Boots | 1 | 1 | 1~ | [ ] | 1 Linen Cloth, 1 Rough String |
 | Linen Gloves | Gloves | 1 | 1 | 1~ | [ ] | 1 Linen Cloth, 1 Rough String |
 | Linen Shirt | Chest | 1 | 4 | 1~ | [ ] | 3 Linen Cloth, 1 Rough String |
 | Linen Pants | Pants | 1 | 4 | 1~ | [ ] | 3 Linen Cloth, 1 Rough String |
-| Thick Linen Gloves | Gloves | 5 | 6 | 5~ | [ ] | 2 Linen Cloth, 1 Rough String |
-| Thick Linen Slippers | Boots | 5 | 6 | 5~ | [ ] | 2 Linen Cloth, 1 Rough String |
-| Thick Linen Shirt | Chest | 5 | 8 | 5~ | [ ] | 4 Linen Cloth, 1 Rough String |
-| Thick Linen Pants | Pants | 5 | 8 | 5~ | [ ] | 4 Linen Cloth, 1 Rough String |
+| Thick Linen Gloves :lucide-scroll:{ title="Recipe has to be found" } | Gloves | 5 | 6 | 5~ | [ ] | 2 Linen Cloth, 1 Rough String |
+| Thick Linen Slippers :lucide-scroll:{ title="Recipe has to be found" } | Boots | 5 | 6 | 5~ | [ ] | 2 Linen Cloth, 1 Rough String |
+| Thick Linen Shirt :lucide-scroll:{ title="Recipe has to be found" } | Chest | 5 | 8 | 5~ | [ ] | 4 Linen Cloth, 1 Rough String |
+| Thick Linen Pants :lucide-scroll:{ title="Recipe has to be found" } | Pants | 5 | 8 | 5~ | [ ] | 4 Linen Cloth, 1 Rough String |
 
 ## Quartercloth
 
@@ -43,6 +46,9 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
     - **Skill level:** 8
     - **Ingredients:** 1 Scraps of Cloth, 1 Wind Crystal
 
+!!! tip "Finding these recipes"
+    Recipes marked :lucide-scroll: aren't learned automatically. You have to find their pattern first, and for this tier they drop in **Eastern Gate** or **The Burrows**.
+
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
 | Quarter Boots | Boots | 7 | 10 | 7~ | [ ] | 1 Quartercloth, 1 Waxed Thread |
@@ -51,12 +57,12 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
 | Quarter Hood | Helmet | 7 | 14 | 7~ | [ ] | 3 Quartercloth, 1 Waxed Thread |
 | Quarter Tunic | Chest | 7 | 14 | 7~ | [ ] | 3 Quartercloth, 1 Waxed Thread |
 | Quarter Pants | Pants | 7 | 14 | 7~ | [ ] | 3 Quartercloth, 1 Waxed Thread |
-| Quilted Quarter Cloak | Cape | 9 | 16 | 9~ | [ ] | 2 Quartercloth, 1 Waxed Thread |
-| Quilted Quarter Gloves | Gloves | 9 | 16 | 9~ | [ ] | 2 Quartercloth, 1 Waxed Thread |
-| Quilted Quarter Boots | Boots | 9 | 16 | 9~ | [ ] | 2 Quartercloth, 1 Waxed Thread |
-| Quilted Quarter Hood | Helmet | 9 | 18 | 9~ | [ ] | 4 Quartercloth, 1 Waxed Thread |
-| Quilted Quarter Tunic | Chest | 9 | 18 | 9~ | [ ] | 4 Quartercloth, 1 Waxed Thread |
-| Quilted Quarter Pants | Pants | 9 | 18 | 9~ | [ ] | 4 Quartercloth, 1 Waxed Thread |
+| Quilted Quarter Cloak :lucide-scroll:{ title="Recipe has to be found" } | Cape | 9 | 16 | 9~ | [ ] | 2 Quartercloth, 1 Waxed Thread |
+| Quilted Quarter Gloves :lucide-scroll:{ title="Recipe has to be found" } | Gloves | 9 | 16 | 9~ | [ ] | 2 Quartercloth, 1 Waxed Thread |
+| Quilted Quarter Boots :lucide-scroll:{ title="Recipe has to be found" } | Boots | 9 | 16 | 9~ | [ ] | 2 Quartercloth, 1 Waxed Thread |
+| Quilted Quarter Hood :lucide-scroll:{ title="Recipe has to be found" } | Helmet | 9 | 18 | 9~ | [ ] | 4 Quartercloth, 1 Waxed Thread |
+| Quilted Quarter Tunic :lucide-scroll:{ title="Recipe has to be found" } | Chest | 9 | 18 | 9~ | [ ] | 4 Quartercloth, 1 Waxed Thread |
+| Quilted Quarter Pants :lucide-scroll:{ title="Recipe has to be found" } | Pants | 9 | 18 | 9~ | [ ] | 4 Quartercloth, 1 Waxed Thread |
 
 ## Silk Cloth
 
@@ -68,6 +74,9 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
     - **Skill level:** 18
     - **Ingredients:** 1 Spider Silk, 1 Wind Crystal
 
+!!! tip "Finding these recipes"
+    Recipes marked :lucide-scroll: aren't learned automatically. You have to find their pattern first, and for this tier they drop in **Gloomhaven** or **Briarstone Quarry**.
+
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
 | Silk Gloves | Gloves | 13 | 20 | 13~ | [ ] | 1 Silk Cloth, 1 Silk Thread |
@@ -77,13 +86,13 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
 | Silk Robe | Chest | 13 | 24 | 13~ | [ ] | 3 Silk Cloth, 1 Silk Thread |
 | Silk Leggings | Pants | 13 | 24 | 13~ | [ ] | 3 Silk Cloth, 1 Silk Thread |
 | Silk Spaulders | Shoulder | 13 | 24 | 13~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
-| Fine Silk Shoes | Boots | 15 | 26 | 15~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
-| Fine Silk Gloves | Gloves | 15 | 26 | 15~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
-| Fine Silk Cape | Cape | 15 | 26 | 15~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
-| Fine Silk Veil | Helmet | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
-| Fine Silk Robe | Chest | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
-| Fine Silk Leggings | Pants | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
-| Fine Silk Spaulders | Shoulder | 15 | 28 | 15~ | [ ] | 3 Silk Cloth, 1 Silk Thread |
+| Fine Silk Shoes :lucide-scroll:{ title="Recipe has to be found" } | Boots | 15 | 26 | 15~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
+| Fine Silk Gloves :lucide-scroll:{ title="Recipe has to be found" } | Gloves | 15 | 26 | 15~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
+| Fine Silk Cape :lucide-scroll:{ title="Recipe has to be found" } | Cape | 15 | 26 | 15~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
+| Fine Silk Veil :lucide-scroll:{ title="Recipe has to be found" } | Helmet | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
+| Fine Silk Robe :lucide-scroll:{ title="Recipe has to be found" } | Chest | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
+| Fine Silk Leggings :lucide-scroll:{ title="Recipe has to be found" } | Pants | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
+| Fine Silk Spaulders :lucide-scroll:{ title="Recipe has to be found" } | Shoulder | 15 | 28 | 15~ | [ ] | 3 Silk Cloth, 1 Silk Thread |
 
 ## Kashrynni Wool
 
@@ -95,6 +104,9 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
     - **Skill level:** 28
     - **Ingredients:** 1 Highland Fleece, 1 Wind Crystal
 
+!!! tip "Finding these recipes"
+    Recipes marked :lucide-scroll: aren't learned automatically. You have to find their pattern first, and for this tier they drop in **Stormwatch** or **Icetooth Base Camp**.
+
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
 | Highland Boots | Boots | 19 | 30 | 19~ | [ ] | 2 Kashrynni Wool, 1 Mountain Thread |
@@ -104,13 +116,13 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
 | Highland Vestments | Chest | 19 | 34 | 19~ | [ ] | 4 Kashrynni Wool, 1 Mountain Thread |
 | Highland Hood | Helmet | 19 | 34 | 19~ | [ ] | 4 Kashrynni Wool, 1 Mountain Thread |
 | Highland Spaulders | Shoulder | 19 | 34 | 19~ | [ ] | 3 Kashrynni Wool, 1 Mountain Thread |
-| Arctic Boots | Boots | 21 | 36 | 21~ | [ ] | 3 Kashrynni Wool, 1 Mountain Thread |
-| Arctic Cloak | Cape | 21 | 36 | 21~ | [ ] | 3 Kashrynni Wool, 1 Mountain Thread |
-| Arctic Mitts | Gloves | 21 | 36 | 21~ | [ ] | 3 Kashrynni Wool, 1 Mountain Thread |
-| Arctic Leggings | Pants | 21 | 38 | 21~ | [ ] | 5 Kashrynni Wool, 1 Mountain Thread |
-| Arctic Spaulders | Shoulder | 21 | 38 | 21~ | [ ] | 4 Kashrynni Wool, 1 Mountain Thread |
-| Arctic Vestments | Chest | 21 | 38 | 21~ | [ ] | 5 Kashrynni Wool, 1 Mountain Thread |
-| Arctic Hood | Helmet | 21 | 38 | 21~ | [ ] | 5 Kashrynni Wool, 1 Mountain Thread |
+| Arctic Boots :lucide-scroll:{ title="Recipe has to be found" } | Boots | 21 | 36 | 21~ | [ ] | 3 Kashrynni Wool, 1 Mountain Thread |
+| Arctic Cloak :lucide-scroll:{ title="Recipe has to be found" } | Cape | 21 | 36 | 21~ | [ ] | 3 Kashrynni Wool, 1 Mountain Thread |
+| Arctic Mitts :lucide-scroll:{ title="Recipe has to be found" } | Gloves | 21 | 36 | 21~ | [ ] | 3 Kashrynni Wool, 1 Mountain Thread |
+| Arctic Leggings :lucide-scroll:{ title="Recipe has to be found" } | Pants | 21 | 38 | 21~ | [ ] | 5 Kashrynni Wool, 1 Mountain Thread |
+| Arctic Spaulders :lucide-scroll:{ title="Recipe has to be found" } | Shoulder | 21 | 38 | 21~ | [ ] | 4 Kashrynni Wool, 1 Mountain Thread |
+| Arctic Vestments :lucide-scroll:{ title="Recipe has to be found" } | Chest | 21 | 38 | 21~ | [ ] | 5 Kashrynni Wool, 1 Mountain Thread |
+| Arctic Hood :lucide-scroll:{ title="Recipe has to be found" } | Helmet | 21 | 38 | 21~ | [ ] | 5 Kashrynni Wool, 1 Mountain Thread |
 
 ## Bolt of Mythriss
 
@@ -122,12 +134,15 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
     - **Skill level:** 38
     - **Ingredients:** 1 Silk Cloth, 1 [Mithril Filament](smithing.md#mithril-ingot), 1 Wind Crystal
 
+!!! tip "Finding these recipes"
+    Recipes marked :lucide-scroll: aren't learned automatically. You have to find their pattern first, and for this tier they drop from [waystones](../waystones/index.md).
+
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
-| Mythriss Gloves | Gloves | 25 | 40 | 25~ | [ ] | 3 Bolt of Mythriss, 1 Mythriss Thread |
-| Mythriss Cape | Cape | 25 | 40 | 25~ | [ ] | 3 Bolt of Mythriss, 1 Mythriss Thread |
-| Mythriss Robe | Chest | 25 | 40 | 25~ | [ ] | 5 Bolt of Mythriss, 1 Mythriss Thread |
-| Mythriss Slippers | Boots | 25 | 40 | 25~ | [ ] | 3 Bolt of Mythriss, 1 Mythriss Thread |
-| Mythriss Wrappings | Pants | 25 | 40 | 25~ | [ ] | 5 Bolt of Mythriss, 1 Mythriss Thread |
-| Mythriss Pauldrons | Shoulder | 25 | 40 | 25~ | [ ] | 4 Bolt of Mythriss, 1 Mythriss Thread |
-| Mythriss Hood | Helmet | 25 | 40 | 25~ | [ ] | 5 Bolt of Mythriss, 1 Mythriss Thread |
+| Mythriss Gloves :lucide-scroll:{ title="Recipe has to be found" } | Gloves | 25 | 40 | 25~ | [ ] | 3 Bolt of Mythriss, 1 Mythriss Thread |
+| Mythriss Cape :lucide-scroll:{ title="Recipe has to be found" } | Cape | 25 | 40 | 25~ | [ ] | 3 Bolt of Mythriss, 1 Mythriss Thread |
+| Mythriss Robe :lucide-scroll:{ title="Recipe has to be found" } | Chest | 25 | 40 | 25~ | [ ] | 5 Bolt of Mythriss, 1 Mythriss Thread |
+| Mythriss Slippers :lucide-scroll:{ title="Recipe has to be found" } | Boots | 25 | 40 | 25~ | [ ] | 3 Bolt of Mythriss, 1 Mythriss Thread |
+| Mythriss Wrappings :lucide-scroll:{ title="Recipe has to be found" } | Pants | 25 | 40 | 25~ | [ ] | 5 Bolt of Mythriss, 1 Mythriss Thread |
+| Mythriss Pauldrons :lucide-scroll:{ title="Recipe has to be found" } | Shoulder | 25 | 40 | 25~ | [ ] | 4 Bolt of Mythriss, 1 Mythriss Thread |
+| Mythriss Hood :lucide-scroll:{ title="Recipe has to be found" } | Helmet | 25 | 40 | 25~ | [ ] | 5 Bolt of Mythriss, 1 Mythriss Thread |
