@@ -246,3 +246,35 @@
 }
 .md-typeset .pdx-item__slot { white-space: nowrap; }
 .md-typeset .pdx-item__head { flex-direction: column; align-items: flex-start; gap: 0.1rem; }
+
+/* Crafting recipe tables: fit without sideways scrolling */
+.md-typeset .pdx-recipes .md-typeset__table { display: block; }
+.md-typeset .pdx-recipes .md-typeset__scrollwrap { overflow-x: visible; }
+.md-typeset .pdx-recipes table:not([class]) { display: table; width: 100%; }
+.md-typeset .pdx-recipes table:not([class]) th { min-width: 0; }
+.md-typeset .pdx-recipes table:not([class]) th,
+.md-typeset .pdx-recipes table:not([class]) td { padding: 0.5em 0.6em; vertical-align: top; }
+.md-typeset .pdx-recipes td:not(:first-child):not(:last-child) { white-space: nowrap; width: 1%; }
+.md-typeset .pdx-recipes td:last-child { white-space: nowrap; }
+.md-typeset .pdx-recipes--effect td:nth-child(4) { white-space: normal; width: auto; }
+.md-typeset .pdx-recipes .pdx-slot { font-size: 0.9em; opacity: 0.6; }
+@media screen and (max-width: 44.984375em) {
+  .md-typeset .pdx-recipes table:not([class]) thead { display: none; }
+  .md-typeset .pdx-recipes table:not([class]), .md-typeset .pdx-recipes table:not([class]) tbody { display: block; }
+  .md-typeset .pdx-recipes table:not([class]) tr { display: grid; grid-template-columns: repeat(4, auto); justify-content: start; gap: 0.2rem 0.9rem; padding: 0.6rem 0.7rem; border-top: 0.05rem solid var(--md-typeset-table-color); }
+  .md-typeset .pdx-recipes table:not([class]) tr:first-child { border-top: none; }
+  .md-typeset .pdx-recipes table:not([class]) td { display: block; padding: 0; border: none; white-space: nowrap; width: auto; }
+  .md-typeset .pdx-recipes td:first-child { grid-column: 1 / -1; font-weight: 700; white-space: normal; }
+  .md-typeset .pdx-recipes td:first-child .pdx-slot { font-weight: 400; margin-left: 0.3rem; }
+  .md-typeset .pdx-recipes td:first-child br { display: none; }
+  .md-typeset .pdx-recipes td:last-child { grid-column: 1 / -1; white-space: normal; }
+  /* Gear tables */
+  .md-typeset .pdx-recipes:not(.pdx-recipes--effect):not(.pdx-recipes--plain) td:nth-child(2)::before { content: "Item lvl "; opacity: 0.6; }
+  .md-typeset .pdx-recipes:not(.pdx-recipes--effect):not(.pdx-recipes--plain) td:nth-child(3)::before { content: "Skill "; opacity: 0.6; }
+  .md-typeset .pdx-recipes:not(.pdx-recipes--effect):not(.pdx-recipes--plain) td:nth-child(4)::before { content: "Req. lvl "; opacity: 0.6; }
+  .md-typeset .pdx-recipes:not(.pdx-recipes--effect):not(.pdx-recipes--plain) td:nth-child(5)::before { content: "Attribute "; opacity: 0.6; }
+  /* Alchemy and Cooking tables */
+  .md-typeset .pdx-recipes--effect td:nth-child(2)::before, .md-typeset .pdx-recipes--plain td:nth-child(2)::before { content: "Skill "; opacity: 0.6; }
+  .md-typeset .pdx-recipes--effect td:nth-child(3)::before, .md-typeset .pdx-recipes--plain td:nth-child(3)::before { content: "Req. lvl "; opacity: 0.6; }
+  .md-typeset .pdx-recipes--effect td:nth-child(4) { grid-column: 1 / -1; white-space: normal; }
+}
