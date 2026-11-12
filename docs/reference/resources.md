@@ -65,3 +65,7 @@ Filter by item type, stat requirement, and item level to see every Prefix and Su
     [:lucide-external-link: runecrafting.netlify.app](https://runecrafting.netlify.app/){ target="_blank" }
 
 </div>
+
+## Help improve Pradex
+
+Spot a mistake, or know something Pradex is missing? Message **Ezraek** on the [Prado Discord](https://discord.gg/CnB2zBeN65){ target="_blank" }. Screenshots help, and every correction makes the guide better for everyone.

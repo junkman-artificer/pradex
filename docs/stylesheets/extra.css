@@ -278,3 +278,8 @@
   .md-typeset .pdx-recipes--effect td:nth-child(3)::before, .md-typeset .pdx-recipes--plain td:nth-child(3)::before { content: "Req. lvl "; opacity: 0.6; }
   .md-typeset .pdx-recipes--effect td:nth-child(4) { grid-column: 1 / -1; white-space: normal; }
 }
+
+/* Header contact link: show the full text */
+.md-header__source { width: auto; max-width: none; }
+.md-source__repository { max-width: none; overflow: visible; }
+.md-source__facts { display: none; }

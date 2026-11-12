@@ -5,10 +5,10 @@ site_name = "Pradex"
 # site_description = "A field guide to the world of Prado"
 # site_author = "Ezraek"
 
-copyright = "Copyright &copy; 2026 Ezraek<br><strong>Prado Traveler</strong> and its game content &copy; 2026 Prado Industries, Inc.<br><strong>Pradex</strong> is an unofficial fan site and is not affiliated with or endorsed by Prado Industries."
+copyright = "Copyright &copy; 2026 Ezraek<br><strong>Prado Traveler</strong> and its game content &copy; 2026 Prado Industries, Inc.<br><strong>Pradex</strong> is an unofficial fan site and is not affiliated with or endorsed by Prado Industries.<br>Spot a mistake? Message <strong>Ezraek</strong> on the <a href='https://discord.gg/CnB2zBeN65'>Prado Discord</a>."
 
-repo_url = "https://github.com/junkman-artificer/pradex"
-repo_name = "junkman-artificer/pradex"
+repo_url = "https://discord.gg/CnB2zBeN65"
+repo_name = "Spot a mistake? Message Ezraek"
 # edit_uri = "edit/main/docs/"
 
 nav = [
@@ -121,8 +121,8 @@ features = [
 
 logo = "images/logo.png"
 
-# [project.theme.icon]
-# logo = "lucide/smile"
+[project.theme.icon]
+repo = "lucide/message-circle"
 
 # [project.theme.font]
 # text = "Inter"
