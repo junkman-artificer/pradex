@@ -69,3 +69,5 @@ Epics are rarer than Uniques and can't be farmed. They only show up as random mo
 ### <span class="rarity rarity--unique">Unique</span>
 
 Comes as-is, with no attunements. Uniques are often extremely powerful or have special effects you won't find on other items of their type.
+
+Despite the name, you can equip more than one copy of the same Unique, like two of the same ring or two of the same weapon.

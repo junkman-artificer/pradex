@@ -26,7 +26,7 @@ Crafted gear always comes out <span class="rarity rarity--uncommon">Uncommon</sp
 
 ## Arena :lucide-triangle-alert:{ .lone-wolf-warn title="Ends Lone Wolf status" }
 
-Special <span class="rarity rarity--unique">Unique</span> items with fixed stats and **no attribute requirements**, bought with **Marks of Valor**. Marks only come from Gladiator League matches.
+Special <span class="rarity rarity--unique">Unique</span> items with fixed stats, bought with **Marks of Valor**. The armor and jewelry have no attribute requirements. Marks only come from Gladiator League matches.
 
 [:lucide-arrow-right: Full guide: Arena](../arena/index.md)
 

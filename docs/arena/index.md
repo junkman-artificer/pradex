@@ -15,9 +15,26 @@ Arena teams still use the 2x2 [formation](../combat/index.md#formations) grid. W
 
 ## Arena teams
 
-[How to form an Arena team, and how to change its members.]
+### Forming a team
 
-One Arena team can compete in more than one league.
+1. Open the **Arena** and go to the **Halls of Valor**.
+2. Pick your league from the level tabs at the top (Lv 1 to 9, Lv 10 to 19, or Lv 20 to 25).
+3. Under **Your Arena Teams**, tap an empty team slot.
+4. Give your team a name (up to 32 characters) and invite players into the two empty player slots. You can only invite people on your **friends list**.
+5. Each player who accepts joins the roster. Once all three slots are filled, tap **Create Party** to finalize the team.
+
+You can be on up to **two Arena teams** at a time, and one team can compete in more than one league.
+
+### Personal and team rating
+
+The Halls of Valor tracks two kinds of rating:
+
+- **Your personal rating:** one per league, shown at the top with your rank and your highest rating this season.
+- **Your team's rating:** each team has its own matchmaking rating, so your two teams can sit at very different ratings.
+
+### Your PvP build
+
+Your Arena build is **separate from your PvE build**. It can use a different class and different gear, but it doesn't update on its own. When you get new gear, remember to update your PvP build by hand.
 
 ## Leagues
 
@@ -66,16 +83,43 @@ Bigger rating gains come from **upset wins**, beating a team you were expected t
 
 ## Arena Uniques
 
-<span class="rarity rarity--unique">Unique</span> items bought with Marks of Valor. Which ones you can buy depends on your Arena rank.
+<span class="rarity rarity--unique">Unique</span> items sold at **Valor's Armory** in the Halls of Valor, bought with Marks of Valor. Which ones you can buy depends on your Arena rank. Every item is **level 25** and **Soulbound**.
 
-They always come with the same four stats: **Health**, **Mana**, **Armor**, and **% All Hit Rate**. That makes them weaker than a well-rolled item, but they have **no attribute requirements**, so they can be a good way to bulk up a squishy character. The tradeoff is that they have no other stats.
+Every Arena Unique gives **Health**, **Mana**, and **% All Hit Rate**. Armor pieces add **Armor**, and weapons add weapon damage. They have no other stats, so they're weaker than a well-rolled item. The armor and jewelry have **no attribute requirements**, though, which makes them a good way to bulk up a squishy character.
 
-| Item | Slot | Rank needed | Cost |
-|---|---|---|---|
-| [Item name] | [Slot] | [Rank] | [Marks] |
-| [Item name] | [Slot] | [Rank] | [Marks] |
+### Armor and jewelry
+
+| Item | Slot | Rank needed | Cost | Armor | Health | Mana | All Hit Rate |
+|---|---|---|---|---|---|---|---|
+| Duelist's Grips | Gloves | None | 400 | 40 | +170 | +100 | +3% |
+| Duelist's Striders | Boots | None | 400 | 40 | +170 | +100 | +3% |
+| Duelist's Lucky Charm | Necklace | None | 400 | None | +150 | +90 | +3% |
+| Gladiator's Band | Ring | Knight | 600 | None | +200 | +100 | +6% |
+| Gladiator's Drape | Cape | Knight | 600 | 45 | +180 | +90 | +6% |
+| Gladiator's Leggings | Pants | Knight | 600 | 90 | +300 | +150 | +6% |
+| Gladiator's Cuirass | Chest | Knight | 600 | 120 | +300 | +150 | +6% |
+
+### Weapons
+
+All three weapons need **Gladiator** rank, cost **800** Marks, and give **+500 Health**, **+300 Mana**, and **+6% All Hit Rate**. Unlike the armor, each one has an attribute requirement.
+
+| Item | Type | Physical damage | Speed | Requires |
+|---|---|---|---|---|
+| Gladiator's Shiv | Dagger | 42 to 45 | 240 | 60 Intellect |
+| Gladiator's Cutlass | Sword | 55 to 60 | 320 | 60 Dexterity |
+| Gladiator's War Axe | Axe | 88 to 94 | 500 | 60 Strength |
+
+!!! tip "You can wear two of the same Unique"
+    Uniques aren't limited to one copy, so a pair of Gladiator's Bands can fill both ring slots.
 
 ## Tips
 
-- [Tip]
-- [Tip]
+**PvP priorities aren't PvE priorities.** A general set of gear works well enough in PvE, but the Arena calls for things you don't need to worry about there:
+
+- **Big bursts of damage.** Make sure you can outlast heavy spikes, not just steady damage.
+- **Layered crowd control.** Expect stuns, freezes, and other effects stacked on top of each other. See [Status Effects](../combat/status-effects.md) for what each one does and how to protect against it.
+- **Accuracy.** Check that your hit rate is high enough to reliably land attacks on enemy players.
+- **Cooldown reduction.** Right now, Arena fights are usually won by whoever bursts first. Faster cooldowns get your biggest abilities out before the other team's. See the cooldown stats under [Offense](../gearing-up/stats.md#offense).
+
+!!! warning "Shrine and potion buffs stay with their class"
+    Shrine blessings and potions are tied to the class that received them. If you play a different class in the Arena than in PvE, those buffs won't carry over.
