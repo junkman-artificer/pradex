@@ -2,8 +2,8 @@
 
 !!! info "At a glance"
     - **Waystone decks:** 3
-    - **Gear drop rules:** [summary]
-    - **Shares rules with:** None
+    - **Preferred gear:** Intellect-based
+    - **Same preferred gear as:** None
 
 ## Overview
 
@@ -11,7 +11,10 @@
 
 ## Preferred gear drops
 
-[What drops here and how the rules work.]
+Sweetwater leans toward **Intellect-based** gear. It's not a guarantee, and some Strength and Dexterity gear still drops here, but most of what you find will be Intellect-based.
+
+- **Staves** only drop in Sweetwater.
+- **Bows** may only drop here too, but that hasn't been confirmed.
 
 ## Things to watch out for
 

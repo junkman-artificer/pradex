@@ -2,8 +2,8 @@
 
 !!! info "At a glance"
     - **Waystone decks:** 4
-    - **Gear drop rules:** [summary]
-    - **Shares rules with:** The Burrows
+    - **Preferred gear:** Strength-based
+    - **Same preferred gear as:** The Burrows
 
 ## Overview
 
@@ -11,7 +11,7 @@
 
 ## Preferred gear drops
 
-[What drops here and how the rules work.]
+Eastern Gate leans toward **Strength-based** gear. It's not a guarantee, and some Dexterity and Intellect gear still drops here, but most of what you find will be Strength-based.
 
 ## Things to watch out for
 

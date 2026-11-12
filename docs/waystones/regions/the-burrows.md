@@ -2,8 +2,8 @@
 
 !!! info "At a glance"
     - **Waystone decks:** 2
-    - **Gear drop rules:** [summary]
-    - **Shares rules with:** Eastern Gate
+    - **Preferred gear:** Strength-based
+    - **Same preferred gear as:** Eastern Gate
 
 !!! tip "Unlocks subclasses"
     Beating the **Sunken Crypt**, **The Drowned Tombs**, and **Relic's Rest** triple-deck here unlocks [subclasses](../../classes/index.md#subclasses).
@@ -14,7 +14,7 @@
 
 ## Preferred gear drops
 
-[What drops here and how the rules work.]
+The Burrows shares Eastern Gate's preference for **Strength-based** gear. It's not a guarantee, and some Dexterity and Intellect gear still drops here, but most of what you find will be Strength-based.
 
 ## Things to watch out for
 

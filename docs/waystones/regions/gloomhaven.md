@@ -2,8 +2,8 @@
 
 !!! info "At a glance"
     - **Waystone decks:** 2
-    - **Gear drop rules:** [summary]
-    - **Shares rules with:** Briarstone Quarry
+    - **Preferred gear:** Dexterity-based
+    - **Same preferred gear as:** Briarstone Quarry
 
 ## Overview
 
@@ -11,7 +11,9 @@
 
 ## Preferred gear drops
 
-[What drops here and how the rules work.]
+Gloomhaven leans toward **Dexterity-based** gear. It's not a guarantee, and some Strength and Intellect gear still drops here, but most of what you find will be Dexterity-based.
+
+- **Wands** only drop in Gloomhaven.
 
 ## Things to watch out for
 
