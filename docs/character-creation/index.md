@@ -36,7 +36,7 @@ During creation, there's a checkbox to start as a **Lone Wolf**. It's a challeng
 You lose Lone Wolf status as soon as you interact with other players. That includes:
 
 - Parties
-- The Arena
+- [The Arena](../arena/index.md)
 - The Trading Post
 - Trading
 

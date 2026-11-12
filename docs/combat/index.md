@@ -9,7 +9,7 @@ Every character attacks on a timer set by their weapon **Speed**, the time betwe
 A fight ends when one side is defeated. If **both** sides go down at the same time, it's a **draw**:
 
 - **Adventure decks:** a draw counts as a defeat, and your party returns to town.
-- **Arena:** you still get a small number of Marks of Valor, but your rating doesn't change.
+- **[Arena](../arena/index.md):** your rating doesn't change.
 
 ### Fatigue
 
@@ -23,7 +23,7 @@ This exists so no fight can go on forever. Since monsters take fatigue damage to
 Your party fights in a **2x2 grid**: two front line slots and two back line slots. Where each character stands changes who can hit them and how hard they hit back.
 
 !!! info "Arena is 3v3"
-    Arena matches are always three players against three.
+    [Arena](../arena/index.md) matches are always three players against three.
 
 ### Front line
 

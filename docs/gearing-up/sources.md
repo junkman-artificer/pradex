@@ -26,9 +26,9 @@ Crafted gear always comes out <span class="rarity rarity--uncommon">Uncommon</sp
 
 ## Arena :lucide-triangle-alert:{ .lone-wolf-warn title="Ends Lone Wolf status" }
 
-Special <span class="rarity rarity--unique">Unique</span> items can be bought with **Marks of Valor**, and which ones are available depends on your Arena rank.
+Special <span class="rarity rarity--unique">Unique</span> items with fixed stats and **no attribute requirements**, bought with **Marks of Valor**. Marks only come from Gladiator League matches.
 
-They always come with the same four stats: Health, Mana, Armor, and % All Hit Rate. That makes them weaker than a well-rolled item, but they have **no attribute requirements**, so they can be a good way to bulk up a squishy character. The tradeoff is that they have no other stats.
+[:lucide-arrow-right: Full guide: Arena](../arena/index.md)
 
 ## Trading Post :lucide-triangle-alert:{ .lone-wolf-warn title="Ends Lone Wolf status" }
 

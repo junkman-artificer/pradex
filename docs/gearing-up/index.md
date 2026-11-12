@@ -29,7 +29,7 @@ Which weapons and off-hands you can equip depends on your class. Check the **Wea
 
     [:lucide-arrow-right: Learn the tiers](rarity.md)
 
--   :lucide-sparkles:{ .lg .middle } __Stats__
+-   :lucide-sliders-horizontal:{ .lg .middle } __Stats__
 
     ---
 

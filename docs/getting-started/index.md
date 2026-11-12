@@ -16,7 +16,7 @@ Pradex follows the path most players take, from making a character to tackling w
 
     [:lucide-arrow-right: Start here](first-steps.md)
 
--   :lucide-lightbulb:{ .lg .middle } __Core Concepts__
+-   :lucide-brain:{ .lg .middle } __Core Concepts__
 
     ---
 

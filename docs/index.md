@@ -28,7 +28,7 @@ Your field guide to Prado, from your first character to mastering the waystones.
 
     [:lucide-arrow-right: Choose](classes/index.md)
 
--   :lucide-shield:{ .lg .middle } __Gearing Up__
+-   :lucide-backpack:{ .lg .middle } __Gearing Up__
 
     ---
 
@@ -67,6 +67,14 @@ Your field guide to Prado, from your first character to mastering the waystones.
     Which classes work well together, and why.
 
     [:lucide-arrow-right: Team up](parties/index.md)
+
+-   :lucide-trophy:{ .lg .middle } __Arena__
+
+    ---
+
+    Ranked 3v3 battles, leagues, and Marks of Valor.
+
+    [:lucide-arrow-right: Compete](arena/index.md)
 
 -   :lucide-map:{ .lg .middle } __Waystones__
 

@@ -58,6 +58,7 @@ nav = [
     { "Building a Team" = "parties/building-a-team.md" },
     { "Synergies" = "parties/synergies.md" },
   ] },
+  { "Arena" = "arena/index.md" },
   { "Waystones" = [
     "waystones/index.md",
     { "Maximizing Waystones" = "waystones/maximizing.md" },

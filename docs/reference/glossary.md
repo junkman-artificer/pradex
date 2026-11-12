@@ -6,7 +6,7 @@ Affix
 :   A bonus stat on an item, either a Prefix or a Suffix. See [Stats](../gearing-up/stats.md).
 
 Arena
-:   Where players compete in 3v3 matches for rank and Marks of Valor. Ends Lone Wolf status. See [Where to Get Gear](../gearing-up/sources.md#arena).
+:   Ranked 3v3 player vs. player mode, unlocked at level 7. Ends Lone Wolf status. See [Arena](../arena/index.md).
 
 Attribute required
 :   How much of an attribute (Strength, Dexterity, or Intellect) you need to equip an item.
@@ -53,11 +53,17 @@ Friend code
 Front line
 :   The two forward slots in your party's formation. The only slots enemy melee attacks can reach. See [Combat](../combat/index.md#front-line).
 
+Ghost
+:   A saved snapshot of an Arena team, used as an opponent so matches start instantly. See [Arena](../arena/index.md#how-matches-work).
+
 Imbuing
 :   Raising an item's rarity by one tier, up to Rare. Costs a shard and crafting materials. See [Enchanting](../enchanting/index.md#imbuing).
 
 Item level
 :   The level of the item itself. It determines which essence and shard the item needs.
+
+League
+:   One of the three Arena divisions (Skirmisher, Duelist, and Gladiator), set by your team's highest-level member. See [Arena](../arena/index.md#leagues).
 
 Legacy
 :   The server that runs one season behind Seasonal. See [Character Creation](../character-creation/index.md#seasonal-or-legacy).
@@ -75,7 +81,7 @@ Mana Loop
 :   The Priest and Magician synergy between Prayer of Healing and Arcane Infusion. See [Synergies](../parties/synergies.md#the-mana-loop).
 
 Marks of Valor
-:   Arena currency used to buy special Unique items. See [Where to Get Gear](../gearing-up/sources.md#arena).
+:   Arena currency used to buy special Unique items. Only earned in the Gladiator League. See [Arena](../arena/index.md#marks-of-valor).
 
 Prefix
 :   One of the two affix types. See [Stats](../gearing-up/stats.md).

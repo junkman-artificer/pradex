@@ -12,7 +12,7 @@
 
     [:lucide-arrow-right: Read more](maximizing.md)
 
--   :lucide-map:{ .lg .middle } __Regions__
+-   :lucide-map-pin:{ .lg .middle } __Regions__
 
     ---
 

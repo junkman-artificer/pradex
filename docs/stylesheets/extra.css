@@ -194,3 +194,30 @@
 .md-header__button.md-logo::after {
   top: 0.35rem;
 }
+
+/* Subclass ability tables: stack rows on phones */
+@media screen and (max-width: 44.984375em) {
+  .md-typeset details.abstract table:not([class]) thead { display: none; }
+  .md-typeset details.abstract table:not([class]),
+  .md-typeset details.abstract table:not([class]) tbody { display: block; }
+  .md-typeset details.abstract .md-typeset__table { display: block; }
+  .md-typeset details.abstract .md-typeset__scrollwrap { overflow-x: visible; }
+  .md-typeset details.abstract table:not([class]) tr {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    column-gap: 0.6rem;
+    padding: 0.6rem 0.8rem;
+    border-top: 0.05rem solid var(--md-typeset-table-color);
+  }
+  .md-typeset details.abstract table:not([class]) tr:first-child { border-top: none; }
+  .md-typeset details.abstract table:not([class]) td {
+    display: block;
+    padding: 0;
+    border: none;
+  }
+  .md-typeset details.abstract table:not([class]) td:nth-child(1)::before { content: "Lv "; }
+  .md-typeset details.abstract table:not([class]) td:nth-child(1) { color: var(--pdx-screen); font-weight: 700; }
+  .md-typeset details.abstract table:not([class]) td:nth-child(2) { font-weight: 700; }
+  .md-typeset details.abstract table:not([class]) td:nth-child(3) { opacity: 0.7; text-align: right; }
+  .md-typeset details.abstract table:not([class]) td:nth-child(4) { grid-column: 1 / -1; margin-top: 0.3rem; }
+}
