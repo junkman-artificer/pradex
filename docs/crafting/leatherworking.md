@@ -8,26 +8,30 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
 
 **Required level** is approximate (marked with ~). In testing, it's usually the item level or one higher.
 
+**Attribute required** is shown as a range, because the exact requirement varies from one crafted item to the next.
+
 !!! warning "You'll need Tailoring too"
     Each leather tier needs the same-tier thread, and threads are made through [Tailoring](tailoring.md). Plan to level Tailoring alongside Leatherworking, or buy threads from other players.
 
 ## Light Leather
 
 !!! note "Making Light Leather"
-    [Recipe needed]
+    - **Skill level:** 1
+    - **Ingredients:** 1 Soft Hide, 1 Earth Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
-| Light Boots | Boots | 4 | 1 | 4~ | [ ] | 1 Light Leather, 1 Rough String |
-| Light Gloves | Gloves | 4 | 1 | 4~ | [ ] | 1 Light Leather, 1 Rough String |
-| Light Quiver | Quiver | 4 | 1 | 4~ | [ ] | 1 Light Leather, 1 Rough String |
+| Light Boots | Boots | 4 | 1 | 4~ | 3 to 4 Dexterity | 1 Light Leather, 1 Rough String |
+| Light Gloves | Gloves | 4 | 1 | 4~ | 3 to 4 Dexterity | 1 Light Leather, 1 Rough String |
+| Light Quiver | Quiver | 4 | 1 | 4~ | 3 to 4 Dexterity | 1 Light Leather, 1 Rough String |
 | Light Vest | Chest | 4 | 4 | 4~ | [ ] | 2 Light Leather, 1 Rough String |
 | Light Leggings | Pants | 4 | 4 | 4~ | [ ] | 2 Light Leather, 1 Rough String |
 
 ## Coarse Leather
 
 !!! note "Making Coarse Leather"
-    [Recipe needed]
+    - **Skill level:** 8
+    - **Ingredients:** 1 Scavenger's Hide, 1 Earth Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -48,7 +52,8 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
 ## Heavy Leather
 
 !!! note "Making Heavy Leather"
-    [Recipe needed]
+    - **Skill level:** 18
+    - **Ingredients:** 2 Beast Hide, 1 Earth Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -71,7 +76,8 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
 ## Frost Leather
 
 !!! note "Making Frost Leather"
-    [Recipe needed]
+    - **Skill level:** 28
+    - **Ingredients:** 2 Frost Hide, 1 Earth Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -94,7 +100,8 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
 ## Dragon Leather
 
 !!! note "Making Dragon Leather"
-    [Recipe needed]
+    - **Skill level:** 38
+    - **Ingredients:** 2 Dragon Hide, 1 Earth Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|

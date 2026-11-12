@@ -8,12 +8,19 @@ Every Tailoring recipe also uses **1 Wind Crystal**, so it's left out of the tab
 
 **Required level** is approximate (marked with ~). In testing, it's usually the item level or one higher.
 
-Each cloth tier is paired with a thread. Leatherworkers need these same threads, so they're worth making in extra or selling.
+**Attribute required** is shown as a range, because the exact requirement varies from one crafted item to the next.
+
+Each cloth tier is paired with a thread, made from the same raw material at the same skill level. Leatherworkers need these same threads, so they're worth making in extra or selling.
 
 ## Linen Cloth
 
 !!! note "Making Linen Cloth"
-    [Recipe needed]
+    - **Skill level:** 1
+    - **Ingredients:** 2 Flax Fibers, 1 Wind Crystal
+
+!!! note "Making Rough String"
+    - **Skill level:** 1
+    - **Ingredients:** 1 Flax Fibers, 1 Wind Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -29,7 +36,12 @@ Each cloth tier is paired with a thread. Leatherworkers need these same threads,
 ## Quartercloth
 
 !!! note "Making Quartercloth"
-    [Recipe needed]
+    - **Skill level:** 8
+    - **Ingredients:** 2 Scraps of Cloth, 1 Wind Crystal
+
+!!! note "Making Waxed Thread"
+    - **Skill level:** 8
+    - **Ingredients:** 1 Scraps of Cloth, 1 Wind Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -49,7 +61,12 @@ Each cloth tier is paired with a thread. Leatherworkers need these same threads,
 ## Silk Cloth
 
 !!! note "Making Silk Cloth"
-    [Recipe needed]
+    - **Skill level:** 18
+    - **Ingredients:** 3 Spider Silk, 1 Wind Crystal
+
+!!! note "Making Silk Thread"
+    - **Skill level:** 18
+    - **Ingredients:** 1 Spider Silk, 1 Wind Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -63,7 +80,7 @@ Each cloth tier is paired with a thread. Leatherworkers need these same threads,
 | Fine Silk Shoes | Boots | 15 | 26 | 15~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
 | Fine Silk Gloves | Gloves | 15 | 26 | 15~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
 | Fine Silk Cape | Cape | 15 | 26 | 15~ | [ ] | 2 Silk Cloth, 1 Silk Thread |
-| Fine Silk Hood | Helmet | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
+| Fine Silk Veil | Helmet | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
 | Fine Silk Robe | Chest | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
 | Fine Silk Leggings | Pants | 15 | 28 | 15~ | [ ] | 4 Silk Cloth, 1 Silk Thread |
 | Fine Silk Spaulders | Shoulder | 15 | 28 | 15~ | [ ] | 3 Silk Cloth, 1 Silk Thread |
@@ -71,7 +88,12 @@ Each cloth tier is paired with a thread. Leatherworkers need these same threads,
 ## Kashrynni Wool
 
 !!! note "Making Kashrynni Wool"
-    [Recipe needed]
+    - **Skill level:** 28
+    - **Ingredients:** 3 Highland Fleece, 1 Wind Crystal
+
+!!! note "Making Mountain Thread"
+    - **Skill level:** 28
+    - **Ingredients:** 1 Highland Fleece, 1 Wind Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -93,7 +115,12 @@ Each cloth tier is paired with a thread. Leatherworkers need these same threads,
 ## Bolt of Mythriss
 
 !!! note "Making Bolt of Mythriss"
-    [Recipe needed]
+    - **Skill level:** 38
+    - **Ingredients:** 3 Silk Cloth, 1 [Mithril Filament](smithing.md#mithril-ingot), 1 Wind Crystal
+
+!!! note "Making Mythriss Thread"
+    - **Skill level:** 38
+    - **Ingredients:** 1 Silk Cloth, 1 [Mithril Filament](smithing.md#mithril-ingot), 1 Wind Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|

@@ -8,17 +8,20 @@ Every Smithing recipe also uses **1 Fire Crystal**, so it's left out of the tabl
 
 **Required level** is approximate (marked with ~). In testing, it's usually the item level or one higher.
 
+**Attribute required** is shown as a range, because the exact requirement varies from one crafted item to the next.
+
 Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 
 ## Copper Ingot
 
 !!! note "Making Copper Ingot"
-    [Recipe needed]
+    - **Skill level:** 1
+    - **Ingredients:** 1 Copper Ore, 1 Fire Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
-| Copper Gauntlets | Gloves | 7 | 1 | 7~ | [ ] | 2 Copper Ingot |
-| Copper Greaves | Boots | 7 | 1 | 7~ | [ ] | 2 Copper Ingot |
+| Copper Gauntlets | Gloves | 7 | 1 | 7~ | 6 to 8 Strength | 2 Copper Ingot |
+| Copper Greaves | Boots | 7 | 1 | 7~ | 6 to 8 Strength | 2 Copper Ingot |
 | Copper Short Sword | Sword | 3 | 2 | 3~ | [ ] | 2 Copper Ingot |
 | Copper Shiv | Dagger | 1 | 2 | 1~ | [ ] | 2 Copper Ingot |
 | Copper Hatchet | Axe | 5 | 4 | 5~ | [ ] | 2 Copper Ingot |
@@ -29,7 +32,8 @@ Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 ## Bronze Ingot
 
 !!! note "Making Bronze Ingot"
-    [Recipe needed]
+    - **Skill level:** 8
+    - **Ingredients:** 1 Copper Ore, 1 Tin Ore, 1 Fire Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -44,7 +48,8 @@ Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 ## Silver Ingot
 
 !!! note "Making Silver Ingot"
-    [Recipe needed]
+    - **Skill level:** 10
+    - **Ingredients:** 2 Silver Ore, 1 Fire Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -54,7 +59,8 @@ Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 ## Iron Ingot
 
 !!! note "Making Iron Ingot"
-    [Recipe needed]
+    - **Skill level:** 14
+    - **Ingredients:** 2 Iron Ore, 1 Fire Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -71,7 +77,8 @@ Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 ## Steel Ingot
 
 !!! note "Making Steel Ingot"
-    [Recipe needed]
+    - **Skill level:** 20
+    - **Ingredients:** 1 Iron Ingot, 1 Coal, 1 Fire Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -86,7 +93,8 @@ Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 ## Gold Ingot
 
 !!! note "Making Gold Ingot"
-    [Recipe needed]
+    - **Skill level:** 22
+    - **Ingredients:** 2 Gold Ore, 1 Fire Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -96,7 +104,8 @@ Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 ## Arcanite Ingot
 
 !!! note "Making Arcanite Ingot"
-    [Recipe needed]
+    - **Skill level:** 26
+    - **Ingredients:** 3 Arcanite Ore, 1 Fire Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -115,7 +124,14 @@ Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 ## Mithril Ingot
 
 !!! note "Making Mithril Ingot"
-    [Recipe needed]
+    - **Skill level:** 34
+    - **Ingredients:** 3 Mithril Ore, 1 Fire Crystal
+
+!!! note "Making Mithril Filament"
+    - **Skill level:** 38
+    - **Ingredients:** 1 Mithril Ingot, 1 Fire Crystal
+
+    Mithril Filament isn't used in any Smithing recipe. Tailors need it for [Bolt of Mythriss and Mythriss Thread](tailoring.md#bolt-of-mythriss).
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
@@ -125,7 +141,8 @@ Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 ## Arcsteel Ingot
 
 !!! note "Making Arcsteel Ingot"
-    [Recipe needed]
+    - **Skill level:** 34
+    - **Ingredients:** 1 Arcanite Ingot, 1 Steel Ingot, 1 Fire Crystal
 
 | Item | Slot | Item level | Skill level | Required level | Attribute required | Ingredients |
 |---|---|---|---|---|---|---|
