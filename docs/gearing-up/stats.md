@@ -6,7 +6,7 @@ What each stat does, grouped by what it helps with. For exact tiers, roll odds, 
 
 Within each group, stats are split into **Prefixes** and **Suffixes**. That matters when you're enchanting, since each item has a limited number of slots of each type.
 
-Descriptions come from the in-game character sheet where possible. Anything still marked `[ ]` hasn't been confirmed yet.
+Descriptions come from the in-game character sheet and the official enchantments page.
 
 ## Core attributes
 
@@ -22,7 +22,7 @@ Strength, Dexterity, and Intellect each boost several other stats at once, and t
 | 1 Weapon Damage for Every 10 Strength | Adds 1 weapon damage for every 10 Strength you have. |
 | 1 Weapon Damage for Every 10 Dexterity | Adds 1 weapon damage for every 10 Dexterity you have. |
 | 1 Weapon Damage for Every 10 Intellect | Adds 1 weapon damage for every 10 Intellect you have. |
-| % Reduced Attribute Requirements | [ ] |
+| % Reduced Attribute Requirements | Lowers attribute requirements by a fixed percentage: 20%, 25%, or 30%, depending on the tier. |
 
 ## Health and mana
 
@@ -43,16 +43,16 @@ Your pool of health and mana in combat, and the ways to refill them mid-fight.
 |---|---|
 | Max Health | Your maximum health in combat. |
 | Max Mana | Your maximum mana in combat. |
-| Weapon Lifesteal | [ ] |
-| Spell Lifesteal | [ ] |
+| Weapon Lifesteal | Restores a flat amount of health when your weapon attacks hit. |
+| Spell Lifesteal | Restores a flat amount of health when your spells hit. Shown as "Health on Spell Hit". |
 | % Increased Lifesteal | Increases the value of your lifesteal effects. |
-| Weapon Manasteal | [ ] |
-| Spell Manasteal | [ ] |
+| Weapon Manasteal | Restores a flat amount of mana when your weapon attacks hit. |
+| Spell Manasteal | Restores a flat amount of mana when your spells hit. Shown as "Mana on Spell Hit". |
 | % Increased Manasteal | Increases the value of your manasteal effects. |
 | Restore Health on Enemy Defeated | Health restored when you defeat an enemy. |
 | Restore Mana on Enemy Defeated | Mana restored when you defeat an enemy. |
-| Health Restored on Spell Cast | [ ] |
-| Mana Restored on Spell Cast | Mana restored when your spells hit an enemy. Shown as "Mana on Spell Hit" on your character sheet. |
+| Health Restored on Spell Cast | Restores a flat amount of health when you cast a spell. |
+| Mana Restored on Spell Cast | Restores a flat amount of mana when you cast a spell. |
 
 ## Defense
 
@@ -74,8 +74,8 @@ Ways to avoid, absorb, or reduce incoming damage.
 | % Evasion | Chance to evade an attack from an enemy of your level. |
 | Barrier | Absorbs damage before your health is hit. Starts full each fight, and damage to it isn't reduced by armor or resistances. Most common on Intellect-based armor. See [Barrier](../combat/index.md#barrier). |
 | Barrier Regen | Barrier restored every 5 seconds. |
-| % of Max HP as Barrier | [ ] |
-| % of Max MP as Barrier | [ ] |
+| % of Max HP as Barrier | Adds a percentage of your Max Health to your Barrier. |
+| % of Max MP as Barrier | Adds a percentage of your Max Mana to your Barrier. |
 | % Magic Resistance | Reduces damage taken from magical attacks. Everyone starts with 20%. |
 | Physical Damage Taken Reduced by | Reduces physical damage taken by a flat amount. |
 | Magical Damage Taken Reduced by | Reduces magic damage taken by a flat amount, before resistances. |
@@ -92,7 +92,7 @@ Hitting more often, harder, and faster.
 
 | Stat | What it does |
 |---|---|
-| Damage | [ ] |
+| Damage | Rolls on weapons, except Staves and Wands. Raises the weapon's minimum and maximum damage, plus a bonus that depends on the weapon type. See [Damage prefix bonuses](#damage-prefix-bonuses). |
 | Frost Spell Power | Frost spells deal that much extra damage. Every 4 points adds 0.2 seconds to Freeze. |
 | Fire Spell Power | Fire spells deal that much extra damage. Every 4 points adds 1 Burn damage. |
 | Arcane Spell Power | Arcane spells deal that much extra damage. Every 4 points lowers mana costs by 1. |
@@ -107,11 +107,11 @@ Hitting more often, harder, and faster.
 
 | Stat | What it does |
 |---|---|
-| Weapon Damage | [ ] |
+| Weapon Damage | Adds a flat amount of weapon damage. |
 | Physical Damage | Physical attacks and abilities deal that much extra damage. |
-| % Physical Damage | [ ] |
+| % Physical Damage | Increases your physical damage by a percentage. |
 | Magical Damage | Magic attacks and abilities deal that much extra damage. |
-| % Magical Damage | [ ] |
+| % Magical Damage | Increases your magical damage by a percentage. |
 | % Weapon Hit Rate | Weapon hit chance against an enemy of your level. |
 | % Spell Hit Rate | Spell hit chance against an enemy of your level. |
 | % All Hit Rate | Raises both weapon and spell hit chance. |
@@ -119,20 +119,32 @@ Hitting more often, harder, and faster.
 | % Spell Crit Rate | Chance to critically strike with spells. |
 | % All Crit Rate | Raises both weapon and spell crit chance. |
 | % All Crit Multiplier | The multiplier applied to damage or healing when you critically strike. |
-| % of Max Mana as Weapon Damage | [ ] |
-| % of Max Health as Spell Damage | [ ] |
+| % of Max Mana as Weapon Damage | Adds a percentage of your Max Mana to your weapon damage. |
+| % of Max Health as Spell Damage | Adds a percentage of your Max Health to your spell damage. |
 | % Weapon Damage Cleave | Also hits enemies in the same row as your target. Rolls on Clubs, Great Axes, Great Swords, Maces, and Staves. |
 | % Weapon Damage Pierce | Also hits enemies in the same column as your target, punching through the front line to whoever is behind. Rolls on Bows and Spears. |
 | % Weapon Damage Splash | Also hits enemies in the same row and column as your target. Only rolls on Clubs. |
 | % Chance to Double Strike | Chance for a weapon attack to strike twice. Only rolls on Bows. |
 | % Chance to Triple Strike | Chance for a weapon attack to strike three times. Only rolls on Bows. |
-| Add % Weapon Damage Dealt to Barrier | [ ] |
-| Add % Spell Damage Dealt to Barrier | [ ] |
-| Add % Crit Damage to Barrier | [ ] |
+| Add % Weapon Damage Dealt to Barrier | Restores Barrier equal to a percentage of the weapon damage you deal. Helps rebuild or bolster your Barrier mid-fight. |
+| Add % Spell Damage Dealt to Barrier | Restores Barrier equal to a percentage of the spell damage you deal. Helps rebuild or bolster your Barrier mid-fight. |
+| Add % Crit Damage to Barrier | Restores Barrier equal to a percentage of your critical strike damage. Helps rebuild or bolster your Barrier mid-fight. |
 | Decrease Weapon Cooldown by | Shortens the time between weapon attacks. Lower is better. |
 | % Faster Weapon Cooldowns | Shortens the time between weapon attacks by a percentage. |
 | % Faster Ability Cooldown | Shortens the cooldowns of your active abilities. Shown as "Ability Speed" on your character sheet. |
 | All Cooldowns % Faster | Shortens both ability cooldowns and the time between weapon attacks. Shown as "All Speed" on your character sheet. |
+
+### Damage prefix bonuses
+
+The **Damage** prefix's extra bonus depends on the weapon:
+
+| Weapon | Bonus |
+|---|---|
+| Axe, Dagger, Great Sword, Sword | % Weapon Crit Rate |
+| Great Axe | Likely % Weapon Crit Rate (unconfirmed) |
+| Club, Mace | % Weapon Damage Cleave |
+| Bow, Spear | % Weapon Damage Pierce |
+| Staff, Wand | Can't roll the Damage prefix |
 
 ## Status effects
 
@@ -181,5 +193,5 @@ Finding more and better loot, and adding sockets.
 |---|---|
 | % Increased Item Rarity | Increases your chance of finding rarer items. |
 | % Increased Item Drop Rate | Increases your chance of items dropping. |
-| % Spellbook Find Rate | [ ] |
-| % Gem Find Rate | [ ] |
+| % Spellbook Find Rate | Increases your chance of finding spellbooks. |
+| % Gem Find Rate | Increases your chance of finding gems. |

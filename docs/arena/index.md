@@ -36,6 +36,9 @@ The Halls of Valor tracks two kinds of rating:
 
 Your Arena build is **separate from your PvE build**. It can use a different class and different gear, but it doesn't update on its own. When you get new gear, remember to update your PvP build by hand.
 
+!!! warning "Shrine and potion buffs stay with their class"
+    Shrine blessings and potions are tied to the class that received them. If you play a different class in the Arena than in PvE, those buffs won't carry over.
+
 ## Leagues
 
 The Arena is split into three leagues by level. Your team's league is set by its **highest-level member**.
@@ -64,6 +67,8 @@ Your rank in each league depends on your rating there.
 
 Reaching the top rank in a league earns that league's exclusive PvP title: **Skirmisher**, **Duelist**, or **Gladiator**.
 
+Your **rank title never drops**. It stays at the highest rank you've reached, even if your rating falls. If you reach Gladiator and then slip back to 1,100, you're still a Gladiator and can still buy the Gladiator weapons.
+
 ## Marks of Valor
 
 Marks of Valor are the Arena's currency, spent on special Unique items.
@@ -83,7 +88,7 @@ Bigger rating gains come from **upset wins**, beating a team you were expected t
 
 ## Arena Uniques
 
-<span class="rarity rarity--unique">Unique</span> items sold at **Valor's Armory** in the Halls of Valor, bought with Marks of Valor. Which ones you can buy depends on your Arena rank. Every item is **level 25** and **Soulbound**.
+<span class="rarity rarity--unique">Unique</span> items sold at **Valor's Armory** in the Halls of Valor, bought with Marks of Valor. Which ones you can buy depends on your Arena rank, which is always the highest rank you've reached. Every item is **level 25** and **Soulbound**.
 
 Every Arena Unique gives **Health**, **Mana**, and **% All Hit Rate**. Armor pieces add **Armor**, and weapons add weapon damage. They have no other stats, so they're weaker than a well-rolled item. The armor and jewelry have **no attribute requirements**, though, which makes them a good way to bulk up a squishy character.
 
@@ -109,8 +114,8 @@ All three weapons need **Gladiator** rank, cost **800** Marks, and give **+500 H
 | Gladiator's Cutlass | Sword | 55 to 60 | 320 | 60 Dexterity |
 | Gladiator's War Axe | Axe | 88 to 94 | 500 | 60 Strength |
 
-!!! tip "You can wear two of the same Unique"
-    Uniques aren't limited to one copy, so a pair of Gladiator's Bands can fill both ring slots.
+!!! tip "Stock refreshes daily"
+    The Armory stocks one of each item, and the stock refreshes **every day**. Come back the next day to replace something you've lost, or to pick up a second copy. Uniques aren't limited to one per character, so you can wear a pair of Gladiator's Bands or two of the same weapon.
 
 ## Tips
 
@@ -120,6 +125,3 @@ All three weapons need **Gladiator** rank, cost **800** Marks, and give **+500 H
 - **Layered crowd control.** Expect stuns, freezes, and other effects stacked on top of each other. See [Status Effects](../combat/status-effects.md) for what each one does and how to protect against it.
 - **Accuracy.** Check that your hit rate is high enough to reliably land attacks on enemy players.
 - **Cooldown reduction.** Right now, Arena fights are usually won by whoever bursts first. Faster cooldowns get your biggest abilities out before the other team's. See the cooldown stats under [Offense](../gearing-up/stats.md#offense).
-
-!!! warning "Shrine and potion buffs stay with their class"
-    Shrine blessings and potions are tied to the class that received them. If you play a different class in the Arena than in PvE, those buffs won't carry over.
