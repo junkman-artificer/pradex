@@ -94,25 +94,30 @@ Every Arena Unique gives **Health**, **Mana**, and **% All Hit Rate**. Armor pie
 
 ### Armor and jewelry
 
-| Item | Slot | Rank needed | Cost | Armor | Health | Mana | All Hit Rate |
-|---|---|---|---|---|---|---|---|
-| Duelist's Grips | Gloves | None | 400 | 40 | +170 | +100 | +3% |
-| Duelist's Striders | Boots | None | 400 | 40 | +170 | +100 | +3% |
-| Duelist's Lucky Charm | Necklace | None | 400 | None | +150 | +90 | +3% |
-| Gladiator's Band | Ring | Knight | 600 | None | +200 | +100 | +6% |
-| Gladiator's Drape | Cape | Knight | 600 | 45 | +180 | +90 | +6% |
-| Gladiator's Leggings | Pants | Knight | 600 | 90 | +300 | +150 | +6% |
-| Gladiator's Cuirass | Chest | Knight | 600 | 120 | +300 | +150 | +6% |
+??? note "Duelist's set: 400 Marks each, no rank needed"
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Duelist&#x27;s Grips</span><span class="pdx-item__slot">Gloves</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">40</b></span><span class="pdx-chip">Health <b class="c-hp">170</b></span><span class="pdx-chip">Mana <b class="c-mana">100</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">3%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Duelist&#x27;s Striders</span><span class="pdx-item__slot">Boots</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">40</b></span><span class="pdx-chip">Health <b class="c-hp">170</b></span><span class="pdx-chip">Mana <b class="c-mana">100</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">3%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Duelist&#x27;s Lucky Charm</span><span class="pdx-item__slot">Necklace</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Health <b class="c-hp">150</b></span><span class="pdx-chip">Mana <b class="c-mana">90</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">3%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
+
+??? note "Gladiator's armor: 600 Marks each, Knight rank"
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gladiator&#x27;s Band</span><span class="pdx-item__slot">Ring</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Health <b class="c-hp">200</b></span><span class="pdx-chip">Mana <b class="c-mana">100</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">6%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gladiator&#x27;s Drape</span><span class="pdx-item__slot">Cape</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">45</b></span><span class="pdx-chip">Health <b class="c-hp">180</b></span><span class="pdx-chip">Mana <b class="c-mana">90</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">6%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gladiator&#x27;s Leggings</span><span class="pdx-item__slot">Pants</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">90</b></span><span class="pdx-chip">Health <b class="c-hp">300</b></span><span class="pdx-chip">Mana <b class="c-mana">150</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">6%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gladiator&#x27;s Cuirass</span><span class="pdx-item__slot">Chest</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">120</b></span><span class="pdx-chip">Health <b class="c-hp">300</b></span><span class="pdx-chip">Mana <b class="c-mana">150</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">6%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ### Weapons
 
-All three weapons need **Gladiator** rank, cost **800** Marks, and give **+500 Health**, **+300 Mana**, and **+6% All Hit Rate**. Unlike the armor, each one has an attribute requirement.
+??? note "Gladiator's weapons: 800 Marks each, Gladiator rank"
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gladiator&#x27;s Shiv</span><span class="pdx-item__slot">Dagger</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">42-45</b><span>Damage</span></div><div class="pdx-tile"><b class="t-spd">2.4s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Health <b class="c-hp">500</b></span><span class="pdx-chip">Mana <b class="c-mana">300</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">6%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">60</b></span></div></div>
 
-| Item | Type | Physical damage | Speed | Requires |
-|---|---|---|---|---|
-| Gladiator's Shiv | Dagger | 42 to 45 | 240 | 60 Intellect |
-| Gladiator's Cutlass | Sword | 55 to 60 | 320 | 60 Dexterity |
-| Gladiator's War Axe | Axe | 88 to 94 | 500 | 60 Strength |
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gladiator&#x27;s Cutlass</span><span class="pdx-item__slot">Sword</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">55-60</b><span>Damage</span></div><div class="pdx-tile"><b class="t-spd">3.2s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Health <b class="c-hp">500</b></span><span class="pdx-chip">Mana <b class="c-mana">300</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">6%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">60</b></span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gladiator&#x27;s War Axe</span><span class="pdx-item__slot">Axe</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">88-94</b><span>Damage</span></div><div class="pdx-tile"><b class="t-spd">5.0s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Health <b class="c-hp">500</b></span><span class="pdx-chip">Mana <b class="c-mana">300</b></span><span class="pdx-chip">All Hit Rate <b class="c-oth">6%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">60</b></span></div></div>
 
 !!! tip "Stock refreshes daily"
     The Armory stocks one of each item, and the stock refreshes **every day**. Lost something, or want a second copy? Just come back tomorrow. Uniques aren't limited to one per character either, so go ahead and wear a pair of Gladiator's Bands or two of the same weapon.

@@ -286,6 +286,7 @@
 
 /* Compact tables: let narrow tables fit on phones */
 .md-typeset .pdx-compact table:not([class]) th { min-width: 0; }
+.md-typeset .pdx-compact .pdx-slot { font-size: 0.9em; opacity: 0.6; }
 .md-typeset .pdx-compact table:not([class]) th,
 .md-typeset .pdx-compact table:not([class]) td { padding: .6em .7em; }
 @media screen and (max-width: 44.984375em) {
