@@ -117,6 +117,35 @@ Herb picks are still being worked out, so treat these as a starting point. Sprin
 
 </div>
 
+### Cooking
+
+These picks are a starting point too.
+
+**Bought in town:** Butter :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate), Darkwood Trading Post (Gloomhaven), Stormwatch Provisions (Stormwatch), Westfield Supply Store (Westfield)" }, Flour :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate), Darkwood Trading Post (Gloomhaven), Stormwatch Provisions (Stormwatch), Westfield Supply Store (Westfield)" }, Fresh Milk :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate), Darkwood Trading Post (Gloomhaven), Stormwatch Provisions (Stormwatch), Westfield Supply Store (Westfield)" }, Meadowbread Loaf :lucide-store:{ title="Up to 3 a day at Sunflower Market (Sweetwater), Westfield Supply Store (Westfield)" }, Westfield Cheese :lucide-store:{ title="Up to 3 a day at Sunflower Market (Sweetwater), Westfield Supply Store (Westfield)" }, Wind-whipped Bread :lucide-store:{ title="Up to 2 a day at Stormwatch Provisions (Stormwatch)" }, and Spring Water :lucide-store:{ title="Up to 5 a day at Alembics & Infusions (Eastern Gate). Up to 3 a day at Sunflower Market (Sweetwater), East Gate Bazaar (Eastern Gate), Darkwood Trading Post (Gloomhaven), Stormwatch Provisions (Stormwatch), Frostbite Shelter (Icetooth Base Camp)" }.
+
+<div class="pdx-compact" markdown>
+
+| Ingredient | Best place | Region |
+|---|---|---|
+| Wild Berry :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate)" } | Meadowlands Foraging | Sweetwater |
+| Bird Egg :lucide-store:{ title="Up to 2 a day at Darkwood Trading Post (Gloomhaven). Up to 1 a day at Stormwatch Provisions (Stormwatch)" } | Forage at Lake Serentis | Sweetwater |
+| Honeyroot :lucide-store:{ title="Up to 3 a day at Sunflower Apothecary (Sweetwater)" } | Windmill Hills | Westfield |
+| Earthcap :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate), Darkwood Trading Post (Gloomhaven)" }, Mudspuds :lucide-store:{ title="Up to 2 a day at East Gate Bazaar (Eastern Gate), Mugger's Market (The Burrows), Stormwatch Provisions (Stormwatch)" }, Pumpkin, Wild Truffle | Secret Gardens of the Old City | Eastern Gate |
+| Spongy Morel :lucide-store:{ title="Up to 3 a day at Darkwood Trading Post (Gloomhaven)" }, Starlight Apple :lucide-store:{ title="Up to 3 a day at Darkwood Trading Post (Gloomhaven)" }, Starberry | Sylvan Glade | Gloomhaven |
+| Tomato :lucide-store:{ title="Up to 3 a day at Darkwood Trading Post (Gloomhaven). Up to 1 a day at Stormwatch Provisions (Stormwatch)" }, Gloom Lettuce :lucide-store:{ title="Up to 3 a day at Darkwood Trading Post (Gloomhaven). Up to 2 a day at East Gate Bazaar (Eastern Gate). Up to 1 a day at Stormwatch Provisions (Stormwatch)" } | Goblin Swamp | Gloomhaven |
+| Stag Meat | Gloomwood Den :lucide-move-right: The Fogbound Hollow :lucide-move-right: The Dark Canopy | Gloomhaven |
+| Boar Meat, Boar Ribs | Briarstone Thicket | Briarstone Quarry |
+| Alpine Nuts, High Mountain Citrus, Cragfruit | Shepherd's Steppes | Stormwatch |
+| Mutton | Shepherd's Steppes :lucide-move-right: Shepherd's Reach | Stormwatch |
+| Snowberry | Frostbite Ridge | Stormwatch |
+| Frostfern | See [Alchemy](#alchemy) | |
+| Crab Meat, Raptor Meat :lucide-orbit:{ title="Waystone decks only" } | Sweetwater waystone decks | Sweetwater |
+| Bear Meat :lucide-orbit:{ title="Waystone decks only" } | Sweetwater and Gloomhaven waystone decks | Sweetwater, Gloomhaven |
+
+</div>
+
+- **Wild Truffle** also turns up in Whispering Caves in Sweetwater. It's rare, so an early find is worth selling for a head start.
+
 ## Imbuing
 
 Imbuing upgrades an item to the next rarity tier, from Socketed or Common to Uncommon, then to Rare. It uses crafting materials, which is why Crafting comes before Enchanting in this guide.
