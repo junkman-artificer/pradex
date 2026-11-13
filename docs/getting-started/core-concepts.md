@@ -10,7 +10,7 @@ That's why most of this guide is about preparation.
 
 ## VITA
 
-VITA is the energy you spend to play, and you earn it by walking in the real world. A brand-new character even starts with VITA from their last two days of walking.
+VITA is the energy you spend to play, and you earn it by walking in the real world. A brand-new character even starts with VITA from their last two days of walking. You can hold up to **80 VITA** at a time, and anything past that waits for you until you spend some.
 
 | Steps each day | VITA earned |
 |---|---|
