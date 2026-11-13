@@ -20,6 +20,14 @@ Your field guide to Prado. Everything from making your first character to master
 
     [:lucide-arrow-right: Create](character-creation/index.md)
 
+-   :lucide-footprints:{ .lg .middle } __First Steps__
+
+    ---
+
+    What to do in your first session, in order.
+
+    [:lucide-arrow-right: Play](getting-started/first-steps.md)
+
 -   :lucide-playing-cards-fan:{ .lg .middle } __Classes__
 
     ---

@@ -15,11 +15,11 @@ nav = [
   { "Home" = "index.md" },
   { "Getting Started" = [
     "getting-started/index.md",
-    { "First Steps" = "getting-started/first-steps.md" },
     { "Core Concepts" = "getting-started/core-concepts.md" },
     { "FAQ" = "getting-started/faq.md" },
   ] },
   { "Character Creation" = "character-creation/index.md" },
+  { "First Steps" = "getting-started/first-steps.md" },
   { "Classes" = [
     "classes/index.md",
     { "Warrior" = "classes/warrior.md" },

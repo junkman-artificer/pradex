@@ -4,17 +4,9 @@ Prado is a deck-based walking RPG where your progress is fueled by you. Your ste
 
 ## How to use this guide
 
-Pradex follows the path most players take, from making a character all the way to tackling waystones. Brand new? Read the three pages below in order. Already played a bit? Jump straight to whatever you need from the sidebar.
+Pradex follows the path most players take, from making a character all the way to tackling waystones. Brand new? Follow the pages below in order: learn the basics, make your character, then play your first session. Already played a bit? Jump straight to whatever you need from the sidebar.
 
 <div class="grid cards" markdown>
-
--   :lucide-footprints:{ .lg .middle } __First Steps__
-
-    ---
-
-    What to do in your first session, in order.
-
-    [:lucide-arrow-right: Start here](first-steps.md)
 
 -   :lucide-brain:{ .lg .middle } __Core Concepts__
 
@@ -22,7 +14,23 @@ Pradex follows the path most players take, from making a character all the way t
 
     The key mechanics everything else builds on.
 
-    [:lucide-arrow-right: Learn the basics](core-concepts.md)
+    [:lucide-arrow-right: Start here](core-concepts.md)
+
+-   :lucide-user-plus:{ .lg .middle } __Character Creation__
+
+    ---
+
+    The choices worth getting right before you hit Create.
+
+    [:lucide-arrow-right: Create](../character-creation/index.md)
+
+-   :lucide-footprints:{ .lg .middle } __First Steps__
+
+    ---
+
+    What to do in your first session, in order.
+
+    [:lucide-arrow-right: Play](first-steps.md)
 
 -   :lucide-circle-help:{ .lg .middle } __FAQ__
 

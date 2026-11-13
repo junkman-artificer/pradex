@@ -47,3 +47,5 @@ Crafting makes gear and consumables from gathered materials. Enchanting changes 
 Waystones are Prado's end-game PvE. Each region has its own decks, packed with Unique Treasures to open and Unique Monsters to take down for gear.
 
 [:lucide-arrow-right: Learn more](../waystones/index.md)
+
+[:lucide-arrow-right: Next: Character Creation](../character-creation/index.md)

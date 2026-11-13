@@ -12,8 +12,19 @@
 !!! warning "Your name and looks are final"
     Once you start, your character's name and appearance are locked in. Take your time here.
 
-!!! info "Your class isn't permanent"
-    You can switch classes any time you're in town. Each class has its own level and experience bar, so switching never resets your progress on the others. See [Classes](../classes/index.md) to compare them.
+## Picking your first class
+
+Don't overthink it: you can switch classes any time you're in town, and each class has its own level and experience bar, so switching never resets your progress on the others. Here's a quick way to find a starting point:
+
+| Class | You might like it if... | Available to |
+|---|---|---|
+| [Warrior](../classes/warrior.md) | you want to be on the front line, taking hits and dishing them out | Everyone |
+| [Magician](../classes/magician.md) | you like big elemental spells, usually cast from the back line | Everyone |
+| [Thief](../classes/thief.md) | you like fast dual-wielded hits, poisons, and dodging | Everyone |
+| [Priest](../classes/priest.md) | you like keeping your party alive with heals and support | Everyone |
+| [Bard](../classes/bard.md) | you like boosting allies and weakening enemies with songs | Subscribers |
+| [Blood Knight](../classes/blood-knight.md) | you like trading your own health for power, then winning it back | Subscribers |
+| [Ranger](../classes/ranger.md) | you like picking enemies off from the back line with a bow | Subscribers, current season only |
 
 ## Seasonal or Legacy
 
@@ -46,4 +57,4 @@ Here's the thing: there's no downside to checking it. If you change your mind, j
 
 VITA is the energy you spend to play. You start with VITA equal to your **last two days of walking**, so a couple of active days before you start means a stronger first session.
 
-[:lucide-arrow-right: Next: Classes](../classes/index.md)
+[:lucide-arrow-right: Next: First Steps](../getting-started/first-steps.md)
