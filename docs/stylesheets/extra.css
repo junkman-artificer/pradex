@@ -283,3 +283,12 @@
 .md-header__source { width: auto; max-width: none; }
 .md-source__repository { max-width: none; overflow: visible; }
 .md-source__facts { display: none; }
+
+/* Compact tables: let narrow tables fit on phones */
+.md-typeset .pdx-compact table:not([class]) th { min-width: 0; }
+.md-typeset .pdx-compact table:not([class]) th,
+.md-typeset .pdx-compact table:not([class]) td { padding: .6em .7em; }
+@media screen and (max-width: 44.984375em) {
+  .md-typeset .pdx-compact table:not([class]) th,
+  .md-typeset .pdx-compact table:not([class]) td { padding: .5em .4em; }
+}
