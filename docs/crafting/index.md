@@ -18,7 +18,51 @@ Every recipe uses at least one crystal. Gear professions always use the same one
 
 ## Gathering materials
 
-[Which waystone decks are best for farming each material.]
+There are no public loot tables for Prado Traveler, so these picks come from player experience.
+
+### Smithing
+
+Ore comes from vein, deposit and cluster cards. Many adventure decks also have a vein or two.
+
+| Ore | Where to find it | Region |
+|---|---|---|
+| Copper, Tin | Collapsed Mine Shaft | Eastern Gate |
+| Copper, Tin, Silver | Flooded Ruins, Sunken Quarry | The Burrows |
+| Iron, Coal, Gold | Goblin Digsite | Gloomhaven |
+| Iron, Coal, Gold | The Iron Pits into Miner's Folly into Vein of Kings | Briarstone Quarry |
+| Arcanite | Highwind Mines | Stormwatch |
+| Mithril | Excavation Site No. 7 | Icetooth Base Camp |
+
+- **Just need Coal?** Leave the Iron Pits triple-decker after you finish Miner's Folly.
+- **Mithril:** Highwind Mines drops a few, but nothing beats Excavation Site No. 7. Getting up to Icetooth Base Camp costs 40 Vita, so it's only worth it if you plan to stay a while. The Excavation Site also drops Arcanite, but Arcanite and Mithril share drop chances there, so it's not the best pick if you only want Arcanite.
+
+### Tailoring
+
+| Material | Best place | Region |
+|---|---|---|
+| Flax Fibers | Old Mill Pasture | Westfield |
+| Scraps of Cloth | Old City Forum | Eastern Gate |
+| Spider Silk | Crawler's Nest | Briarstone Quarry |
+| Highland Fleece | Shepherd's Steppes into Shepherd's Reach | Stormwatch |
+
+- **Scraps of Cloth** only drop from monsters. Old City Forum has the fewest cards that get in the way.
+- **Highland Fleece** only drops in the Shepherd's Steppes double-decker. Icetooth Peaks can drop Kashrynni Wool directly, but don't count on it.
+
+### Leatherworking
+
+Every hide drops from monsters, so look for decks with lots of monster cards and few other cards.
+
+| Material | Best place | Region |
+|---|---|---|
+| Soft Hide | Windmill Hills | Westfield |
+| Scavenger's Hide | The Burrows | The Burrows |
+| Beast Hide | Briarstone Thicket | Briarstone Quarry |
+| Frost Hide | Icetooth Peaks | Icetooth Base Camp |
+| Dragon Hide | Icetooth Peaks | Icetooth Base Camp |
+
+- **Old Mill Pasture** is worth running for Soft Hide too. You get flax in the same run, and leatherworkers need thread from Tailoring.
+- **Scavenger's Hide:** The Burrows is best if you only want to level the craft. Otherwise, run the Sunken Crypts triple-decker. Its final boss drops Unique gear, and for most classes that's their first gear with Mana Regen.
+- **Icetooth Peaks** covers Frost Hide, Dragon Hide and the occasional Kashrynni Wool in one run, and it has two powerful Unique monsters.
 
 ## Imbuing
 

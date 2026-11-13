@@ -32,10 +32,10 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
 | Linen Gloves<br><span class="pdx-slot">Gloves</span> | 1 | 1 | 1~ | [ ] | 1 Linen Cloth<br>1 Rough String |
 | Linen Shirt<br><span class="pdx-slot">Chest</span> | 1 | 4 | 1~ | [ ] | 3 Linen Cloth<br>1 Rough String |
 | Linen Pants<br><span class="pdx-slot">Pants</span> | 1 | 4 | 1~ | [ ] | 3 Linen Cloth<br>1 Rough String |
-| Thick Linen Gloves :lucide-scroll:{ title="Found in Westfall" }<br><span class="pdx-slot">Gloves</span> | 5 | 6 | 5~ | [ ] | 2 Linen Cloth<br>1 Rough String |
-| Thick Linen Slippers :lucide-scroll:{ title="Found in Westfall" }<br><span class="pdx-slot">Boots</span> | 5 | 6 | 5~ | [ ] | 2 Linen Cloth<br>1 Rough String |
-| Thick Linen Shirt :lucide-scroll:{ title="Found in Westfall" }<br><span class="pdx-slot">Chest</span> | 5 | 8 | 5~ | [ ] | 4 Linen Cloth<br>1 Rough String |
-| Thick Linen Pants :lucide-scroll:{ title="Found in Westfall" }<br><span class="pdx-slot">Pants</span> | 5 | 8 | 5~ | [ ] | 4 Linen Cloth<br>1 Rough String |
+| Thick Linen Gloves :lucide-scroll:{ title="Found in Westfield" }<br><span class="pdx-slot">Gloves</span> | 5 | 6 | 5~ | [ ] | 2 Linen Cloth<br>1 Rough String |
+| Thick Linen Slippers :lucide-scroll:{ title="Found in Westfield" }<br><span class="pdx-slot">Boots</span> | 5 | 6 | 5~ | [ ] | 2 Linen Cloth<br>1 Rough String |
+| Thick Linen Shirt :lucide-scroll:{ title="Found in Westfield" }<br><span class="pdx-slot">Chest</span> | 5 | 8 | 5~ | [ ] | 4 Linen Cloth<br>1 Rough String |
+| Thick Linen Pants :lucide-scroll:{ title="Found in Westfield" }<br><span class="pdx-slot">Pants</span> | 5 | 8 | 5~ | [ ] | 4 Linen Cloth<br>1 Rough String |
 
 </div>
 
