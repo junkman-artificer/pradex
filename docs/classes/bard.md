@@ -29,12 +29,37 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Uniques to watch for
 
-Uniques you can find while leveling that are worth keeping an eye out for:
+Uniques you can find while leveling that are worth keeping an eye out for.
 
-| Item | Where to find it | Why it's worth grabbing |
-|---|---|---|
-| [Item name] | [Location] | [What makes it good] |
-| [Item name] | [Location] | [What makes it good] |
+??? note "Calypthia, the Guardian Nereid: Necklace"
+    **Where:** Relic's Rest, at the end of the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker (The Burrows). Level 11 gear.
+
+    **Why:** Jewelry is already hard to find, and Mana Regen gear is rare before the endgame, so this necklace really stands out. Outside of a lucky Smithing craft, it's likely the only one you'll see while leveling, and pretty much everyone wears it all the way from 11 to 25.
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Seal of the Deep Warden</span><span class="pdx-item__slot">Necklace</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">2</b></span><span class="pdx-chip">Barrier Regen <b class="c-bar">4</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
+
+??? note "Goblin Treasure Box: Bow"
+    **Where:** The treasure box for finishing Thronheart Chamber (Gloomhaven). Every item in it is level 16.
+
+    **Why:** A back line bow with Dexterity, Hit, Crit and Double Strike.
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gloomwood Longbow</span><span class="pdx-item__slot">Bow</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">30-36</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">7.67</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">4.3s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">5</b></span><span class="pdx-chip">Weapon Hit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">Weapon Crit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">Double Strike <b class="c-oth">7%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">27</b></span></div></div>
+
+??? note "Briar Beast: Cape, Ring"
+    **Where:** The Beast's Lair (Briarstone Quarry). Level 16 to 18 gear.
+
+    **Why:** The cape covers both Dexterity and Intellect plus Mana, and the ring brings both regens.
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Mantle of the Wild Hunt</span><span class="pdx-item__slot">Cape</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">17</b></span><span class="pdx-chip">Health <b class="c-hp">12</b></span><span class="pdx-chip">Mana <b class="c-mana">16</b></span><span class="pdx-chip">Dexterity <b class="c-dex">5</b></span><span class="pdx-chip">Intellect <b class="c-int">7</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">33</b></span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Band of Endless Growth</span><span class="pdx-item__slot">Ring</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Health Regen <b class="c-hp">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">5</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
+
+??? note "Zephyra, Queen of the Skies: Boots"
+    **Where:** Icetooth Peaks (Icetooth Base Camp). Level 24 gear.
+
+    **Why:** Dexterity, Intellect, both regens and Evasion on one pair of boots.
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Zephyra&#x27;s Skywalkers</span><span class="pdx-item__slot">Boots</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">28</b></span><span class="pdx-chip">Health <b class="c-hp">14</b></span><span class="pdx-chip">Mana <b class="c-mana">20</b></span><span class="pdx-chip">Strength <b class="c-str">4</b></span><span class="pdx-chip">Dexterity <b class="c-dex">8</b></span><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Evasion <b class="c-oth">8%</b></span><span class="pdx-chip">Magic Resistance <b class="c-oth">5%</b></span><span class="pdx-chip">Health Regen <b class="c-hp">3</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">3</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">52</b></span><span class="pdx-chip">Intellect <b class="c-int">52</b></span></div></div>
 
 ## Builds
 
