@@ -3,7 +3,7 @@
 [:lucide-shield: Official Warrior page](https://www.pradotraveler.com/classes/WAR){ .md-button .md-button--primary target="_blank" }
 
 !!! info "At a glance"
-    - **Role:** Tank
+    - **Role:** Bruiser
     - **Availability:** Everyone
     - **Weapons:** Shield, Quiver, Sword, Axe, Club, Mace, Great Sword, Great Axe, Spear, Bow
     - **Playstyle:** [one line]

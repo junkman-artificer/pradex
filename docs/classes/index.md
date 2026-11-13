@@ -8,7 +8,7 @@ Every class has a fixed stat path, so what really sets you apart is your gear, y
 
     ---
 
-    Tank. Absorbs damage and protects the party.
+    Bruiser. Tanky front liner with heavy melee damage.
 
     [:lucide-arrow-right: View class](warrior.md)
 
@@ -16,7 +16,7 @@ Every class has a fixed stat path, so what really sets you apart is your gear, y
 
     ---
 
-    Elemental spellcaster. Powerful but fragile.
+    Caster. Elemental damage from the back line, and unmatched mana regen for the whole party.
 
     [:lucide-arrow-right: View class](magician.md)
 
@@ -24,7 +24,7 @@ Every class has a fixed stat path, so what really sets you apart is your gear, y
 
     ---
 
-    Dual wielder. Traps, evasion, and burst damage.
+    Skirmisher. Dual wielder with poison, evasion, and burst damage.
 
     [:lucide-arrow-right: View class](thief.md)
 
@@ -32,7 +32,7 @@ Every class has a fixed stat path, so what really sets you apart is your gear, y
 
     ---
 
-    Healer. Mends wounds and shields allies.
+    Cleric. Mends wounds, shields allies, and smites foes with holy magic.
 
     [:lucide-arrow-right: View class](priest.md)
 
@@ -40,7 +40,7 @@ Every class has a fixed stat path, so what really sets you apart is your gear, y
 
     ---
 
-    Buffs allies and debuffs enemies.<br>
+    Support. Buffs allies and debuffs enemies.<br>
     *Subscriber only.*
 
     [:lucide-arrow-right: View class](bard.md)
@@ -49,7 +49,7 @@ Every class has a fixed stat path, so what really sets you apart is your gear, y
 
     ---
 
-    Fuels power with their own life.<br>
+    Juggernaut. Fuels power with their own life.<br>
     *Subscriber only.*
 
     [:lucide-arrow-right: View class](blood-knight.md)
@@ -58,7 +58,7 @@ Every class has a fixed stat path, so what really sets you apart is your gear, y
 
     ---
 
-    Ranged marksman.<br>
+    Marksman. Ranged physical damage.<br>
     *Subscriber only, current season.*
 
     [:lucide-arrow-right: View class](ranger.md)

@@ -3,7 +3,7 @@
 [:lucide-wand-sparkles: Official Magician page](https://www.pradotraveler.com/classes/MAG){ .md-button .md-button--primary target="_blank" }
 
 !!! info "At a glance"
-    - **Role:** Elemental spellcaster
+    - **Role:** Caster
     - **Availability:** Everyone
     - **Weapons:** Orb, Dagger, Sword, Mace, Spear, Staff, Wand
     - **Playstyle:** [one line]

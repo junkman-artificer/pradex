@@ -3,7 +3,7 @@
 [:lucide-droplet: Official Blood Knight page](https://www.pradotraveler.com/classes/BLO){ .md-button .md-button--primary target="_blank" }
 
 !!! info "At a glance"
-    - **Role:** Self-sustaining dark warrior
+    - **Role:** Juggernaut
     - **Availability:** Subscriber only
     - **Weapons:** Sword, Axe, Mace, Club, Great Sword, Great Axe, Spear
     - **Playstyle:** [one line]
