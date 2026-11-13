@@ -14,23 +14,34 @@ Every recipe uses at least one crystal. Gear professions always use the same one
 | Alchemy | Varies by recipe |
 | Cooking | Varies by recipe |
 
-[Where crystals come from.]
+Every town sells crystals except Briarstone Quarry. Shops restock daily with a random amount, so these are the most each town can have:
+
+| Town | Earth | Fire | Water | Wind |
+|---|---|---|---|---|
+| Sweetwater | 3 | 3 | 3 | 3 |
+| Westfield | 3 | 3 | 3 | 3 |
+| Eastern Gate | 6 | 7 | 7 | 7 |
+| The Burrows | 2 | 2 | 2 | 2 |
+| Gloomhaven | 6 | 6 | 6 | 9 |
+| Stormwatch | 3 | 3 | 3 | 3 |
+| Icetooth Base Camp | 0 | 2 | 0 | 0 |
 
 ## Gathering materials
 
 There are no public loot tables for Prado Traveler, so these picks come from player experience.
 
+You can also buy some materials in town. Shops restock daily with a random amount up to a cap, so raw materials won't always be there. Look for :lucide-store: and hover over it to see where to buy.
+
 ### Smithing
 
 Ore comes from vein, deposit and cluster cards. Many adventure decks also have a vein or two.
 
-| Ore | Where to find it | Region |
+| Ore | Best place | Region |
 |---|---|---|
-| Copper, Tin | Collapsed Mine Shaft | Eastern Gate |
-| Copper, Tin, Silver | Flooded Ruins, Sunken Quarry | The Burrows |
-| Iron, Coal, Gold | Goblin Digsite | Gloomhaven |
-| Iron, Coal, Gold | The Iron Pits into Miner's Folly into Vein of Kings | Briarstone Quarry |
-| Arcanite | Highwind Mines | Stormwatch |
+| Copper | Collapsed Mine Shaft | Eastern Gate |
+| Tin, Silver | Flooded Ruins :lucide-move-right: Sunken Quarry | The Burrows |
+| Iron, Coal, Gold | The Iron Pits :lucide-move-right: Miner's Folly :lucide-move-right: Vein of Kings | Briarstone Quarry |
+| Arcanite :lucide-store:{ title="Up to 2 a day at Gale's Training Yard (Stormwatch)" } | Highwind Mines | Stormwatch |
 | Mithril | Excavation Site No. 7 | Icetooth Base Camp |
 
 - **Just need Coal?** Leave the Iron Pits triple-decker after you finish Miner's Folly.
@@ -40,10 +51,10 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Material | Best place | Region |
 |---|---|---|
-| Flax Fibers | Old Mill Pasture | Westfield |
-| Scraps of Cloth | Old City Forum | Eastern Gate |
+| Flax Fibers :lucide-store:{ title="Up to 3 a day at Sunflower Market (Sweetwater), Westfield Supply Store (Westfield), East Gate Bazaar (Eastern Gate)" } | Old Mill Pasture | Westfield |
+| Scraps of Cloth :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate)" } | Old City Forum | Eastern Gate |
 | Spider Silk | Crawler's Nest | Briarstone Quarry |
-| Highland Fleece | Shepherd's Steppes into Shepherd's Reach | Stormwatch |
+| Highland Fleece | Shepherd's Steppes :lucide-move-right: Shepherd's Reach | Stormwatch |
 
 - **Scraps of Cloth** only drop from monsters. Old City Forum has the fewest cards that get in the way.
 - **Highland Fleece** only drops in the Shepherd's Steppes double-decker. Icetooth Peaks can drop Kashrynni Wool directly, but don't count on it.
@@ -54,14 +65,14 @@ Every hide drops from monsters, so look for decks with lots of monster cards and
 
 | Material | Best place | Region |
 |---|---|---|
-| Soft Hide | Windmill Hills | Westfield |
-| Scavenger's Hide | The Burrows | The Burrows |
+| Soft Hide :lucide-store:{ title="Up to 2 a day at Westfield Supply Store (Westfield). Up to 3 a day at East Gate Bazaar (Eastern Gate)" } | Windmill Hills | Westfield |
+| Scavenger's Hide :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate)" } | The Burrows | The Burrows |
 | Beast Hide | Briarstone Thicket | Briarstone Quarry |
 | Frost Hide | Icetooth Peaks | Icetooth Base Camp |
 | Dragon Hide | Icetooth Peaks | Icetooth Base Camp |
 
 - **Old Mill Pasture** is worth running for Soft Hide too. You get flax in the same run, and leatherworkers need thread from Tailoring.
-- **Scavenger's Hide:** The Burrows is best if you only want to level the craft. Otherwise, run the Sunken Crypts triple-decker. Its final boss drops Unique gear, and for most classes that's their first gear with Mana Regen.
+- **Scavenger's Hide:** The Burrows is best if you only want to level the craft. Otherwise, run the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker. Its final boss drops Unique gear, and for most classes that's their first gear with Mana Regen.
 - **Icetooth Peaks** covers Frost Hide, Dragon Hide and the occasional Kashrynni Wool in one run, and it has two powerful Unique monsters.
 
 ## Imbuing
