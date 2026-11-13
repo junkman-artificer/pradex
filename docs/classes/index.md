@@ -1,6 +1,6 @@
 # Classes
 
-Every class has a fixed stat path, so your choices come down to gear, enchanting, and how you play. You can switch classes any time you're in town, and each class has its own level and experience bar, so trying a new one means leveling it from the start. Pick a class to see its priorities, leveling tips, uniques to watch for, and builds.
+Every class has a fixed stat path, so what really sets you apart is your gear, your enchanting, and how you play. You can switch classes any time you're in town. Each class has its own level and experience bar, though, so trying a new one means leveling it from the start. Pick a class below to see its priorities, leveling tips, uniques to watch for, and builds.
 
 <div class="grid cards" markdown>
 
@@ -67,11 +67,11 @@ Every class has a fixed stat path, so your choices come down to gear, enchanting
 
 ## Subclasses
 
-Once unlocked, you can pick a second class to bring along as a **subclass**.
+Once you unlock it, you can bring a second class along for the ride as a **subclass**.
 
 ### Unlocking subclasses
 
-Beat the **Sunken Crypt**, **The Drowned Tombs**, and **Relic's Rest** triple-deck in [The Burrows](../waystones/regions/the-burrows.md).
+Beat the **Sunken Crypts**, **The Drowned Tombs**, and **Relic's Rest** triple-deck in [The Burrows](../waystones/regions/the-burrows.md).
 
 ### Subclass level
 
@@ -85,16 +85,16 @@ A subclass uses its own level, but it's capped at **half your main class's level
 | 25 | 20 | 12 (the highest any subclass can reach) |
 
 !!! warning "Level 13 and up is out of reach"
-    Since a subclass can never go above level 12, abilities and traits that unlock at level 13 or higher are never available from a subclass. Each class page lists what it unlocks by level 12 under **As a subclass**.
+    A subclass can never go above level 12, so anything that unlocks at level 13 or higher is off the table. Each class page lists what you do get by level 12 under **As a subclass**.
 
 ### Subclass experience
 
 - **One bar per class.** A class uses the same experience bar whether you play it as your main or as a subclass.
-- **Half experience, for free.** While slotted as a subclass, a class earns half the experience your main earns. It doesn't take anything away from your main.
+- **Half experience, for free.** While slotted as a subclass, a class earns half the experience your main earns, and it doesn't take a thing away from your main.
 - **Every source counts,** including quest turn-ins, monsters, and deck completions.
 
 !!! tip "Level two classes at once"
-    Slotting a class you plan to play later as your subclass levels it at half speed while you play your main.
+    Got a class you want to play later? Slot it as your subclass and it'll level at half speed while you play your main.
 
 !!! tip "Claim quests on the class you're leveling"
-    Once your main is level 25, switch the class you want to level to your main in town before you claim quest rewards. It earns the full experience instead of half as a subclass.
+    Once your main hits level 25, swap the class you're leveling into your main slot in town before you claim quest rewards. That way it gets the full experience instead of half.

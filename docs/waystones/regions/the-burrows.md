@@ -6,7 +6,7 @@
     - **Same preferred gear as:** Eastern Gate
 
 !!! tip "Unlocks subclasses"
-    Beating the **Sunken Crypt**, **The Drowned Tombs**, and **Relic's Rest** triple-deck here unlocks [subclasses](../../classes/index.md#subclasses).
+    Beating the **Sunken Crypts**, **The Drowned Tombs**, and **Relic's Rest** triple-deck here unlocks [subclasses](../../classes/index.md#subclasses).
 
 ## Overview
 

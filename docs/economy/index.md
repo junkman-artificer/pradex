@@ -1,6 +1,6 @@
 # Economy
 
-Money matters more than it seems early on. You'll spend it constantly while leveling, and costs rise as the game goes on.
+Money matters more than it seems early on. You'll be spending it constantly while leveling, and things only get pricier from there.
 
 ## Currency
 
@@ -18,7 +18,7 @@ Prado uses a simple base-100 system:
 - **Resting** in town to heal without using items
 
 !!! warning "Don't go broke"
-    The cost of resting goes up as the game goes on. Running out of money means healing with items or not at all, so always keep a buffer.
+    Resting gets more expensive as you go. Run out of money and you're healing with items, or not at all, so always keep a little buffer.
 
 ## Trading Post :lucide-triangle-alert:{ .lone-wolf-warn title="Ends Lone Wolf status" }
 
@@ -49,11 +49,11 @@ The seller always pays the fee.
 | Sell instantly into a buy order | 10% |
 
 !!! tip "List instead of selling instantly"
-    Listing your own sell order costs far less than selling into an existing buy order. Unless you need the money right away, list it.
+    Listing your own sell order costs way less than selling into an existing buy order. Unless you need the gold right now, list it and be patient.
 
 ### Mailbox
 
-Items and gold from the Trading Post are delivered to your **Mailbox**. Gold from a sale always arrives **two hours** after the sale, which gives the developers time to catch suspicious trades.
+Items and gold from the Trading Post are delivered to your **Mailbox**. Gold from a sale always shows up **two hours** after the sale. That gives the developers time to catch anything suspicious, so don't panic if it's not there right away.
 
 !!! warning "Lone Wolf players"
     Using the Trading Post ends your [Lone Wolf](../character-creation/index.md#lone-wolf-optional) status.

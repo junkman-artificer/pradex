@@ -1,16 +1,16 @@
 # Core Concepts
 
-The key ideas behind Prado. Each one gets a short overview here, with a link to its full guide.
+Here's the short version of how Prado works. Each idea gets a quick overview, with a link to its full guide if you want more.
 
 ## Combat is automatic
 
-Prado is an autobattler. Fights play out on their own, so you don't time attacks or cast spells by hand. What matters is everything you set up beforehand: your class, your gear, and who's in your party.
+Prado is an autobattler. Fights play out on their own, so there's no timing attacks or casting spells by hand. What actually matters is everything you set up beforehand: your class, your gear, and who's in your party.
 
 That's why most of this guide is about preparation.
 
 ## Vita
 
-Vita is the energy you spend to play, and it comes from your real-world walking. A new character starts with Vita equal to their last two days of walking.
+Vita is the energy you spend to play, and you earn it by walking in the real world. A brand-new character even starts with Vita from their last two days of walking.
 
 | Steps each day | Vita earned |
 |---|---|
@@ -20,19 +20,19 @@ Vita is the energy you spend to play, and it comes from your real-world walking.
 You also get **100 bonus experience** each at **2,000** and **5,000** steps every day, for 200 total.
 
 !!! tip "Hit 5,000 steps every day"
-    The first 5,000 steps give you the best Vita return plus both experience bonuses. Reaching it every day is the single best habit for steady progress.
+    Your first 5,000 steps give you the best Vita return, plus both experience bonuses. If you build one habit, make it this one.
 
 [:lucide-arrow-right: Learn more](../character-creation/index.md#once-you-start-vita)
 
 ## Classes
 
-Your class decides your abilities and which weapons you can use. You can switch classes any time you're in town, and each class levels up separately.
+Your class decides your abilities and which weapons you can use. Don't stress about picking wrong, though: you can switch classes any time you're in town, and each one levels up separately.
 
 [:lucide-arrow-right: Learn more](../classes/index.md)
 
 ## Gear
 
-You have 12 equipment slots. Gear comes in six rarity tiers, and higher tiers can hold more affixes, the bonus stats that make an item strong.
+You've got 12 equipment slots to fill. Gear comes in six rarity tiers, and higher tiers can hold more affixes, the bonus stats that make an item really shine.
 
 [:lucide-arrow-right: Learn more](../gearing-up/index.md)
 
@@ -44,6 +44,6 @@ Crafting makes gear and consumables from gathered materials. Enchanting changes 
 
 ## Waystones
 
-Waystones are where the endgame happens. Each region has its own decks, with Unique Treasures to open and Unique Monsters to defeat for gear.
+Waystones are Prado's end-game PvE. Each region has its own decks, packed with Unique Treasures to open and Unique Monsters to take down for gear.
 
 [:lucide-arrow-right: Learn more](../waystones/index.md)

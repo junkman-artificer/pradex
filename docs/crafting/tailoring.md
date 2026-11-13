@@ -41,6 +41,7 @@ There are no public loot tables for Prado Traveler, so these picks come from pla
 !!! note "Making Rough String"
     - **Skill level:** 1
     - **Ingredients:** 1 Flax Fibers, 1 Wind Crystal
+    - **Buy:** Up to 2 a day at East Gate Bazaar (Eastern Gate)
 
 <div class="pdx-recipes" markdown>
 

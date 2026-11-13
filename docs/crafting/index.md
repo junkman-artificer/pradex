@@ -50,10 +50,10 @@ For why this matters, see [the endgame path](../gearing-up/rarity.md#socketed) o
 Crafting earns profession experience, and leveling up unlocks more advanced recipes. As you level, older recipes give less experience, so it pays to keep moving up to newer ones.
 
 !!! tip "First craft bonus"
-    The first time you craft any recipe, you get **double** its full experience, even if you've outleveled it. Try every recipe at least once, and keep an eye out for rare recipe drops.
+    The first time you craft any recipe, you get **double** its full experience, even if you've outleveled it. So try every recipe at least once, and keep an eye out for rare recipe drops!
 
 !!! info "Pick a specialty"
-    Maxing a profession takes a lot of crafting, and maxing all of them at once is very hard. Most players do better by focusing on one or two early and either funneling the other resources into party members or selling their extra materials on the [Trading Post](../economy/index.md#trading-post).
+    Maxing a profession takes a lot of crafting, and maxing all of them at once is a real grind. Most players do better picking one or two early, then either passing the other materials to party members or selling the extras on the [Trading Post](../economy/index.md#trading-post).
 
 ## Professions
 

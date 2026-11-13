@@ -10,4 +10,4 @@ Unique Monsters drop more gear the bigger your party is, but larger parties pay 
 | 4 players | 2 to 3, with a higher chance of 3 | 2 |
 
 !!! tip "Go for a full party"
-    3 and 4 players pay the same Vita, but 4 players have better odds at 3 pieces. If you're already planning for a group of 3, it's worth finding a 4th if everyone isn't looking for the same thing.
+    3 and 4 players pay the same Vita, but 4 players get better odds at 3 pieces. Already running as a group of 3? It's worth grabbing a 4th, especially if you're not all hunting for the same thing.

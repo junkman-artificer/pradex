@@ -8,7 +8,7 @@ Official pages and community tools worth bookmarking.
 
 The single most useful page on the official site, and the easiest to miss. It's tucked under **Professions** on pradotraveler.com, even though enchanting isn't a profession.
 
-Filter by item type, stat requirement, and item level to see every Prefix and Suffix that can roll on an item, with its tiers and odds. Check it before spending attunements.
+Filter by item type, stat requirement, and item level to see every Prefix and Suffix that can roll on an item, with its tiers and odds. Seriously, check it before you spend attunements.
 
 ## Official site
 
@@ -68,4 +68,4 @@ Filter by item type, stat requirement, and item level to see every Prefix and Su
 
 ## Help improve Pradex
 
-Spot a mistake, or know something Pradex is missing? Message **Ezraek** on the [Prado Discord](https://discord.gg/CnB2zBeN65){ target="_blank" }. Screenshots help, and every correction makes the guide better for everyone.
+Spot a mistake, or know something Pradex is missing? Message **Ezraek** on the [Prado Discord](https://discord.gg/CnB2zBeN65){ target="_blank" }. Screenshots are a huge help, and every correction makes the guide better for everyone.

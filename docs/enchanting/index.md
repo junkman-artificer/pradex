@@ -1,6 +1,6 @@
 # Enchanting
 
-Enchanting changes an item's affixes using essence. This page covers how it works. For tips and priorities, see [Strategy](strategy.md).
+Enchanting changes an item's affixes using essence. This page covers how it all works. Looking for tips and priorities? Check out [Strategy](strategy.md).
 
 [:lucide-sparkles: Official enchantments list](https://www.pradotraveler.com/enchantments){ .md-button .md-button--primary target="_blank" }
 
@@ -39,7 +39,7 @@ Filling an empty slot costs more, and the cost goes up each time. [Exact costs.]
 Keep the affix, but reroll its number within its range. [Essence cost.]
 
 !!! tip "You can't roll the same value twice"
-    A reroll never lands on the value you already have. If an affix has a 6 to 7 range and yours is a 6, a reroll is guaranteed to give you the 7.
+    A reroll never lands on the value you already have. So if an affix has a 6 to 7 range and yours is a 6, a reroll is a guaranteed upgrade to 7.
 
 ## Imbuing
 
@@ -60,7 +60,7 @@ It costs one shard matching the item's level, plus crafting materials for that t
 | Prismatic Shard | 31 and up |
 
 !!! tip "Spend your Uncommon attunements first"
-    Imbuing refills your attunements, so use every Uncommon attunement to land great starting affixes or push their values to the max before imbuing to Rare.
+    Imbuing refills your attunements, so don't let your Uncommon ones go to waste. Use every one to land great starting affixes or max out their values before you imbue to Rare.
 
 !!! bug "Attunements didn't refill?"
-    That's a bug. Report it on the [Prado Discord](https://discord.gg/CnB2zBeN65) for help.
+    That's a bug! Report it on the [Prado Discord](https://discord.gg/CnB2zBeN65) and someone can help sort it out.

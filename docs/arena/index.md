@@ -1,6 +1,6 @@
 # Arena :lucide-triangle-alert:{ .lone-wolf-warn title="Ends Lone Wolf status" }
 
-The Arena is Prado's ranked player vs. player mode. Teams of three fight other teams for rating, titles, and in the top league, Marks of Valor. It unlocks at **level 7**.
+The Arena is Prado's ranked player vs. player mode. Teams of three duke it out for rating, titles, and, in the top league, Marks of Valor. It unlocks at **level 7**.
 
 !!! warning "Lone Wolf players"
     Entering the Arena ends your [Lone Wolf](../character-creation/index.md#lone-wolf-optional) status.
@@ -34,7 +34,7 @@ The Halls of Valor tracks two kinds of rating:
 
 ### Your PvP build
 
-Your Arena build is **separate from your PvE build**. It can use a different class and different gear, but it doesn't update on its own. When you get new gear, remember to update your PvP build by hand.
+Your Arena build is **separate from your PvE build**. It can use a different class and different gear, but it doesn't update on its own. So when you pick up new gear, don't forget to update your PvP build by hand too.
 
 !!! warning "Shrine and potion buffs stay with their class"
     Shrine blessings and potions are tied to the class that received them. If you play a different class in the Arena than in PvE, those buffs won't carry over.
@@ -67,7 +67,7 @@ Your rank in each league depends on your rating there.
 
 Reaching the top rank in a league earns that league's exclusive PvP title: **Skirmisher**, **Duelist**, or **Gladiator**.
 
-Your **rank title never drops**. It stays at the highest rank you've reached, even if your rating falls. If you reach Gladiator and then slip back to 1,100, you're still a Gladiator and can still buy the Gladiator weapons.
+Your **rank title never drops**. It stays at the highest rank you've reached, even if your rating falls. Hit Gladiator and then slip back to 1,100? You're still a Gladiator, and you can still buy the Gladiator weapons.
 
 ## Marks of Valor
 
@@ -84,7 +84,7 @@ Marks of Valor are the Arena's currency, spent on special Unique items.
 | Loss | 20 |
 | Draw | [ ] |
 
-Bigger rating gains come from **upset wins**, beating a team you were expected to lose to, so those are the wins that pay 55. The cutoff sits right at +25. The game likely tracks rating more precisely than the whole number it shows, so a displayed +25 can land on either side.
+Bigger rating gains come from **upset wins**, beating a team you were expected to lose to, so those are the wins that pay 55. The cutoff sits right at +25. The game probably tracks rating more precisely than the whole number it shows, so a +25 on screen can land on either side.
 
 ## Arena Uniques
 
@@ -115,11 +115,11 @@ All three weapons need **Gladiator** rank, cost **800** Marks, and give **+500 H
 | Gladiator's War Axe | Axe | 88 to 94 | 500 | 60 Strength |
 
 !!! tip "Stock refreshes daily"
-    The Armory stocks one of each item, and the stock refreshes **every day**. Come back the next day to replace something you've lost, or to pick up a second copy. Uniques aren't limited to one per character, so you can wear a pair of Gladiator's Bands or two of the same weapon.
+    The Armory stocks one of each item, and the stock refreshes **every day**. Lost something, or want a second copy? Just come back tomorrow. Uniques aren't limited to one per character either, so go ahead and wear a pair of Gladiator's Bands or two of the same weapon.
 
 ## Tips
 
-**PvP priorities aren't PvE priorities.** A general set of gear works well enough in PvE, but the Arena calls for things you don't need to worry about there:
+**PvP priorities aren't PvE priorities.** A general set of gear does just fine in PvE, but the Arena asks for things you never really have to worry about there:
 
 - **Big bursts of damage.** Make sure you can outlast heavy spikes, not just steady damage.
 - **Layered crowd control.** Expect stuns, freezes, and other effects stacked on top of each other. See [Status Effects](../combat/status-effects.md) for what each one does and how to protect against it.

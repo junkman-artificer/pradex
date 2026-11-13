@@ -3,17 +3,17 @@
 ## Before you create: get a friend code
 
 !!! tip "Free ring with a friend code"
-    Entering a friend code gets you a free ring with **+1 Health Regen and +1 Mana Regen**, which is a big boost early on.
+    Entering a friend code gets you a free ring with **+1 Health Regen and +1 Mana Regen**. That's a big boost early on, so don't skip it!
 
-    Don't have a friend who plays? Join the [Prado Discord](https://discord.gg/CnB2zBeN65) and ask for a code. Players are happy to share.
+    Don't have a friend who plays? No problem. Hop into the [Prado Discord](https://discord.gg/CnB2zBeN65) and ask for a code. Players are happy to share.
 
 ## Heads up
 
 !!! warning "Your name and looks are final"
-    You can't change your character's name or appearance after you start, so take your time.
+    Once you start, your character's name and appearance are locked in. Take your time here.
 
 !!! info "Your class isn't permanent"
-    You can switch classes any time you're in town. Each class has its own level and experience bar, so switching doesn't reset your progress on the others. See [Classes](../classes/index.md) to compare them.
+    You can switch classes any time you're in town. Each class has its own level and experience bar, so switching never resets your progress on the others. See [Classes](../classes/index.md) to compare them.
 
 ## Seasonal or Legacy
 
@@ -24,14 +24,14 @@ You can start on the current season or on Legacy.
 | **Updates** | Always has the latest | One season behind |
 | **Playing with others** | Only with other Seasonal players | Only with other Legacy players |
 
-There is no cross-server access. To join someone's party, you also need to be in the same area as them, so check where your friends are playing before you choose.
+There's no cross-server play, and to join someone's party you also need to be in the same area as them. Check where your friends are playing before you pick!
 
 !!! danger "Don't delete a Seasonal character to remake it"
-    Deleting your Seasonal character can lock you out of Seasonal for **30 days**. If you're unhappy with a character, think carefully before deleting it.
+    Deleting your Seasonal character can lock you out of Seasonal for **30 days**. If you're unhappy with a character, sleep on it before you hit delete.
 
 ## Lone Wolf (optional)
 
-During creation, there's a checkbox to start as a **Lone Wolf**. It's a challenge mode with no gameplay benefit. The only reward is a spot on the Solo Leaderboard, which is purely for bragging rights.
+During creation, there's a checkbox to start as a **Lone Wolf**. It's a challenge mode with no gameplay benefit at all. The only reward is a spot on the Solo Leaderboard, so it's purely for bragging rights.
 
 You lose Lone Wolf status as soon as you interact with other players. That includes:
 
@@ -40,10 +40,10 @@ You lose Lone Wolf status as soon as you interact with other players. That inclu
 - The Trading Post
 - Trading
 
-There's no downside to checking it. If you change your mind, just play with others and the status drops off with no penalty. If you're not sure, check it and keep your options open, since you can't turn it on later.
+Here's the thing: there's no downside to checking it. If you change your mind, just play with others and the status quietly drops off, no penalty. You can't turn it on later, though, so if you're on the fence, check it and keep your options open.
 
 ## Once you start: Vita
 
-Vita is the energy you spend to play. You start with Vita equal to your **last two days of walking**, so an active couple of days before you start gives you a stronger first session.
+Vita is the energy you spend to play. You start with Vita equal to your **last two days of walking**, so a couple of active days before you start means a stronger first session.
 
 [:lucide-arrow-right: Next: Classes](../classes/index.md)

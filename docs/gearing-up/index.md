@@ -1,6 +1,6 @@
 # Gearing Up
 
-Your character has 12 equipment slots. Here's how they're laid out in game:
+You've got 12 equipment slots to fill. Here's how they line up in game:
 
 | Left side | Right side |
 |---|---|
@@ -12,12 +12,12 @@ Your character has 12 equipment slots. Here's how they're laid out in game:
 | Main Hand | Off-Hand |
 
 !!! note "Chest or Armor?"
-    The game officially calls the chest slot **Armor**, and you'll see that name in crafting recipes. Pradex calls it **Chest** so it isn't confused with the Armor stat.
+    The game calls the chest slot **Armor**, and that's what you'll see in crafting recipes. Pradex calls it **Chest** instead, just so it doesn't get mixed up with the Armor stat.
 
-Which weapons and off-hands you can equip depends on your class. Check the **Weapons** line on each [class page](../classes/index.md).
+What weapons and off-hands you can use depends on your class. Check the **Weapons** line on each [class page](../classes/index.md).
 
 !!! tip "For endgame gearing"
-    A well-rolled Rare in every slot can handle pretty much everything. Start there before chasing after perfect Socketed gear, which can be a tremendous resource sink.
+    Honestly, a well-rolled Rare in every slot will carry you through pretty much everything. Start there before you go chasing perfect Socketed gear, because that can eat a tremendous amount of resources.
 
 <div class="grid cards" markdown>
 

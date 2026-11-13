@@ -19,9 +19,9 @@ There's no way to hand leadership to someone else. If the leader leaves, it seem
 ## Getting carried
 
 !!! warning "Stay alive to earn experience"
-    If you're defeated in a fight, you get **no experience** from it, even if your party wins. A stronger party can only carry you if you're still standing at the end.
+    If you're defeated in a fight, you get **no experience** from it, even if your party wins. A stronger party can only carry you if you're still standing when it's over.
 
-Putting the lower-level player in the back line keeps them out of reach of enemy melee attacks, though ranged attacks and spells can still hit them.
+Tuck the lower-level player into the back line. That keeps them out of reach of enemy melee attacks, though ranged attacks and spells can still find them.
 
 ## More on parties
 

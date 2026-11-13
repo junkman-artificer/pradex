@@ -13,7 +13,7 @@ Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of t
 Recipes marked :lucide-scroll: aren't learned automatically. You have to find their design first. Hover over or tap the icon to see where it drops.
 
 !!! warning "You'll need Tailoring too"
-    Each leather tier needs the same-tier thread, and threads are made through [Tailoring](tailoring.md). Plan to level Tailoring alongside Leatherworking, or buy threads from other players.
+    Each leather tier needs the same-tier thread, and threads are made through [Tailoring](tailoring.md). So plan to level Tailoring alongside Leatherworking, or pick up threads from other players.
 
 ## Gathering materials
 

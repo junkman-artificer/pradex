@@ -4,7 +4,7 @@
 
 ## How to use this guide
 
-Pradex follows the path most players take, from making a character to tackling waystones. If you're brand new, read the three pages below in order. If you've played a bit, jump to whatever section you need from the sidebar.
+Pradex follows the path most players take, from making a character all the way to tackling waystones. Brand new? Read the three pages below in order. Already played a bit? Jump straight to whatever you need from the sidebar.
 
 <div class="grid cards" markdown>
 

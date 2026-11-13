@@ -1,6 +1,6 @@
 # Building a Team
 
-Prado doesn't have traditional roles like tank, healer, and damage. Instead, certain class traits and abilities excel at different jobs, so it's worth thinking about how your party's classes cover each other.
+Prado doesn't really have traditional roles like tank, healer, and damage. Instead, certain class traits and abilities are great at different jobs, so it's worth thinking about how your party's classes cover each other.
 
 [What a well-rounded team covers: damage, sustain, protection, support, and so on.]
 

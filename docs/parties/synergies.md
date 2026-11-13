@@ -1,6 +1,6 @@
 # Synergies
 
-Some abilities work especially well together across classes.
+Some abilities from different classes just click.
 
 ## The Mana Loop
 

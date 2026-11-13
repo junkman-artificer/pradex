@@ -231,7 +231,7 @@ Reduces the target's armor by **40%** for **5 seconds**.
 Not every status is bad. These are buffs that help you or your allies.
 
 !!! tip "Enemies can remove these"
-    The Priest's **Purge** and **Mass Exorcism** remove positive effects from enemies, so expect the same from enemy casters.
+    The Priest's **Purge** and **Mass Exorcism** remove positive effects from enemies, so don't be surprised when enemy casters strip yours too.
 
 ### Ability Haste
 

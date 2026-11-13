@@ -1,6 +1,6 @@
 # Combat
 
-Prado is an autobattler, so fights play out on their own. Your job is the setup: your class, your gear, your formation, and who's in your party.
+Prado is an autobattler, so fights play out on their own. Your job is everything before the fight starts: your class, your gear, your formation, and who's in your party.
 
 ## How a fight plays out
 
@@ -16,7 +16,7 @@ A fight ends when one side is defeated. If **both** sides go down at the same ti
 !!! warning "Fights can't last forever"
     Once a fight passes **40 seconds** of in-game time, **everyone** starts taking **fatigue damage** every second, players and monsters alike, and it keeps growing the longer the fight goes.
 
-This exists so no fight can go on forever. Since monsters take fatigue damage too, a party with strong healing can sometimes outlast an enemy it can't out-damage and let fatigue finish the job. It's a risky plan, though: fatigue keeps growing, and if both sides go down, it's a draw, which counts as a loss in adventure decks.
+This keeps fights from dragging on forever. Monsters take fatigue damage too, so a party with strong healing can sometimes outlast an enemy it can't out-damage and let fatigue finish the job. Just know it's a risky plan: fatigue keeps growing, and if both sides go down at once, it's a draw. In adventure decks, a draw counts as a loss.
 
 ## Formations
 
@@ -81,7 +81,7 @@ All damage is either **Physical** or **Magical**.
 
 Every character starts with **20% Magic Resistance**, and gear can add more. Higher level monsters are more likely to use magical abilities, so Magic Resistance matters more as you progress.
 
-The game doesn't label every ability as Physical or Magical yet. In general, you can tell by its theme: fire, frost, and arcane are magical, and weapon strikes are physical.
+The game doesn't label every ability as Physical or Magical yet, but you can usually tell by its theme: fire, frost, and arcane are magical, and weapon strikes are physical.
 
 ## Barrier
 
@@ -101,7 +101,7 @@ Barrier shows up most often on Intellect-based armor.
 - **Provoke** (Warrior) forces enemies to attack the Warrior for a few seconds, and it overrides **Focus Target**. Once Provoke ends, they go back to their original target.
 
 !!! bug "Focus Target can reach the back line"
-    The Thief's level 8 **Focus Target** trait can currently ignore formations and lock onto the back line. This is reportedly a bug, and a fix is expected.
+    Right now, the Thief's level 8 **Focus Target** trait can ignore formations and lock onto the back line. It's reportedly a bug, and a fix is on the way.
 
 ## Freeze and Stun
 
@@ -126,7 +126,7 @@ For what each stat does, see [Stats](../gearing-up/stats.md).
 
 After each fight, the **combat summary** shows how much damage, healing, and stun each ability contributed, plus how much damage each player took and how many attacks they evaded.
 
-In the **combat replay**, damage and healing text are shown separately, and Freeze, Stun, and Provoke each have their own color. Click a status icon in the replay to see what it does.
+In the **combat replay**, damage and healing text are shown separately, and Freeze, Stun, and Provoke each have their own color. Not sure what a status does? Click its icon in the replay.
 
 ## More combat topics
 

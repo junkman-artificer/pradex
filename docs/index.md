@@ -1,6 +1,6 @@
 # Pradex
 
-Your field guide to Prado, from your first character to mastering the waystones.
+Your field guide to Prado. Everything from making your first character to mastering the waystones, all in one place.
 
 <div class="grid cards" markdown>
 
@@ -16,7 +16,7 @@ Your field guide to Prado, from your first character to mastering the waystones.
 
     ---
 
-    Choices that matter when you make your character.
+    The choices worth getting right before you hit Create.
 
     [:lucide-arrow-right: Create](character-creation/index.md)
 
@@ -88,7 +88,7 @@ Your field guide to Prado, from your first character to mastering the waystones.
 
     ---
 
-    Spending and earning wisely.
+    Making gold and spending it wisely.
 
     [:lucide-arrow-right: Plan](economy/index.md)
 
