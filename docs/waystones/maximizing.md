@@ -2,7 +2,7 @@
 
 Getting the most out of every waystone run.
 
-For how party size affects gear drops and Vita costs, see [Party Size and Drops](../parties/party-size.md).
+For how party size affects gear drops and VITA costs, see [Party Size and Drops](../parties/party-size.md).
 
 ## Building your deck
 

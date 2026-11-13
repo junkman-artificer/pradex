@@ -42,8 +42,8 @@ You lose Lone Wolf status as soon as you interact with other players. That inclu
 
 Here's the thing: there's no downside to checking it. If you change your mind, just play with others and the status quietly drops off, no penalty. You can't turn it on later, though, so if you're on the fence, check it and keep your options open.
 
-## Once you start: Vita
+## Once you start: VITA
 
-Vita is the energy you spend to play. You start with Vita equal to your **last two days of walking**, so a couple of active days before you start means a stronger first session.
+VITA is the energy you spend to play. You start with VITA equal to your **last two days of walking**, so a couple of active days before you start means a stronger first session.
 
 [:lucide-arrow-right: Next: Classes](../classes/index.md)

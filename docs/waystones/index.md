@@ -6,7 +6,7 @@ Waystones are Prado's end-game PvE. Here's the short version: you combine three 
 
 1. Finish the final deck in Ravenspire Tower, up in Icetooth Base Camp. That unlocks Runecrafting.
 2. From then on, monsters in Ravenspire Tower start dropping runes.
-3. Combine 3 runes and 1 Vita to make a waystone.
+3. Combine 3 runes and 1 VITA to make a waystone.
 4. Use the waystone to start its deck. That's it!
 
 ## Runes

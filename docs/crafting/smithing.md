@@ -33,7 +33,7 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 </div>
 
 - **Just need Coal?** Leave the Iron Pits triple-decker after you finish Miner's Folly.
-- **Mithril:** Highwind Mines drops a few, but nothing beats Excavation Site No. 7. Getting up to Icetooth Base Camp costs 40 Vita, so it's only worth it if you plan to stay a while. The Excavation Site also drops Arcanite, but Arcanite and Mithril share drop chances there, so it's not the best pick if you only want Arcanite.
+- **Mithril:** Highwind Mines drops a few, but nothing beats Excavation Site No. 7. Getting up to Icetooth Base Camp costs 40 VITA, so it's only worth it if you plan to stay a while. The Excavation Site also drops Arcanite, but Arcanite and Mithril share drop chances there, so it's not the best pick if you only want Arcanite.
 
 ## Copper Ingot
 

@@ -31,7 +31,7 @@ Tuck the lower-level player into the back line. That keeps them out of reach of 
 
     ---
 
-    How party size changes gear drops and Vita costs.
+    How party size changes gear drops and VITA costs.
 
     [:lucide-arrow-right: View drops](party-size.md)
 

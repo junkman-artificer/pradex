@@ -122,7 +122,7 @@ Unique Monster
 Unique Treasure
 :   A waystone treasure that gives each player a random item. See [Regions](../waystones/regions/index.md).
 
-Vita
+VITA
 :   The energy you spend to play, earned by walking. See [Core Concepts](../getting-started/core-concepts.md#vita).
 
 Waystone

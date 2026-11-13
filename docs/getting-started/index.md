@@ -1,6 +1,6 @@
 # Getting Started
 
-[Two or three sentences on what Prado is: the genre, the core loop, and what makes it fun.]
+Prado is a deck-based walking RPG where your progress is fueled by you. Your steps are converted into VITA, which is used to travel between towns, fight monsters, and explore the world of Prado. Taking inspiration from classic gems such as Ragnarok Online and Diablo 2, this autobattler currently features seven classes, and you can play solo or team up in a party of up to four. Create your avatar, gear yourself for battle, and conquer the world on your own two feet.
 
 ## How to use this guide
 

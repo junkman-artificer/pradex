@@ -8,11 +8,11 @@ Prado is an autobattler. Fights play out on their own, so there's no timing atta
 
 That's why most of this guide is about preparation.
 
-## Vita
+## VITA
 
-Vita is the energy you spend to play, and you earn it by walking in the real world. A brand-new character even starts with Vita from their last two days of walking.
+VITA is the energy you spend to play, and you earn it by walking in the real world. A brand-new character even starts with VITA from their last two days of walking.
 
-| Steps each day | Vita earned |
+| Steps each day | VITA earned |
 |---|---|
 | First 5,000 | 11 total |
 | Every 1,000 after that | 1 |
@@ -20,7 +20,7 @@ Vita is the energy you spend to play, and you earn it by walking in the real wor
 You also get **100 bonus experience** each at **2,000** and **5,000** steps every day, for 200 total.
 
 !!! tip "Hit 5,000 steps every day"
-    Your first 5,000 steps give you the best Vita return, plus both experience bonuses. If you build one habit, make it this one.
+    Your first 5,000 steps give you the best VITA return, plus both experience bonuses. If you build one habit, make it this one.
 
 [:lucide-arrow-right: Learn more](../character-creation/index.md#once-you-start-vita)
 
