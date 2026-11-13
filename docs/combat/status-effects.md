@@ -258,12 +258,20 @@ Makes ability timers count down at **double speed**, so abilities come back in h
 !!! info "At a glance"
     - **Type:** Buff
     - **Duration:** 1 to 5 seconds, depending on the source
-    - **Stacks:** [ ]
+    - **Stacks:** Its duration appears to add up, but it never speeds timers past double, even from two different sources.
     - **Removed by:** Purge, Mass Exorcism
 
-Speeds up weapon timers, so you attack more often. [How much it speeds them up.] It likely works like Ability Haste, but for weapon attacks.
+Makes weapon timers count down at **double speed**, so you attack twice as often. It's the weapon version of [Ability Haste](#ability-haste). It doesn't affect ability timers.
 
 - **Get it:**
     - Soldier's Fanfare, Ode to Glory, Rogue's Scherzo, Dancer's Bagatelle (Bard songs, whole party)
     - Bloodrage (Blood Knight)
+    - Quick Draw (Ranger, self only, together with Ability Haste)
 - **Empower it:** Performance: every point adds 0.2 seconds to song-based Haste (Bard)
+
+??? example "How we measured it"
+    In an Arena replay, a Bard alternated two Weapon Haste songs. The party's weapon timers counted down at 1.0 second per second until the first song landed. From then on, they counted down at 2.0 seconds per second for the rest of the fight, while their ability timers stayed at normal speed.
+
+    The two songs overlapped often, and weapon timers never went past double speed.
+
+    In a second replay, a Blood Knight cast Bloodrage while a Bard's Weapon Haste song was already running. The Blood Knight's weapon timer stayed at 2.0 seconds per second the whole time, the same speed as allies who only had the song.
