@@ -15,6 +15,28 @@ Recipes marked :lucide-scroll: aren't learned automatically. You have to find th
 !!! warning "You'll need Tailoring too"
     Each leather tier needs the same-tier thread, and threads are made through [Tailoring](tailoring.md). Plan to level Tailoring alongside Leatherworking, or buy threads from other players.
 
+## Gathering materials
+
+There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
+
+Every hide drops from monsters, so look for decks with lots of monster cards and few other cards.
+
+<div class="pdx-compact" markdown>
+
+| Material | Best place | Region |
+|---|---|---|
+| Soft Hide :lucide-store:{ title="Up to 2 a day at Westfield Supply Store (Westfield). Up to 3 a day at East Gate Bazaar (Eastern Gate)" } | Windmill Hills | Westfield |
+| Scavenger's Hide :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate)" } | The Burrows | The Burrows |
+| Beast Hide | Briarstone Thicket | Briarstone Quarry |
+| Frost Hide | Icetooth Peaks | Icetooth Base Camp |
+| Dragon Hide | Icetooth Peaks | Icetooth Base Camp |
+
+</div>
+
+- **Old Mill Pasture** is worth running for Soft Hide too. You get flax in the same run, and leatherworkers need thread from Tailoring.
+- **Scavenger's Hide:** The Burrows is best if you only want to level the craft. Otherwise, run the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker. Its final boss drops Unique gear, and for most classes that's their first gear with Mana Regen.
+- **Icetooth Peaks** covers Frost Hide, Dragon Hide and the occasional Kashrynni Wool in one run, and it has two powerful Unique monsters.
+
 ## Light Leather
 
 !!! note "Making Light Leather"

@@ -14,6 +14,27 @@ Recipes marked :lucide-scroll: aren't learned automatically. You have to find th
 
 Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 
+## Gathering materials
+
+There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
+
+Ore comes from vein, deposit and cluster cards. Many adventure decks also have a vein or two.
+
+<div class="pdx-compact" markdown>
+
+| Ore | Best place | Region |
+|---|---|---|
+| Copper | Collapsed Mine Shaft | Eastern Gate |
+| Tin, Silver | Flooded Ruins :lucide-move-right: Sunken Quarry | The Burrows |
+| Iron, Coal, Gold | The Iron Pits :lucide-move-right: Miner's Folly :lucide-move-right: Vein of Kings | Briarstone Quarry |
+| Arcanite :lucide-store:{ title="Up to 2 a day at Gale's Training Yard (Stormwatch)" } | Highwind Mines | Stormwatch |
+| Mithril | Excavation Site No. 7 | Icetooth Base Camp |
+
+</div>
+
+- **Just need Coal?** Leave the Iron Pits triple-decker after you finish Miner's Folly.
+- **Mithril:** Highwind Mines drops a few, but nothing beats Excavation Site No. 7. Getting up to Icetooth Base Camp costs 40 Vita, so it's only worth it if you plan to stay a while. The Excavation Site also drops Arcanite, but Arcanite and Mithril share drop chances there, so it's not the best pick if you only want Arcanite.
+
 ## Copper Ingot
 
 !!! note "Making Copper Ingot"

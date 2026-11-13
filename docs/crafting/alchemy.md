@@ -7,6 +7,34 @@ Alchemy makes potions, weapon oils, and gems. Within each section, recipes are l
 !!! info "Higher-quality versions"
     Most potions and oils can also come out as **+1** or **+2** versions. [How these work and how much stronger they are.]
 
+## Gathering materials
+
+There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
+
+Herb picks are still being worked out, so treat these as a starting point. Spring Water can't be gathered, so buy it in town.
+
+<div class="pdx-compact" markdown>
+
+| Herb | Best place | Region |
+|---|---|---|
+| Meadowbloom :lucide-store:{ title="Up to 3 a day at Sunflower Apothecary (Sweetwater)" } | Meadowlands Foraging | Sweetwater |
+| Brookmint :lucide-store:{ title="Up to 3 a day at Sunflower Apothecary (Sweetwater)" } | Forage at Lake Serentis | Sweetwater |
+| Nimbleweed :lucide-store:{ title="Up to 3 a day at Sunflower Apothecary (Sweetwater). Up to [ ] a day at Alembics & Infusions (Eastern Gate)" } | Any foraging deck | Most regions |
+| Sagefern :lucide-store:{ title="Up to [ ] a day at Alembics & Infusions (Eastern Gate)" } | Any foraging deck | Most regions |
+| Blightspore | Secret Gardens of the Old City | Eastern Gate |
+| Ironweed | Secret Gardens of the Old City | Eastern Gate |
+| Stonebloom :lucide-store:{ title="Up to [ ] a day at Darkwood Elixirs (Gloomhaven)" } | Briarstone Thicket | Briarstone Quarry |
+| Elderwort :lucide-store:{ title="Up to [ ] a day at Alembics & Infusions (Eastern Gate)" } | Mystic Hollow | Stormwatch |
+| Moonmoss :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Mystic Hollow | Stormwatch |
+| Thundercap :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Shepherd's Steppes | Stormwatch |
+| Frostfern | Icetooth Peaks | Icetooth Base Camp |
+| Dreamshade :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Stormwatch garden decks (unconfirmed) | Stormwatch |
+| Sunbloom :lucide-orbit:{ title="Waystone decks only" } | Sweetwater waystone decks | Sweetwater |
+| Nightsong :lucide-orbit:{ title="Waystone decks only" } | Nightsong Bloom | Briarstone Quarry |
+| Radiant Bloom, Mistmint, Glintmint, Fleetleaf, Mindroot, Steelstem, Mindbloom, Giant's Crown, Ghostvine :lucide-orbit:{ title="Waystone decks only" } | Any waystone deck | Any |
+
+</div>
+
 ## Health, mana, and armor
 
 <div class="pdx-recipes pdx-recipes--effect" markdown>

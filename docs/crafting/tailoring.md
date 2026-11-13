@@ -14,6 +14,24 @@ Recipes marked :lucide-scroll: aren't learned automatically. You have to find th
 
 Each cloth tier is paired with a thread, made from the same raw material at the same skill level. Leatherworkers need these same threads, so they're worth making in extra or selling.
 
+## Gathering materials
+
+There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
+
+<div class="pdx-compact" markdown>
+
+| Material | Best place | Region |
+|---|---|---|
+| Flax Fibers :lucide-store:{ title="Up to 3 a day at Sunflower Market (Sweetwater), Westfield Supply Store (Westfield), East Gate Bazaar (Eastern Gate)" } | Old Mill Pasture | Westfield |
+| Scraps of Cloth :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate)" } | Old City Forum | Eastern Gate |
+| Spider Silk | Crawler's Nest | Briarstone Quarry |
+| Highland Fleece | Shepherd's Steppes :lucide-move-right: Shepherd's Reach | Stormwatch |
+
+</div>
+
+- **Scraps of Cloth** only drop from monsters. Old City Forum has the fewest cards that get in the way.
+- **Highland Fleece** only drops in the Shepherd's Steppes double-decker. Icetooth Peaks can drop Kashrynni Wool directly, but don't count on it.
+
 ## Linen Cloth
 
 !!! note "Making Linen Cloth"
