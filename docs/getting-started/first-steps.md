@@ -47,7 +47,7 @@ Rest at the **Riverbend Tavern** to recover health and mana between runs, and st
 
 ## 6. Head to Westfield at level 5
 
-**Travel to Westfield** takes you to the next town, with farmland decks and the Old Mill dungeon.
+**Travel to Westfield** takes you to the next town, with farmland decks and the Old Mill dungeon. Be warned, though: Westfield has no Alchemy station, so brew any potions you'll need before you head out.
 
 !!! warning "Common early mistakes"
     - **Leaving your ability on all the time.** Early on, your mana can't keep up with it. Try using it for the first fight of a deck, then turning it off until you've recovered, so you don't run out of gas halfway through. This gets important once you reach double-deckers like Old Mill Dungeon into The Miller's Vault, which ends with a powerful Unique Monster "boss" fight.
