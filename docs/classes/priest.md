@@ -10,22 +10,28 @@
 
 ## Overview
 
-[What the class does well, what it struggles with, and who will enjoy playing it.]
+The Priest is a healer who can hold their own in a fight. **Healing Word** and **Prayer of Healing** restore health and a bit of mana on the spot, **Divine Shield** wraps the front line in Barrier, and **Holy Weapon** and **Holy Armor** heal your front line every time they land a hit or take one. On top of that, **Mercy** turns your Intellect into Health Regen for the whole party. When everyone's healthy, **Penance** and **Holy Nova** deal real holy damage, whether to one target or the whole enemy side.
+
+The trade-off is that your damage won't match a dedicated damage class, and every heal costs mana, so a Priest who runs dry leaves the whole party exposed.
+
+If you like being the reason your party survives, while still getting to smite things, the Priest is a great pick, and it's available to everyone.
 
 ## Priorities
 
 The big picture for building a Priest, most important first:
 
-1. [Top priority]
-2. [Next priority]
-3. [Next priority]
+1. **Mana Regen.** Every heal costs mana, and a Priest who runs dry can't keep anyone alive.
+2. **Holy Spell Power.** It boosts both your healing and your holy damage, so it pays off whatever you're casting.
+3. **Intellect.** **Mercy** turns every 10 Intellect into Health Regen for the whole party, so it helps everyone, not just you.
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips
 
-- [Tip new players might miss]
-- [Tip]
+- **Lean on damage until level 9.** Single-target heals don't go very far, even in a party, so early on **Penance** usually does more good. Healing really comes online with **Holy Nova** at 9 and **Prayer of Healing** at 11.
+- **Get the Silver Dagger in Westfield.** It comes from The Miller's Vault, and it's the first guaranteed piece of Mana Regen gear.
+- **Then aim for the Catacomb Staff.** It comes from the Skeleton's Chest at the end of Old City Catacombs :lucide-move-right: The Bone Gallery (Eastern Gate), and it has Intellect, Mana Regen and Holy Spell Power all in one.
+- **Use a wand or staff for weapon damage.** Wands and staves deal magical damage, which scales with Intellect, while most other weapons scale with Strength.
 
 ## Uniques to watch for
 
@@ -81,11 +87,11 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-[What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
+In a party, the Priest keeps everyone standing. **Holy Nova** and **Prayer of Healing** top up the whole group at once, and **Divine Shield** soaks hits before they land on your front line. **Cleanse** and **Purge** handle status effects on both sides: Cleanse strips a debuff off an ally, and Purge strips a dangerous buff off an enemy. **Mercy** adds Health Regen for everyone without taking up an ability slot, so even a damage-focused Priest makes the party sturdier. See [Synergies](../parties/synergies.md) for which classes pair well together.
 
 ## Best subclasses
 
-[Subclasses this class should take, and why.]
+**Magician** is the standout, for **Manafont**, which turns all that Intellect into extra Mana Regen so your heals keep flowing. Beyond that, almost every other class has a case, depending on what flavor of healer you want to be.
 
 ## As a subclass
 
