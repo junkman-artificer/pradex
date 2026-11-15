@@ -81,6 +81,10 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 [What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
 
+## Best subclasses
+
+[Subclasses this class should take, and why.]
+
 ## As a subclass
 
 A subclass can never go above level 12, so everything the Bard unlocks after that is out of reach. See [Subclasses](index.md#subclasses) for how subclass levels work.
@@ -103,5 +107,3 @@ A subclass can never go above level 12, so everything the Bard unlocks after tha
     | 12 | Harmony | Trait | Every point in Performance grants your party +1 Mana Regen. |
     | 12 | Ode to Glory II | Active | Sing an inspiring ode that reduces damage taken by allies by 7 for 5 seconds, and grants them Weapon Haste for 1.2 seconds. |
     | 12 | Soldier's Fanfare II | Active | Sound a heroic fanfare that increases your allies' weapon damage by 16 for 4 seconds and grants them Weapon Haste for 1.2 seconds. |
-
-**Pairs well with:** [Main classes that get the most out of a Bard subclass, and why.]

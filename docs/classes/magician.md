@@ -10,22 +10,28 @@
 
 ## Overview
 
-[What the class does well, what it struggles with, and who will enjoy playing it.]
+The Magician is the party's spellcaster and its battery. Their spells draw on fire, frost, lightning and arcane magic, dealing damage over time or all at once, and they're a powerful source of crowd control: **Blizzard** alone has a chance to freeze every enemy at once. **Firebrand Weapon** and **Icebrand Weapon** pass that power to the front line, and they really shine on allies with fast weapons that land lots of hits. On top of that, **Arcane Infusion** keeps the whole party's mana topped off like nothing else in the game, and the Magician is the only class that eventually gets a fourth ability slot.
+
+The trade-off is that Magicians are fragile. Most of their power comes from Intellect rather than Armor or Health, so they usually cast from the back, though some builds hold the front line just fine.
+
+If you like big spell damage and being the reason your party never runs dry, the Magician is a great pick, and it's available to everyone.
 
 ## Priorities
 
 The big picture for building a Magician, most important first:
 
-1. [Top priority]
-2. [Next priority]
-3. [Next priority]
+1. **Mana Regen.** Magicians spend mana faster than anyone, and Arcane Infusion needs a full tank to share with the party.
+2. **Spell Power that matches your build.** If you're casting fire spells, Fire Spell Power is worth far more than Intellect, and the same goes for frost and the other schools. Intellect still helps, though, since **Manafont** turns every 10 Intellect into +1 Mana Regen.
+3. **Barrier and Health.** You're fragile, so a little extra padding keeps you casting when something gets through to the back line.
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips
 
-- [Tip new players might miss]
-- [Tip]
+- **Grab Fireball at level 2, then Firebrand Weapon at level 3.** Fireball hits harder per cast, but Firebrand Weapon gets more damage out of each point of mana, even when you're playing solo.
+- **Pace your mana.** Early on you can't keep every spell going, so save them for the fights that need them, especially in longer decks.
+- **Get the Silver Dagger in Westfield.** It comes from The Miller's Vault, Westfield's boss dungeon, and it's the first guaranteed piece of Mana Regen gear. Once you reach Eastern Gate, the Catacomb Staff from The Bone Gallery's Skeleton's Chest is a big step up.
+- **Use a wand or staff for weapon damage.** Most weapons deal physical damage, which scales with Strength. Wands and staves deal magical damage, which scales with Intellect, so they suit a Magician much better. Wands attack from range, and staves hit in melee.
 
 ## Uniques to watch for
 
@@ -81,7 +87,11 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-[What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
+A Magician makes the whole party better. **Arcane Infusion** keeps everyone's mana flowing, so your allies can lean on their abilities far more than they could on their own. **Firebrand Weapon** and **Icebrand Weapon** turn a fast-hitting front line into a burning or freezing threat, and **Blizzard** can lock down the whole enemy side. With a fourth ability slot, you have more room than anyone to cover both damage and support. See [Synergies](../parties/synergies.md) for which classes pair well together.
+
+## Best subclasses
+
+**Thief**, for **Focus Target**, which lets you pour your strongest single-target spells into one enemy and burn it down. **Priest**, for **Mercy**, which turns all that Intellect into free Health Regen. **Bard** works well too, since Performance scales with both Intellect and Dexterity.
 
 ## As a subclass
 
@@ -103,5 +113,3 @@ A subclass can never go above level 12, so everything the Magician unlocks after
     | 11 | Dragon's Breath | Active | Unleash a fiery breath, applying Burn to each enemy at the front line for 3 seconds. |
     | 12 | Archivist | Trait | Increase your chance to discover spellbooks by 5%. |
     | 12 | Mage Armor II | Active | Weave arcane wards around your front line, restoring 4 mana to them whenever they take damage. |
-
-**Pairs well with:** [Main classes that get the most out of a Magician subclass, and why.]

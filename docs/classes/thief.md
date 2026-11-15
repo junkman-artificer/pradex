@@ -10,29 +10,35 @@
 
 ## Overview
 
-[What the class does well, what it struggles with, and who will enjoy playing it.]
+The Thief is a fast, slippery skirmisher built around two weapons. **Dual Wield** means twice the weapons and twice the affixes, and from there you can go two ways. A poison build uses **Deadly Poison** to stack Poison with every hit, then cashes it in on every fourth hit: **Venomous Strike** deals extra damage for each stack, **Leech** and **Extraction** turn those stacks into health and mana, and **Twin Strike** hits twice. With some Poison Spell Power on your gear, it gets going almost right away. A crit build skips the poison and stacks Crit for raw damage, which becomes an incredibly strong alternative once you unlock **Tactician** at level 16. Either way, **Focus Target** keeps all that pressure on one enemy until it drops.
+
+The trade-off is that you're relying on Evasion more than Armor, so a bad run of hits can hurt.
+
+If you like fast weapons and big damage numbers, with the choice between snowballing poison and raw crits, the Thief is a great pick, and it's available to everyone.
 
 ## Priorities
 
 The big picture for building a Thief, most important first:
 
-1. [Top priority]
-2. [Next priority]
-3. [Next priority]
+1. **Two good weapons.** Dual Wield doubles your weapon damage and your affixes, so both hands matter.
+2. **The stat your build runs on.** Poison Spell Power for a poison build, or Crit and Hit for a crit build. Dexterity helps both.
+3. **Mana Regen, until you have Extraction.** The **Extraction** spellbook turns your poison stacks into mana, so it's worth farming for or buying from the Trading Post. Once you have it, Mana Regen matters a lot less.
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips
 
-- [Tip new players might miss]
-- [Tip]
+- **Grab Deadly Poison at level 2.** It's the core of the poison build, and every hit while it's up adds another stack.
+- **Get a second weapon ready for level 4.** **Dual Wield** unlocks then, so pick up a second one-hander beforehand and equip it right away.
+- **Hunt for Extraction.** It unlocks at level 9, and Old City Catacombs :lucide-move-right: The Bone Gallery (Eastern Gate) is the place to farm the spellbook. You can also buy it from the Trading Post. Once you have it, your mana problems mostly go away.
+- **Run Thieves' Hideout :lucide-move-right: The Underbelly (Eastern Gate).** The Master of Shadows set from The Underbelly has Evasion, Hit and Crit on every armor piece, plus a poison dagger.
 
 ## Uniques to watch for
 
 Uniques you can find while leveling that are worth keeping an eye out for.
 
 ??? note "Master of Shadows: Boots, Helmet, Pants, Dagger"
-    **Where:** The Underbelly (Eastern Gate). Level 8 to 9 gear.
+    **Where:** Thieves' Hideout :lucide-move-right: The Underbelly (Eastern Gate). Level 8 to 9 gear.
 
     **Why:** Evasion, Hit and Crit on every armor piece, plus a poison dagger. A great early set for a Thief.
 
@@ -89,7 +95,11 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-[What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
+In a party, the Thief's job is damage, plain and simple. Most Thieves fill every ability slot with their own damage and let **Focus Target** lock onto one enemy at a time, taking the biggest threats out of the fight fast. If your party ever needs a little control, **Marked for Death**, **Flash Bomb** and **Kidney Punch** are there, but they're the exception rather than the rule. See [Synergies](../parties/synergies.md) for which classes pair well together.
+
+## Best subclasses
+
+**Warrior**, for **Counter**, the level 12 trait that gives you a free main-hand attack every time you dodge. Most Thieves go this route. **Blood Knight**, for **Blood Tap** and **Vampiric Aura**, which cover your healing so you can skip Leech. **Ranger** is worth a look too, for a bow build or for **Focus Fire**, their level 12 trait, which builds up to 30% more damage as long as you avoid getting hit.
 
 ## As a subclass
 
@@ -118,5 +128,3 @@ A subclass can never go above level 12, so everything the Thief unlocks after th
     | 12 | Treasure Hunter | Trait | Increase your chance to discover magic items by 10%. |
     | 12 | Poisoned Dagger II | Active | Strike your enemy with a poisoned dagger, applying 3 Poison to the target enemy. |
     | 12 | Deadly Poison II | Active | Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 3 Poison on hit. |
-
-**Pairs well with:** [Main classes that get the most out of a Thief subclass, and why.]

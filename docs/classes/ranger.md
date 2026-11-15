@@ -32,7 +32,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 Uniques you can find while leveling that are worth keeping an eye out for.
 
 ??? note "Master of Shadows: Boots, Helmet, Pants"
-    **Where:** The Underbelly (Eastern Gate). Level 8 to 9 gear.
+    **Where:** Thieves' Hideout :lucide-move-right: The Underbelly (Eastern Gate). Level 8 to 9 gear.
 
     **Why:** Evasion, Hit and Crit on every piece, early on.
 
@@ -94,6 +94,10 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 [What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
 
+## Best subclasses
+
+[Subclasses this class should take, and why.]
+
 ## As a subclass
 
 A subclass can never go above level 12, so everything the Ranger unlocks after that is out of reach. See [Subclasses](index.md#subclasses) for how subclass levels work.
@@ -116,5 +120,3 @@ A subclass can never go above level 12, so everything the Ranger unlocks after t
     | 11 | Quick Draw | Active | Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 2 seconds. |
     | 12 | Quick Shot II | Active | Loose a swift arrow at a random enemy, dealing 100% weapon damage. |
     | 12 | Focus Fire | Trait | Every weapon attack grants 1 Focus (max 10). Each Focus increases your damage by 3%. Taking damage removes half of your Focus. |
-
-**Pairs well with:** [Main classes that get the most out of a Ranger subclass, and why.]

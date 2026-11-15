@@ -83,6 +83,10 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 [What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
 
+## Best subclasses
+
+[Subclasses this class should take, and why.]
+
 ## As a subclass
 
 A subclass can never go above level 12, so everything the Priest unlocks after that is out of reach. See [Subclasses](index.md#subclasses) for how subclass levels work.
@@ -104,5 +108,3 @@ A subclass can never go above level 12, so everything the Priest unlocks after t
     | 11 | Prayer of Healing | Active | Utter a prayer of healing, instantly restoring 9 health and 5 mana to all allies. |
     | 12 | Divine Shield II | Active | Wrap your front line in holy protection, granting each ally 18 Barrier. |
     | 12 | Supplication | Trait | You may select from 4 blessings when you encounter a Shrine. |
-
-**Pairs well with:** [Main classes that get the most out of a Priest subclass, and why.]

@@ -105,6 +105,10 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 Warriors anchor the front line. **Provoke** pulls enemies off your squishier allies, **Intimidating Shout** cuts the damage the whole enemy side deals, and **War Cry** boosts the weapon damage of everyone in the party. Ability slots are limited, so you'll usually bring one of these alongside your damage abilities, picked to cover what the rest of the party is missing. See [Synergies](../parties/synergies.md) for which classes pair well together.
 
+## Best subclasses
+
+**Blood Knight**, for **Blood Tap**, which is incredibly strong. If you run a two-hander, you also get free Cleave, and **Vampiric Aura** adds healing that doesn't take up an ability slot. **Thief**, for a more aggressive build: dual wielding brings extra affixes and more attacks, so Rage stacks up much faster.
+
 ## As a subclass
 
 A subclass can never go above level 12, so everything the Warrior unlocks after that is out of reach. See [Subclasses](index.md#subclasses) for how subclass levels work.
@@ -132,5 +136,3 @@ A subclass can never go above level 12, so everything the Warrior unlocks after 
     | 12 | Counter | Trait | Attack with your main-hand weapon whenever you dodge an enemy attack. |
     | 12 | Crippling Blow II | Active | Deliver a powerful strike for 120% weapon damage and reduces the target's damage by 12 for 3 seconds. |
     | 12 | Thunderclap II | Active | Slam the ground with a thunderous blow, dealing 17 to 21 damage to the enemy front line and slowing them for 1.25 seconds. |
-
-**Pairs well with:** **Blood Knight**, for Rage and Iron Will on top of a Strength build. **Thief**, for a more aggressive build: dual wielding brings extra affixes and more attacks, so Rage stacks up much faster.
