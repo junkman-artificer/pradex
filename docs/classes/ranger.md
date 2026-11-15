@@ -50,7 +50,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Seal of the Deep Warden</span><span class="pdx-item__slot">Necklace</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">2</b></span><span class="pdx-chip">Barrier Regen <b class="c-bar">4</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ??? note "Goblin Treasure Box: Bow"
-    **Where:** The treasure box for finishing Thronheart Chamber (Gloomhaven). Every item in it is level 16.
+    **Where:** The treasure box for finishing Thornheart Chamber (Gloomhaven). Every item in it is level 16.
 
     **Why:** A bow with Dexterity, Hit, Crit and Double Strike.
 

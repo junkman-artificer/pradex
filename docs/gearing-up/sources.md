@@ -46,7 +46,7 @@ From **The Bone Gallery** in [Eastern Gate](../waystones/regions/eastern-gate.md
 
 ### Goblin Treasure Box
 
-From **Thronheart Chamber** in [Gloomhaven](../waystones/regions/gloomhaven.md). All three items are level 16.
+From **Thornheart Chamber** in [Gloomhaven](../waystones/regions/gloomhaven.md). All three items are level 16.
 
 | Item | Type | Damage | Speed | Bonuses | Requires |
 |---|---|---|---|---|---|

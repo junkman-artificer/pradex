@@ -10,22 +10,28 @@
 
 ## Overview
 
-[What the class does well, what it struggles with, and who will enjoy playing it.]
+The Bard makes everyone around them faster and stronger. Almost every song pairs a buff with **Haste**: **Soldier's Fanfare** and **Rogue's Scherzo** speed up your allies' weapons, **Wizard's Minuet** and **Moonlight Rhapsody** speed up their abilities, and songs like **Ode to Glory** and **Meadowland Pastoral** add protection and healing on top. On the enemy side, **Requiem of Suffering** and **Sorcerer's Lament** Slow every enemy they hit. **Performance**, which grows with both Dexterity and Intellect, stretches every Haste and Slow a little longer, and **Harmony** turns it into Mana Regen for the whole party.
+
+The trade-off is that most of your strength goes to other people. Your own damage is modest, and you need both Dexterity and Intellect to get the most out of Performance.
+
+If you like making the whole party better and watching fights speed up around you, the Bard is a great pick, though it's only available to subscribers.
 
 ## Priorities
 
 The big picture for building a Bard, most important first:
 
-1. [Top priority]
-2. [Next priority]
-3. [Next priority]
+1. **Mana Regen.** Your songs only help while they're playing, and every song costs mana.
+2. **Ability Cooldown and Performance.** With enough of both, you can keep a song and the Haste or Slow that comes with it running nonstop.
+3. **Dexterity and Intellect.** **Performer** gives +1 Performance for every 8 of each, so keep them balanced rather than stacking one.
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips
 
-- [Tip new players might miss]
-- [Tip]
+- **Grab Soldier's Fanfare at level 2.** It makes your party's weapons hit harder and faster while it plays.
+- **Run a bow and a quiver.** Instruments only come from lucky drops and can't be crafted, so leave them for the endgame. A quiver is one of the easier places to roll Mana Regen, and a bow's Dexterity balances out the Intellect from a Magician subclass, which most Bards take.
+- **Take Requiem of Suffering at level 4.** It damages every enemy and Slows them, which makes solo fights a lot easier.
+- **Start with a store bow, then get the Gloomwood Longbow.** The Ranger guild hall in Eastern Gate sells bows you can imbue to get started. Later, the Gloomwood Longbow from the treasure box at the end of Thornheart Chamber (Gloomhaven) can easily carry you to the endgame.
 
 ## Uniques to watch for
 
@@ -39,7 +45,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Seal of the Deep Warden</span><span class="pdx-item__slot">Necklace</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">2</b></span><span class="pdx-chip">Barrier Regen <b class="c-bar">4</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ??? note "Goblin Treasure Box: Bow"
-    **Where:** The treasure box for finishing Thronheart Chamber (Gloomhaven). Every item in it is level 16.
+    **Where:** The treasure box for finishing Thornheart Chamber (Gloomhaven). Every item in it is level 16.
 
     **Why:** A back line bow with Dexterity, Hit, Crit and Double Strike.
 
@@ -79,11 +85,11 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-[What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
+A Bard is at their best in a party, since nearly everything they do is for someone else. Their songs can speed up the whole party's weapons or abilities, cut the damage your allies take, heal them over time, sharpen their Hit, Crit and Evasion, or Slow and weaken the entire enemy side. **Harmony** adds Mana Regen for everyone on top of that. Every song is strong in the right party, so read through them and pick the ones that fit your group. See [Synergies](../parties/synergies.md) for which classes pair well together.
 
 ## Best subclasses
 
-[Subclasses this class should take, and why.]
+**Magician** is the standout, for **Manafont**: more Mana Regen means more songs. Most Bards fill their ability slots with two or three songs, so any other subclass is mainly about stats and passives. **Priest** brings Intellect and free Health Regen from **Mercy**. **Thief** brings Dexterity and a little poison, plus Dual Wield, though that matters less once you're running an Instrument, since Instruments are the only gear with Performance outside a few endgame Uniques. **Ranger** brings Dexterity and **Focus Fire**, which may pair well with **Dancer's Bagatelle**'s Evasion.
 
 ## As a subclass
 
