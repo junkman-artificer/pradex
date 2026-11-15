@@ -10,22 +10,28 @@
 
 ## Overview
 
-[What the class does well, what it struggles with, and who will enjoy playing it.]
+The Blood Knight spends their own health instead of mana, then takes it back from their enemies. **Blood Strike**, **Cruel Weapon** and **Blood Boil** cover enemies in Bleed, and **Death Strike** and **Heart Strike** cash those stacks in for damage and healing. The lower you get, the stronger you become: **Blood Tap** gives more Health Regen, and **Sanguine Might** adds 1 weapon damage for every 10 health you're missing, so paying health for abilities is a lot less risky than it sounds. Many of their abilities scale with Max Health, and **Executioner** adds Cleave to Great Swords, Great Axes and Spears. They support the party too: **Blood Pact** shields allies with Barrier, and **Vampiric Aura** gives everyone Weapon Lifesteal.
+
+The trade-off is that your health is both your fuel and your life. Spend too much at the wrong moment, and a big hit can finish you off.
+
+If you like living on the edge and turning the enemy's blood into your own staying power, the Blood Knight is a great pick, though it's only available to subscribers.
 
 ## Priorities
 
 The big picture for building a Blood Knight, most important first:
 
-1. [Top priority]
-2. [Next priority]
-3. [Next priority]
+1. **Strength.** Each point gives 8 Health, which powers the abilities that scale with your Max Health and gives you more to spend.
+2. **Max Health.** When Strength isn't on an item, Health itself is the next best thing.
+3. **Health Regen.** You'll need some, since every ability costs health, but **Thirst** heals you every time an enemy dies, so it goes a long way when you're killing quickly.
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips
 
-- [Tip new players might miss]
-- [Tip]
+- **Grab Blood Strike at level 2, then Thirst at level 3.** Blood Strike's Bleed scales with the enemy's Max Health, so it hits hardest on big targets. Thirst heals you every time an enemy dies, which keeps you going once the quick early levels are behind you.
+- **Hold off on judging the class until level 8.** **Blood Tap** gives more Health Regen the lower your health gets, and once you have it, the Blood Knight gets a lot easier to play.
+- **Keep an eye out for strong weapons, especially ones with Health Regen.** Two-handers are hard to find early, so don't plan around Executioner. Take whatever hits hard, and grab anything with Health Regen.
+- **Gear up in the Eastern Gate.** **The Watchman** can spawn in any Eastern Gate adventure deck except Old City Forum, and his gear is packed with Strength, Health and Health Regen.
 
 ## Uniques to watch for
 
@@ -79,11 +85,11 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-[What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
+In a party, the Blood Knight brings a bit of everything: real damage from their Bleeds, the staying power to hold the front line, and some support on top. **Vampiric Aura** gives the whole party Weapon Lifesteal without taking up an ability slot. If you have room, **Communion** gives allies Health Regen whenever you land a weapon hit, and **Blood Pact** trades some of your health for Barrier on everyone else. See [Synergies](../parties/synergies.md) for which classes pair well together.
 
 ## Best subclasses
 
-[Subclasses this class should take, and why.]
+**Warrior** is a great fit, for **Iron Will**, which turns your Strength into extra Health Regen, plus **Shield Bearer** and plenty of raw Strength. **Thief** is impressive too: Dual Wield gives you a second weapon, and **Focus Target** keeps you on one enemy until it drops, so **Thirst** kicks in sooner.
 
 ## As a subclass
 
