@@ -6,26 +6,32 @@
     - **Role:** Bruiser
     - **Availability:** Everyone
     - **Weapons:** Shield, Quiver, Sword, Axe, Club, Mace, Great Sword, Great Axe, Spear, Bow
-    - **Playstyle:** [one line]
+    - **Playstyle:** Hold the front line, soak hits, and build Rage with every swing.
 
 ## Overview
 
-[What the class does well, what it struggles with, and who will enjoy playing it.]
+The Warrior is a bruiser through and through. They're naturally tanky, can carry a shield with **Shield Bearer**, and can pull enemies onto themselves with **Provoke**. From level 16, **Second Wind** even gets them back up once per fight, returning at 30% health the first time they're defeated. They also hit hard, with abilities for a single target, like **Hemorrhage**, and for the whole enemy line, like **Whirlwind**. **Rage** stacks up damage with every swing and costs nothing to keep running, and **War Cry** and **Intimidating Shout** help the whole party by boosting allies' damage and cutting the enemy's.
+
+The trade-off is that everything happens up close, and Warriors have very little healing of their own. **Overkill** can heal them, but it's a costly pick that doesn't always pay off, so in long decks they usually lean on Health Regen, food, or a healer.
+
+If you want a sturdy, forgiving first character that can tank or deal damage depending on how you build it, the Warrior is a great pick, and it's available to everyone.
 
 ## Priorities
 
 The big picture for building a Warrior, most important first:
 
-1. [Top priority]
-2. [Next priority]
-3. [Next priority]
+1. **A strong weapon.** Most Warrior abilities deal a percentage of weapon damage, so your weapon matters more than anything else.
+2. **Mana Regen.** No mana, no abilities. Rage takes some of the pressure off, but you'll still want enough regen to keep your abilities going through a whole deck.
+3. **Strength and Armor.** These mostly take care of themselves, since Strength armor tends to roll Strength anyway. Every 10 Strength also gives +1 Health Regen through **Iron Will**.
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Leveling tips
+## Early tips
 
-- [Tip new players might miss]
-- [Tip]
+- **Grab Rage at level 2.** It's free damage on every swing and never costs mana, so it's worth equipping right away.
+- **Don't run every ability all the time.** Early on your mana can't keep up, so save your abilities for the fights that need them and let Rage do the work in between.
+- **Try a shield once you hit level 4.** Shield Bearer lets you trade some damage for a lot of survivability, which helps in longer decks before your gear catches up.
+- **Gear up in the Eastern Gate.** Two Unique Monsters have a chance to spawn in any Eastern Gate adventure deck except Old City Forum. **The Watchman** drops strong Strength and Health Regen gear with plenty of Armor. **The Masked Revenant** drops a ring with enough Mana Regen to keep **Hemorrhage** running almost on its own. The axe from The Bone Gallery's Skeleton's Chest is worth grabbing too: it has Strength and Health Regen, hits hard, and is one-handed, so you can keep your shield.
 
 ## Uniques to watch for
 
@@ -37,6 +43,17 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     **Why:** Early Strength plus Health Regen, and it's one of the first Uniques most players can get.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Crypt Raider&#x27;s Axe</span><span class="pdx-item__slot">Axe</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">11-14</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">3.13</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">4.0s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">3</b></span><span class="pdx-chip">Health Regen <b class="c-hp">2</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">10</b></span></div></div>
+
+??? note "The Watchman: Helmet, Boots, Ring"
+    **Where:** Any adventure deck in Eastern Gate except Old City Forum. Level 11 gear.
+
+    **Why:** Strength and Health on the helm and boots with plenty of Armor, Health Regen on the boots and ring, and a bit of Mana Regen on the ring too.
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Helm of the Fallen Watchman</span><span class="pdx-item__slot">Helmet</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">22</b></span><span class="pdx-chip">Health <b class="c-hp">20</b></span><span class="pdx-chip">Strength <b class="c-str">4</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">14</b></span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Boots of Relentless Pursuit</span><span class="pdx-item__slot">Boots</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">11</b></span><span class="pdx-chip">Health <b class="c-hp">18</b></span><span class="pdx-chip">Strength <b class="c-str">2</b></span><span class="pdx-chip">Health Regen <b class="c-hp">3</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">14</b></span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Ring of the Broken Oath</span><span class="pdx-item__slot">Ring</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">3</b></span><span class="pdx-chip">Health Regen <b class="c-hp">2</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">2</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ??? note "The Butcher of the Burrows: Great Sword, Chest"
     **Where:** Most decks in The Burrows, plus Travel to the Burrows. Level 11 gear.
@@ -86,7 +103,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-[What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
+Warriors anchor the front line. **Provoke** pulls enemies off your squishier allies, **Intimidating Shout** cuts the damage the whole enemy side deals, and **War Cry** boosts the weapon damage of everyone in the party. Ability slots are limited, so you'll usually bring one of these alongside your damage abilities, picked to cover what the rest of the party is missing. See [Synergies](../parties/synergies.md) for which classes pair well together.
 
 ## As a subclass
 
@@ -116,4 +133,4 @@ A subclass can never go above level 12, so everything the Warrior unlocks after 
     | 12 | Crippling Blow II | Active | Deliver a powerful strike for 120% weapon damage and reduces the target's damage by 12 for 3 seconds. |
     | 12 | Thunderclap II | Active | Slam the ground with a thunderous blow, dealing 17 to 21 damage to the enemy front line and slowing them for 1.25 seconds. |
 
-**Pairs well with:** [Main classes that get the most out of a Warrior subclass, and why.]
+**Pairs well with:** **Blood Knight**, for Rage and Iron Will on top of a Strength build. **Thief**, for a more aggressive build: dual wielding brings extra affixes and more attacks, so Rage stacks up much faster.

@@ -6,7 +6,7 @@
     - **Role:** Skirmisher
     - **Availability:** Everyone
     - **Weapons:** Quiver, Dagger, Sword, Axe, Mace, Bow
-    - **Playstyle:** [one line]
+    - **Playstyle:** Dodge attacks, stack poison, and burst down targets with two weapons.
 
 ## Overview
 
@@ -22,7 +22,7 @@ The big picture for building a Thief, most important first:
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Leveling tips
+## Early tips
 
 - [Tip new players might miss]
 - [Tip]

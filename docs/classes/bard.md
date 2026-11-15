@@ -6,7 +6,7 @@
     - **Role:** Support
     - **Availability:** Subscriber only
     - **Weapons:** Instrument, Quiver, Dagger, Sword, Axe, Spear, Bow
-    - **Playstyle:** [one line]
+    - **Playstyle:** Play songs that power up your allies and weaken your enemies.
 
 ## Overview
 
@@ -22,7 +22,7 @@ The big picture for building a Bard, most important first:
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Leveling tips
+## Early tips
 
 - [Tip new players might miss]
 - [Tip]

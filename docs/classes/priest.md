@@ -6,7 +6,7 @@
     - **Role:** Cleric
     - **Availability:** Everyone
     - **Weapons:** Relic, Dagger, Sword, Axe, Mace, Staff, Wand
-    - **Playstyle:** [one line]
+    - **Playstyle:** Keep the party alive with heals and shields, then smite foes with holy magic.
 
 ## Overview
 
@@ -22,7 +22,7 @@ The big picture for building a Priest, most important first:
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Leveling tips
+## Early tips
 
 - [Tip new players might miss]
 - [Tip]

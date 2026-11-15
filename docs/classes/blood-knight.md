@@ -6,7 +6,7 @@
     - **Role:** Juggernaut
     - **Availability:** Subscriber only
     - **Weapons:** Sword, Axe, Mace, Club, Great Sword, Great Axe, Spear
-    - **Playstyle:** [one line]
+    - **Playstyle:** Spend your own health on abilities, then win it back from your enemies.
 
 ## Overview
 
@@ -22,7 +22,7 @@ The big picture for building a Blood Knight, most important first:
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Leveling tips
+## Early tips
 
 - [Tip new players might miss]
 - [Tip]
@@ -41,7 +41,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">The Butcher&#x27;s Leather Apron</span><span class="pdx-item__slot">Chest</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">40</b></span><span class="pdx-chip">Health <b class="c-hp">18</b></span><span class="pdx-chip">Strength <b class="c-str">6</b></span><span class="pdx-chip">Health Regen <b class="c-hp">4</b></span><span class="pdx-chip">Reduce All Damage <b class="c-oth">2%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">14</b></span></div></div>
 
 ??? note "The Watchman: Boots"
-    **Where:** Most adventure decks in Eastern Gate. Level 11 gear.
+    **Where:** Any adventure deck in Eastern Gate except Old City Forum. Level 11 gear.
 
     **Why:** Health, Strength and Health Regen, with nothing wasted.
 

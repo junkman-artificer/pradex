@@ -6,7 +6,7 @@
     - **Role:** Caster
     - **Availability:** Everyone
     - **Weapons:** Orb, Dagger, Sword, Mace, Spear, Staff, Wand
-    - **Playstyle:** [one line]
+    - **Playstyle:** Cast elemental spells, usually from the back, while keeping the whole party's mana topped off.
 
 ## Overview
 
@@ -22,7 +22,7 @@ The big picture for building a Magician, most important first:
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Leveling tips
+## Early tips
 
 - [Tip new players might miss]
 - [Tip]

@@ -6,7 +6,7 @@
     - **Role:** Marksman
     - **Availability:** Subscriber only, current season only
     - **Weapons:** Quiver, Sword, Axe, Mace, Spear, Bow
-    - **Playstyle:** [one line]
+    - **Playstyle:** Fire from the back with an arrow in the quiver for every situation.
 
 ## Overview
 
@@ -22,7 +22,7 @@ The big picture for building a Ranger, most important first:
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Leveling tips
+## Early tips
 
 - [Tip new players might miss]
 - [Tip]
