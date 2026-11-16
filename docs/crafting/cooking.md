@@ -27,7 +27,7 @@ Ingredient picks are still being worked out, so treat these as a starting point.
 | Alpine Nuts, High Mountain Citrus, Cragfruit | Shepherd's Steppes | Stormwatch |
 | Mutton | Shepherd's Steppes :lucide-move-right: Shepherd's Reach | Stormwatch |
 | Snowberry | Frostbite Ridge | Stormwatch |
-| Frostfern | Icetooth Peaks | Icetooth Base Camp |
+| Frostfern :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Icetooth Peaks | Icetooth Base Camp |
 | Crab Meat, Raptor Meat :lucide-orbit:{ title="Waystone decks only" } | Sweetwater waystone decks | Sweetwater |
 | Bear Meat :lucide-orbit:{ title="Waystone decks only" } | Sweetwater and Gloomhaven waystone decks | Sweetwater, Gloomhaven |
 

@@ -24,10 +24,10 @@ Herb picks are still being worked out, so treat these as a starting point. Sprin
 | Blightspore :lucide-store:{ title="Up to 2 a day at Darkwood Elixirs (Gloomhaven)" } | Secret Gardens of the Old City | Eastern Gate |
 | Ironweed | Secret Gardens of the Old City | Eastern Gate |
 | Stonebloom :lucide-store:{ title="Up to 2 a day at Darkwood Elixirs (Gloomhaven)" } | Briarstone Thicket | Briarstone Quarry |
-| Elderwort :lucide-store:{ title="Up to [ ] a day at Alembics & Infusions (Eastern Gate)" } | Mystic Hollow | Stormwatch |
+| Elderwort :lucide-store:{ title="Up to [ ] a day at Alembics & Infusions (Eastern Gate). Up to 2 a day at Stormwatch Provisions (Stormwatch)" } | Mystic Hollow | Stormwatch |
 | Moonmoss :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Mystic Hollow | Stormwatch |
-| Thundercap :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Shepherd's Steppes | Stormwatch |
-| Frostfern | Icetooth Peaks | Icetooth Base Camp |
+| Thundercap :lucide-store:{ title="Up to 2 a day at Stormwatch Provisions (Stormwatch)" } | Shepherd's Steppes | Stormwatch |
+| Frostfern :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Icetooth Peaks | Icetooth Base Camp |
 | Dreamshade :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Stormwatch garden decks <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> | Stormwatch |
 | Sunbloom :lucide-orbit:{ title="Waystone decks only" } | Sweetwater waystone decks | Sweetwater |
 | Nightsong :lucide-orbit:{ title="Waystone decks only" } | Nightsong Bloom | Briarstone Quarry |

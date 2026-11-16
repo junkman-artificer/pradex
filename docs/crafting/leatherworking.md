@@ -28,7 +28,7 @@ Every hide drops from monsters, so look for decks with lots of monster cards and
 | Soft Hide :lucide-store:{ title="Up to 2 a day at Westfield Supply Store (Westfield). Up to 3 a day at East Gate Bazaar (Eastern Gate)" } | Windmill Hills | Westfield |
 | Scavenger's Hide :lucide-store:{ title="Up to 3 a day at East Gate Bazaar (Eastern Gate)" } | The Burrows | The Burrows |
 | Beast Hide | Briarstone Thicket | Briarstone Quarry |
-| Frost Hide | Icetooth Peaks | Icetooth Base Camp |
+| Frost Hide :lucide-store:{ title="Up to 1 a day at Stormwatch Provisions (Stormwatch)" } | Icetooth Peaks | Icetooth Base Camp |
 | Dragon Hide | Icetooth Peaks | Icetooth Base Camp |
 
 </div>
