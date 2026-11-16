@@ -41,5 +41,5 @@ You get the full value of the buffs and more out of every Treasure deck, all whi
 
 ## Field notes
 
-- [Tip]
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> A rune's first word usually names one of its Fortunes, which makes Treasure and Shrine runes quick to spot. Look for **Fortune** and **Hallowed** (Wild cards become Treasures or Shrines), **Abundant**, **Gleaming** and **Opulent** (Treasure boosts), and **Sacred** (Shrine boost). It isn't always reliable, and Omen names don't follow any pattern, so check the actual modifiers before you keep or sell a rune.
 - [Tip]
