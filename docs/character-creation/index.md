@@ -16,6 +16,8 @@
 
 Don't overthink it: you can switch classes any time you're in town, and each class has its own level and experience bar, so switching never resets your progress on the others. Here's a quick way to find a starting point:
 
+<div class="pdx-compact" markdown>
+
 | Class | You might like it if... | Available to |
 |---|---|---|
 | [Warrior](../classes/warrior.md) | you want to be on the front line, taking hits and dishing them out | Everyone |
@@ -26,14 +28,20 @@ Don't overthink it: you can switch classes any time you're in town, and each cla
 | [Blood Knight](../classes/blood-knight.md) | you like trading your own health for power, then winning it back | Subscribers |
 | [Ranger](../classes/ranger.md) | you like picking enemies off from the back line with a bow | Subscribers, current season only |
 
+</div>
+
 ## Seasonal or Legacy
 
 You can start on the current season or on Legacy.
+
+<div class="pdx-compact" markdown>
 
 | | Seasonal | Legacy |
 |---|---|---|
 | **Updates** | Always has the latest | One season behind |
 | **Playing with others** | Only with other Seasonal players | Only with other Legacy players |
+
+</div>
 
 There's no cross-server play, and to join someone's party you also need to be in the same area as them. Check where your friends are playing before you pick!
 

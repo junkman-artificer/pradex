@@ -76,6 +76,7 @@ All of this lives in `docs/stylesheets/extra.css`. The section headed "Pokedex l
 - Dex entry headers on all 7 class pages and all 5 region pages.
 - Menu tiles (numbered only on the Classes page), readout table headers, glossary entry styling.
 - Confidence tags (Observed, Unconfirmed) replaced every hedged phrase. "Tips" sections became "Field notes".
+- Site description set to "Field Guide: ONLINE. Accessing all known data on Prado Traveler." It shows in link previews and search results.
 - Home page boot screen with counts for classes, regions and professions. These are typed by hand in `docs/index.md`, so update them if a class or region is added.
 Nothing in the written guides was changed.
 
@@ -84,7 +85,6 @@ Nothing in the written guides was changed.
 ### 1. Finish what is half built
 
 - [ ] **Leveling Uniques page.** The class pages only show hand picked Uniques. `tools/data/leveling-uniques.txt` lists every leveling Unique Monster and its loot, but in shorthand (for example "MR" is ambiguous). Re-read each monster's loot from the official site (see "Reading the official site" below), build full cards with the generator pattern in `tools/data/unique-card-generator-example.py`, and put them on a new page, suggested `gearing-up/leveling-uniques.md`, grouped by region in level order. Honeyglow Bear, Whispering Phantom and Sylthara have no cards anywhere today.
-- [ ] **Turn on `site_description`** in `zensical.toml` (it is commented out) so shared links get a proper preview line. Suggested: "An unofficial field guide to Prado Traveler".
 
 ### 2. Extend the dex pattern to the pages that are already entries
 
@@ -118,12 +118,7 @@ Placeholders left in the site, to fill by spitballing one section at a time:
 
 ### 5. Known rough edges
 
-Tables that still scroll sideways on phones (measured at 390 px, extra pixels in brackets). They did before this work too. Fix by wrapping in `<div class="pdx-compact" markdown>` or by stacking rows the way the recipe tables do:
-
-- `gearing-up/sources/` (about 300)
-- `parties/synergies/` (about 90)
-- `gearing-up/rarity/` (about 10, more at 360)
-- At 360 px only: `character-creation/`, `classes/` (subclass table), `combat/`, `enchanting/`, `parties/party-size/`
+None right now. Every page was checked at 360, 390 and 1280 px on 2026-11-16 with nothing scrolling sideways. Keep it that way: wrap any new wide table in `<div class="pdx-compact" markdown>`, and show Unique items as `pdx-item` cards, never as table rows.
 
 ## Reading the official site
 

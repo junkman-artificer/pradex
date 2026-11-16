@@ -10,6 +10,8 @@ Prayer of Healing instantly restores health and mana to all allies, and Arcane I
 
 **Prayer of Healing** (Priest)
 
+<div class="pdx-compact" markdown>
+
 | Rank | Unlocks at | Restores to all allies | Mana cost |
 |---|---|---|---|
 | I | Level 11 | 9 health, 5 mana | 12 |
@@ -17,13 +19,19 @@ Prayer of Healing instantly restores health and mana to all allies, and Arcane I
 | III | Level 25 | 54 health, 30 mana | 42 |
 | IV | Level 25, Tier 4 | 64 health, 40 mana | 52 |
 
+</div>
+
 **Arcane Infusion** (Magician)
+
+<div class="pdx-compact" markdown>
 
 | Rank | Unlocks at | Mana regen to all allies | Mana cost |
 |---|---|---|---|
 | I | Level 13 | 5 per second for 3 seconds | 18 |
 | II | Level 19 | 10 per second for 3 seconds | 36 |
 | III | Level 25, Tier 2 | 15 per second for 3 seconds | 50 |
+
+</div>
 
 ## [Synergy name]
 

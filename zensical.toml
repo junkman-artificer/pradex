@@ -2,7 +2,7 @@
 site_url = "https://junkman-artificer.github.io/pradex/"
 site_name = "Pradex"
 
-# site_description = "A field guide to the world of Prado"
+site_description = "Field Guide: ONLINE. Accessing all known data on Prado Traveler."
 # site_author = "Ezraek"
 
 copyright = "Copyright &copy; 2026 Ezraek<br><strong>Prado Traveler</strong> and its game content &copy; 2026 Prado Industries, Inc.<br><strong>Pradex</strong> is an unofficial fan site and is not affiliated with or endorsed by Prado Industries."

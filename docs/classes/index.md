@@ -77,12 +77,16 @@ Beat the **Sunken Crypts**, **The Drowned Tombs**, and **Relic's Rest** triple-d
 
 A subclass uses its own level, but it's capped at **half your main class's level, rounded down**.
 
+<div class="pdx-compact" markdown>
+
 | Main level | Subclass's own level | Subclass plays at |
 |---|---|---|
 | 10 | 3 | 3 (its own level is under the cap) |
 | 10 | 8 | 5 (capped at half of 10) |
 | 15 | 15 | 7 (half of 15 is 7.5, rounded down) |
 | 25 | 20 | 12 (the highest any subclass can reach) |
+
+</div>
 
 !!! warning "Level 13 and up is out of reach"
     A subclass can never go above level 12, so anything that unlocks at level 13 or higher is off the table. Each class page lists what you do get by level 12 under **As a subclass**.

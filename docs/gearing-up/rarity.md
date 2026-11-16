@@ -2,6 +2,8 @@
 
 Gear comes in six tiers. The higher the tier, the more affixes (Prefixes and Suffixes) an item can hold, and the more chances you get to roll them.
 
+<div class="pdx-compact" markdown>
+
 | Tier | Prefix / Suffix slots | Attunements |
 |---|---|---|
 | <span class="rarity rarity--common">Common</span> | 0 / 0 | None |
@@ -10,6 +12,8 @@ Gear comes in six tiers. The higher the tier, the more affixes (Prefixes and Suf
 | <span class="rarity rarity--rare">Rare</span> | 3 / 3 | 2 to 4 |
 | <span class="rarity rarity--epic">Epic</span> | 3 / 3 | Unlimited |
 | <span class="rarity rarity--unique">Unique</span> | Fixed | None |
+
+</div>
 
 Subscribers get 2 extra attunements on every item.
 

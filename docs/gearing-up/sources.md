@@ -38,21 +38,23 @@ Two decks also give a treasure box when you complete them. Each box holds one of
 
 From **The Bone Gallery** in [Eastern Gate](../waystones/regions/eastern-gate.md). All three items are level 9.
 
-| Item | Type | Damage | Speed | Bonuses | Requires |
-|---|---|---|---|---|---|
-| Crypt Raider's Axe | Axe | 11 to 14 physical | 400 | +3 Strength, +2 Health Regen | 10 Strength |
-| Catacomb Staff | Staff (two-handed) | 10 to 11 magical | 380 | +3 Intellect, +3 Mana Regen, +2 Holy Spell Power | 10 Intellect |
-| Cryptkeeper's Lantern | Relic (off-hand) | None | None | +1 Intellect, +1 Mana Regen, +2 Holy Spell Power | 10 Intellect |
+??? note "Skeleton's Chest: Axe, Staff, Relic"
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Crypt Raider&#x27;s Axe</span><span class="pdx-item__slot">Axe</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">11-14</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">3.13</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">4.0s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">3</b></span><span class="pdx-chip">Health Regen <b class="c-hp">2</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">10</b></span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Catacomb Staff</span><span class="pdx-item__slot">Staff</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">10-11</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">2.76</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">3.8s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">3</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">3</b></span><span class="pdx-chip">Holy Spell Power <b class="c-sp">2</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">10</b></span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Cryptkeeper&#x27;s Lantern</span><span class="pdx-item__slot">Relic</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">1</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">1</b></span><span class="pdx-chip">Holy Spell Power <b class="c-sp">2</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">10</b></span></div></div>
 
 ### Goblin Treasure Box
 
 From **Thornheart Chamber** in [Gloomhaven](../waystones/regions/gloomhaven.md). All three items are level 16.
 
-| Item | Type | Damage | Speed | Bonuses | Requires |
-|---|---|---|---|---|---|
-| Goblin's Bane Sword | Sword | 14 to 18 physical | 320 | +3 Strength, +3 Dexterity, +8 Health on Kill, +12 Mana on Kill | 24 Strength, 24 Dexterity |
-| Gloomwood Longbow | Bow (two-handed) | 30 to 36 physical | 430 | +5 Dexterity, +5% Weapon Hit, +5% Weapon Crit, 7% Double Strike | 27 Dexterity |
-| Fungal Mystic's Staff | Staff (two-handed) | 20 to 24 magical | 370 | +2 Strength, +4 Intellect, +3 Mana Regen, +3 Health on Spell Hit, +3 Mana on Spell Hit | 27 Intellect |
+??? note "Goblin Treasure Box: Sword, Bow, Staff"
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Goblin&#x27;s Bane Sword</span><span class="pdx-item__slot">Sword</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">14-18</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">5.00</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">3.2s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">3</b></span><span class="pdx-chip">Dexterity <b class="c-dex">3</b></span><span class="pdx-chip">Health on Kill <b class="c-hp">8</b></span><span class="pdx-chip">Mana on Kill <b class="c-mana">12</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">24</b></span><span class="pdx-chip">Dexterity <b class="c-dex">24</b></span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gloomwood Longbow</span><span class="pdx-item__slot">Bow</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">30-36</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">7.67</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">4.3s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">5</b></span><span class="pdx-chip">Weapon Hit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">Weapon Crit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">Double Strike <b class="c-oth">7%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">27</b></span></div></div>
+
+    <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Fungal Mystic&#x27;s Staff</span><span class="pdx-item__slot">Staff</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">20-24</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">5.95</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">3.7s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">2</b></span><span class="pdx-chip">Intellect <b class="c-int">4</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">3</b></span><span class="pdx-chip">Health on Spell Hit <b class="c-hp">3</b></span><span class="pdx-chip">Mana on Spell Hit <b class="c-mana">3</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">27</b></span></div></div>
 
 Unique Treasures in waystones give a random item from their reward pool, and every player opens their own. See each [region's page](../waystones/regions/index.md) for what's in its pools.
 

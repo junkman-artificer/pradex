@@ -43,10 +43,14 @@ Your party fights in a **2x2 grid**: two front line slots and two back line slot
 
 Every weapon is either melee or ranged, which affects its damage, who it can target, and related weapon abilities.
 
+<div class="pdx-compact" markdown>
+
 | Range | Weapons | Can target |
 |---|---|---|
 | Ranged | Bows, Wands | Front line or back line |
 | Melee | Everything else (Swords, Daggers, Spears, Great Axes, Staves, and so on) | Front line only |
+
+</div>
 
 Bows are the go-to back line weapon for Warriors, Thieves, and Bards. Wands are a one-handed ranged option for Magicians and Priests. Blood Knights are melee only.
 
@@ -54,11 +58,15 @@ Bows are the go-to back line weapon for Warriors, Thieves, and Bards. Wands are 
 
 Some weapons can roll Suffixes that spread their damage across the formation grid:
 
+<div class="pdx-compact" markdown>
+
 | Affix | Also hits | Weapons |
 |---|---|---|
 | Pierce | Enemies in the same column, behind your target | Bows, Spears |
 | Cleave | Enemies in the same row as your target | Clubs, Great Axes, Great Swords, Maces, Staves |
 | Splash | Enemies in the same row and column | Clubs only |
+
+</div>
 
 Swords, Daggers, Axes, and Wands can't roll any of these.
 
@@ -74,10 +82,14 @@ Swords, Daggers, Axes, and Wands can't roll any of these.
 
 All damage is either **Physical** or **Magical**.
 
+<div class="pdx-compact" markdown>
+
 | Type | Examples | Reduced by |
 |---|---|---|
 | Physical | Weapon attacks, Hemorrhage, Explosive Shot | Armor |
 | Magical | Fireball, Frostbolt, Staves, Wands | Magic Resistance |
+
+</div>
 
 Every character starts with **20% Magic Resistance**, and gear can add more. Higher level monsters are more likely to use magical abilities, so Magic Resistance matters more as you progress.
 
