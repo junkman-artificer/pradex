@@ -1,4 +1,6 @@
-# Eastern Gate
+# Eastern Gate { data-no="02" data-kind="Region" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--str">Strength gear</span><span class="pdx-tag">4 waystone decks</span></p>
 
 !!! info "At a glance"
     - **Waystone decks:** 4

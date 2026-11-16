@@ -1,0 +1,46 @@
+Official site vendor stock (pradotraveler.com/vendors/*), scraped 2026-11-13. Quantities = shop stock.
+Sweetwater / Sunflower Market: Earth, Fire, Water, Wind Crystal x3 each; Flax Fibers x3; Spring Water x3; Meadowbread Loaf x3; Westfield Cheese x3; Brookmint Cooler x3; class manuals x1
+Sweetwater / Sunflower Apothecary: Brookmint x3; Honeyroot x3; Meadowbloom x3; Nimbleweed x3
+Westfield / Westfield Supply Store: Earth, Fire, Water, Wind Crystal x3 each; Flax Fibers x3; Soft Hide x2; Butter x3; Flour x3; Fresh Milk x3; Meadowbread Loaf x3; Westfield Cheese x3; manuals x1
+Eastern Gate / East Gate Bazaar: Earth, Fire, Water, Wind Crystal x5 each; Flax Fibers x3; Rough String x2; Spring Water x3; Butter x3; Earthcap x3; Flour x3; Fresh Milk x3; Gloom Lettuce x2; Mudspuds x2; Wild Berry x3; (food/drink: Artisan Sourdough, Old City Ale, Spiced Nut Mix, Spiced Rum)
+Eastern Gate / Alembics & Infusions: Earth Crystal x1; Fire, Water, Wind Crystal x2 each; Spring Water x5
+Eastern Gate guild halls (Golden Flame, Crimson Hand, Sacred Light, Midnight Minstrels, Brotherhood of Steel, Vesper Crypt, Wardens' Outpost): class manuals x1
+The Burrows / Mugger's Market: Earth, Fire, Water, Wind Crystal x2 each; Mudspuds x2; (Spiced Nut Mix, Spiced Rum, Underground Ale)
+Gloomhaven / Darkwood Trading Post: Earth x4, Fire x4, Water x4, Wind x7 Crystal; Spring Water x3; Bird Egg x2; Butter x3; Earthcap x3; Flour x3; Fresh Milk x3; Gloom Lettuce x3; Spongy Morel x3; Starlight Apple x3; Tomato x3; (Dark Berry Wine, Darkwood Bread, Hot Chocolate)
+Gloomhaven / Darkwood Elixirs: Earth, Fire, Water, Wind Crystal x2 each
+Gloomhaven / Gloomguard Armaments: books x1 (Flurry, Prayer of Healing, Arcane Infusion, Whirlwind, Meadowland Pastoral, Bloodrage, Quick Draw)
+Stormwatch / Stormwatch Provisions: Earth, Fire, Water, Wind Crystal x3 each; Spring Water x3; Bird Egg x1; Butter x3; Flour x3; Fresh Milk x3; Gloom Lettuce x1; Mudspuds x2; Tomato x1; (Wind-whipped Bread)
+Stormwatch / Gale's Training Yard: Arcanite Ore x2; rank II/III books x1
+Stormwatch / Stormy Mug Tavern: Icetooth Ale x2
+Briarstone Quarry / Ransacked Watchtower: Darkwood Bread x2; Smoked Venison x2
+Icetooth Base Camp / Frostbite Shelter: Fire Crystal x2; Spring Water x3; Smoked Venison x2; Ravenspire Munch x1
+
+User-observed (not on official site), stock is random daily up to a cap; user may re-verify by visiting each town:
+- East Gate Bazaar: Soft Hide, Scavenger's Hide, Scraps of Cloth (1-3 seen; write as "Up to 3 a day")
+- Eastern Gate alchemy store (Alembics & Infusions): Sagefern, Elderwort, Nimbleweed
+- Gloomhaven: Stonebloom
+- Stormwatch: Thundercap, Moonmoss, Dreamshade (user unsure, wants to verify)
+- Rough String sold in Eastern Gate (official site agrees: East Gate Bazaar up to 2)
+
+Region ingredient screenshots: coming in level order. Flag overlaps for user to deconflict (some items only drop in end-game waystone decks, or show as forageable only because of waystones).
+- Wild Truffle: the only blue (Uncommon) plant not limited to waystone decks; legitimately findable early.
+
+=== In-game "Harvest & Hunts > Forageable Items" per region (user screenshots 2026-11-13). Color: plain=Common, [G]=green/Uncommon, [B]=blue/Rare ===
+Sweetwater: Earth/Wind/Fire/Water Crystal, Bird Egg, Spring Water, Mudspuds, Wild Berry, Sagefern, Brookmint, Earthcap, Meadowbloom, Blightspore, Ironweed, Nimbleweed; [G] Mindroot, Steelstem, Sunbloom, Honeyroot, Spongy Morel, Fleetleaf, Mistmint; [B] Wild Truffle, Radiant Bloom, Giant's Crown, Ghostvine, Mindbloom, Glintmint
+Westfield: Wind/Fire/Earth Crystal, Bird Egg, Sagefern, Meadowbloom, Wild Berry, Brookmint, Nimbleweed; [G] Honeyroot; [B] Wild Truffle
+Eastern Gate: Fire/Water/Earth/Wind Crystal, Blightspore, Starlight Apple, Spring Water, High Mountain Citrus, Sagefern, Alpine Nuts, Cragfruit, Mudspuds, Nimbleweed, Meadowbloom, Sweetbriar, Brookmint, Ironweed, Earthcap, Snowberry, Wild Berry, Tomato, Bird Egg; [G] Mindroot, Steelstem, Honeyroot, Spongy Morel, Starberry, Dreamshade, Frostfern, Moonmoss, Fleetleaf, Elderwort, Pumpkin; [B] Radiant Bloom, Glintmint, Wild Truffle
+The Burrows: Fire/Water/Earth/Wind Crystal, Bird Egg, Mudspuds, Nimbleweed, Brookmint, Earthcap, Wild Berry, Blightspore, Ironweed, Sagefern, Tomato; [G] Mindroot, Honeyroot, Spongy Morel, Pumpkin, Steelstem; [B] Wild Truffle, Glintmint
+Gloomhaven: Fire/Earth/Wind Crystal (one row may be hidden), Tomato, Gloom Lettuce, Bird Egg, Starlight Apple, Mudspuds, Cragfruit, Brookmint, Earthcap, Meadowbloom, Blightspore, Wild Berry, Sweetbriar, Sagefern, Ironweed, Nimbleweed; [G] Mindroot, Steelstem, Honeyroot, Spongy Morel, Starberry, Stonebloom, Pumpkin, Fleetleaf, Mistmint; [B] Nightsong, Ghostvine, Giant's Crown, Mindbloom, Glintmint, Wild Truffle
+(Sweetbriar is not used in any recipe on the site yet.)
+Briarstone Quarry: Fire/Water/Earth/Wind Crystal, Sagefern, Boar Meat, Cragfruit, Mudspuds, Nimbleweed, Sweetbriar, Earthcap, Ironweed, Stag Meat, Tomato, Gloom Lettuce, Starlight Apple; [G] Mindroot, Steelstem, Spongy Morel, Starberry, Stonebloom, Pumpkin, Fleetleaf; [B] Wild Truffle, Nightsong, Ghostvine, Mindbloom, Giant's Crown
+Stormwatch: Fire/Water/Earth/Wind Crystal, Snowberry, Wild Berry, Bird Egg, High Mountain Citrus, Alpine Nuts, Cragfruit, Mudspuds, Nimbleweed, Sagefern, Meadowbloom, Brookmint, Earthcap, Blightspore, Sweetbriar (a row may be hidden after Sweetbriar); [G] Frostfern, Thundercap, Honeyroot, Spongy Morel, Moonmoss, Elderwort, Dreamshade; [B] Wild Truffle
+Icetooth Base Camp: Earth/Wind/Water/Fire Crystal, Cragfruit, Snowberry, Sweetbriar; [G] Moonmoss, Dreamshade, Frostfern
+
+User deconfliction (2026-11-13):
+- Eastern Gate's late items (Citrus, Alpine Nuts, Snowberry, Frostfern, Moonmoss, Dreamshade, Elderwort, Cragfruit, Starlight Apple, Starberry) come from travel decks: throw them out for EG.
+- Sweetwater's green/blue herbs are waystone-only. Mark waystone-only sources with the orbit icon (:lucide-orbit:). Sunbloom: Sweetwater waystone (someone claimed Lake Serentis foraging; user never saw it).
+- Burrows/Gloomhaven/Briarstone green+blue herbs: waystone-only (user "thinks").
+- Meats: Mutton from sheep and rams in Stormwatch. Crab Meat and Raptor Meat from Sweetwater waystones (crab and hawk monsters). Bear Meat from Sweetwater and Gloomhaven waystones (bears). Boar Meat from boars in Briarstone Quarry; maybe river hogs in Sweetwater waystone too (unsure).
+- Shop-only: Butter, Flour, Fresh Milk (confirmed).
+
+User sighting 2026-11-13 (Gloomhaven, shop not yet named): Stonebloom 2, Sagefern 2, Blightspore 2. One day's stock, so the cap may be higher.

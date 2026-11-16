@@ -1,4 +1,6 @@
-# Priest
+# Priest { data-no="04" data-kind="Class" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--cleric">Cleric</span><span class="pdx-tag">Everyone</span></p>
 
 [:lucide-heart-pulse: Official Priest page](https://www.pradotraveler.com/classes/PST){ .md-button .md-button--primary target="_blank" }
 

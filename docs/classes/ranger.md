@@ -1,4 +1,6 @@
-# Ranger
+# Ranger { data-no="07" data-kind="Class" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--marksman">Marksman</span><span class="pdx-tag">Subscriber only, current season only</span></p>
 
 [:lucide-bow-arrow: Official Ranger page](https://www.pradotraveler.com/classes/RNG){ .md-button .md-button--primary target="_blank" }
 

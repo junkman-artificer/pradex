@@ -1,4 +1,6 @@
-# Magician
+# Magician { data-no="02" data-kind="Class" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--caster">Caster</span><span class="pdx-tag">Everyone</span></p>
 
 [:lucide-wand-sparkles: Official Magician page](https://www.pradotraveler.com/classes/MAG){ .md-button .md-button--primary target="_blank" }
 

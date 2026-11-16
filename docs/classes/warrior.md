@@ -1,4 +1,6 @@
-# Warrior
+# Warrior { data-no="01" data-kind="Class" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--bruiser">Bruiser</span><span class="pdx-tag">Everyone</span></p>
 
 [:lucide-shield: Official Warrior page](https://www.pradotraveler.com/classes/WAR){ .md-button .md-button--primary target="_blank" }
 

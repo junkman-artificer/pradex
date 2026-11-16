@@ -1,4 +1,6 @@
-# Briarstone Quarry
+# Briarstone Quarry { data-no="05" data-kind="Region" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--dex">Dexterity gear</span><span class="pdx-tag">1 waystone decks</span></p>
 
 !!! info "At a glance"
     - **Waystone decks:** 1

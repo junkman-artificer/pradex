@@ -1,4 +1,6 @@
-# Thief
+# Thief { data-no="03" data-kind="Class" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--skirmisher">Skirmisher</span><span class="pdx-tag">Everyone</span></p>
 
 [:lucide-swords: Official Thief page](https://www.pradotraveler.com/classes/THF){ .md-button .md-button--primary target="_blank" }
 

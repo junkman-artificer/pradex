@@ -1,4 +1,6 @@
-# The Burrows
+# The Burrows { data-no="03" data-kind="Region" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--str">Strength gear</span><span class="pdx-tag">2 waystone decks</span></p>
 
 !!! info "At a glance"
     - **Waystone decks:** 2

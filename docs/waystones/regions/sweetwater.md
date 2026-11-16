@@ -1,4 +1,6 @@
-# Sweetwater
+# Sweetwater { data-no="01" data-kind="Region" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--int">Intellect gear</span><span class="pdx-tag">3 waystone decks</span></p>
 
 !!! info "At a glance"
     - **Waystone decks:** 3

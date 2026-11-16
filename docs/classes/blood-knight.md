@@ -1,4 +1,6 @@
-# Blood Knight
+# Blood Knight { data-no="06" data-kind="Class" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--juggernaut">Juggernaut</span><span class="pdx-tag">Subscriber only</span></p>
 
 [:lucide-droplet: Official Blood Knight page](https://www.pradotraveler.com/classes/BLO){ .md-button .md-button--primary target="_blank" }
 

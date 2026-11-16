@@ -1,4 +1,6 @@
-# Bard
+# Bard { data-no="05" data-kind="Class" }
+
+<p class="pdx-types"><span class="pdx-type pdx-type--support">Support</span><span class="pdx-tag">Subscriber only</span></p>
 
 [:lucide-music: Official Bard page](https://www.pradotraveler.com/classes/BRD){ .md-button .md-button--primary target="_blank" }
 
