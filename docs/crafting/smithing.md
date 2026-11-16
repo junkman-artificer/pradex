@@ -8,7 +8,7 @@ Every Smithing recipe also uses **1 Fire Crystal**, so it's left out of the tabl
 
 <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> **Required level** is marked with ~. It's usually the item level or one higher.
 
-**Attribute required** is shown as a range, because the exact requirement varies from one crafted item to the next.
+**Attribute required** is shown as a range, because the exact requirement varies from one crafted item to the next. Armor uses STR, while weapons follow their type: DEX for swords, daggers and bows, INT for staffs, and STR for the rest. Jewelry has no requirement at all.
 
 Recipes marked :lucide-scroll: aren't learned automatically. You have to find their plans first. Hover over or tap the icon to see where they might drop. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> These locations are based on where each metal is first found.
 
@@ -47,12 +47,12 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 |---|---|---|---|---|---|
 | Copper Gauntlets<br><span class="pdx-slot">Gloves</span> | 7 | 1 | 7~ | 6 to 8 Strength | 2 Copper Ingot |
 | Copper Greaves<br><span class="pdx-slot">Boots</span> | 7 | 1 | 7~ | 6 to 8 Strength | 2 Copper Ingot |
-| Copper Short Sword :lucide-scroll:{ title="Unconfirmed: Eastern Gate" }<br><span class="pdx-slot">Sword</span> | 3 | 2 | 3~ | [ ] | 2 Copper Ingot |
-| Copper Shiv :lucide-scroll:{ title="Unconfirmed: Eastern Gate" }<br><span class="pdx-slot">Dagger</span> | 1 | 2 | 1~ | [ ] | 2 Copper Ingot |
-| Copper Hatchet :lucide-scroll:{ title="Unconfirmed: Eastern Gate" }<br><span class="pdx-slot">Axe</span> | 5 | 4 | 5~ | [ ] | 2 Copper Ingot |
-| Copper Legplates<br><span class="pdx-slot">Pants</span> | 7 | 4 | 7~ | [ ] | 3 Copper Ingot |
-| Copper Chestplate<br><span class="pdx-slot">Chest</span> | 7 | 4 | 7~ | [ ] | 3 Copper Ingot |
-| Copper Barbute<br><span class="pdx-slot">Helmet</span> | 7 | 6 | 7~ | [ ] | 2 Copper Ingot |
+| Copper Short Sword :lucide-scroll:{ title="Unconfirmed: Eastern Gate" }<br><span class="pdx-slot">Sword</span> | 3 | 2 | 3~ | 2 to 3 <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> | 2 Copper Ingot |
+| Copper Shiv :lucide-scroll:{ title="Unconfirmed: Eastern Gate" }<br><span class="pdx-slot">Dagger</span> | 1 | 2 | 1~ | 1 <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> | 2 Copper Ingot |
+| Copper Hatchet :lucide-scroll:{ title="Unconfirmed: Eastern Gate" }<br><span class="pdx-slot">Axe</span> | 5 | 4 | 5~ | 4 to 5 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Copper Ingot |
+| Copper Legplates<br><span class="pdx-slot">Pants</span> | 7 | 4 | 7~ | 6 to 8 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Copper Ingot |
+| Copper Chestplate<br><span class="pdx-slot">Chest</span> | 7 | 4 | 7~ | 6 to 8 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Copper Ingot |
+| Copper Barbute<br><span class="pdx-slot">Helmet</span> | 7 | 6 | 7~ | 6 to 8 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Copper Ingot |
 
 </div>
 
@@ -66,13 +66,13 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Bronze Spear :lucide-scroll:{ title="Unconfirmed: The Burrows" }<br><span class="pdx-slot">Spear</span> | 5 | 8 | 5~ | [ ] | 3 Bronze Ingot |
-| Bronze Greaves<br><span class="pdx-slot">Boots</span> | 9 | 8 | 9~ | [ ] | 2 Bronze Ingot |
-| Bronze Gauntlets<br><span class="pdx-slot">Gloves</span> | 9 | 8 | 9~ | [ ] | 2 Bronze Ingot |
-| Bronze Staff :lucide-scroll:{ title="Unconfirmed: The Burrows" }<br><span class="pdx-slot">Staff</span> | 5 | 8 | 5~ | [ ] | 3 Bronze Ingot |
-| Bronze Chestplate<br><span class="pdx-slot">Chest</span> | 9 | 10 | 9~ | [ ] | 4 Bronze Ingot |
-| Bronze Legplates<br><span class="pdx-slot">Pants</span> | 9 | 10 | 9~ | [ ] | 4 Bronze Ingot |
-| Bronze Barbute<br><span class="pdx-slot">Helmet</span> | 9 | 12 | 9~ | [ ] | 3 Bronze Ingot |
+| Bronze Spear :lucide-scroll:{ title="Unconfirmed: The Burrows" }<br><span class="pdx-slot">Spear</span> | 5 | 8 | 5~ | 4 to 5 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Bronze Ingot |
+| Bronze Greaves<br><span class="pdx-slot">Boots</span> | 9 | 8 | 9~ | 10 to 12 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Bronze Ingot |
+| Bronze Gauntlets<br><span class="pdx-slot">Gloves</span> | 9 | 8 | 9~ | 10 to 12 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Bronze Ingot |
+| Bronze Staff :lucide-scroll:{ title="Unconfirmed: The Burrows" }<br><span class="pdx-slot">Staff</span> | 5 | 8 | 5~ | 4 to 5 <span class="pdx-a pdx-a--int" title="Intellect">INT</span> | 3 Bronze Ingot |
+| Bronze Chestplate<br><span class="pdx-slot">Chest</span> | 9 | 10 | 9~ | 10 to 12 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Bronze Ingot |
+| Bronze Legplates<br><span class="pdx-slot">Pants</span> | 9 | 10 | 9~ | 10 to 12 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Bronze Ingot |
+| Bronze Barbute<br><span class="pdx-slot">Helmet</span> | 9 | 12 | 9~ | 10 to 12 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Bronze Ingot |
 
 </div>
 
@@ -86,8 +86,8 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Silver Band<br><span class="pdx-slot">Ring</span> | 5 | 10 | 5~ | [ ] | 2 Silver Ingot |
-| Silver Pendant<br><span class="pdx-slot">Necklace</span> | 5 | 12 | 5~ | [ ] | 2 Silver Ingot |
+| Silver Band<br><span class="pdx-slot">Ring</span> | 5 | 10 | 5~ | None | 2 Silver Ingot |
+| Silver Pendant<br><span class="pdx-slot">Necklace</span> | 5 | 12 | 5~ | None | 2 Silver Ingot |
 
 </div>
 
@@ -101,15 +101,15 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Iron Gauntlets<br><span class="pdx-slot">Gloves</span> | 13 | 14 | 13~ | [ ] | 2 Iron Ingot |
-| Iron Boots<br><span class="pdx-slot">Boots</span> | 13 | 14 | 13~ | [ ] | 2 Iron Ingot |
-| Iron Dagger :lucide-scroll:{ title="Unconfirmed: Gloomhaven" }<br><span class="pdx-slot">Dagger</span> | 11 | 14 | 11~ | [ ] | 2 Iron Ingot |
-| Iron Broadsword :lucide-scroll:{ title="Unconfirmed: Gloomhaven" }<br><span class="pdx-slot">Sword</span> | 13 | 14 | 13~ | [ ] | 2 Iron Ingot |
-| Iron Cuisses<br><span class="pdx-slot">Pants</span> | 13 | 16 | 13~ | [ ] | 4 Iron Ingot |
-| Iron Battle Axe :lucide-scroll:{ title="Unconfirmed: Gloomhaven" }<br><span class="pdx-slot">Axe</span> | 11 | 16 | 11~ | [ ] | 2 Iron Ingot |
-| Iron Breastplate<br><span class="pdx-slot">Chest</span> | 13 | 16 | 13~ | [ ] | 4 Iron Ingot |
-| Iron Bascinet<br><span class="pdx-slot">Helmet</span> | 13 | 18 | 13~ | [ ] | 3 Iron Ingot |
-| Iron Spaulders<br><span class="pdx-slot">Shoulder</span> | 13 | 18 | 13~ | [ ] | 3 Iron Ingot |
+| Iron Gauntlets<br><span class="pdx-slot">Gloves</span> | 13 | 14 | 13~ | 18 to 21 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Iron Ingot |
+| Iron Boots<br><span class="pdx-slot">Boots</span> | 13 | 14 | 13~ | 18 to 21 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Iron Ingot |
+| Iron Dagger :lucide-scroll:{ title="Unconfirmed: Gloomhaven" }<br><span class="pdx-slot">Dagger</span> | 11 | 14 | 11~ | 14 to 16 <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> | 2 Iron Ingot |
+| Iron Broadsword :lucide-scroll:{ title="Unconfirmed: Gloomhaven" }<br><span class="pdx-slot">Sword</span> | 13 | 14 | 13~ | 18 to 21 <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> | 2 Iron Ingot |
+| Iron Cuisses<br><span class="pdx-slot">Pants</span> | 13 | 16 | 13~ | 18 to 21 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Iron Ingot |
+| Iron Battle Axe :lucide-scroll:{ title="Unconfirmed: Gloomhaven" }<br><span class="pdx-slot">Axe</span> | 11 | 16 | 11~ | 14 to 16 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Iron Ingot |
+| Iron Breastplate<br><span class="pdx-slot">Chest</span> | 13 | 16 | 13~ | 18 to 21 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Iron Ingot |
+| Iron Bascinet<br><span class="pdx-slot">Helmet</span> | 13 | 18 | 13~ | 18 to 21 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Iron Ingot |
+| Iron Spaulders<br><span class="pdx-slot">Shoulder</span> | 13 | 18 | 13~ | 18 to 21 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Iron Ingot |
 
 </div>
 
@@ -123,13 +123,13 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Steel Gauntlets<br><span class="pdx-slot">Gloves</span> | 15 | 20 | 15~ | [ ] | 2 Steel Ingot |
-| Steel Battle Staff :lucide-scroll:{ title="Unconfirmed: Briarstone Quarry" }<br><span class="pdx-slot">Staff</span> | 15 | 20 | 15~ | [ ] | 3 Steel Ingot |
-| Steel Sabatons<br><span class="pdx-slot">Boots</span> | 15 | 20 | 15~ | [ ] | 2 Steel Ingot |
-| Steel Cuisses<br><span class="pdx-slot">Pants</span> | 15 | 22 | 15~ | [ ] | 4 Steel Ingot |
-| Steel Cuirass<br><span class="pdx-slot">Chest</span> | 15 | 22 | 15~ | [ ] | 4 Steel Ingot |
-| Steel Bascinet<br><span class="pdx-slot">Helmet</span> | 15 | 24 | 15~ | [ ] | 3 Steel Ingot |
-| Steel Spaulders<br><span class="pdx-slot">Shoulder</span> | 15 | 24 | 15~ | [ ] | 3 Steel Ingot |
+| Steel Gauntlets<br><span class="pdx-slot">Gloves</span> | 15 | 20 | 15~ | 24 to 27 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Steel Ingot |
+| Steel Battle Staff :lucide-scroll:{ title="Unconfirmed: Briarstone Quarry" }<br><span class="pdx-slot">Staff</span> | 15 | 20 | 15~ | 24 to 27 <span class="pdx-a pdx-a--int" title="Intellect">INT</span> | 3 Steel Ingot |
+| Steel Sabatons<br><span class="pdx-slot">Boots</span> | 15 | 20 | 15~ | 24 to 27 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Steel Ingot |
+| Steel Cuisses<br><span class="pdx-slot">Pants</span> | 15 | 22 | 15~ | 24 to 27 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Steel Ingot |
+| Steel Cuirass<br><span class="pdx-slot">Chest</span> | 15 | 22 | 15~ | 24 to 27 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Steel Ingot |
+| Steel Bascinet<br><span class="pdx-slot">Helmet</span> | 15 | 24 | 15~ | 24 to 27 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Steel Ingot |
+| Steel Spaulders<br><span class="pdx-slot">Shoulder</span> | 15 | 24 | 15~ | 24 to 27 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Steel Ingot |
 
 </div>
 
@@ -143,8 +143,8 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Gold Ring<br><span class="pdx-slot">Ring</span> | 10 | 22 | 10~ | [ ] | 2 Gold Ingot |
-| Gold Amulet<br><span class="pdx-slot">Necklace</span> | 10 | 26 | 10~ | [ ] | 2 Gold Ingot |
+| Gold Ring<br><span class="pdx-slot">Ring</span> | 10 | 22 | 10~ | None | 2 Gold Ingot |
+| Gold Amulet<br><span class="pdx-slot">Necklace</span> | 10 | 26 | 10~ | None | 2 Gold Ingot |
 
 </div>
 
@@ -158,17 +158,17 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Arcanite Piercer :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Dagger</span> | 19 | 26 | 19~ | [ ] | 3 Arcanite Ingot |
-| Arcanite Gauntlets<br><span class="pdx-slot">Gloves</span> | 20 | 26 | 20~ | [ ] | 2 Arcanite Ingot |
-| Arcanite Sabatons<br><span class="pdx-slot">Boots</span> | 20 | 26 | 20~ | [ ] | 2 Arcanite Ingot |
-| Arcanite Xiphos :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Sword</span> | 19 | 28 | 19~ | [ ] | 3 Arcanite Ingot |
-| Arcanite Legguards<br><span class="pdx-slot">Pants</span> | 20 | 28 | 20~ | [ ] | 4 Arcanite Ingot |
-| Arcanite Breastplate<br><span class="pdx-slot">Chest</span> | 20 | 30 | 20~ | [ ] | 4 Arcanite Ingot |
-| Arcanite Pauldrons<br><span class="pdx-slot">Shoulder</span> | 20 | 30 | 20~ | [ ] | 3 Arcanite Ingot |
-| Arcanite War Bow :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Bow</span> | 21 | 30 | 21~ | [ ] | 3 Arcanite Ingot |
-| Arcanite Armet<br><span class="pdx-slot">Helmet</span> | 20 | 32 | 20~ | [ ] | 3 Arcanite Ingot |
-| Arcanite Reaper :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Great Axe</span> | 21 | 36 | 21~ | [ ] | 4 Arcanite Ingot |
-| Arcanite Staff :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Staff</span> | 21 | 36 | 21~ | [ ] | 4 Arcanite Ingot |
+| Arcanite Piercer :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Dagger</span> | 19 | 26 | 19~ | 36 to 40 <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> | 3 Arcanite Ingot |
+| Arcanite Gauntlets<br><span class="pdx-slot">Gloves</span> | 20 | 26 | 20~ | 40 to 44 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Arcanite Ingot |
+| Arcanite Sabatons<br><span class="pdx-slot">Boots</span> | 20 | 26 | 20~ | 40 to 44 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Arcanite Ingot |
+| Arcanite Xiphos :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Sword</span> | 19 | 28 | 19~ | 36 to 40 <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> | 3 Arcanite Ingot |
+| Arcanite Legguards<br><span class="pdx-slot">Pants</span> | 20 | 28 | 20~ | 40 to 44 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Arcanite Ingot |
+| Arcanite Breastplate<br><span class="pdx-slot">Chest</span> | 20 | 30 | 20~ | 40 to 44 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Arcanite Ingot |
+| Arcanite Pauldrons<br><span class="pdx-slot">Shoulder</span> | 20 | 30 | 20~ | 40 to 44 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Arcanite Ingot |
+| Arcanite War Bow :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Bow</span> | 21 | 30 | 21~ | 44 to 48 <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> | 3 Arcanite Ingot |
+| Arcanite Armet<br><span class="pdx-slot">Helmet</span> | 20 | 32 | 20~ | 40 to 44 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Arcanite Ingot |
+| Arcanite Reaper :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Great Axe</span> | 21 | 36 | 21~ | 44 to 48 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Arcanite Ingot |
+| Arcanite Staff :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Staff</span> | 21 | 36 | 21~ | 44 to 48 <span class="pdx-a pdx-a--int" title="Intellect">INT</span> | 4 Arcanite Ingot |
 
 </div>
 
@@ -188,8 +188,8 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Mithril Band<br><span class="pdx-slot">Ring</span> | 15 | 34 | 15~ | [ ] | 3 Mithril Ingot |
-| Mithril Locket<br><span class="pdx-slot">Necklace</span> | 15 | 34 | 15~ | [ ] | 3 Mithril Ingot |
+| Mithril Band<br><span class="pdx-slot">Ring</span> | 15 | 34 | 15~ | None | 3 Mithril Ingot |
+| Mithril Locket<br><span class="pdx-slot">Necklace</span> | 15 | 34 | 15~ | None | 3 Mithril Ingot |
 
 </div>
 
@@ -203,11 +203,11 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Arcsteel Gauntlets<br><span class="pdx-slot">Gloves</span> | 25 | 34 | 25~ | [ ] | 2 Arcsteel Ingot |
-| Arcsteel Greaves<br><span class="pdx-slot">Boots</span> | 25 | 34 | 25~ | [ ] | 2 Arcsteel Ingot |
-| Arcsteel Cuisses<br><span class="pdx-slot">Pants</span> | 25 | 38 | 25~ | [ ] | 4 Arcsteel Ingot |
-| Arcsteel Breastplate<br><span class="pdx-slot">Chest</span> | 25 | 38 | 25~ | [ ] | 4 Arcsteel Ingot |
-| Arcsteel Armet<br><span class="pdx-slot">Helmet</span> | 25 | 40 | 25~ | [ ] | 3 Arcsteel Ingot |
-| Arcsteel Pauldrons<br><span class="pdx-slot">Shoulder</span> | 25 | 40 | 25~ | [ ] | 3 Arcsteel Ingot |
+| Arcsteel Gauntlets<br><span class="pdx-slot">Gloves</span> | 25 | 34 | 25~ | 60 to 64 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Arcsteel Ingot |
+| Arcsteel Greaves<br><span class="pdx-slot">Boots</span> | 25 | 34 | 25~ | 60 to 64 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 2 Arcsteel Ingot |
+| Arcsteel Cuisses<br><span class="pdx-slot">Pants</span> | 25 | 38 | 25~ | 60 to 64 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Arcsteel Ingot |
+| Arcsteel Breastplate<br><span class="pdx-slot">Chest</span> | 25 | 38 | 25~ | 60 to 64 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 4 Arcsteel Ingot |
+| Arcsteel Armet<br><span class="pdx-slot">Helmet</span> | 25 | 40 | 25~ | 60 to 64 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Arcsteel Ingot |
+| Arcsteel Pauldrons<br><span class="pdx-slot">Shoulder</span> | 25 | 40 | 25~ | 60 to 64 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Arcsteel Ingot |
 
 </div>
