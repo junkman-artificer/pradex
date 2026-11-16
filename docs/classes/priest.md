@@ -24,6 +24,8 @@ The big picture for building a Priest, most important first:
 2. **Holy Spell Power.** It boosts both your healing and your holy damage, so it pays off whatever you're casting.
 3. **Intellect.** **Mercy** turns every 10 Intellect into Health Regen for the whole party, so it helps everyone, not just you.
 
+These are a starting point. As you head into the endgame, stats like Hit, attack speed and Ability Cooldown start to matter more, depending on where you take your build.
+
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips

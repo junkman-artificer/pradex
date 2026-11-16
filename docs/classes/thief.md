@@ -24,6 +24,8 @@ The big picture for building a Thief, most important first:
 2. **The stat your build runs on.** Poison Spell Power for a poison build, or Crit and Hit for a crit build. Dexterity helps both.
 3. **Mana Regen, until you have Extraction.** The **Extraction** spellbook turns your poison stacks into mana, so it's worth farming for or buying from the Trading Post. Once you have it, Mana Regen matters a lot less.
 
+These are a starting point. As you head into the endgame, stats like Hit, attack speed and Ability Cooldown start to matter more, depending on where you take your build.
+
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips

@@ -24,6 +24,8 @@ The big picture for building a Bard, most important first:
 2. **Ability Cooldown and Performance.** With enough of both, you can keep a song and the Haste or Slow that comes with it running nonstop.
 3. **Dexterity and Intellect.** **Performer** gives +1 Performance for every 8 of each, so keep them balanced rather than stacking one.
 
+These are a starting point. As you head into the endgame, stats like Hit, attack speed and Ability Cooldown start to matter more, depending on where you take your build.
+
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips

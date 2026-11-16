@@ -24,6 +24,8 @@ The big picture for building a Blood Knight, most important first:
 2. **Max Health.** When Strength isn't on an item, Health itself is the next best thing.
 3. **Health Regen.** You'll need some, since every ability costs health, but **Thirst** heals you every time an enemy dies, so it goes a long way when you're killing quickly.
 
+These are a starting point. As you head into the endgame, stats like Hit, attack speed and Ability Cooldown start to matter more, depending on where you take your build.
+
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips

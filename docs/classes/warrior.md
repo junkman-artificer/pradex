@@ -24,6 +24,8 @@ The big picture for building a Warrior, most important first:
 2. **Mana Regen.** No mana, no abilities. Rage takes some of the pressure off, but you'll still want enough regen to keep your abilities going through a whole deck.
 3. **Strength and Armor.** These mostly take care of themselves, since Strength armor tends to roll Strength anyway. Every 10 Strength also gives +1 Health Regen through **Iron Will**.
 
+These are a starting point. As you head into the endgame, stats like Hit, attack speed and Ability Cooldown start to matter more, depending on where you take your build.
+
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips

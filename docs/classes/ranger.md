@@ -10,22 +10,29 @@
 
 ## Overview
 
-[What the class does well, what it struggles with, and who will enjoy playing it.]
+The Ranger has an arrow for every situation. **Penetrating Shot** ignores half the target's armor, **Explosive Shot** burns a whole cluster of enemies, **Freezing Shot** and **Tranquilizing Shot** freeze or put a target to sleep, and **Deadly Shot** picks off whichever enemy is closest to dying. Many shots reach past the front line too, letting you hit the enemies behind it. **Focus Fire** builds up to 30% more damage with every weapon attack, and **Quick Draw** lets you speed up your attacks and abilities on demand. Off the battlefield, **Survivalist** boosts your Foraging and doubles what food restores.
+
+The trade-off is that Focus Fire rewards staying untouched, since taking damage cuts your Focus in half. A Ranger who gets hit a lot loses a big part of their damage.
+
+If you like picking the right tool for each fight and dealing damage from a safe distance, the Ranger is a great pick, though it's only available to subscribers, and only in the current season.
 
 ## Priorities
 
 The big picture for building a Ranger, most important first:
 
-1. [Top priority]
-2. [Next priority]
-3. [Next priority]
+1. **Mana Regen.** No mana, no arrows from your ability bar.
+2. **A strong bow.** Most of your shots deal a percentage of weapon damage, so your bow drives almost everything you do.
+3. **Evasion and Armor.** Every hit you take cuts your Focus in half, so not getting hit is a damage stat for you.
+
+These are a starting point. As you head into the endgame, stats like Hit, attack speed and Ability Cooldown start to matter more, depending on where you take your build.
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips
 
-- [Tip new players might miss]
-- [Tip]
+- **Grab Penetrating Shot at level 2.** It ignores half the target's armor, which makes it a strong opener against tough enemies.
+- **Upgrade your bow in steps.** Buy your first one in Sweetwater, then a stronger one from the Ranger guild hall in Eastern Gate to imbue. After that, the Gloomwood Longbow from the treasure box at the end of Thornheart Chamber (Gloomhaven) can easily carry you to the endgame.
+- **Run Thieves' Hideout :lucide-move-right: The Underbelly (Eastern Gate).** The Master of Shadows armor has Evasion, Hit and Crit on every piece, which helps you hold onto your Focus.
 
 ## Uniques to watch for
 
@@ -92,11 +99,11 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-[What this class brings to a group.] See [Synergies](../parties/synergies.md) for which classes pair well together.
+In a party, the Ranger deals steady damage from the back line, where it's easier to keep your Focus. Your arrows can reach enemies the front line can't, finish off whoever's closest to dying, or freeze and put dangerous targets to sleep before they act. Pick the shots that cover what your party is missing. See [Synergies](../parties/synergies.md) for which classes pair well together.
 
 ## Best subclasses
 
-[Subclasses this class should take, and why.]
+**Thief** is the obvious choice, for **Focus Target**, which keeps every shot on one enemy until it drops, plus Dexterity. After that, **Magician** or **Bard** for the Mana Regen: **Manafont** turns your Intellect into Mana Regen, and **Harmony** turns your Performance into Mana Regen for the whole party. **Warrior** can be nice later on once you've stacked Evasion, since **Counter** gives you a free main-hand attack every time you dodge. If you're playing solo and skipping Thief, which would give you **Leech** for healing, **Blood Knight** is a strong pick too, since **Blood Tap** and **Thirst** keep you going without a healer.
 
 ## As a subclass
 

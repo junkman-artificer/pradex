@@ -24,6 +24,8 @@ The big picture for building a Magician, most important first:
 2. **Spell Power that matches your build.** If you're casting fire spells, Fire Spell Power is worth far more than Intellect, and the same goes for frost and the other schools. Intellect still helps, though, since **Manafont** turns every 10 Intellect into +1 Mana Regen.
 3. **Barrier and Health.** You're fragile, so a little extra padding keeps you casting when something gets through to the back line.
 
+These are a starting point. As you head into the endgame, stats like Hit, attack speed and Ability Cooldown start to matter more, depending on where you take your build.
+
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
 ## Early tips
