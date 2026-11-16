@@ -6,9 +6,9 @@
 
 !!! info "At a glance"
     - **Role:** Juggernaut
-    - **Availability:** Subscriber only
+    - **Access:** Subscriber only
     - **Weapons:** Sword, Axe, Mace, Club, Great Sword, Great Axe, Spear
-    - **Playstyle:** Spend your own health on abilities, then win it back from your enemies.
+    - **Playstyle:** Pays for its abilities in its own blood, then takes it back from whatever it's fighting. Grows more dangerous the closer it is to falling.
 
 ## Overview
 
@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early tips
+## Early field notes
 
 - **Grab Blood Strike at level 2, then Thirst at level 3.** Blood Strike's Bleed scales with the enemy's Max Health, so it hits hardest on big targets. Thirst heals you every time an enemy dies, which keeps you going once the quick early levels are behind you.
 - **Hold off on judging the class until level 8.** **Blood Tap** gives more Health Regen the lower your health gets, and once you have it, the Blood Knight gets a lot easier to play.
@@ -42,7 +42,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 Uniques you can find while leveling that are worth keeping an eye out for.
 
 ??? note "The Butcher of the Burrows: Great Sword, Chest"
-    **Where:** Most decks in The Burrows, plus Travel to the Burrows. Level 11 gear.
+    **Found in:** Most decks in The Burrows, plus Travel to the Burrows. Level 11 gear.
 
     **Why:** Strength and Health Regen on the Cleaver, and Health, Health Regen and Reduce All Damage on the Apron.
 
@@ -51,21 +51,21 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">The Butcher&#x27;s Leather Apron</span><span class="pdx-item__slot">Chest</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">40</b></span><span class="pdx-chip">Health <b class="c-hp">18</b></span><span class="pdx-chip">Strength <b class="c-str">6</b></span><span class="pdx-chip">Health Regen <b class="c-hp">4</b></span><span class="pdx-chip">Reduce All Damage <b class="c-oth">2%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">14</b></span></div></div>
 
 ??? note "The Watchman: Boots"
-    **Where:** Any adventure deck in Eastern Gate except Old City Forum. Level 11 gear.
+    **Found in:** Any adventure deck in Eastern Gate except Old City Forum. Level 11 gear.
 
     **Why:** Health, Strength and Health Regen, with nothing wasted.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Boots of Relentless Pursuit</span><span class="pdx-item__slot">Boots</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">11</b></span><span class="pdx-chip">Health <b class="c-hp">18</b></span><span class="pdx-chip">Strength <b class="c-str">2</b></span><span class="pdx-chip">Health Regen <b class="c-hp">3</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">14</b></span></div></div>
 
 ??? note "Worldroot Treant: Chest"
-    **Where:** Most adventure decks in Gloomhaven. Level 16 gear.
+    **Found in:** Most adventure decks in Gloomhaven. Level 16 gear.
 
     **Why:** 56 Armor, Health Regen and 3% Reduce All Damage.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Barkplate of Immovable Might</span><span class="pdx-item__slot">Chest</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">56</b></span><span class="pdx-chip">Strength <b class="c-str">4</b></span><span class="pdx-chip">Health Regen <b class="c-hp">4</b></span><span class="pdx-chip">Reduce All Damage <b class="c-oth">3%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">27</b></span></div></div>
 
 ??? note "Icehowl, the Elder Giant: Chest"
-    **Where:** Frostbite Ridge, Phantom's Perch and Ascend to Icetooth Base Camp (Stormwatch), plus Icetooth Peaks (Icetooth Base Camp). Level 21 to 24 gear.
+    **Found in:** Frostbite Ridge, Phantom's Perch and Ascend to Icetooth Base Camp (Stormwatch), plus Icetooth Peaks (Icetooth Base Camp). Level 21 to 24 gear.
 
     **Why:** 88 Armor, 40 Health, Magic Resistance and 6% Reduce All Damage.
 

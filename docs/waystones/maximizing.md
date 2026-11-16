@@ -12,7 +12,7 @@ For how party size affects gear drops and VITA costs, see [Party Size and Drops]
 
 [What to prepare before you start a run.]
 
-## Tips
+## Field notes
 
 - [Tip]
 - [Tip]

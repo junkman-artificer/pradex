@@ -4,7 +4,7 @@ Each region has its own page with details. Some regions share the same rules for
 
 | Region | Gear drop rules |
 |---|---|
-| [Sweetwater](sweetwater.md) | Leans toward Intellect gear. The only place Staves drop, and possibly Bows. |
+| [Sweetwater](sweetwater.md) | Leans toward Intellect gear. The only place Staves drop, and Bows too <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span>. |
 | [Eastern Gate](eastern-gate.md) | Shared with The Burrows: leans toward Strength gear. |
 | [The Burrows](the-burrows.md) | Shared with Eastern Gate: leans toward Strength gear. |
 | [Gloomhaven](gloomhaven.md) | Shared with Briarstone Quarry: leans toward Dexterity gear. The only place Wands drop. |

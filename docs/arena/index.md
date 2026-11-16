@@ -122,7 +122,7 @@ Every Arena Unique gives **Health**, **Mana**, and **% All Hit Rate**. Armor pie
 !!! tip "Stock refreshes daily"
     The Armory stocks one of each item, and the stock refreshes **every day**. Lost something, or want a second copy? Just come back tomorrow. Uniques aren't limited to one per character either, so go ahead and wear a pair of Gladiator's Bands or two of the same weapon.
 
-## Tips
+## Field notes
 
 **PvP priorities aren't PvE priorities.** A general set of gear does just fine in PvE, but the Arena asks for things you never really have to worry about there:
 

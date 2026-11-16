@@ -6,9 +6,9 @@
 
 !!! info "At a glance"
     - **Role:** Support
-    - **Availability:** Subscriber only
+    - **Access:** Subscriber only
     - **Weapons:** Instrument, Quiver, Dagger, Sword, Axe, Spear, Bow
-    - **Playstyle:** Play songs that power up your allies and weaken your enemies.
+    - **Playstyle:** Rarely fights alone. Its songs speed up allies and slow enemies, so every fight moves to its rhythm.
 
 ## Overview
 
@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early tips
+## Early field notes
 
 - **Grab Soldier's Fanfare at level 2.** It makes your party's weapons hit harder and faster while it plays.
 - **Run a bow and a quiver.** Instruments only come from lucky drops and can't be crafted, so leave them for the endgame. A quiver is one of the easier places to roll Mana Regen, and a bow's Dexterity balances out the Intellect from a Magician subclass, which most Bards take.
@@ -42,21 +42,21 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 Uniques you can find while leveling that are worth keeping an eye out for.
 
 ??? note "Calypthia, the Guardian Nereid: Necklace"
-    **Where:** Relic's Rest, at the end of the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker (The Burrows). Level 11 gear.
+    **Found in:** Relic's Rest, at the end of the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker (The Burrows). Level 11 gear.
 
     **Why:** Jewelry is already hard to find, and Mana Regen gear is rare before the endgame, so this necklace really stands out. Outside of a lucky Smithing craft, it's likely the only one you'll see while leveling, and pretty much everyone wears it all the way from 11 to 25.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Seal of the Deep Warden</span><span class="pdx-item__slot">Necklace</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">2</b></span><span class="pdx-chip">Barrier Regen <b class="c-bar">4</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ??? note "Goblin Treasure Box: Bow"
-    **Where:** The treasure box for finishing Thornheart Chamber (Gloomhaven). Every item in it is level 16.
+    **Found in:** The treasure box for finishing Thornheart Chamber (Gloomhaven). Every item in it is level 16.
 
     **Why:** A back line bow with Dexterity, Hit, Crit and Double Strike.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Gloomwood Longbow</span><span class="pdx-item__slot">Bow</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">30-36</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">7.67</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">4.3s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">5</b></span><span class="pdx-chip">Weapon Hit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">Weapon Crit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">Double Strike <b class="c-oth">7%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">27</b></span></div></div>
 
 ??? note "Briar Beast: Cape, Ring"
-    **Where:** The Beast's Lair (Briarstone Quarry). Level 16 to 18 gear.
+    **Found in:** The Beast's Lair (Briarstone Quarry). Level 16 to 18 gear.
 
     **Why:** The cape covers both Dexterity and Intellect plus Mana, and the ring brings both regens.
 
@@ -65,7 +65,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Band of Endless Growth</span><span class="pdx-item__slot">Ring</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Health Regen <b class="c-hp">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">5</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ??? note "Zephyra, Queen of the Skies: Boots"
-    **Where:** Icetooth Peaks (Icetooth Base Camp). Level 24 gear.
+    **Found in:** Icetooth Peaks (Icetooth Base Camp). Level 24 gear.
 
     **Why:** Dexterity, Intellect, both regens and Evasion on one pair of boots.
 

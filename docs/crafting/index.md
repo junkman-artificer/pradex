@@ -32,7 +32,7 @@ Every town sells crystals except Briarstone Quarry. Shops restock daily with a r
 
 ## Gathering materials
 
-Each profession page has its own **Gathering materials** section with the best places to farm what it needs. There are no public loot tables for Prado Traveler, so these picks come from player experience.
+Each profession page has its own **Gathering materials** section with the best places to farm what it needs. <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> There are no public loot tables for Prado Traveler, so these picks come from player experience.
 
 - :lucide-store: means you can also buy it in town. Hover over or tap the icon to see where and how many. Shops restock daily with a random amount up to a cap, so raw materials won't always be there.
 - :lucide-orbit: means it only comes from waystone decks.

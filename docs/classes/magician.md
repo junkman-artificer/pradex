@@ -6,9 +6,9 @@
 
 !!! info "At a glance"
     - **Role:** Caster
-    - **Availability:** Everyone
+    - **Access:** Everyone
     - **Weapons:** Orb, Dagger, Sword, Mace, Spear, Staff, Wand
-    - **Playstyle:** Cast elemental spells, usually from the back, while keeping the whole party's mana topped off.
+    - **Playstyle:** Commands fire, frost, lightning and arcane magic, usually from the back. Keeps the whole party's mana flowing.
 
 ## Overview
 
@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early tips
+## Early field notes
 
 - **Grab Fireball at level 2, then Firebrand Weapon at level 3.** Fireball hits harder per cast, but Firebrand Weapon gets more damage out of each point of mana, even when you're playing solo.
 - **Pace your mana.** Early on you can't keep every spell going, so save them for the fights that need them, especially in longer decks.
@@ -42,7 +42,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 Uniques you can find while leveling that are worth keeping an eye out for.
 
 ??? note "Calypthia, the Guardian Nereid: Helmet, Chest, Necklace"
-    **Where:** Relic's Rest, at the end of the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker (The Burrows). Level 11 gear.
+    **Found in:** Relic's Rest, at the end of the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker (The Burrows). Level 11 gear.
 
     **Why:** Intellect, Mana Regen and Barrier on every piece. The Seal is the real prize: jewelry is already hard to find, and Mana Regen gear is rare before the endgame, so it really stands out. Outside of a lucky Smithing craft, it's likely the only one you'll see while leveling, and pretty much everyone wears it all the way from 11 to 25.
 
@@ -53,21 +53,21 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Seal of the Deep Warden</span><span class="pdx-item__slot">Necklace</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">2</b></span><span class="pdx-chip">Barrier Regen <b class="c-bar">4</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ??? note "Goblin Treasure Box: Staff"
-    **Where:** The treasure box for finishing Thornheart Chamber (Gloomhaven). Every item in it is level 16.
+    **Found in:** The treasure box for finishing Thornheart Chamber (Gloomhaven). Every item in it is level 16.
 
     **Why:** Intellect and Mana Regen, plus Health and Mana on Spell Hit to keep you casting.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Fungal Mystic&#x27;s Staff</span><span class="pdx-item__slot">Staff</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">20-24</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">5.95</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">3.7s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">2</b></span><span class="pdx-chip">Intellect <b class="c-int">4</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">3</b></span><span class="pdx-chip">Health on Spell Hit <b class="c-hp">3</b></span><span class="pdx-chip">Mana on Spell Hit <b class="c-mana">3</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">27</b></span></div></div>
 
 ??? note "Worldroot Treant: Orb"
-    **Where:** Most adventure decks in Gloomhaven. Level 16 gear.
+    **Found in:** Most adventure decks in Gloomhaven. Level 16 gear.
 
     **Why:** An Orb with 4 Mana Regen, plus Health and Barrier Regen.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Worldroot Seed</span><span class="pdx-item__slot">Orb</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Health Regen <b class="c-hp">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">4</b></span><span class="pdx-chip">Barrier Regen <b class="c-bar">3</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">27</b></span></div></div>
 
 ??? note "Icehowl, the Elder Giant: Necklace"
-    **Where:** Frostbite Ridge, Phantom's Perch and Ascend to Icetooth Base Camp (Stormwatch), plus Icetooth Peaks (Icetooth Base Camp). Level 21 to 24 gear.
+    **Found in:** Frostbite Ridge, Phantom's Perch and Ascend to Icetooth Base Camp (Stormwatch), plus Icetooth Peaks (Icetooth Base Camp). Level 21 to 24 gear.
 
     **Why:** 10 Intellect and Frost Spell Power, plus Health Regen.
 

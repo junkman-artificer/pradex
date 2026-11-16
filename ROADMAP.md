@@ -53,6 +53,20 @@ All of this lives in `docs/stylesheets/extra.css`. The section headed "Pokedex l
 
 **Unique item cards.** The existing `pdx-item` cards, used for every Unique item on the class, Arena and region pages.
 
+**Confidence tags.** Three levels, used everywhere a claim isn't certain. Never write "likely", "seems to" or "hasn't been confirmed" in running text. Use the tag instead:
+
+```html
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span>
+<span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span>
+```
+
+- No tag means **Confirmed**: the game or the official site says so.
+- **Observed**: seen in play or testing, no official source. Put the tag in front of the sentence.
+- **Unconfirmed**: a best guess nobody has tested. In icon tooltips, where HTML can't go, write "Unconfirmed: " in front of the text.
+- Both words are defined in the Glossary. Ask Ezraek which level a new claim belongs at.
+
+**Section and label names.** Advice from experience goes under "Field notes" ("Early field notes" on class pages). Data plate labels are short nouns: "Access", "Shares gear with", "Found in".
+
 **Boxes.** Colours carry meaning, so pick the box by meaning: `info` is device data (green), `tip` is advice (gold), `warning` is a mistake to avoid (orange), `??? note` is reserved for Unique item sources (gold edge), `??? abstract` for long reference tables, `??? example` for worked maths, `??? question` for FAQ entries.
 
 ## What was done on 2026-11-16
@@ -61,6 +75,7 @@ All of this lives in `docs/stylesheets/extra.css`. The section headed "Pokedex l
 - One palette for every admonition and collapsible. "At a glance" boxes became data plates.
 - Dex entry headers on all 7 class pages and all 5 region pages.
 - Numbered menu tiles, readout table headers, glossary entry styling.
+- Confidence tags (Observed, Unconfirmed) replaced every hedged phrase. "Tips" sections became "Field notes".
 - Home page boot screen with counts for classes, regions and professions. These are typed by hand in `docs/index.md`, so update them if a class or region is added.
 Nothing in the written guides was changed.
 
@@ -70,7 +85,6 @@ Nothing in the written guides was changed.
 
 - [ ] **Leveling Uniques page.** The class pages only show hand picked Uniques. `tools/data/leveling-uniques.txt` lists every leveling Unique Monster and its loot, but in shorthand (for example "MR" is ambiguous). Re-read each monster's loot from the official site (see "Reading the official site" below), build full cards with the generator pattern in `tools/data/unique-card-generator-example.py`, and put them on a new page, suggested `gearing-up/leveling-uniques.md`, grouped by region in level order. Honeyglow Bear, Whispering Phantom and Sylthara have no cards anywhere today.
 - [ ] **Turn on `site_description`** in `zensical.toml` (it is commented out) so shared links get a proper preview line. Suggested: "An unofficial field guide to Prado Traveler".
-- [ ] **Shorten long data plate labels** that wrap on phones. The worst is "Same preferred gear as:" on the region pages. Suggested: "Shares gear with:".
 
 ### 2. Extend the dex pattern to the pages that are already entries
 

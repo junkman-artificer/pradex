@@ -56,7 +56,7 @@ How much each stack deals depends on the source:
 
 Increases the target's chance to miss. Shown as **Blinded** in combat replays.
 
-How much depends on the source: Flash Bomb adds 30% at rank I and 45% at rank II. Blind from **% Chance to Apply Blind** likely adds 30%, but that hasn't been confirmed.
+How much depends on the source: Flash Bomb adds 30% at rank I and 45% at rank II. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> Blind from **% Chance to Apply Blind** adds 30%.
 
 - **Apply it:**
     - % Chance to Apply Blind (Suffix)
@@ -136,7 +136,7 @@ Stops **all** of the target's action timers, both weapon attacks and abilities, 
 
 - **Apply it:**
     - % Chance to Apply Freeze (Suffix)
-    - Icebite Weapon Oil: Frostbite, a 50% chance to Freeze on weapon hits (duration unconfirmed)
+    - Icebite Weapon Oil: Frostbite, a 50% chance to Freeze on weapon hits (duration: <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span>)
     - Frostbolt, Icebrand Weapon, Blizzard (Magician)
     - Freezing Shot (Ranger)
 - **Empower it:** Frost Spell Power: every 4 points adds 0.2 seconds
@@ -184,7 +184,7 @@ For example, a level 1 Poisoned Dagger applies 1 stack, so it deals 1 damage per
 !!! info "At a glance"
     - **Type:** Crowd control
     - **Duration:** 1 to 1.75 seconds, depending on the source
-    - **Stacks:** Its duration appears to add up, but it never slows more than half speed.
+    - **Stacks:** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Its duration adds up, but it never slows more than half speed.
     - **Immunity:** None
 
 Makes the target's weapon and ability timers count down at **half speed**, so every attack and ability takes twice as long to come back. Slowed timers show a blue tint in combat replays. Reapplying Slow keeps it going longer, but never makes timers slower than half speed.
@@ -238,7 +238,7 @@ Not every status is bad. These are buffs that help you or your allies.
 !!! info "At a glance"
     - **Type:** Buff
     - **Duration:** 1 second from Bard songs, longer with Performance
-    - **Stacks:** Its duration appears to add up, but it never speeds timers past double.
+    - **Stacks:** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Its duration adds up, but it never speeds timers past double.
     - **Removed by:** Purge, Mass Exorcism
 
 Makes ability timers count down at **double speed**, so abilities come back in half the time. It's the mirror of [Slow](#slow). It doesn't affect weapon timers.
@@ -258,7 +258,7 @@ Makes ability timers count down at **double speed**, so abilities come back in h
 !!! info "At a glance"
     - **Type:** Buff
     - **Duration:** 1 to 5 seconds, depending on the source
-    - **Stacks:** Its duration appears to add up, but it never speeds timers past double, even from two different sources.
+    - **Stacks:** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Its duration adds up, but it never speeds timers past double, even from two different sources.
     - **Removed by:** Purge, Mass Exorcism
 
 Makes weapon timers count down at **double speed**, so you attack twice as often. It's the weapon version of [Ability Haste](#ability-haste). It doesn't affect ability timers.

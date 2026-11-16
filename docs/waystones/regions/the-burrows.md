@@ -5,7 +5,7 @@
 !!! info "At a glance"
     - **Waystone decks:** 2
     - **Preferred gear:** Strength-based
-    - **Same preferred gear as:** Eastern Gate
+    - **Shares gear with:** Eastern Gate
 
 !!! tip "Unlocks subclasses"
     Beating the **Sunken Crypts**, **The Drowned Tombs**, and **Relic's Rest** triple-deck here unlocks [subclasses](../../classes/index.md#subclasses).
@@ -66,7 +66,7 @@ None in this deck.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Helm of Subterranean Horror</span><span class="pdx-item__slot">Helmet</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">95</b></span><span class="pdx-chip">Health <b class="c-hp">160</b></span><span class="pdx-chip">Strength <b class="c-str">12</b></span><span class="pdx-chip">Dexterity <b class="c-dex">12</b></span><span class="pdx-chip">Intellect <b class="c-int">12</b></span><span class="pdx-chip">Health Regen <b class="c-hp">10</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">10</b></span><span class="pdx-chip">Lifesteal on Kill <b class="c-hp">60</b></span><span class="pdx-chip">Lifesteal Bonus <b class="c-hp">60%</b></span><span class="pdx-chip">Manasteal on Kill <b class="c-mana">60</b></span><span class="pdx-chip">Manasteal Bonus <b class="c-mana">60%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">88</b></span><span class="pdx-chip">Dexterity <b class="c-dex">88</b></span></div></div>
 
-## Tips
+## Field notes
 
 - [Tip]
 - [Tip]

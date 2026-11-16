@@ -6,17 +6,17 @@ Smithing turns ingots into plate armor, weapons, rings, and necklaces. Recipes a
 
 Every Smithing recipe also uses **1 Fire Crystal**, so it's left out of the tables below.
 
-**Required level** is approximate (marked with ~). In testing, it's usually the item level or one higher.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> **Required level** is marked with ~. It's usually the item level or one higher.
 
 **Attribute required** is shown as a range, because the exact requirement varies from one crafted item to the next.
 
-Recipes marked :lucide-scroll: aren't learned automatically. You have to find their plans first. Hover over or tap the icon to see where they're likely to drop. For now, Smithing locations are based on where each metal is first found, so they haven't been fully confirmed.
+Recipes marked :lucide-scroll: aren't learned automatically. You have to find their plans first. Hover over or tap the icon to see where they might drop. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> These locations are based on where each metal is first found.
 
 Silver, Gold, and Mithril Ingots are used for rings and necklaces.
 
 ## Gathering materials
 
-There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
 
 Ore comes from vein, deposit and cluster cards. Many adventure decks also have a vein or two.
 
@@ -47,9 +47,9 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 |---|---|---|---|---|---|
 | Copper Gauntlets<br><span class="pdx-slot">Gloves</span> | 7 | 1 | 7~ | 6 to 8 Strength | 2 Copper Ingot |
 | Copper Greaves<br><span class="pdx-slot">Boots</span> | 7 | 1 | 7~ | 6 to 8 Strength | 2 Copper Ingot |
-| Copper Short Sword :lucide-scroll:{ title="Likely found in Eastern Gate" }<br><span class="pdx-slot">Sword</span> | 3 | 2 | 3~ | [ ] | 2 Copper Ingot |
-| Copper Shiv :lucide-scroll:{ title="Likely found in Eastern Gate" }<br><span class="pdx-slot">Dagger</span> | 1 | 2 | 1~ | [ ] | 2 Copper Ingot |
-| Copper Hatchet :lucide-scroll:{ title="Likely found in Eastern Gate" }<br><span class="pdx-slot">Axe</span> | 5 | 4 | 5~ | [ ] | 2 Copper Ingot |
+| Copper Short Sword :lucide-scroll:{ title="Unconfirmed: Eastern Gate" }<br><span class="pdx-slot">Sword</span> | 3 | 2 | 3~ | [ ] | 2 Copper Ingot |
+| Copper Shiv :lucide-scroll:{ title="Unconfirmed: Eastern Gate" }<br><span class="pdx-slot">Dagger</span> | 1 | 2 | 1~ | [ ] | 2 Copper Ingot |
+| Copper Hatchet :lucide-scroll:{ title="Unconfirmed: Eastern Gate" }<br><span class="pdx-slot">Axe</span> | 5 | 4 | 5~ | [ ] | 2 Copper Ingot |
 | Copper Legplates<br><span class="pdx-slot">Pants</span> | 7 | 4 | 7~ | [ ] | 3 Copper Ingot |
 | Copper Chestplate<br><span class="pdx-slot">Chest</span> | 7 | 4 | 7~ | [ ] | 3 Copper Ingot |
 | Copper Barbute<br><span class="pdx-slot">Helmet</span> | 7 | 6 | 7~ | [ ] | 2 Copper Ingot |
@@ -66,10 +66,10 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Bronze Spear :lucide-scroll:{ title="Likely found in The Burrows" }<br><span class="pdx-slot">Spear</span> | 5 | 8 | 5~ | [ ] | 3 Bronze Ingot |
+| Bronze Spear :lucide-scroll:{ title="Unconfirmed: The Burrows" }<br><span class="pdx-slot">Spear</span> | 5 | 8 | 5~ | [ ] | 3 Bronze Ingot |
 | Bronze Greaves<br><span class="pdx-slot">Boots</span> | 9 | 8 | 9~ | [ ] | 2 Bronze Ingot |
 | Bronze Gauntlets<br><span class="pdx-slot">Gloves</span> | 9 | 8 | 9~ | [ ] | 2 Bronze Ingot |
-| Bronze Staff :lucide-scroll:{ title="Likely found in The Burrows" }<br><span class="pdx-slot">Staff</span> | 5 | 8 | 5~ | [ ] | 3 Bronze Ingot |
+| Bronze Staff :lucide-scroll:{ title="Unconfirmed: The Burrows" }<br><span class="pdx-slot">Staff</span> | 5 | 8 | 5~ | [ ] | 3 Bronze Ingot |
 | Bronze Chestplate<br><span class="pdx-slot">Chest</span> | 9 | 10 | 9~ | [ ] | 4 Bronze Ingot |
 | Bronze Legplates<br><span class="pdx-slot">Pants</span> | 9 | 10 | 9~ | [ ] | 4 Bronze Ingot |
 | Bronze Barbute<br><span class="pdx-slot">Helmet</span> | 9 | 12 | 9~ | [ ] | 3 Bronze Ingot |
@@ -103,10 +103,10 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 |---|---|---|---|---|---|
 | Iron Gauntlets<br><span class="pdx-slot">Gloves</span> | 13 | 14 | 13~ | [ ] | 2 Iron Ingot |
 | Iron Boots<br><span class="pdx-slot">Boots</span> | 13 | 14 | 13~ | [ ] | 2 Iron Ingot |
-| Iron Dagger :lucide-scroll:{ title="Likely found in Gloomhaven" }<br><span class="pdx-slot">Dagger</span> | 11 | 14 | 11~ | [ ] | 2 Iron Ingot |
-| Iron Broadsword :lucide-scroll:{ title="Likely found in Gloomhaven" }<br><span class="pdx-slot">Sword</span> | 13 | 14 | 13~ | [ ] | 2 Iron Ingot |
+| Iron Dagger :lucide-scroll:{ title="Unconfirmed: Gloomhaven" }<br><span class="pdx-slot">Dagger</span> | 11 | 14 | 11~ | [ ] | 2 Iron Ingot |
+| Iron Broadsword :lucide-scroll:{ title="Unconfirmed: Gloomhaven" }<br><span class="pdx-slot">Sword</span> | 13 | 14 | 13~ | [ ] | 2 Iron Ingot |
 | Iron Cuisses<br><span class="pdx-slot">Pants</span> | 13 | 16 | 13~ | [ ] | 4 Iron Ingot |
-| Iron Battle Axe :lucide-scroll:{ title="Likely found in Gloomhaven" }<br><span class="pdx-slot">Axe</span> | 11 | 16 | 11~ | [ ] | 2 Iron Ingot |
+| Iron Battle Axe :lucide-scroll:{ title="Unconfirmed: Gloomhaven" }<br><span class="pdx-slot">Axe</span> | 11 | 16 | 11~ | [ ] | 2 Iron Ingot |
 | Iron Breastplate<br><span class="pdx-slot">Chest</span> | 13 | 16 | 13~ | [ ] | 4 Iron Ingot |
 | Iron Bascinet<br><span class="pdx-slot">Helmet</span> | 13 | 18 | 13~ | [ ] | 3 Iron Ingot |
 | Iron Spaulders<br><span class="pdx-slot">Shoulder</span> | 13 | 18 | 13~ | [ ] | 3 Iron Ingot |
@@ -124,7 +124,7 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
 | Steel Gauntlets<br><span class="pdx-slot">Gloves</span> | 15 | 20 | 15~ | [ ] | 2 Steel Ingot |
-| Steel Battle Staff :lucide-scroll:{ title="Likely found in Briarstone Quarry" }<br><span class="pdx-slot">Staff</span> | 15 | 20 | 15~ | [ ] | 3 Steel Ingot |
+| Steel Battle Staff :lucide-scroll:{ title="Unconfirmed: Briarstone Quarry" }<br><span class="pdx-slot">Staff</span> | 15 | 20 | 15~ | [ ] | 3 Steel Ingot |
 | Steel Sabatons<br><span class="pdx-slot">Boots</span> | 15 | 20 | 15~ | [ ] | 2 Steel Ingot |
 | Steel Cuisses<br><span class="pdx-slot">Pants</span> | 15 | 22 | 15~ | [ ] | 4 Steel Ingot |
 | Steel Cuirass<br><span class="pdx-slot">Chest</span> | 15 | 22 | 15~ | [ ] | 4 Steel Ingot |
@@ -158,17 +158,17 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 
 | Item | Item lvl | Skill | Req. lvl | Attribute | Ingredients |
 |---|---|---|---|---|---|
-| Arcanite Piercer :lucide-scroll:{ title="Likely found in Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Dagger</span> | 19 | 26 | 19~ | [ ] | 3 Arcanite Ingot |
+| Arcanite Piercer :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Dagger</span> | 19 | 26 | 19~ | [ ] | 3 Arcanite Ingot |
 | Arcanite Gauntlets<br><span class="pdx-slot">Gloves</span> | 20 | 26 | 20~ | [ ] | 2 Arcanite Ingot |
 | Arcanite Sabatons<br><span class="pdx-slot">Boots</span> | 20 | 26 | 20~ | [ ] | 2 Arcanite Ingot |
-| Arcanite Xiphos :lucide-scroll:{ title="Likely found in Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Sword</span> | 19 | 28 | 19~ | [ ] | 3 Arcanite Ingot |
+| Arcanite Xiphos :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Sword</span> | 19 | 28 | 19~ | [ ] | 3 Arcanite Ingot |
 | Arcanite Legguards<br><span class="pdx-slot">Pants</span> | 20 | 28 | 20~ | [ ] | 4 Arcanite Ingot |
 | Arcanite Breastplate<br><span class="pdx-slot">Chest</span> | 20 | 30 | 20~ | [ ] | 4 Arcanite Ingot |
 | Arcanite Pauldrons<br><span class="pdx-slot">Shoulder</span> | 20 | 30 | 20~ | [ ] | 3 Arcanite Ingot |
-| Arcanite War Bow :lucide-scroll:{ title="Likely found in Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Bow</span> | 21 | 30 | 21~ | [ ] | 3 Arcanite Ingot |
+| Arcanite War Bow :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Bow</span> | 21 | 30 | 21~ | [ ] | 3 Arcanite Ingot |
 | Arcanite Armet<br><span class="pdx-slot">Helmet</span> | 20 | 32 | 20~ | [ ] | 3 Arcanite Ingot |
-| Arcanite Reaper :lucide-scroll:{ title="Likely found in Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Great Axe</span> | 21 | 36 | 21~ | [ ] | 4 Arcanite Ingot |
-| Arcanite Staff :lucide-scroll:{ title="Likely found in Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Staff</span> | 21 | 36 | 21~ | [ ] | 4 Arcanite Ingot |
+| Arcanite Reaper :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Great Axe</span> | 21 | 36 | 21~ | [ ] | 4 Arcanite Ingot |
+| Arcanite Staff :lucide-scroll:{ title="Unconfirmed: Stormwatch or Icetooth Base Camp" }<br><span class="pdx-slot">Staff</span> | 21 | 36 | 21~ | [ ] | 4 Arcanite Ingot |
 
 </div>
 

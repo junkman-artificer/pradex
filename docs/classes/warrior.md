@@ -6,9 +6,9 @@
 
 !!! info "At a glance"
     - **Role:** Bruiser
-    - **Availability:** Everyone
+    - **Access:** Everyone
     - **Weapons:** Shield, Quiver, Sword, Axe, Club, Mace, Great Sword, Great Axe, Spear, Bow
-    - **Playstyle:** Hold the front line, soak hits, and build Rage with every swing.
+    - **Playstyle:** Holds the front line and hits harder with every swing. Rarely seen without a shield or a very large weapon.
 
 ## Overview
 
@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early tips
+## Early field notes
 
 - **Grab Rage at level 2.** It's free damage on every swing and never costs mana, so it's worth equipping right away.
 - **Don't run every ability all the time.** Early on your mana can't keep up, so save your abilities for the fights that need them and let Rage do the work in between.
@@ -42,14 +42,14 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 Uniques you can find while leveling that are worth keeping an eye out for.
 
 ??? note "Skeleton's Chest: Axe"
-    **Where:** The treasure box for finishing The Bone Gallery (Eastern Gate). Every item in it is level 9.
+    **Found in:** The treasure box for finishing The Bone Gallery (Eastern Gate). Every item in it is level 9.
 
     **Why:** Early Strength plus Health Regen, and it's one of the first Uniques most players can get.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Crypt Raider&#x27;s Axe</span><span class="pdx-item__slot">Axe</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">11-14</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">3.13</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">4.0s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">3</b></span><span class="pdx-chip">Health Regen <b class="c-hp">2</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">10</b></span></div></div>
 
 ??? note "The Watchman: Helmet, Boots, Ring"
-    **Where:** Any adventure deck in Eastern Gate except Old City Forum. Level 11 gear.
+    **Found in:** Any adventure deck in Eastern Gate except Old City Forum. Level 11 gear.
 
     **Why:** Strength and Health on the helm and boots with plenty of Armor, Health Regen on the boots and ring, and a bit of Mana Regen on the ring too.
 
@@ -60,7 +60,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Ring of the Broken Oath</span><span class="pdx-item__slot">Ring</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">3</b></span><span class="pdx-chip">Health Regen <b class="c-hp">2</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">2</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ??? note "The Butcher of the Burrows: Great Sword, Chest"
-    **Where:** Most decks in The Burrows, plus Travel to the Burrows. Level 11 gear.
+    **Found in:** Most decks in The Burrows, plus Travel to the Burrows. Level 11 gear.
 
     **Why:** The Cleaver is a big Strength Great Sword for damage, and the Apron adds Health, Health Regen and Reduce All Damage whichever way you build.
 
@@ -69,21 +69,21 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">The Butcher&#x27;s Leather Apron</span><span class="pdx-item__slot">Chest</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">40</b></span><span class="pdx-chip">Health <b class="c-hp">18</b></span><span class="pdx-chip">Strength <b class="c-str">6</b></span><span class="pdx-chip">Health Regen <b class="c-hp">4</b></span><span class="pdx-chip">Reduce All Damage <b class="c-oth">2%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">14</b></span></div></div>
 
 ??? note "Calypthia, the Guardian Nereid: Necklace"
-    **Where:** Relic's Rest, at the end of the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker (The Burrows). Level 11 gear.
+    **Found in:** Relic's Rest, at the end of the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker (The Burrows). Level 11 gear.
 
     **Why:** Jewelry is already hard to find, and Mana Regen gear is rare before the endgame, so this necklace really stands out. Outside of a lucky Smithing craft, it's likely the only one you'll see while leveling, and pretty much everyone wears it all the way from 11 to 25.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Seal of the Deep Warden</span><span class="pdx-item__slot">Necklace</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">2</b></span><span class="pdx-chip">Barrier Regen <b class="c-bar">4</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ??? note "Krag Skullsplitter, the Goblin King: Club"
-    **Where:** The Throne Room (Briarstone Quarry). Level 17 to 18 gear.
+    **Found in:** The Throne Room (Briarstone Quarry). Level 17 to 18 gear.
 
     **Why:** A hard-hitting club with +8 Strength and Health Regen.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Rune-etched Warhammer</span><span class="pdx-item__slot">Club</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">37-42</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">8.98</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">4.4s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">8</b></span><span class="pdx-chip">Health Regen <b class="c-hp">5</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">30</b></span></div></div>
 
 ??? note "Icehowl, the Elder Giant: Great Axe"
-    **Where:** Frostbite Ridge, Phantom's Perch and Ascend to Icetooth Base Camp (Stormwatch), plus Icetooth Peaks (Icetooth Base Camp). Level 21 to 24 gear.
+    **Found in:** Frostbite Ridge, Phantom's Perch and Ascend to Icetooth Base Camp (Stormwatch), plus Icetooth Peaks (Icetooth Base Camp). Level 21 to 24 gear.
 
     **Why:** +12 Strength and 15% Cleave, so your hits spill over onto a second target.
 

@@ -15,7 +15,7 @@ The essence you need depends on the item level of the gear you're enchanting.
 | :lucide-flame:{ .flame--green } Mystic Essence | 21 to 30 |
 | :lucide-flame:{ .flame--purple } Astral Essence | 31 and up |
 
-These ranges are based on testing and haven't been officially confirmed.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> These ranges come from testing.
 
 ## Spending an attunement
 

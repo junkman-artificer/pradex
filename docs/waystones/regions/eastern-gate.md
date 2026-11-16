@@ -5,7 +5,7 @@
 !!! info "At a glance"
     - **Waystone decks:** 4
     - **Preferred gear:** Strength-based
-    - **Same preferred gear as:** The Burrows
+    - **Shares gear with:** The Burrows
 
 ## Overview
 
@@ -90,7 +90,7 @@ None in this deck.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Scarlet Violin</span><span class="pdx-item__slot">Off-hand</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">15</b></span><span class="pdx-chip">Intellect <b class="c-int">15</b></span><span class="pdx-chip">Performance <b class="c-sp">8</b></span><span class="pdx-chip">Health Regen <b class="c-hp">8</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">12</b></span><span class="pdx-chip">All Speed <b class="c-oth">15%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">88</b></span><span class="pdx-chip">Intellect <b class="c-int">88</b></span></div></div>
 
-## Tips
+## Field notes
 
 - [Tip]
 - [Tip]

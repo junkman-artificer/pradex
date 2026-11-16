@@ -141,7 +141,7 @@ The **Damage** prefix's extra bonus depends on the weapon:
 | Weapon | Bonus |
 |---|---|
 | Axe, Dagger, Great Sword, Sword | % Weapon Crit Rate |
-| Great Axe | Likely % Weapon Crit Rate (unconfirmed) |
+| Great Axe | % Weapon Crit Rate <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> |
 | Club, Mace | % Weapon Damage Cleave |
 | Bow, Spear | % Weapon Damage Pierce |
 | Staff, Wand | Can't roll the Damage prefix |

@@ -6,7 +6,7 @@ Tailoring turns cloth and thread into cloth armor and capes. Recipes are grouped
 
 Every Tailoring recipe also uses **1 Wind Crystal**, so it's left out of the tables below.
 
-**Required level** is approximate (marked with ~). In testing, it's usually the item level or one higher.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> **Required level** is marked with ~. It's usually the item level or one higher.
 
 **Attribute required** is shown as a range, because the exact requirement varies from one crafted item to the next.
 
@@ -16,7 +16,7 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
 
 ## Gathering materials
 
-There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
 
 <div class="pdx-compact" markdown>
 

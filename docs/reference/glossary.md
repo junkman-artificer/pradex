@@ -83,6 +83,9 @@ Mana Loop
 Marks of Valor
 :   Arena currency used to buy special Unique items. Only earned in the Gladiator League. See [Arena](../arena/index.md#marks-of-valor).
 
+Observed
+:   Seen in play or testing, but not stated by the game or the official site. Marked with a green <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> tag.
+
 Prefix
 :   One of the two affix types. See [Stats](../gearing-up/stats.md).
 
@@ -112,6 +115,9 @@ Suffix
 
 Trading Post
 :   Where players buy and sell with each other. Ends Lone Wolf status. See [Economy](../economy/index.md#trading-post).
+
+Unconfirmed
+:   A best guess that hasn't been tested yet. Marked with an orange <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> tag. Anything without a tag comes from the game or the official site.
 
 Unique
 :   A tier of items that come as-is, often with special effects. See [Rarity](../gearing-up/rarity.md#unique).

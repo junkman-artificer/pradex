@@ -622,3 +622,25 @@
 @supports (scrollbar-color: auto) {
   html { scrollbar-color: #3a404b #101318; }
 }
+
+/* ---------- Confidence tags: how sure Pradex is about a claim ---------- */
+.md-typeset .pdx-status {
+  display: inline-block;
+  margin-right: 0.15rem;
+  padding: 0 0.4rem;
+  border: 0.05rem solid currentColor;
+  border-radius: 0.3rem;
+  font-family: var(--pdx-readout);
+  font-size: 0.56rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.7;
+  text-transform: uppercase;
+  vertical-align: 0.08em;
+  white-space: nowrap;
+  cursor: help;
+}
+.md-typeset .pdx-status--observed    { color: var(--pdx-screen, #7ee08f); background: rgba(126, 224, 143, 0.08); }
+.md-typeset .pdx-status--unconfirmed { color: #ff9100; background: rgba(255, 145, 0, 0.08); border-style: dashed; }
+/* Slimmer inside tables so narrow columns don't grow on phones */
+.md-typeset table .pdx-status { padding: 0 0.25rem; font-size: 0.52rem; letter-spacing: 0.02em; }

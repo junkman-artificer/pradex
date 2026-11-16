@@ -9,7 +9,7 @@ Alchemy makes potions, weapon oils, and gems. Within each section, recipes are l
 
 ## Gathering materials
 
-There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
 
 Herb picks are still being worked out, so treat these as a starting point. Spring Water can't be gathered, so buy it in town.
 
@@ -28,7 +28,7 @@ Herb picks are still being worked out, so treat these as a starting point. Sprin
 | Moonmoss :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Mystic Hollow | Stormwatch |
 | Thundercap :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Shepherd's Steppes | Stormwatch |
 | Frostfern | Icetooth Peaks | Icetooth Base Camp |
-| Dreamshade :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Stormwatch garden decks (unconfirmed) | Stormwatch |
+| Dreamshade :lucide-store:{ title="Up to [ ] a day at Stormwatch Provisions (Stormwatch)" } | Stormwatch garden decks <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> | Stormwatch |
 | Sunbloom :lucide-orbit:{ title="Waystone decks only" } | Sweetwater waystone decks | Sweetwater |
 | Nightsong :lucide-orbit:{ title="Waystone decks only" } | Nightsong Bloom | Briarstone Quarry |
 | Radiant Bloom, Mistmint, Glintmint, Fleetleaf, Mindroot, Steelstem, Mindbloom, Giant's Crown, Ghostvine :lucide-orbit:{ title="Waystone decks only" } | Any waystone deck | Any |

@@ -12,9 +12,9 @@ Grouping up makes some content easier and some rewards better.
 
 ## The party leader
 
-Whoever sends the invites becomes the **party leader** and gets a crown icon. As far as anyone can tell, being leader doesn't change anything.
+Whoever sends the invites becomes the **party leader** and gets a crown icon. <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Being leader doesn't change anything.
 
-There's no way to hand leadership to someone else. If the leader leaves, it seems to pass to the member who's been in the party the longest.
+There's no way to hand leadership to someone else. <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> If the leader leaves, it passes to the member who's been in the party the longest.
 
 ## Getting carried
 

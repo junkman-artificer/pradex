@@ -6,9 +6,9 @@
 
 !!! info "At a glance"
     - **Role:** Cleric
-    - **Availability:** Everyone
+    - **Access:** Everyone
     - **Weapons:** Relic, Dagger, Sword, Axe, Mace, Staff, Wand
-    - **Playstyle:** Keep the party alive with heals and shields, then smite foes with holy magic.
+    - **Playstyle:** Keeps its party standing with heals and shields. Should not be mistaken for harmless, since its holy magic hits back.
 
 ## Overview
 
@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early tips
+## Early field notes
 
 - **Lean on damage until level 9.** Single-target heals don't go very far, even in a party, so early on **Penance** usually does more good. Healing really comes online with **Holy Nova** at 9 and **Prayer of Healing** at 11.
 - **Get the Silver Dagger in Westfield.** It comes from The Miller's Vault, and it's the first guaranteed piece of Mana Regen gear.
@@ -42,14 +42,14 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 Uniques you can find while leveling that are worth keeping an eye out for.
 
 ??? note "Skeleton's Chest: Staff"
-    **Where:** The treasure box for finishing The Bone Gallery (Eastern Gate). Every item in it is level 9.
+    **Found in:** The treasure box for finishing The Bone Gallery (Eastern Gate). Every item in it is level 9.
 
     **Why:** Holy Spell Power, Intellect and Mana Regen all in one early weapon.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Catacomb Staff</span><span class="pdx-item__slot">Staff</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">10-11</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">2.76</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">3.8s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">3</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">3</b></span><span class="pdx-chip">Holy Spell Power <b class="c-sp">2</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">10</b></span></div></div>
 
 ??? note "Calypthia, the Guardian Nereid: Helmet, Chest, Necklace"
-    **Where:** Relic's Rest, at the end of the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker (The Burrows). Level 11 gear.
+    **Found in:** Relic's Rest, at the end of the Sunken Crypts :lucide-move-right: The Drowned Tombs :lucide-move-right: Relic's Rest triple-decker (The Burrows). Level 11 gear.
 
     **Why:** Intellect, Mana Regen and Barrier on every piece. The Seal is the real prize: jewelry is already hard to find, and Mana Regen gear is rare before the endgame, so it really stands out. Outside of a lucky Smithing craft, it's likely the only one you'll see while leveling, and pretty much everyone wears it all the way from 11 to 25.
 
@@ -60,14 +60,14 @@ Uniques you can find while leveling that are worth keeping an eye out for.
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Seal of the Deep Warden</span><span class="pdx-item__slot">Necklace</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">2</b></span><span class="pdx-chip">Barrier Regen <b class="c-bar">4</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
 ??? note "Goblin Treasure Box: Staff"
-    **Where:** The treasure box for finishing Thornheart Chamber (Gloomhaven). Every item in it is level 16.
+    **Found in:** The treasure box for finishing Thornheart Chamber (Gloomhaven). Every item in it is level 16.
 
     **Why:** An upgrade over the Catacomb Staff, with Health and Mana on Spell Hit to keep the heals going.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Fungal Mystic&#x27;s Staff</span><span class="pdx-item__slot">Staff</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">20-24</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">5.95</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">3.7s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">2</b></span><span class="pdx-chip">Intellect <b class="c-int">4</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">3</b></span><span class="pdx-chip">Health on Spell Hit <b class="c-hp">3</b></span><span class="pdx-chip">Mana on Spell Hit <b class="c-mana">3</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">27</b></span></div></div>
 
 ??? note "Briar Beast: Ring"
-    **Where:** The Beast's Lair (Briarstone Quarry). Level 16 to 18 gear.
+    **Found in:** The Beast's Lair (Briarstone Quarry). Level 16 to 18 gear.
 
     **Why:** 5 Health Regen and 5 Mana Regen on a ring.
 

@@ -6,7 +6,7 @@ Leatherworking turns leather and thread into leather armor, capes, and quivers. 
 
 Every Leatherworking recipe also uses **1 Earth Crystal**, so it's left out of the tables below.
 
-**Required level** is approximate (marked with ~). In testing, it's usually the item level or one higher.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> **Required level** is marked with ~. It's usually the item level or one higher.
 
 **Attribute required** is shown as a range, because the exact requirement varies from one crafted item to the next.
 
@@ -17,7 +17,7 @@ Recipes marked :lucide-scroll: aren't learned automatically. You have to find th
 
 ## Gathering materials
 
-There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
 
 Every hide drops from monsters, so look for decks with lots of monster cards and few other cards.
 

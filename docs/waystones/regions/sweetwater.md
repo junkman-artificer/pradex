@@ -5,7 +5,7 @@
 !!! info "At a glance"
     - **Waystone decks:** 3
     - **Preferred gear:** Intellect-based
-    - **Same preferred gear as:** None
+    - **Shares gear with:** None
 
 ## Overview
 
@@ -16,7 +16,7 @@
 Sweetwater leans toward **Intellect-based** gear. It's not a guarantee, and some Strength and Dexterity gear still drops here, but most of what you find will be Intellect-based.
 
 - **Staves** only drop in Sweetwater.
-- **Bows** may only drop here too, but that hasn't been confirmed.
+- <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> **Bows** only drop here too.
 
 ## Things to watch out for
 
@@ -103,7 +103,7 @@ None in this deck.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Robes of Eternal Spring</span><span class="pdx-item__slot">Chest</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">85</b></span><span class="pdx-chip">Strength <b class="c-str">7</b></span><span class="pdx-chip">Dexterity <b class="c-dex">7</b></span><span class="pdx-chip">Intellect <b class="c-int">12</b></span><span class="pdx-chip">Barrier <b class="c-bar">56</b></span><span class="pdx-chip">Health Regen <b class="c-hp">8</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">8</b></span><span class="pdx-chip">Barrier Regen <b class="c-bar">12</b></span><span class="pdx-chip">Health on Spell Cast <b class="c-hp">6</b></span><span class="pdx-chip">Mana on Spell Cast <b class="c-mana">6</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Intellect <b class="c-int">96</b></span></div></div>
 
-## Tips
+## Field notes
 
 - [Tip]
 - [Tip]

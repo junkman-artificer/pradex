@@ -5,7 +5,7 @@
 !!! info "At a glance"
     - **Waystone decks:** 2
     - **Preferred gear:** Dexterity-based
-    - **Same preferred gear as:** Briarstone Quarry
+    - **Shares gear with:** Briarstone Quarry
 
 ## Overview
 
@@ -61,7 +61,7 @@ Gloomhaven leans toward **Dexterity-based** gear. It's not a guarantee, and some
 
 This deck has no Unique encounters.
 
-## Tips
+## Field notes
 
 - [Tip]
 - [Tip]

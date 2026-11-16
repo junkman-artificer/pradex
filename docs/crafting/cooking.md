@@ -6,7 +6,7 @@ Recipes are listed from the lowest skill level to the highest.
 
 ## Gathering materials
 
-There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> There are no public loot tables for Prado Traveler, so these picks come from player experience. See [Crafting](index.md#gathering-materials) for what the :lucide-store: and :lucide-orbit: icons mean.
 
 Ingredient picks are still being worked out, so treat these as a starting point.
 
