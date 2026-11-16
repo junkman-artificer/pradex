@@ -5,7 +5,7 @@ site_name = "Pradex"
 # site_description = "A field guide to the world of Prado"
 # site_author = "Ezraek"
 
-copyright = "Copyright &copy; 2026 Ezraek<br><strong>Prado Traveler</strong> and its game content &copy; 2026 Prado Industries, Inc.<br><strong>Pradex</strong> is an unofficial fan site and is not affiliated with or endorsed by Prado Industries.<br>Spot a mistake? Message <strong>Ezraek</strong> on the <a href='https://discord.gg/CnB2zBeN65'>Prado Discord</a>."
+copyright = "Copyright &copy; 2026 Ezraek<br><strong>Prado Traveler</strong> and its game content &copy; 2026 Prado Industries, Inc.<br><strong>Pradex</strong> is an unofficial fan site and is not affiliated with or endorsed by Prado Industries."
 
 repo_url = "https://discord.gg/CnB2zBeN65"
 repo_name = "Spot a mistake? Message Ezraek"
