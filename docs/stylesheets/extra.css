@@ -505,27 +505,14 @@
 }
 .md-typeset dl > dd { margin-left: 0.85rem; padding-left: 0.9rem; border-left: 0.05rem solid var(--pdx-line); }
 
-/* ---------- Card grids become numbered menu tiles ---------- */
-.md-typeset .grid.cards > ul { counter-reset: pdx-tile; }
+/* ---------- Card grids become menu tiles ---------- */
 .md-typeset .grid.cards > ul > li {
-  counter-increment: pdx-tile;
   position: relative;
   border: 0.05rem solid var(--pdx-line);
   border-radius: 0.7rem;
   background: var(--pdx-ink);
   transition: border-color 125ms, transform 125ms, box-shadow 125ms;
 }
-.md-typeset .grid.cards > ul > li::after {
-  content: counter(pdx-tile, decimal-leading-zero);
-  position: absolute;
-  top: 0.75rem; right: 0.85rem;
-  font-family: var(--pdx-readout);
-  font-size: 0.58rem;
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  color: var(--pdx-dim);
-}
-.md-typeset .grid.cards > ul > li > p:first-child { padding-right: 1.4rem; }
 .md-typeset .grid.cards > ul > li > p:first-child strong { font-family: var(--pdx-readout); letter-spacing: 0.01em; }
 .md-typeset .grid.cards > ul > li > p:first-child .twemoji { color: var(--pdx-screen, #7ee08f); }
 .md-typeset .grid.cards > ul > li > hr { border-bottom-color: var(--pdx-line); }
@@ -535,10 +522,26 @@
   box-shadow: 0 0 0 0.05rem var(--pdx-screen-dim), 0 0.4rem 1rem rgba(0, 0, 0, 0.35);
   transform: translateY(-0.1rem);
 }
-.md-typeset .grid.cards > ul > li:hover::after,
-.md-typeset .grid.cards > ul > li:focus-within::after { color: var(--pdx-screen, #7ee08f); }
 /* The whole tile is the link */
 .md-typeset .grid.cards > ul > li > p:last-child > a::after { content: ""; position: absolute; inset: 0; border-radius: 0.7rem; }
+
+/* Numbered tiles: only on grids marked pdx-numbered, where the number
+   matches an entry number (Classes 01 to 07) */
+.md-typeset .grid.cards.pdx-numbered > ul { counter-reset: pdx-tile; }
+.md-typeset .grid.cards.pdx-numbered > ul > li { counter-increment: pdx-tile; }
+.md-typeset .grid.cards.pdx-numbered > ul > li::after {
+  content: counter(pdx-tile, decimal-leading-zero);
+  position: absolute;
+  top: 0.75rem; right: 0.85rem;
+  font-family: var(--pdx-readout);
+  font-size: 0.58rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--pdx-dim);
+}
+.md-typeset .grid.cards.pdx-numbered > ul > li > p:first-child { padding-right: 1.4rem; }
+.md-typeset .grid.cards.pdx-numbered > ul > li:hover::after,
+.md-typeset .grid.cards.pdx-numbered > ul > li:focus-within::after { color: var(--pdx-screen, #7ee08f); }
 
 /* ---------- Home: the boot screen ---------- */
 .md-typeset .pdx-hero {

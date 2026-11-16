@@ -49,7 +49,7 @@ All of this lives in `docs/stylesheets/extra.css`. The section headed "Pokedex l
 
 **Data plate.** Any `!!! info` box whose list items start with a bold label becomes a label and value table automatically. Keep labels to one or two words so they don't wrap on phones.
 
-**Menu tiles.** Any `<div class="grid cards" markdown>` grid is numbered automatically and the whole tile is clickable.
+**Menu tiles.** Every `<div class="grid cards" markdown>` grid gets the tile style, and the whole tile is clickable. Add `pdx-numbered` to the class list (`grid cards pdx-numbered`) only when the tile numbers match entry numbers, as on the Classes page. Ezraek decided numbers anywhere else are clutter.
 
 **Unique item cards.** The existing `pdx-item` cards, used for every Unique item on the class, Arena and region pages.
 
@@ -74,7 +74,7 @@ All of this lives in `docs/stylesheets/extra.css`. The section headed "Pokedex l
 - Screen scanlines and glow, breadcrumbs as a status line, sidebar cursor, footer casing.
 - One palette for every admonition and collapsible. "At a glance" boxes became data plates.
 - Dex entry headers on all 7 class pages and all 5 region pages.
-- Numbered menu tiles, readout table headers, glossary entry styling.
+- Menu tiles (numbered only on the Classes page), readout table headers, glossary entry styling.
 - Confidence tags (Observed, Unconfirmed) replaced every hedged phrase. "Tips" sections became "Field notes".
 - Home page boot screen with counts for classes, regions and professions. These are typed by hand in `docs/index.md`, so update them if a class or region is added.
 Nothing in the written guides was changed.
