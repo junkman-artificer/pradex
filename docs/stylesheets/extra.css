@@ -647,3 +647,10 @@
 .md-typeset .pdx-status--unconfirmed { color: #ff9100; background: rgba(255, 145, 0, 0.08); border-style: dashed; }
 /* Slimmer inside tables so narrow columns don't grow on phones */
 .md-typeset table .pdx-status { padding: 0 0.25rem; font-size: 0.52rem; letter-spacing: 0.02em; }
+
+/* Wide reference tables (four or more columns): a little denser on phones */
+@media screen and (max-width: 44.984375em) {
+  .md-typeset .pdx-compact.pdx-dense table:not([class]) { font-size: 0.6rem; }
+  .md-typeset .pdx-compact.pdx-dense table:not([class]) th,
+  .md-typeset .pdx-compact.pdx-dense table:not([class]) td { padding: .45em .3em; }
+}

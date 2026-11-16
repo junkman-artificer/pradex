@@ -27,33 +27,35 @@ On high-level gear, a strong Prefix can be worth more than a 6th socket. See [Is
 
 Every enchantment has tiers, and the highest tiers only roll on certain pieces. If an enchantment matters to your build, these are the pieces to hunt for.
 
-<div class="pdx-compact" markdown>
+<div class="pdx-compact pdx-dense" markdown>
 
-| Enchantment | Best tier, and where | Best on a one-hander |
-|---|---|---|
-| Mana Regen | 9: Staffs, Orbs, Intellect chests | 6: Intellect hybrid one-handers, plus pure Intellect swords and daggers |
-| Health Regen | 9: Strength two-handers, Strength shields, Strength chests | 6: Strength and Strength hybrid one-handers |
-| Fire Spell Power | 9: Intellect staffs <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span>, Orbs | 7: any Intellect or Intellect hybrid one-hander |
-| Frost and Arcane Spell Power | 9: Intellect staffs <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span>, Orbs | 7: Intellect wands, Intellect hybrid one-handers |
-| Holy Spell Power | 9: Intellect staffs <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span>, Relics | 7: Intellect wands, Intellect hybrid one-handers |
-| Performance | 9: Instruments only | None |
-| Poison Potency and Duration | 9: Dexterity daggers and bows. Tier 2 anywhere else. | 9: Dexterity daggers |
-| Evasion | 9: Dexterity chests, pants and boots | None |
-| Barrier and Barrier Regen | 9: Intellect shields, chests and pants | 7: Wands (Barrier only) |
-| Armor and Magic Resistance | 9: Shields, Strength chests and pants | None |
-| Damage Taken Reduced | 9: Strength shields, chests and pants | None |
-| Weapon Damage | 9: Strength or Dexterity gloves only | None |
-| Max Mana as Weapon Damage, Max Health as Spell Damage | 9: Intellect helmets only | None |
-| All Cooldowns % Faster | 8: Dexterity weapons and gloves only | 8: Dexterity one-handers |
-| Double and Triple Strike | 8: Bows only | None |
-| Max Health or Mana as Barrier | 8: Staffs only | None |
-| Status immunities | 5: Strength shields only | None |
+| Enchantment | Two-handed | One-handed | Gear |
+|---|---|---|---|
+| Mana Regen | 9: Staffs | 6: Intellect hybrids, Intellect swords and daggers | 9: Orbs, Intellect chests |
+| Health Regen | 9: Strength two-handers | 6: Strength and Strength hybrids | 9: Strength shields and chests |
+| Fire Spell Power | 9: Intellect staffs | 7: Intellect and Intellect hybrids | 9: Orbs |
+| Frost and Arcane Spell Power | 9: Intellect staffs | 7: Intellect wands, Intellect hybrids | 9: Orbs |
+| Holy Spell Power | 9: Intellect staffs | 7: Intellect wands, Intellect hybrids | 9: Relics |
+| Performance | None | None | 9: Instruments |
+| Poison Potency | 9: Dexterity bows | 9: Dexterity daggers | 2: Quivers, Dexterity gloves |
+| Poison Duration | 9: Dexterity bows | 9: Dexterity daggers | 2: Quivers, Dexterity boots |
+| Evasion | None | None | 9: Dexterity chests, pants and boots |
+| Barrier | None | 7: Wands | 9: Intellect shields, chests and pants |
+| Barrier Regen | None | None | 9: Intellect shields, chests and pants |
+| Armor and Magic Resistance | None | None | 9: Shields, Strength chests and pants |
+| Damage Taken Reduced | None | None | 9: Strength shields, chests and pants |
+| Weapon Damage | None | None | 9: Strength or Dexterity gloves |
+| Max Mana as Weapon Damage, Max Health as Spell Damage | None | None | 9: Intellect helmets |
+| All Cooldowns % Faster | 8: Dexterity staffs, spears and clubs | 8: Dexterity | 8: Dexterity gloves |
+| Double and Triple Strike | 8: Bows | None | None |
+| Max Health or Mana as Barrier | 8: Staffs | None | None |
+| Status immunities | None | None | 5: Strength shields |
 
 </div>
 
-"Two-handers" means Great Swords, Great Axes, Staffs, Bows, Spears and Clubs. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> Staffs seem to be the only two-handers that come in pure Intellect, apart from the occasional Epic Great Sword.
+Each column shows the best tier that type of piece can roll, and which pieces reach it. **Gear** covers armor, off-hands and jewelry. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> Staffs seem to be the only two-handers that come in pure Intellect, apart from the occasional Epic Great Sword.
 
-The one-hander column is for dual wielders. Two one-handers can beat a single two-hander: a pair of Intellect wands with tier 7 and tier 6 Frost Spell Power will outdo one tier 9 staff.
+The one-handed column is for dual wielders. Two one-handers can beat a single two-hander: a pair of Intellect wands with tier 7 and tier 6 Frost Spell Power will outdo one tier 9 staff.
 
 These come from the [official enchantments list](https://www.pradotraveler.com/enchantments){ target="_blank" } at the highest item level.
 

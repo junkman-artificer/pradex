@@ -118,7 +118,7 @@ Placeholders left in the site, to fill by spitballing one section at a time:
 
 ### 5. Known rough edges
 
-None right now. Every page was checked at 360, 390 and 1280 px on 2026-11-16 with nothing scrolling sideways. Keep it that way: wrap any new wide table in `<div class="pdx-compact" markdown>`, and show Unique items as `pdx-item` cards, never as table rows.
+None right now. Every page was checked at 360, 390 and 1280 px on 2026-11-16 with nothing scrolling sideways. Keep it that way: wrap any new wide table in `<div class="pdx-compact" markdown>` (use `pdx-compact pdx-dense` for four or more columns, which shrinks the text a little on phones), and show Unique items as `pdx-item` cards, never as table rows.
 
 ## Reading the official site
 
