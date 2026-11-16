@@ -71,22 +71,6 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Band of Endless Growth</span><span class="pdx-item__slot">Ring</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Health Regen <b class="c-hp">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">5</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
-## Builds
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
 ## In a party
 
 In a party, the Priest keeps everyone standing. **Holy Nova** and **Prayer of Healing** top up the whole group at once, and **Divine Shield** soaks hits before they land on your front line. **Cleanse** and **Purge** handle status effects on both sides: Cleanse strips a debuff off an ally, and Purge strips a dangerous buff off an enemy. **Mercy** adds Health Regen for everyone without taking up an ability slot, so even a damage-focused Priest makes the party sturdier. See [Synergies](../parties/synergies.md) for which classes pair well together.

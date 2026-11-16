@@ -87,22 +87,6 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Ravenspire War Axe</span><span class="pdx-item__slot">Great Axe</span></div><div class="pdx-tiles"><div class="pdx-tile"><b class="t-dmg">54-57</b><span>Damage</span></div><div class="pdx-tile"><b class="t-dps">12.91</b><span>DPS</span></div><div class="pdx-tile"><b class="t-spd">4.3s</b><span>Speed</span></div></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">12</b></span><span class="pdx-chip">Dexterity <b class="c-dex">5</b></span><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">6</b></span><span class="pdx-chip">Cleave <b class="c-oth">15%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">44</b></span></div></div>
 
-## Builds
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
 ## In a party
 
 Warriors anchor the front line. **Provoke** pulls enemies off your squishier allies, **Intimidating Shout** cuts the damage the whole enemy side deals, and **War Cry** boosts the weapon damage of everyone in the party. Ability slots are limited, so you'll usually bring one of these alongside your damage abilities, picked to cover what the rest of the party is missing. See [Synergies](../parties/synergies.md) for which classes pair well together.

@@ -79,22 +79,6 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Drakehide Harness</span><span class="pdx-item__slot">Chest</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">59</b></span><span class="pdx-chip">Strength <b class="c-str">6</b></span><span class="pdx-chip">Dexterity <b class="c-dex">9</b></span><span class="pdx-chip">Evasion <b class="c-oth">8%</b></span><span class="pdx-chip">Magic Resistance <b class="c-oth">6%</b></span><span class="pdx-chip">All Hit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">All Crit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">Weapon Speed <b class="c-oth">9%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">52</b></span></div></div>
 
-## Builds
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
 ## In a party
 
 In a party, the Thief's job is damage, plain and simple. Most Thieves fill every ability slot with their own damage and let **Focus Target** lock onto one enemy at a time, taking the biggest threats out of the fight fast. If your party ever needs a little control, **Marked for Death**, **Flash Bomb** and **Kidney Punch** are there, but they're the exception rather than the rule. See [Synergies](../parties/synergies.md) for which classes pair well together.

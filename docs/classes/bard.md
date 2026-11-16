@@ -69,22 +69,6 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Zephyra&#x27;s Skywalkers</span><span class="pdx-item__slot">Boots</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">28</b></span><span class="pdx-chip">Health <b class="c-hp">14</b></span><span class="pdx-chip">Mana <b class="c-mana">20</b></span><span class="pdx-chip">Strength <b class="c-str">4</b></span><span class="pdx-chip">Dexterity <b class="c-dex">8</b></span><span class="pdx-chip">Intellect <b class="c-int">5</b></span><span class="pdx-chip">Evasion <b class="c-oth">8%</b></span><span class="pdx-chip">Magic Resistance <b class="c-oth">5%</b></span><span class="pdx-chip">Health Regen <b class="c-hp">3</b></span><span class="pdx-chip">Mana Regen <b class="c-mana">3</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">52</b></span><span class="pdx-chip">Intellect <b class="c-int">52</b></span></div></div>
 
-## Builds
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
 ## In a party
 
 A Bard is at their best in a party, since nearly everything they do is for someone else. Their songs can speed up the whole party's weapons or abilities, cut the damage your allies take, heal them over time, sharpen their Hit, Crit and Evasion, or Slow and weaken the entire enemy side. **Harmony** adds Mana Regen for everyone on top of that. Every song is strong in the right party, so read through them and pick the ones that fit your group. See [Synergies](../parties/synergies.md) for which classes pair well together.

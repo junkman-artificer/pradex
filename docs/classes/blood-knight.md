@@ -69,22 +69,6 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Icehowl&#x27;s Resilience</span><span class="pdx-item__slot">Chest</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">88</b></span><span class="pdx-chip">Health <b class="c-hp">40</b></span><span class="pdx-chip">Strength <b class="c-str">10</b></span><span class="pdx-chip">Dexterity <b class="c-dex">6</b></span><span class="pdx-chip">Frost Spell Power <b class="c-sp">5</b></span><span class="pdx-chip">Magic Resistance <b class="c-oth">8%</b></span><span class="pdx-chip">Reduce All Damage <b class="c-oth">6%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">56</b></span></div></div>
 
-## Builds
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
 ## In a party
 
 In a party, the Blood Knight brings a bit of everything: real damage from their Bleeds, the staying power to hold the front line, and some support on top. **Vampiric Aura** gives the whole party Weapon Lifesteal without taking up an ability slot. If you have room, **Communion** gives allies Health Regen whenever you land a weapon hit, and **Blood Pact** trades some of your health for Barrier on everyone else. See [Synergies](../parties/synergies.md) for which classes pair well together.

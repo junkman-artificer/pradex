@@ -32,7 +32,7 @@ Your field guide to Prado. Everything from making your first character to master
 
     ---
 
-    Leveling paths and builds for every class.
+    Priorities, tips and uniques for every class.
 
     [:lucide-arrow-right: Choose](classes/index.md)
 

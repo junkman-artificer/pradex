@@ -81,22 +81,6 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Drakehide Harness</span><span class="pdx-item__slot">Chest</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Armor <b class="c-oth">59</b></span><span class="pdx-chip">Strength <b class="c-str">6</b></span><span class="pdx-chip">Dexterity <b class="c-dex">9</b></span><span class="pdx-chip">Evasion <b class="c-oth">8%</b></span><span class="pdx-chip">Magic Resistance <b class="c-oth">6%</b></span><span class="pdx-chip">All Hit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">All Crit Rating <b class="c-oth">5%</b></span><span class="pdx-chip">Weapon Speed <b class="c-oth">9%</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip">Dexterity <b class="c-dex">52</b></span></div></div>
 
-## Builds
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
 ## In a party
 
 In a party, the Ranger deals steady damage from the back line, where it's easier to keep your Focus. Your arrows can reach enemies the front line can't, finish off whoever's closest to dying, or freeze and put dangerous targets to sleep before they act. Pick the shots that cover what your party is missing. See [Synergies](../parties/synergies.md) for which classes pair well together.

@@ -71,22 +71,6 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
     <div class="pdx-item"><div class="pdx-item__head"><span class="pdx-item__name">Heart of Winter</span><span class="pdx-item__slot">Necklace</span></div><div class="pdx-label">Stats</div><div class="pdx-chips"><span class="pdx-chip">Strength <b class="c-str">12</b></span><span class="pdx-chip">Intellect <b class="c-int">10</b></span><span class="pdx-chip">Frost Spell Power <b class="c-sp">2</b></span><span class="pdx-chip">Health Regen <b class="c-hp">6</b></span></div><div class="pdx-label">Requirements</div><div class="pdx-chips"><span class="pdx-chip pdx-chip--none">None</span></div></div>
 
-## Builds
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
-### [Build name]
-
-- **Best for:** [solo, party, waystones, etc.]
-- **Key gear:** [items]
-- **Enchant priorities:** [priorities]
-- **How to play it:** [short description]
-
 ## In a party
 
 A Magician makes the whole party better. **Arcane Infusion** keeps everyone's mana flowing, so your allies can lean on their abilities far more than they could on their own. **Firebrand Weapon** and **Icebrand Weapon** turn a fast-hitting front line into a burning or freezing threat, and **Blizzard** can lock down the whole enemy side. With a fourth ability slot, you have more room than anyone to cover both damage and support. See [Synergies](../parties/synergies.md) for which classes pair well together.

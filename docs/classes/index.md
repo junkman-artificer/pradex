@@ -1,6 +1,6 @@
 # Classes
 
-Every class has a fixed stat path, so what really sets you apart is your gear, your enchanting, and how you play. You can switch classes any time you're in town. Each class has its own level and experience bar, though, so trying a new one means leveling it from the start. Pick a class below to see its priorities, early tips, uniques to watch for, and builds.
+Every class has a fixed stat path, so what really sets you apart is your gear, your enchanting, and how you play. You can switch classes any time you're in town. Each class has its own level and experience bar, though, so trying a new one means leveling it from the start. Pick a class below to see its priorities, early tips, best subclasses, and uniques to watch for.
 
 <div class="grid cards" markdown>
 
