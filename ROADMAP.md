@@ -65,7 +65,7 @@ All of this lives in `docs/stylesheets/extra.css`. The section headed "Pokedex l
 - **Unconfirmed**: a best guess nobody has tested. In icon tooltips, where HTML can't go, write "Unconfirmed: " in front of the text.
 - Both words are defined in the Glossary. Ask Ezraek which level a new claim belongs at.
 
-**Section and label names.** Advice from experience goes under "Field notes" ("Early field notes" on class pages). Data plate labels are short nouns: "Access", "Shares gear with", "Found in".
+**Section and label names.** Advice from experience goes under "Field notes" ("Starter notes" on class pages). Data plate labels are short nouns: "Access", "Shares gear with", "Found in".
 
 **Boxes.** Colours carry meaning, so pick the box by meaning: `info` is device data (green), `tip` is advice (gold), `warning` is a mistake to avoid (orange), `??? note` is reserved for Unique item sources (gold edge), `??? abstract` for long reference tables, `??? example` for worked maths, `??? question` for FAQ entries.
 

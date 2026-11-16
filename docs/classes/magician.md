@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early field notes
+## Starter notes
 
 - **Grab Fireball at level 2, then Firebrand Weapon at level 3.** Fireball hits harder per cast, but Firebrand Weapon gets more damage out of each point of mana, even when you're playing solo.
 - **Pace your mana.** Early on you can't keep every spell going, so save them for the fights that need them, especially in longer decks.

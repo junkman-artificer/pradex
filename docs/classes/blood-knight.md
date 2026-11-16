@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early field notes
+## Starter notes
 
 - **Grab Blood Strike at level 2, then Thirst at level 3.** Blood Strike's Bleed scales with the enemy's Max Health, so it hits hardest on big targets. Thirst heals you every time an enemy dies, which keeps you going once the quick early levels are behind you.
 - **Hold off on judging the class until level 8.** **Blood Tap** gives more Health Regen the lower your health gets, and once you have it, the Blood Knight gets a lot easier to play.

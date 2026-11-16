@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early field notes
+## Starter notes
 
 - **Lean on damage until level 9.** Single-target heals don't go very far, even in a party, so early on **Penance** usually does more good. Healing really comes online with **Holy Nova** at 9 and **Prayer of Healing** at 11.
 - **Get the Silver Dagger in Westfield.** It comes from The Miller's Vault, and it's the first guaranteed piece of Mana Regen gear.

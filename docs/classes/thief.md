@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early field notes
+## Starter notes
 
 - **Grab Deadly Poison at level 2.** It's the core of the poison build, and every hit while it's up adds another stack.
 - **Get a second weapon ready for level 4.** **Dual Wield** unlocks then, so pick up a second one-hander beforehand and equip it right away.

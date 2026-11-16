@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early field notes
+## Starter notes
 
 - **Grab Soldier's Fanfare at level 2.** It makes your party's weapons hit harder and faster while it plays.
 - **Run a bow and a quiver.** Instruments only come from lucky drops and can't be crafted, so leave them for the endgame. A quiver is one of the easier places to roll Mana Regen, and a bow's Dexterity balances out the Intellect from a Magician subclass, which most Bards take.

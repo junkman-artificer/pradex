@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early field notes
+## Starter notes
 
 - **Grab Penetrating Shot at level 2.** It ignores half the target's armor, which makes it a strong opener against tough enemies.
 - **Upgrade your bow in steps.** Buy your first one in Sweetwater, then a stronger one from the Ranger guild hall in Eastern Gate to imbue. After that, the Gloomwood Longbow from the treasure box at the end of Thornheart Chamber (Gloomhaven) can easily carry you to the endgame.

@@ -30,7 +30,7 @@ These are a starting point. As you head into the endgame, stats like Hit, attack
 
 For specific gear, see [Gearing Up](../gearing-up/index.md).
 
-## Early field notes
+## Starter notes
 
 - **Grab Rage at level 2.** It's free damage on every swing and never costs mana, so it's worth equipping right away.
 - **Don't run every ability all the time.** Early on your mana can't keep up, so save your abilities for the fights that need them and let Rage do the work in between.
