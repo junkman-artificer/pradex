@@ -7,8 +7,8 @@ Your field guide to Prado. Everything from making your first character to master
 
 <ul class="pdx-hero__stats" markdown="0">
 <li><b>7</b><a href="classes/">Classes</a></li>
-<li><b>5</b><a href="waystones/regions/">Regions mapped</a></li>
 <li><b>5</b><a href="crafting/">Professions</a></li>
+<li><b>5</b><a href="waystones/regions/">Regions mapped</a></li>
 </ul>
 </div>
 
