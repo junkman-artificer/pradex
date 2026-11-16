@@ -31,29 +31,29 @@ Every enchantment has tiers, and the highest tiers only roll on certain pieces. 
 
 | Enchantment | Two-handed | One-handed | Gear |
 |---|---|---|---|
-| Mana Regen | 9: Staffs | 6: Intellect hybrids, Intellect swords and daggers | 9: Orbs, Intellect chests |
-| Health Regen | 9: Strength two-handers | 6: Strength and Strength hybrids | 9: Strength shields and chests |
-| Fire Spell Power | 9: Intellect staffs | 7: Intellect and Intellect hybrids | 9: Orbs |
-| Frost and Arcane Spell Power | 9: Intellect staffs | 7: Intellect wands, Intellect hybrids | 9: Orbs |
-| Holy Spell Power | 9: Intellect staffs | 7: Intellect wands, Intellect hybrids | 9: Relics |
+| Mana Regen | 9: Staffs | 6: <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>, <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--str" title="Strength">STR</span>, <span class="pdx-a pdx-a--int" title="Intellect">INT</span> swords and daggers | 9: Orbs, <span class="pdx-a pdx-a--int" title="Intellect">INT</span> chests |
+| Health Regen | 9: <span class="pdx-a pdx-a--str" title="Strength">STR</span> two-handers | 6: <span class="pdx-a pdx-a--str" title="Strength">STR</span>, <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>, <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--str" title="Strength">STR</span> | 9: <span class="pdx-a pdx-a--str" title="Strength">STR</span> shields and chests |
+| Fire Spell Power | 9: <span class="pdx-a pdx-a--int" title="Intellect">INT</span> staffs | 7: <span class="pdx-a pdx-a--int" title="Intellect">INT</span>, <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>, <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--str" title="Strength">STR</span> | 9: Orbs |
+| Frost and Arcane Spell Power | 9: <span class="pdx-a pdx-a--int" title="Intellect">INT</span> staffs | 7: <span class="pdx-a pdx-a--int" title="Intellect">INT</span> wands, <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>, <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--str" title="Strength">STR</span> | 9: Orbs |
+| Holy Spell Power | 9: <span class="pdx-a pdx-a--int" title="Intellect">INT</span> staffs | 7: <span class="pdx-a pdx-a--int" title="Intellect">INT</span> wands, <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>, <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--str" title="Strength">STR</span> | 9: Relics |
 | Performance | None | None | 9: Instruments |
-| Poison Potency | 9: Dexterity bows | 9: Dexterity daggers | 2: Quivers, Dexterity gloves |
-| Poison Duration | 9: Dexterity bows | 9: Dexterity daggers | 2: Quivers, Dexterity boots |
-| Evasion | None | None | 9: Dexterity chests, pants and boots |
-| Barrier | None | 7: Wands | 9: Intellect shields, chests and pants |
-| Barrier Regen | None | None | 9: Intellect shields, chests and pants |
-| Armor and Magic Resistance | None | None | 9: Shields, Strength chests and pants |
-| Damage Taken Reduced | None | None | 9: Strength shields, chests and pants |
-| Weapon Damage | None | None | 9: Strength or Dexterity gloves |
-| Max Mana as Weapon Damage, Max Health as Spell Damage | None | None | 9: Intellect helmets |
-| All Cooldowns % Faster | 8: Dexterity staffs, spears and clubs | 8: Dexterity | 8: Dexterity gloves |
+| Poison Potency | 9: <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> bows | 9: <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> daggers | 2: Quivers, <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> gloves |
+| Poison Duration | 9: <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> bows | 9: <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> daggers | 2: Quivers, <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> boots |
+| Evasion | None | None | 9: <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> chests, pants and boots |
+| Barrier | None | 7: Wands | 9: <span class="pdx-a pdx-a--int" title="Intellect">INT</span> shields, chests and pants |
+| Barrier Regen | None | None | 9: <span class="pdx-a pdx-a--int" title="Intellect">INT</span> shields, chests and pants |
+| Armor and Magic Resistance | None | None | 9: Shields, <span class="pdx-a pdx-a--str" title="Strength">STR</span> chests and pants |
+| Damage Taken Reduced | None | None | 9: <span class="pdx-a pdx-a--str" title="Strength">STR</span> shields, chests and pants |
+| Weapon Damage | None | None | 9: <span class="pdx-a pdx-a--str" title="Strength">STR</span>, <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> or <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> gloves |
+| Max Mana as Weapon Damage, Max Health as Spell Damage | None | None | 9: <span class="pdx-a pdx-a--int" title="Intellect">INT</span>, <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> or <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--str" title="Strength">STR</span> helmets |
+| All Cooldowns % Faster | 8: <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> staffs, spears and clubs | 8: <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> | 8: <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> gloves |
 | Double and Triple Strike | 8: Bows | None | None |
 | Max Health or Mana as Barrier | 8: Staffs | None | None |
-| Status immunities | None | None | 5: Strength shields |
+| Status immunities | None | None | 5: <span class="pdx-a pdx-a--str" title="Strength">STR</span> shields |
 
 </div>
 
-Each column shows the best tier that type of piece can roll, and which pieces reach it. **Gear** covers armor, off-hands and jewelry. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> Staffs seem to be the only two-handers that come in pure Intellect, apart from the occasional Epic Great Sword.
+Each column shows the best tier that type of piece can roll, and which pieces reach it. **Gear** covers armor, off-hands and jewelry. <span class="pdx-a pdx-a--str" title="Strength">STR</span>, <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> and <span class="pdx-a pdx-a--int" title="Intellect">INT</span> are the item's stat type, and a pair like <span class="pdx-a pdx-a--int" title="Intellect">INT</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> means a hybrid. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> Staffs seem to be the only two-handers that come in pure Intellect, apart from the occasional Epic Great Sword.
 
 The one-handed column is for dual wielders. Two one-handers can beat a single two-hander: a pair of Intellect wands with tier 7 and tier 6 Frost Spell Power will outdo one tier 9 staff.
 

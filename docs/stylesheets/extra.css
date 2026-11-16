@@ -235,9 +235,11 @@
 .md-typeset .pdx-chips { display: flex; flex-wrap: wrap; gap: 0.3rem; }
 .md-typeset .pdx-chip { border: 0.05rem solid #2c313a; border-radius: 0.4rem; padding: 0.15rem 0.45rem; font-size: 0.68rem; background: #1a1f26; }
 .md-typeset .pdx-chip--none { opacity: 0.6; }
-.md-typeset .t-dmg { color: #ef6b63; } .md-typeset .t-dps { color: #f0883e; } .md-typeset .t-spd { color: #b57ee6; }
-.md-typeset .c-str { color: #f0883e; } .md-typeset .c-dex { color: #5cbf60; } .md-typeset .c-int { color: #b57ee6; }
-.md-typeset .c-sp { color: #f2c230; } .md-typeset .c-hp { color: #ef6b63; } .md-typeset .c-mana { color: #6aa8f0; }
+/* Weapon tiles read like the device's readout: plain white, so colour only ever means a stat */
+.md-typeset .t-dmg, .md-typeset .t-dps, .md-typeset .t-spd { color: #f2f3f5; }
+/* Attribute colours match the game: STR red, DEX green, INT blue */
+.md-typeset .c-str { color: #ef5350; } .md-typeset .c-dex { color: #5cbf60; } .md-typeset .c-int { color: #4fa3f7; }
+.md-typeset .c-sp { color: #f2c230; } .md-typeset .c-hp { color: #f48fb1; } .md-typeset .c-mana { color: #b57ee6; }
 .md-typeset .c-bar { color: #7ee0d8; } .md-typeset .c-oth { color: #e6e6e6; }
 .md-typeset .pdx-tile b { white-space: nowrap; }
 @media screen and (max-width: 44.984375em) {
@@ -404,9 +406,9 @@
 .md-typeset .pdx-type--juggernaut { --pdx-type: #ef6b63; }
 .md-typeset .pdx-type--marksman   { --pdx-type: #7ee0d8; }
 /* Attribute colours, matching the stat chips on item cards */
-.md-typeset .pdx-type--str { --pdx-type: #f0883e; }
+.md-typeset .pdx-type--str { --pdx-type: #ef5350; }
 .md-typeset .pdx-type--dex { --pdx-type: #5cbf60; }
-.md-typeset .pdx-type--int { --pdx-type: #b57ee6; }
+.md-typeset .pdx-type--int { --pdx-type: #4fa3f7; }
 
 /* ---------- Admonitions and collapsibles: one palette, one shape ---------- */
 .md-typeset .admonition[class],
@@ -654,3 +656,9 @@
   .md-typeset .pdx-compact.pdx-dense table:not([class]) th,
   .md-typeset .pdx-compact.pdx-dense table:not([class]) td { padding: .45em .3em; }
 }
+
+/* ---------- Attribute abbreviations: STR / DEX / INT in the game's colours ---------- */
+.md-typeset .pdx-a { font-weight: 700; letter-spacing: 0.02em; white-space: nowrap; cursor: help; }
+.md-typeset .pdx-a--str { color: #ef5350; }
+.md-typeset .pdx-a--dex { color: #5cbf60; }
+.md-typeset .pdx-a--int { color: #4fa3f7; }

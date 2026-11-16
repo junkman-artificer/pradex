@@ -27,6 +27,8 @@ The site is a handheld dex: a red casing (header and footer), a dark screen (the
 | Gold `#f2c230` | `--pdx-amber` | Unique items, found state, tips. |
 | Ink `#12161b` | `--pdx-ink` | Boxes sitting on the screen. |
 
+Stat colours are used the same way everywhere (item card chips, attribute pills, the STR/DEX/INT abbreviations): **STR red, DEX green, INT blue** to match the game, then **Health pink, Mana purple, Barrier teal, Spell Power gold** so they never clash with the attributes. Don't introduce a second scheme.
+
 Type: **Chakra Petch** (`--pdx-readout`) for anything the device "prints" (headings, labels, numbers, pills). Body text stays in the theme font so guides stay easy to read.
 
 Voice: guide pages use Ezraek's casual voice. Reference pages stay short and dex-like.
