@@ -5,7 +5,7 @@
 Alchemy makes potions, weapon oils, and gems. Within each section, recipes are listed from the lowest skill level to the highest.
 
 !!! info "Higher-quality versions"
-    Most potions and oils can also come out as **+1** or **+2** versions. [How these work and how much stronger they are.]
+    Most potions and oils can also come out as **+1** or **+2** versions. They're stronger than the base version. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> How much stronger hasn't been tested yet.
 
 ## Gathering materials
 
