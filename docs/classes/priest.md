@@ -76,7 +76,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-In a party, the Priest keeps everyone standing. **Holy Nova** and **Prayer of Healing** top up the whole group at once, and **Divine Shield** soaks hits before they land on your front line. **Cleanse** and **Purge** handle status effects on both sides: Cleanse strips a debuff off an ally, and Purge strips a dangerous buff off an enemy. **Mercy** adds Health Regen for everyone without taking up an ability slot, so even a damage-focused Priest makes the party sturdier. See [Synergies](../parties/synergies.md) for which classes pair well together.
+In a party, the Priest keeps everyone standing. **Holy Nova** and **Prayer of Healing** top up the whole group at once, and **Divine Shield** soaks hits before they land on your front line. **Cleanse** and **Purge** handle status effects on both sides: Cleanse strips a debuff off an ally, and Purge strips a dangerous buff off an enemy. **Mercy** adds Health Regen for everyone without taking up an ability slot, so even a damage-focused Priest makes the party sturdier. See [Building a Team](../parties/building-a-team.md) for how classes cover each other, plus a few combos worth knowing.
 
 ## Best subclasses
 

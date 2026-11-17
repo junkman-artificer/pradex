@@ -92,7 +92,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-Warriors anchor the front line. **Provoke** pulls enemies off your squishier allies, **Intimidating Shout** cuts the damage the whole enemy side deals, and **War Cry** boosts the weapon damage of everyone in the party. Ability slots are limited, so you'll usually bring one of these alongside your damage abilities, picked to cover what the rest of the party is missing. See [Synergies](../parties/synergies.md) for which classes pair well together.
+Warriors anchor the front line. **Provoke** pulls enemies off your squishier allies, **Intimidating Shout** cuts the damage the whole enemy side deals, and **War Cry** boosts the weapon damage of everyone in the party. Ability slots are limited, so you'll usually bring one of these alongside your damage abilities, picked to cover what the rest of the party is missing. See [Building a Team](../parties/building-a-team.md) for how classes cover each other, plus a few combos worth knowing.
 
 ## Best subclasses
 

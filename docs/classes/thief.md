@@ -84,7 +84,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-In a party, the Thief's job is damage, plain and simple. Most Thieves fill every ability slot with their own damage and let **Focus Target** lock onto one enemy at a time, taking the biggest threats out of the fight fast. If your party ever needs a little control, **Marked for Death**, **Flash Bomb** and **Kidney Punch** are there, but they're the exception rather than the rule. See [Synergies](../parties/synergies.md) for which classes pair well together.
+In a party, the Thief's job is damage, plain and simple. Most Thieves fill every ability slot with their own damage and let **Focus Target** lock onto one enemy at a time, taking the biggest threats out of the fight fast. If your party ever needs a little control, **Marked for Death**, **Flash Bomb** and **Kidney Punch** are there, but they're the exception rather than the rule. See [Building a Team](../parties/building-a-team.md) for how classes cover each other, plus a few combos worth knowing.
 
 ## Best subclasses
 

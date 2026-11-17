@@ -74,7 +74,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-In a party, the Blood Knight brings a bit of everything: real damage from their Bleeds, the staying power to hold the front line, and some support on top. **Vampiric Aura** gives the whole party Weapon Lifesteal without taking up an ability slot. If you have room, **Communion** gives allies Health Regen whenever you land a weapon hit, and **Blood Pact** trades some of your health for Barrier on everyone else. See [Synergies](../parties/synergies.md) for which classes pair well together.
+In a party, the Blood Knight brings a bit of everything: real damage from their Bleeds, the staying power to hold the front line, and some support on top. **Vampiric Aura** gives the whole party Weapon Lifesteal without taking up an ability slot. If you have room, **Communion** gives allies Health Regen whenever you land a weapon hit, and **Blood Pact** trades some of your health for Barrier on everyone else. See [Building a Team](../parties/building-a-team.md) for how classes cover each other, plus a few combos worth knowing.
 
 ## Best subclasses
 

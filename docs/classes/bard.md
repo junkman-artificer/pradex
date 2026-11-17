@@ -74,7 +74,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-A Bard is at their best in a party, since nearly everything they do is for someone else. Their songs can speed up the whole party's weapons or abilities, cut the damage your allies take, heal them over time, sharpen their Hit, Crit and Evasion, or Slow and weaken the entire enemy side. **Harmony** adds Mana Regen for everyone on top of that. Every song is strong in the right party, so read through them and pick the ones that fit your group. See [Synergies](../parties/synergies.md) for which classes pair well together.
+A Bard is at their best in a party, since nearly everything they do is for someone else. Their songs can speed up the whole party's weapons or abilities, cut the damage your allies take, heal them over time, sharpen their Hit, Crit and Evasion, or Slow and weaken the entire enemy side. **Harmony** adds Mana Regen for everyone on top of that. Every song is strong in the right party, so read through them and pick the ones that fit your group. See [Building a Team](../parties/building-a-team.md) for how classes cover each other, plus a few combos worth knowing.
 
 ## Best subclasses
 

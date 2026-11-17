@@ -86,7 +86,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-In a party, the Ranger deals steady damage from the back line, where it's easier to keep your Focus. Your arrows can reach enemies the front line can't, finish off whoever's closest to dying, or freeze and put dangerous targets to sleep before they act. Pick the shots that cover what your party is missing. See [Synergies](../parties/synergies.md) for which classes pair well together.
+In a party, the Ranger deals steady damage from the back line, where it's easier to keep your Focus. Your arrows can reach enemies the front line can't, finish off whoever's closest to dying, or freeze and put dangerous targets to sleep before they act. Pick the shots that cover what your party is missing. See [Building a Team](../parties/building-a-team.md) for how classes cover each other, plus a few combos worth knowing.
 
 ## Best subclasses
 

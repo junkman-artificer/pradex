@@ -78,7 +78,7 @@ Mailbox
 :   Where Trading Post items and gold are delivered. See [Economy](../economy/index.md#mailbox).
 
 Mana Loop
-:   The Priest and Magician synergy between Prayer of Healing and Arcane Infusion. See [Synergies](../parties/synergies.md#the-mana-loop).
+:   The Priest and Magician combo between Prayer of Healing and Arcane Infusion. See [Building a Team](../parties/building-a-team.md#the-mana-loop).
 
 Marks of Valor
 :   Arena currency used to buy special Unique items. Only earned in the Gladiator League. See [Arena](../arena/index.md#marks-of-valor).

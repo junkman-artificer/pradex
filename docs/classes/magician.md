@@ -76,7 +76,7 @@ Uniques you can find while leveling that are worth keeping an eye out for.
 
 ## In a party
 
-A Magician makes the whole party better. **Arcane Infusion** keeps everyone's mana flowing, so your allies can lean on their abilities far more than they could on their own. **Firebrand Weapon** and **Icebrand Weapon** turn a fast-hitting front line into a burning or freezing threat, and **Blizzard** can lock down the whole enemy side. With a fourth ability slot, you have more room than anyone to cover both damage and support. See [Synergies](../parties/synergies.md) for which classes pair well together.
+A Magician makes the whole party better. **Arcane Infusion** keeps everyone's mana flowing, so your allies can lean on their abilities far more than they could on their own. **Firebrand Weapon** and **Icebrand Weapon** turn a fast-hitting front line into a burning or freezing threat, and **Blizzard** can lock down the whole enemy side. With a fourth ability slot, you have more room than anyone to cover both damage and support. See [Building a Team](../parties/building-a-team.md) for how classes cover each other, plus a few combos worth knowing.
 
 ## Best subclasses
 

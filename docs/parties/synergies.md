@@ -33,8 +33,14 @@ Prayer of Healing instantly restores health and mana to all allies, and Arcane I
 
 </div>
 
-## [Synergy name]
+## Deep Freeze
 
-**[Class] + [Class]:** [Ability] + [Ability]
+**Magician + Thief or Warrior:** Icebrand Weapon + Dual Wield or Whirlwind
 
-[How they work together.]
+Icebrand Weapon makes every successful front line weapon hit freeze its target, and there are two ways to make the most of it. A dual-wielding Thief lands twice the hits, so its target spends most of the fight frozen. A Warrior's Whirlwind strikes every enemy with its weapon at once, freezing the whole enemy side. Freeze has diminishing returns when it's reapplied over and over, so it won't hold anyone forever, but it still takes a big chunk of the fight away from them.
+
+## Untouchable
+
+**Warrior + Bard:** Provoke, Counter and Rage + Dancer's Bagatelle
+
+Provoke forces enemies to attack the Warrior, and Dancer's Bagatelle raises everyone's evasion, so a lot of those attacks miss. Every dodge sets off Counter, a free attack with the main-hand weapon, and every hit that lands builds Rage, adding weapon damage each time. Add Mighty Strikes, and every attack also splashes damage onto adjacent targets, turning each counter into a small AoE.

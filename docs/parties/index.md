@@ -39,16 +39,8 @@ Tuck the lower-level player into the back line. That keeps them out of reach of 
 
     ---
 
-    How your party's classes can cover each other.
+    How your party's classes can cover each other, plus a few combos worth knowing.
 
     [:lucide-arrow-right: Build a team](building-a-team.md)
-
--   :lucide-blend:{ .lg .middle } __Synergies__
-
-    ---
-
-    Abilities from different classes that work especially well together.
-
-    [:lucide-arrow-right: View synergies](synergies.md)
 
 </div>
