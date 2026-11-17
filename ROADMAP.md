@@ -113,10 +113,10 @@ Nothing right now.
 
 Each of these is a set of like things, which is exactly what entry numbers and pills are for. Do one set at a time and show Ezraek a screenshot before doing the rest.
 
-- [ ] **Professions.** `# Smithing { data-no="01" data-kind="Profession" }` on the five crafting pages, with pills for the crystal each one uses (Fire, Wind and so on, from the Crafting page).
+- ~~**Professions.**~~ Dropped (Ezraek): dex headers on the crafting pages added nothing.
 - [x] **Status effects.** Done 2026-11-17: a colored type pill under each status (`pdx-type--dot`, `--debuff`, `--cc`, `--buff`), and the Type line came out of the data plates. Ezraek turned down extra tags for Stacks and Immunity since the plate already says it.
-- [ ] **Class tiles.** On `classes/index.md`, show each class's role pill inside its tile so the colours introduced on the class pages appear one click earlier.
-- [ ] **Region table.** Replace the wording in the "Gear drop rules" column on `waystones/regions/index.md` with attribute pills plus a short note.
+- ~~**Class tiles.**~~ Dropped 2026-11-17 (Ezraek): role pills on the tiles only repeated the text already there.
+- ~~**Region table.**~~ Dropped 2026-11-17 (Ezraek): attribute pills added nothing a five row table needs.
 
 ### 3. New dex features, biggest payoff first
 
