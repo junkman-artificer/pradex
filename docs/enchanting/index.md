@@ -40,24 +40,38 @@ Roll a whole new affix for a slot. You're offered **three random choices** from 
 
 </div>
 
-Filling an empty slot costs more, and the cost goes up with every affix the item already has.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Filling an empty slot costs the essence's tier (Magic 1, Spirit 2, Mystic 3, Astral 4), plus 1 for every affix the item already has.
 
 <div class="pdx-compact pdx-dense" markdown>
 
 | Affixes already on the item | :lucide-flame:{ .flame--blue } Magic | :lucide-flame:{ .flame--red } Spirit | :lucide-flame:{ .flame--green } Mystic | :lucide-flame:{ .flame--purple } Astral |
 |---|---|---|---|---|
-| 1 | [ ] | [ ] | [ ] | 5 |
-| 2 | [ ] | [ ] | [ ] | [ ] |
-| 3 | [ ] | [ ] | [ ] | 7 |
-| 4 | [ ] | [ ] | [ ] | [ ] |
+| 1 | 2 | 3 | 4 | 5 |
+| 2 | 3 | 4 | 5 | 6 |
+| 3 | 4 | 5 | 6 | 7 |
+| 4 | 5 | 6 | 7 | 8 |
+| 5 | 6 | 7 | 8 | 9 |
 
 </div>
 
-<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> These costs come from testing. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> Astral costs seem to go up by 1 for each affix already on the item.
+The table is worked out from that rule, which fits every cost tested so far in Magic, Spirit and Astral. Mystic hasn't been tested yet.
 
 ### Reroll a value
 
-Keep the affix, but reroll its number within its range. [Essence cost.]
+Keep the affix, but reroll its number within its range. The cost stays the same no matter how many times you reroll.
+
+<div class="pdx-compact" markdown>
+
+| Essence | Cost to reroll a value |
+|---|---|
+| :lucide-flame:{ .flame--blue } Magic Essence | 3 |
+| :lucide-flame:{ .flame--red } Spirit Essence | 4 |
+| :lucide-flame:{ .flame--green } Mystic Essence | [ ] |
+| :lucide-flame:{ .flame--purple } Astral Essence | 6 |
+
+</div>
+
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> These costs come from testing.
 
 !!! tip "You can't roll the same value twice"
     A reroll never lands on the value you already have. So if an affix has a 6 to 7 range and yours is a 6, a reroll is a guaranteed upgrade to 7.
