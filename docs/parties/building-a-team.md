@@ -26,7 +26,7 @@ Prayer of Healing instantly restores health and mana to all allies, and Arcane I
 
 Icebrand Weapon makes every successful front line weapon hit freeze its target, and there are two ways to make the most of it. A dual-wielding Thief lands twice the hits, so its target spends most of the fight frozen. A Warrior's Whirlwind strikes every enemy with its weapon at once, freezing the whole enemy side. Freeze has diminishing returns when it's reapplied over and over, so it won't hold anyone forever, but it still takes a big chunk of the fight away from them.
 
-### Untouchable
+### Dodge Tank
 
 **Warrior + Bard:** Provoke, Counter and Rage + Dancer's Bagatelle
 

@@ -133,7 +133,7 @@ A "Found?" toggle on every Unique item card plus a checklist page with a progres
 
 Placeholders left in the site, to fill by spitballing one section at a time:
 
-- Parties: Building a Team (Ezraek is reworking the layout), Synergies folded into Building a Team as "Combos worth knowing" (Mana Loop, Deep Freeze, Untouchable); review at the end whether it stays, formation tips on Combat.
+- Parties: Building a Team (Ezraek is reworking the layout), Synergies folded into Building a Team as "Combos worth knowing" (Mana Loop, Deep Freeze, Dodge Tank); review at the end whether it stays, formation tips on Combat.
 - In game checks: shop caps marked `[ ]` on the crafting pages (Alembics & Infusions, plus Moonmoss, Dreamshade and Frostfern at Stormwatch Provisions, whose stock rotates), Leatherworking attribute ranges (waiting on screenshots), enchanting essence costs, Arena draw rating, Blind stacking, Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to non spell abilities.
 
 ### 5. Known rough edges
