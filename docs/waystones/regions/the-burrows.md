@@ -23,7 +23,13 @@ The Burrows shares Eastern Gate's preference for **Strength-based** gear. It's n
 
 ## Things to watch out for
 
-[Mechanics, threats, or common mistakes.]
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Corpse Flyer</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 600 HP &middot; The Filthworks, The Pit of Hands</div><p class="pdx-mon__entry">Fattened on the pit&#x27;s leftovers. Its Dust Cloud cuts the whole party&#x27;s hit chance by 35% for 3 seconds.</p></div>
+
+<div class="pdx-mon pdx-mon--uncommon"><div class="pdx-mon__head"><span class="pdx-mon__name">Filth Golem</span><span class="pdx-mon__rarity">Uncommon</span></div><div class="pdx-mon__meta">Lv 25 &middot; 720 HP &middot; The Filthworks, The Pit of Hands</div><p class="pdx-mon__entry">Waste and debris given an angry life. It poisons the whole party and shields its allies with Living Armor.</p></div>
+
+<div class="pdx-mon pdx-mon--rare"><div class="pdx-mon__head"><span class="pdx-mon__name">Waste Wraith</span><span class="pdx-mon__rarity">Rare</span></div><div class="pdx-mon__meta">Lv 26 &middot; 600 HP &middot; The Filthworks, The Pit of Hands</div><p class="pdx-mon__entry">A spirit bound to the sewer water. Phase Shift makes it invulnerable for 4 seconds, and its touch adds Poison.</p></div>
+
+<div class="pdx-mon pdx-mon--unique"><div class="pdx-mon__head"><span class="pdx-mon__name">The Pit Worm</span><span class="pdx-mon__rarity">Unique</span></div><div class="pdx-mon__meta">Lv 27 &middot; 600 HP &middot; The Pit of Hands</div><p class="pdx-mon__entry">It drags victims down into the muck. Its shell takes 40 off every hit, so big hits get through where fast, small ones barely scratch. Its acid poisons the whole party.</p></div>
 
 ## Farm here if you're looking for
 

@@ -21,7 +21,11 @@ Briarstone Quarry shares Gloomhaven's preference for **Dexterity-based** gear. I
 
 ## Things to watch out for
 
-[Mechanics, threats, or common mistakes.]
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Bog Lurker</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 600 HP &middot; Nightsong Bloom</div><p class="pdx-mon__entry">It waits buried in swamp muck. Its webs stun a target for 3 seconds, and its fangs leave Poison behind.</p></div>
+
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Glowfang Widow</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 560 HP &middot; Gloomwood Depths, Nightsong Bloom</div><p class="pdx-mon__entry">Its webs stun a target for 3 seconds, and its fangs leave Poison behind.</p></div>
+
+<div class="pdx-mon pdx-mon--rare"><div class="pdx-mon__head"><span class="pdx-mon__name">Nightstalker</span><span class="pdx-mon__rarity">Rare</span></div><div class="pdx-mon__meta">Lv 26 &middot; 840 HP &middot; Gloomwood Depths, Nightsong Bloom</div><p class="pdx-mon__entry">Hunts by moonlight, drawn to fear. Its Crippling Fear cuts the whole party&#x27;s damage by 24 for 6 seconds.</p></div>
 
 ## Farm here if you're looking for
 

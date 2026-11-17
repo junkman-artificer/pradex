@@ -20,7 +20,17 @@ Eastern Gate leans toward **Strength-based** gear. It's not a guarantee, and som
 
 ## Things to watch out for
 
-[Mechanics, threats, or common mistakes.]
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Smuggler&#x27;s Ghost</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 600 HP &middot; Heist at Smuggler&#x27;s Wharf</div><p class="pdx-mon__entry">A merchant&#x27;s spirit still guarding the cargo he died for. Phase Shift makes it invulnerable for 4 seconds, and with enough Attack Speed Omens stacked it can become impossible to kill.</p></div>
+
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Phantom Musician</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 600 HP &middot; The Theater District</div><p class="pdx-mon__entry">Its melody stuns the whole party for 2 seconds, and its whispers drain 55 mana.</p></div>
+
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Carnival Clown</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 600 HP &middot; Mr. Ripley&#x27;s Midnight Carnival</div><p class="pdx-mon__entry">Its act stuns the whole party for 2 seconds, and its flasks burn a target and everyone beside them.</p></div>
+
+<div class="pdx-mon pdx-mon--uncommon"><div class="pdx-mon__head"><span class="pdx-mon__name">Fire Breather</span><span class="pdx-mon__rarity">Uncommon</span></div><div class="pdx-mon__meta">Lv 25 &middot; 720 HP &middot; Mr. Ripley&#x27;s Midnight Carnival</div><p class="pdx-mon__entry">A reckless fire artist. It burns the whole front line and fills the air with Poison for everyone.</p></div>
+
+<div class="pdx-mon pdx-mon--unique"><div class="pdx-mon__head"><span class="pdx-mon__name">Madame Maresque</span><span class="pdx-mon__rarity">Unique</span></div><div class="pdx-mon__meta">Lv 27 &middot; 840 HP &middot; The Theater District</div><p class="pdx-mon__entry">A prima donna who won&#x27;t let her final show end. Her performance stuns everyone else on the field, friend and foe, for 3 seconds, and her Wail hits the whole party.</p></div>
+
+<div class="pdx-mon pdx-mon--unique"><div class="pdx-mon__head"><span class="pdx-mon__name">Mr. Ripley, the Ringmaster</span><span class="pdx-mon__rarity">Unique</span></div><div class="pdx-mon__meta">Lv 27 &middot; 840 HP &middot; Mr. Ripley&#x27;s Midnight Carnival</div><p class="pdx-mon__entry">Master of the midnight carnival. The first of his performers to fall gets back up at half health. Below 40% health he turns invulnerable for 4 seconds and burns everyone around him, and his Phantom Bolt ignores armor and evasion.</p></div>
 
 ## Farm here if you're looking for
 

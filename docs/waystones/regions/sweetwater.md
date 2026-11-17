@@ -21,7 +21,17 @@ Sweetwater leans toward **Intellect-based** gear. It's not a guarantee, and some
 
 ## Things to watch out for
 
-[Mechanics, threats, or common mistakes.]
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Stonehide Basilisk</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 600 HP &middot; Meadowland Wilds, Canals of Sweetwater</div><p class="pdx-mon__entry">Its gaze turns prey to stone. Whoever it locks eyes with is stunned for 4 seconds.</p></div>
+
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Cellar Broodmother</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 600 HP &middot; Canals of Sweetwater, Festival of Petals</div><p class="pdx-mon__entry">It webs one target in place for 3 seconds, then fills the air with Poison that reaches the whole party.</p></div>
+
+<div class="pdx-mon pdx-mon--uncommon"><div class="pdx-mon__head"><span class="pdx-mon__name">Honeyglow Soldier</span><span class="pdx-mon__rarity">Uncommon</span></div><div class="pdx-mon__meta">Lv 25 &middot; 720 HP &middot; Meadowland Wilds, Festival of Petals</div><p class="pdx-mon__entry">Bred to guard the hive. While it stands, every ally beside it takes 10% less damage.</p></div>
+
+<div class="pdx-mon pdx-mon--rare"><div class="pdx-mon__head"><span class="pdx-mon__name">Honeyglow Matron</span><span class="pdx-mon__rarity">Rare</span></div><div class="pdx-mon__meta">Lv 26 &middot; 840 HP &middot; Meadowland Wilds, Festival of Petals</div><p class="pdx-mon__entry">Queen of the Meadowshire hives. Her Royal Honey gives every ally 70 Health and Mana Regen per second for 3 seconds, and on her command the whole swarm turns on one target. Fights with her run long.</p></div>
+
+<div class="pdx-mon pdx-mon--unique"><div class="pdx-mon__head"><span class="pdx-mon__name">Wickerbeast</span><span class="pdx-mon__rarity">Unique</span></div><div class="pdx-mon__meta">Lv 27 &middot; 1100 HP &middot; Meadowland Wilds, Canals of Sweetwater</div><p class="pdx-mon__entry">A forest sentinel twisted by dark magic. Every thorn it fires carries Poison, and Seed of Ruin adds 16 more at once. Parties without a Cleanse wither fast.</p></div>
+
+<div class="pdx-mon pdx-mon--unique"><div class="pdx-mon__head"><span class="pdx-mon__name">Bloomcaller</span><span class="pdx-mon__rarity">Unique</span></div><div class="pdx-mon__meta">Lv 27 &middot; 1100 HP &middot; Festival of Petals</div><p class="pdx-mon__entry">An ancient archdruid of the oldest groves. She heals every ally for 10% of their max health and wraps them in 40% Magic Resistance, so spells lose much of their bite.</p></div>
 
 ## Farm here if you're looking for
 

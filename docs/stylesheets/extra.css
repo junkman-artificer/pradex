@@ -665,3 +665,14 @@
 
 /* Unique item name in running text: same gold as the item cards */
 .md-typeset .pdx-u { color: #f2c230; font-weight: 700; }
+
+/* Monster dex entries (region pages, Things to watch out for) */
+.md-typeset .pdx-mon { margin: 0.6rem 0 0.9rem; padding: 0.65rem 0.8rem; border: 0.05rem solid #2c313a; border-left: 0.2rem solid var(--pdx-mon-c, #e6e6e6); border-radius: 0.7rem; background: #12161b; }
+.md-typeset .pdx-mon--uncommon { --pdx-mon-c: #5cbf60; }
+.md-typeset .pdx-mon--rare { --pdx-mon-c: #4a90e2; }
+.md-typeset .pdx-mon--unique { --pdx-mon-c: #f2c230; }
+.md-typeset .pdx-mon__head { display: flex; justify-content: space-between; align-items: baseline; gap: 0.5rem; }
+.md-typeset .pdx-mon__name { font-family: var(--pdx-readout); font-weight: 700; font-size: 0.85rem; color: var(--pdx-mon-c, #e6e6e6); }
+.md-typeset .pdx-mon__rarity { font-family: var(--pdx-readout); font-size: 0.62rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--pdx-mon-c, #e6e6e6); opacity: 0.85; }
+.md-typeset .pdx-mon__meta { font-family: var(--pdx-readout); font-size: 0.66rem; color: #a9b1bc; margin: 0.15rem 0 0.45rem; }
+.md-typeset .pdx-mon__entry { margin: 0; font-size: 0.78rem; line-height: 1.5; }

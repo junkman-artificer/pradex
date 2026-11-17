@@ -21,7 +21,15 @@ Gloomhaven leans toward **Dexterity-based** gear. It's not a guarantee, and some
 
 ## Things to watch out for
 
-[Mechanics, threats, or common mistakes.]
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Venomvine Ravager</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 600 HP &middot; Gloomwood Depths, Nightsong Bloom</div><p class="pdx-mon__entry">Thorned vines that root a target in place for 2 seconds and spread Poison across the whole party.</p></div>
+
+<div class="pdx-mon pdx-mon--common"><div class="pdx-mon__head"><span class="pdx-mon__name">Glowfang Widow</span><span class="pdx-mon__rarity">Common</span></div><div class="pdx-mon__meta">Lv 25 &middot; 560 HP &middot; Gloomwood Depths, Nightsong Bloom</div><p class="pdx-mon__entry">Its webs stun a target for 3 seconds, and its fangs leave Poison behind.</p></div>
+
+<div class="pdx-mon pdx-mon--rare"><div class="pdx-mon__head"><span class="pdx-mon__name">Nightstalker</span><span class="pdx-mon__rarity">Rare</span></div><div class="pdx-mon__meta">Lv 26 &middot; 840 HP &middot; Gloomwood Depths, Nightsong Bloom</div><p class="pdx-mon__entry">Hunts by moonlight, drawn to fear. Its Crippling Fear cuts the whole party&#x27;s damage by 24 for 6 seconds.</p></div>
+
+<div class="pdx-mon pdx-mon--rare"><div class="pdx-mon__head"><span class="pdx-mon__name">One-Eyed Zabbo</span><span class="pdx-mon__rarity">Rare</span></div><div class="pdx-mon__meta">Lv 26 &middot; 840 HP &middot; Goblin Shipyard</div><p class="pdx-mon__entry">A loudmouthed goblin captain. Below half health he does 40% more damage, so the end of the fight hits hardest.</p></div>
+
+<div class="pdx-mon pdx-mon--unique"><div class="pdx-mon__head"><span class="pdx-mon__name">Oren the Reclusive Giant</span><span class="pdx-mon__rarity">Unique</span></div><div class="pdx-mon__meta">Lv 27 &middot; 1100 HP &middot; Gloomwood Depths</div><p class="pdx-mon__entry">A reclusive druid of the Gloomwood. He gives every ally 34 damage reduction, so big hits get through where fast, small ones barely scratch.</p></div>
 
 ## Farm here if you're looking for
 
