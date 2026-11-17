@@ -59,8 +59,3 @@ Briarstone Quarry shares Gloomhaven's preference for **Dexterity-based** gear. I
 #### Unique Monsters
 
 None in this deck.
-
-## Field notes
-
-- [Tip]
-- [Tip]

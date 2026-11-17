@@ -79,8 +79,3 @@ Gloomhaven leans toward **Dexterity-based** gear. It's not a guarantee, and some
 [:lucide-external-link: Official deck page](https://www.pradotraveler.com/decks/134){ target="_blank" }
 
 This deck has no Unique encounters.
-
-## Field notes
-
-- [Tip]
-- [Tip]

@@ -134,7 +134,6 @@ A "Found?" toggle on every Unique item card plus a checklist page with a progres
 Placeholders left in the site, to fill by spitballing one section at a time:
 
 - Parties: Building a Team (Ezraek is reworking the layout), Synergies (one filled, one empty template), formation tips on Combat.
-- Region pages: Overview, Things to watch out for, Tips on all five.
 - In game checks: shop caps marked `[ ]` on the crafting pages (Alembics & Infusions, plus Moonmoss, Dreamshade and Frostfern at Stormwatch Provisions, whose stock rotates), Leatherworking attribute ranges (waiting on screenshots), enchanting essence costs, Arena draw rating, Blind stacking, Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to non spell abilities.
 
 ### 5. Known rough edges
