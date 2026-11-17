@@ -66,12 +66,12 @@ Keep the affix, but reroll its number within its range. The cost stays the same 
 |---|---|
 | :lucide-flame:{ .flame--blue } Magic Essence | 3 |
 | :lucide-flame:{ .flame--red } Spirit Essence | 4 |
-| :lucide-flame:{ .flame--green } Mystic Essence | [ ] |
+| :lucide-flame:{ .flame--green } Mystic Essence | 5 |
 | :lucide-flame:{ .flame--purple } Astral Essence | 6 |
 
 </div>
 
-<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> These costs come from testing.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> A reroll costs the same as replacing an affix.
 
 !!! tip "You can't roll the same value twice"
     A reroll never lands on the value you already have. So if an affix has a 6 to 7 range and yours is a 6, a reroll is a guaranteed upgrade to 7.
