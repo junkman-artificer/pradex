@@ -12,7 +12,7 @@ These are standing rules from Ezraek. Follow them before anything else.
 4. **Keep things similar.** Reuse the existing formats and wording before inventing new ones.
 5. **Hand written sections belong to Ezraek.** Proofread, fact check and suggest. Draft only when asked ("spitball").
 6. **Never present a farming spot as the best one without checking with Ezraek.** There is no public loot table.
-7. **Ezraek commits manually.** Give the PowerShell commands, never run git.
+7. **Ezraek commits manually.** Give the PowerShell commands, never run git. Put them on one pasteable line: `git add -A; git commit -m "..."; git push`.
 8. **Always re-read a file from disk right before editing it,** keep its line endings (most Markdown here is CRLF, the CSS and JS are LF), and verify the write afterward.
 9. **Check every visual change at 360, 390 and 1280 px wide.** No sideways page scrolling on phones.
 
@@ -82,6 +82,24 @@ All of this lives in `docs/stylesheets/extra.css`. The section headed "Pokedex l
 - Home page boot screen with counts for classes, regions and professions. These are typed by hand in `docs/index.md`, so update them if a class or region is added.
 Nothing in the written guides was changed.
 
+## What was done on 2026-11-17
+
+- **Spellbooks section** (`docs/spellbooks/`), right after Classes in the menu. A landing page with the drop rule, a "Going deeper" tip and a link to the learning steps in First Steps, plus one page per class with every ability on its own row. Traits are left out (they have no spellbook). Each class page ends its Starter notes with a "Need a spellbook?" link.
+- **Ability names link to the official ability page** (`pradotraveler.com/abilities/<id>`, opens in a new tab), so descriptions and drop lists stay current without upkeep.
+- **Deck data saved** to `data/decks.json` (outside `docs/`, not published): all 84 decks with region, type, level, card counts, common monsters and the 13 deck chains.
+- **Maximizing Waystones** written with Ezraek: keep decks small, rune sorting rules, saving VITA as a group, Shrines then Treasures, and two Observed field notes.
+- **Crafting data filled:** Smithing and Tailoring attribute ranges, Alchemy and Cooking required levels, and Stormwatch Provisions shop stock (Thundercap, Elderwort, Frost Hide, Frostfern).
+
+## How the spellbook tables are built
+
+Rerun this if the game adds abilities, decks or shop stock.
+
+1. **Drops follow level, not monster.** A spellbook drops from any common monster within 1 level of the ability's required level (the "Spellbook Dropped By" list on each ability page confirms it).
+2. **Buy beats farm.** If any shop sells the book ("Manual of ..." on a vendor page), the row says "Buy at <cheapest shop>, <price>". Pricier shops go in the store icon hovertext: `:lucide-store:{ title="Also at <shop> for <price>" }`. Ezraek confirmed spellbooks are always in stock. Sunflower Market sells every class's first two books for 50 copper, each class has a guild shop in Eastern Gate, Westfield Supply Store, Gloomguard Armaments and Gale's Training Yard sell a few more.
+3. **Farm spot = highest share of Monster cards,** counting every deck in a chain you must clear first (chains are in `data/decks.json`). Only Adventure and Travel decks count. Current picks by ability level: 2 Pebble Beach, 3 to 4 Whispering Caves, 5 to 6 Old Mill Dungeon, 7 Thieves' Hideout, 8 to 9 Old City Catacombs then The Bone Gallery, 10 to 12 Sunken Crypts, 13 Gloomwood Den, 14 to 16 Goblin Warrens, 17 to 18 Briarstone Keep then The Guard Tower, 19 to 20 Shepherd's Steppes, 21 to 23 Icetooth Peaks, 24 Ravenspire Tower through The Arcanist's Study.
+4. **Level 25 books** come from waystones. If the ability page has a Tier box, the row says "Farm in T3+ waystones" (the Tier is a minimum). Untiered ones say "Farm in any waystone".
+5. **The tables stay about the spellbook only.** No leveling advice in the rows (Ezraek's call); the landing page tip covers Venture Deeper.
+
 ## Next steps, in order
 
 ### 1. Finish what is half built
@@ -113,10 +131,8 @@ A "Found?" toggle on every Unique item card plus a checklist page with a progres
 Placeholders left in the site, to fill by spitballing one section at a time:
 
 - Parties: Building a Team (Ezraek is reworking the layout), Synergies (one filled, one empty template), formation tips on Combat.
-- Enchanting Strategy: "Replace or reroll?", "What to prioritize", "More tricks".
-- Maximizing Waystones: all three sections.
 - Region pages: Overview, Things to watch out for, Tips on all five.
-- In game checks: shop caps marked `[ ]` on the crafting pages, Alchemy and Cooking required levels, crafting attribute ranges, Blind stacking, Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to non spell abilities.
+- In game checks: shop caps marked `[ ]` on the crafting pages (Alembics & Infusions, plus Moonmoss, Dreamshade and Frostfern at Stormwatch Provisions, whose stock rotates), Leatherworking attribute ranges (waiting on screenshots), enchanting essence costs, Arena draw rating, Blind stacking, Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to non spell abilities.
 
 ### 5. Known rough edges
 
@@ -124,7 +140,7 @@ None right now. Every page was checked at 360, 390 and 1280 px on 2026-11-16 wit
 
 ## Reading the official site
 
-pradotraveler.com is a Next.js app, so plain fetches return an empty shell. Open it in a real browser tab and read `document.body.innerText`. Useful paths: `/classes/WAR` (and MAG, THF, PRI, BRD, BLO, RNG), `/decks`, `/decks/<id>`, `/monsters`, `/vendors`. Loot tables are on each monster's page. Two leveling monsters (Silverhorn Stag, Old Briar Lord) list no loot.
+pradotraveler.com is a Next.js app, so plain fetches return an empty shell. Open it in a real browser tab and read `document.body.innerText`. Useful paths: `/classes/WAR` (and MAG, THF, PST, BRD, BLO, RNG), `/abilities/<id>` (Tier box and "Spellbook Dropped By"), `/decks`, `/decks/<id>` (card counts, monsters, "Connected Decks"), `/monsters`, `/locations/<id>` and `/vendors/<id>` (shop stock and prices). To move between pages without a fresh approval each time, use `window.next.router.push(path)` in the open tab. Calling the backend API directly is blocked, so read pages instead. Loot tables are on each monster's page. Two leveling monsters (Silverhorn Stag, Old Briar Lord) list no loot.
 
 ## Testing a change
 
