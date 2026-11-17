@@ -2,6 +2,8 @@
 
 Spellbooks drop from any monster within a level of the ability, so each farming spot is the deck with the most Monster cards at that level, counting any decks you have to clear to reach it. If a shop sells the spellbook, buy it instead. Shops always have them in stock, and it saves you the VITA.
 
+Not sure how to learn a spellbook once you have it? See [Get your first ability](../getting-started/first-steps.md#3-get-your-first-ability).
+
 !!! tip "Going deeper"
     The farming spots only look at your odds of getting the spellbook. If you're also after Unique gear or experience, it can be worth clicking **Venture Deeper** into the rest of a chain, even though your spellbook odds usually drop a little.
 
