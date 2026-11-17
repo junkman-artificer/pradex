@@ -45,6 +45,10 @@ nav = [
     { "Rarity" = "gearing-up/rarity.md" },
     { "Stats" = "gearing-up/stats.md" },
     { "Where to Get Gear" = "gearing-up/sources.md" },
+    { "Uniques" = [
+      { "Leveling" = "gearing-up/uniques/leveling.md" },
+      { "Endgame" = "gearing-up/uniques/endgame.md" },
+    ] },
   ] },
   { "Crafting" = [
     "crafting/index.md",

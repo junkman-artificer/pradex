@@ -9,7 +9,7 @@ The Arena is Prado's ranked player vs. player mode. Teams of three duke it out f
 
 - **Matches are instant.** There's no queue. When you enter a match, you're paired with a **ghost**: a snapshot of another team, saved right after that team's last match. Your own team is saved the same way and becomes a ghost for other players to fight.
 - **Fights are automatic,** using the same rules as everywhere else. See [Combat](../combat/index.md) for formations, targeting, and fatigue.
-- **Draws:** if both teams go down at once, your rating doesn't change.
+- **Draws:** fatigue keeps building until someone falls, so draws almost never happen. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> If both teams do go down at once, it counts as a loss.
 
 Arena teams still use the 2x2 [formation](../combat/index.md#formations) grid. With three players, one slot is left empty, either in the front line or the back line.
 
@@ -82,7 +82,7 @@ Marks of Valor are the Arena's currency, spent on special Unique items.
 | Win, +25 rating | 50 or 55 |
 | Win, +26 rating or more | 55 |
 | Loss | 20 |
-| Draw | [ ] |
+| Draw | 20 <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> |
 
 Bigger rating gains come from **upset wins**, beating a team you were expected to lose to, so those are the wins that pay 55. The cutoff sits right at +25. The game probably tracks rating more precisely than the whole number it shows, so a +25 on screen can land on either side.
 
