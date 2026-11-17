@@ -77,6 +77,17 @@ Imbuing raises an item's rarity by one tier. It's the only enchanting operation 
 
 It costs one shard matching the item's level, plus crafting materials for that type of gear. For example, imbuing a Linen Shirt takes 1 Strange Shard and 3 Linen Cloth. Shards come from disenchanting.
 
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Gear that has no crafting materials, like the jewelry and weapons from Gloomhaven, costs essence instead.
+
+<div class="pdx-compact pdx-dense" markdown>
+
+| Imbue | :lucide-flame:{ .flame--blue } Magic | :lucide-flame:{ .flame--red } Spirit | :lucide-flame:{ .flame--green } Mystic | :lucide-flame:{ .flame--purple } Astral |
+|---|---|---|---|---|
+| Socketed to Uncommon | [ ] | [ ] | [ ] | 4 |
+| Uncommon to Rare | [ ] | [ ] | [ ] | 6 |
+
+</div>
+
 <div class="pdx-compact" markdown>
 
 | Shard | Item level |
