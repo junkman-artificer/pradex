@@ -114,7 +114,7 @@ Nothing right now.
 Each of these is a set of like things, which is exactly what entry numbers and pills are for. Do one set at a time and show Ezraek a screenshot before doing the rest.
 
 - [ ] **Professions.** `# Smithing { data-no="01" data-kind="Profession" }` on the five crafting pages, with pills for the crystal each one uses (Fire, Wind and so on, from the Crafting page).
-- [ ] **Status effects.** Each status on `combat/status-effects.md` is already an entry with an "At a glance" plate. Add a pill row under each H2 for its type (Damage over time, Debuff, Control, Buff). H2s can't take the H1 number style, so use pills only.
+- [x] **Status effects.** Done 2026-11-17: a colored type pill under each status (`pdx-type--dot`, `--debuff`, `--cc`, `--buff`), and the Type line came out of the data plates. Ezraek turned down extra tags for Stacks and Immunity since the plate already says it.
 - [ ] **Class tiles.** On `classes/index.md`, show each class's role pill inside its tile so the colours introduced on the class pages appear one click earlier.
 - [ ] **Region table.** Replace the wording in the "Gear drop rules" column on `waystones/regions/index.md` with attribute pills plus a short note.
 
@@ -122,8 +122,8 @@ Each of these is a set of like things, which is exactly what entry numbers and p
 
 - [ ] **Monster Dex.** A page of Unique Monsters as entries: number, level, where it spawns, what it drops. Mostly covered now by the Uniques pages; only worth doing if it adds something (stats, abilities). Ask Ezraek before naming spawn decks as certain, and say "can spawn in" for chance spawns.
 - [ ] **Ability Dex.** The official class pages list every ability with level, cost and cooldown. The class pages currently only show the level 12 subclass tables. A full, filterable ability list per class (Active, Passive, Trait) would be the most used reference page on the site.
-- [ ] **A real "entry not found" page.** A custom 404 in the screen style: "No data. This entry hasn't been logged yet." plus a link home. Needs `custom_dir` enabled in `zensical.toml`, so test the build.
-- [ ] **What's Changed.** `reference/changelog.md` is empty. A dated list styled as a device log would show the guide is alive.
+- [x] **A real "entry not found" page.** Done 2026-11-17: `overrides/404.html` ("Unknown No. ??", link home), with `custom_dir` on in `zensical.toml`. Locally it only looks right when served under `/pradex/`.
+- [x] **What's Changed.** Filled in 2026-11-17, newest first, player-facing changes only. Add a dated entry when something notable ships.
 
 ### Parked: the Unique Dex tracker
 
@@ -133,7 +133,7 @@ A "Found?" toggle on every Unique item card plus a checklist page with a progres
 
 Placeholders left in the site, to fill by spitballing one section at a time:
 
-- Parties: Building a Team (Ezraek is reworking the layout), Synergies folded into Building a Team as "Combos worth knowing" (Mana Loop, Deep Freeze, Dodge Tank); review at the end whether it stays, formation tips on Combat.
+- Parties: Building a Team (Ezraek is reworking the layout), Synergies folded into Building a Team as "Combos worth knowing" (Mana Loop, Deep Freeze, Dodge Tank, Spell Storm); review at the end whether it stays, formation tips on Combat.
 - In game checks: shop caps marked `[ ]` on the crafting pages (Alembics & Infusions, plus Moonmoss, Dreamshade and Frostfern at Stormwatch Provisions, whose stock rotates), Leatherworking attribute ranges (waiting on screenshots), enchanting essence costs, Arena draw rating, Blind stacking, Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to non spell abilities.
 
 ### 5. Known rough edges

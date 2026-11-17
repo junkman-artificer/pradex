@@ -409,6 +409,11 @@
 .md-typeset .pdx-type--str { --pdx-type: #ef5350; }
 .md-typeset .pdx-type--dex { --pdx-type: #5cbf60; }
 .md-typeset .pdx-type--int { --pdx-type: #4fa3f7; }
+/* Status effect types */
+.md-typeset .pdx-type--dot    { --pdx-type: #f0883e; }
+.md-typeset .pdx-type--debuff { --pdx-type: #b57ee6; }
+.md-typeset .pdx-type--cc     { --pdx-type: #4fa3f7; }
+.md-typeset .pdx-type--buff   { --pdx-type: #5cbf60; }
 
 /* ---------- Admonitions and collapsibles: one palette, one shape ---------- */
 .md-typeset .admonition[class],

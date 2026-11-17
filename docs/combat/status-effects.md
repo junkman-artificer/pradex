@@ -4,7 +4,8 @@ What each status effect does, how to apply it, and how to protect yourself from 
 
 Each status lists:
 
-- **At a glance:** its type, how long it lasts, whether it stacks, and whether a Shield can make you immune.
+- **Type:** the colored pill under its name.
+- **At a glance:** how long it lasts, whether it stacks, and whether a Shield can make you immune.
 - **Apply it:** stats, consumables, and abilities that cause it.
 - **Empower it:** things that make the status hit harder or last longer.
 - **Works well with:** things that take advantage of a target that has it.
@@ -17,8 +18,9 @@ Abilities are listed by name. Higher ranks of the same ability are stronger or l
 
 ## Bleed
 
+<p class="pdx-types"><span class="pdx-type pdx-type--dot">Damage over time</span></p>
+
 !!! info "At a glance"
-    - **Type:** Damage over time
     - **Duration:** 4 to 7 seconds, depending on the source
     - **Stacks:** Yes
     - **Immunity:** Immune to Bleed (Shield Prefix)
@@ -48,8 +50,9 @@ How much each stack deals depends on the source:
 
 ## Blind
 
+<p class="pdx-types"><span class="pdx-type pdx-type--debuff">Debuff</span></p>
+
 !!! info "At a glance"
-    - **Type:** Debuff
     - **Duration:** 4 seconds from Flash Bomb
     - **Stacks:** [ ]
     - **Immunity:** Immune to Blind (Shield Prefix)
@@ -64,8 +67,9 @@ How much depends on the source: Flash Bomb adds 30% at rank I and 45% at rank II
 
 ## Burn
 
+<p class="pdx-types"><span class="pdx-type pdx-type--dot">Damage over time</span></p>
+
 !!! info "At a glance"
-    - **Type:** Damage over time
     - **Duration:** 3 seconds from abilities
     - **Stacks:** Yes
     - **Immunity:** Immune to Burn (Shield Prefix)
@@ -90,8 +94,9 @@ Higher ranks of Burn abilities apply higher ranks of Burn.
 
 ## Curse
 
+<p class="pdx-types"><span class="pdx-type pdx-type--debuff">Debuff</span></p>
+
 !!! info "At a glance"
-    - **Type:** Debuff
     - **Duration:** 5 seconds
     - **Stacks:** No. Reapplying it refreshes the duration.
     - **Immunity:** None
@@ -102,8 +107,9 @@ Lowers the target's magic resistance by **40%** for **5 seconds**.
 
 ## Deep Wound
 
+<p class="pdx-types"><span class="pdx-type pdx-type--debuff">Debuff</span></p>
+
 !!! info "At a glance"
-    - **Type:** Debuff
     - **Duration:** 5 seconds
     - **Stacks:** No. Reapplying it refreshes the duration.
     - **Immunity:** None
@@ -114,8 +120,9 @@ Reduces the target's healing from all sources by **40%** for **5 seconds**.
 
 ## Enfeeble
 
+<p class="pdx-types"><span class="pdx-type pdx-type--debuff">Debuff</span></p>
+
 !!! info "At a glance"
-    - **Type:** Debuff
     - **Duration:** 5 seconds
     - **Stacks:** No. Reapplying it refreshes the duration.
     - **Immunity:** None
@@ -126,8 +133,9 @@ Reduces the target's damage by **40%** for **5 seconds**.
 
 ## Freeze
 
+<p class="pdx-types"><span class="pdx-type pdx-type--cc">Crowd control</span></p>
+
 !!! info "At a glance"
-    - **Type:** Crowd control
     - **Duration:** 1 to 3 seconds, depending on the source
     - **Stacks:** No, and it has diminishing returns
     - **Immunity:** Immune to Freeze (Shield Prefix)
@@ -144,8 +152,9 @@ Stops **all** of the target's action timers, both weapon attacks and abilities, 
 
 ## Hamstring
 
+<p class="pdx-types"><span class="pdx-type pdx-type--debuff">Debuff</span></p>
+
 !!! info "At a glance"
-    - **Type:** Debuff
     - **Duration:** 5 seconds
     - **Stacks:** No. Reapplying it refreshes the duration.
     - **Immunity:** None
@@ -156,8 +165,9 @@ Lowers the target's evasion by **40%** for **5 seconds**.
 
 ## Poison
 
+<p class="pdx-types"><span class="pdx-type pdx-type--dot">Damage over time</span></p>
+
 !!! info "At a glance"
-    - **Type:** Damage over time
     - **Duration:** 7 seconds, longer with Poison Duration
     - **Stacks:** Yes
     - **Immunity:** Immune to Poison (Shield Prefix)
@@ -181,8 +191,9 @@ For example, a level 1 Poisoned Dagger applies 1 stack, so it deals 1 damage per
 
 ## Slow
 
+<p class="pdx-types"><span class="pdx-type pdx-type--cc">Crowd control</span></p>
+
 !!! info "At a glance"
-    - **Type:** Crowd control
     - **Duration:** 1 to 1.75 seconds, depending on the source
     - **Stacks:** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Its duration adds up, but it never slows more than half speed.
     - **Immunity:** None
@@ -201,8 +212,9 @@ Makes the target's weapon and ability timers count down at **half speed**, so ev
 
 ## Stun
 
+<p class="pdx-types"><span class="pdx-type pdx-type--cc">Crowd control</span></p>
+
 !!! info "At a glance"
-    - **Type:** Crowd control
     - **Duration:** 1 to 3 seconds, depending on the source
     - **Stacks:** No, and it has diminishing returns
     - **Immunity:** None
@@ -216,8 +228,9 @@ Stops **all** of the target's action timers, both weapon attacks and abilities, 
 
 ## Sunder Armor
 
+<p class="pdx-types"><span class="pdx-type pdx-type--debuff">Debuff</span></p>
+
 !!! info "At a glance"
-    - **Type:** Debuff
     - **Duration:** 5 seconds
     - **Stacks:** No. Reapplying it refreshes the duration.
     - **Immunity:** None
@@ -235,8 +248,9 @@ Not every status is bad. These are buffs that help you or your allies.
 
 ### Ability Haste
 
+<p class="pdx-types"><span class="pdx-type pdx-type--buff">Buff</span></p>
+
 !!! info "At a glance"
-    - **Type:** Buff
     - **Duration:** 1 second from Bard songs, longer with Performance
     - **Stacks:** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Its duration adds up, but it never speeds timers past double.
     - **Removed by:** Purge, Mass Exorcism
@@ -255,8 +269,9 @@ Makes ability timers count down at **double speed**, so abilities come back in h
 
 ### Weapon Haste
 
+<p class="pdx-types"><span class="pdx-type pdx-type--buff">Buff</span></p>
+
 !!! info "At a glance"
-    - **Type:** Buff
     - **Duration:** 1 to 5 seconds, depending on the source
     - **Stacks:** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Its duration adds up, but it never speeds timers past double, even from two different sources.
     - **Removed by:** Purge, Mass Exorcism
