@@ -48,6 +48,7 @@ nav = [
     { "Uniques" = [
       { "Leveling" = "gearing-up/uniques/leveling.md" },
       { "Endgame" = "gearing-up/uniques/endgame.md" },
+      { "Arena" = "gearing-up/uniques/arena.md" },
     ] },
   ] },
   { "Crafting" = [
