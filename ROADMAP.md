@@ -120,8 +120,8 @@ Each of these is a set of like things, which is exactly what entry numbers and p
 
 ### 3. New dex features, biggest payoff first
 
-- [ ] **Monster Dex.** A page of Unique Monsters as entries: number, level, where it spawns, what it drops. Mostly covered now by the Uniques pages; only worth doing if it adds something (stats, abilities). Ask Ezraek before naming spawn decks as certain, and say "can spawn in" for chance spawns.
-- [ ] **Ability Dex.** The official class pages list every ability with level, cost and cooldown. The class pages currently only show the level 12 subclass tables. A full, filterable ability list per class (Active, Passive, Trait) would be the most used reference page on the site.
+- ~~**Monster Dex.**~~ Covered better by the Uniques pages (Leveling, Endgame, Arena) and the monster cards on each region page.
+- ~~**Ability Dex.**~~ Covered better by the Spellbooks pages, which list every ability per class and link to the official ability page.
 - [x] **A real "entry not found" page.** Done 2026-11-17: `overrides/404.html` ("Unknown No. ??", link home), with `custom_dir` on in `zensical.toml`. Locally it only looks right when served under `/pradex/`.
 - [x] **What's Changed.** Filled in 2026-11-17, newest first, player-facing changes only. Add a dated entry when something notable ships.
 
@@ -134,7 +134,7 @@ A "Found?" toggle on every Unique item card plus a checklist page with a progres
 Placeholders left in the site, to fill by spitballing one section at a time:
 
 - Parties: Building a Team (Ezraek is reworking the layout), Synergies folded into Building a Team as "Combos worth knowing" (Mana Loop, Deep Freeze, Dodge Tank, Spell Storm); review at the end whether it stays, formation tips on Combat.
-- In game checks: shop caps marked `[ ]` on the crafting pages (Alembics & Infusions, plus Moonmoss, Dreamshade and Frostfern at Stormwatch Provisions, whose stock rotates), Leatherworking attribute ranges (waiting on screenshots), enchanting essence costs, Arena draw rating, Blind stacking, Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to non spell abilities.
+- In game checks: shop caps, ongoing. Tooltips without a known cap say "Sold at <shop>" (Alembics & Infusions, plus Moonmoss, Dreamshade and Frostfern at Stormwatch Provisions); every shop rotates its stock, so add caps as screenshots come in, Leatherworking attribute ranges (waiting on screenshots), Magic, Spirit and Mystic essence costs for imbuing Gloomhaven gear, Arena draw rating, Blind stacking, Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to non spell abilities.
 
 ### 5. Known rough edges
 
