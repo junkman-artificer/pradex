@@ -662,3 +662,6 @@
 .md-typeset .pdx-a--str { color: #ef5350; }
 .md-typeset .pdx-a--dex { color: #5cbf60; }
 .md-typeset .pdx-a--int { color: #4fa3f7; }
+
+/* Unique item name in running text: same gold as the item cards */
+.md-typeset .pdx-u { color: #f2c230; font-weight: 700; }

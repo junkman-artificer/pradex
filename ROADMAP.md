@@ -89,6 +89,9 @@ Nothing in the written guides was changed.
 - **Deck data saved** to `data/decks.json` (outside `docs/`, not published): all 84 decks with region, type, level, card counts, common monsters and the 13 deck chains.
 - **Maximizing Waystones** written with Ezraek: keep decks small, rune sorting rules, saving VITA as a group, Shrines then Treasures, and two Observed field notes.
 - **Crafting data filled:** Smithing and Tailoring attribute ranges, Alchemy and Cooking required levels, and Stormwatch Provisions shop stock (Thundercap, Elderwort, Frost Hide, Frostfern).
+- **Uniques section** under Gearing Up: Leveling (every leveling Unique Monster and the two treasure boxes, by region), Endgame (waystone Uniques from the region pages, plus Stormcaller Drake, Icehowl and Zephyra, whose gear stays strong in T5), and Arena (moved off the Arena page, which now links to it). The Leveling and late boss cards were built from the official monster and item pages. The class pages keep their hand picked "Uniques to watch for".
+- **Off-hand types:** cards name the real type (Orb, Relic, Shield, Instrument, Quiver) instead of "Off-hand". The official site only says "Offhand", so ask Ezraek when a new one turns up.
+- **Arena draws** treated as a loss (Unconfirmed).
 
 ## How the spellbook tables are built
 
@@ -104,7 +107,7 @@ Rerun this if the game adds abilities, decks or shop stock.
 
 ### 1. Finish what is half built
 
-- [ ] **Leveling Uniques page.** The class pages only show hand picked Uniques. `tools/data/leveling-uniques.txt` lists every leveling Unique Monster and its loot, but in shorthand (for example "MR" is ambiguous). Re-read each monster's loot from the official site (see "Reading the official site" below), build full cards with the generator pattern in `tools/data/unique-card-generator-example.py`, and put them on a new page, suggested `gearing-up/leveling-uniques.md`, grouped by region in level order. Honeyglow Bear, Whispering Phantom and Sylthara have no cards anywhere today.
+Nothing right now.
 
 ### 2. Extend the dex pattern to the pages that are already entries
 
@@ -117,7 +120,7 @@ Each of these is a set of like things, which is exactly what entry numbers and p
 
 ### 3. New dex features, biggest payoff first
 
-- [ ] **Monster Dex.** A page of Unique Monsters as entries: number, level, where it spawns, what it drops. The data is in `tools/data/leveling-uniques.txt` for leveling and on the region pages for waystones. Ask Ezraek before naming spawn decks as certain, and say "can spawn in" for chance spawns.
+- [ ] **Monster Dex.** A page of Unique Monsters as entries: number, level, where it spawns, what it drops. Mostly covered now by the Uniques pages; only worth doing if it adds something (stats, abilities). Ask Ezraek before naming spawn decks as certain, and say "can spawn in" for chance spawns.
 - [ ] **Ability Dex.** The official class pages list every ability with level, cost and cooldown. The class pages currently only show the level 12 subclass tables. A full, filterable ability list per class (Active, Passive, Trait) would be the most used reference page on the site.
 - [ ] **A real "entry not found" page.** A custom 404 in the screen style: "No data. This entry hasn't been logged yet." plus a link home. Needs `custom_dir` enabled in `zensical.toml`, so test the build.
 - [ ] **What's Changed.** `reference/changelog.md` is empty. A dated list styled as a device log would show the guide is alive.

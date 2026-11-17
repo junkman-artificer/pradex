@@ -12,15 +12,31 @@
 
 ## Overview
 
-[What this region is like and when players usually reach it.]
+The sewers and pits under the Old City. Both decks are built on City and Mud runes, and they share Eastern Gate's Strength gear. The Pit of Hands is where The Pit Worm lives, and The Filthworks has the Cracked Sewer Vault.
 
 ## Preferred gear drops
 
 The Burrows shares Eastern Gate's preference for **Strength-based** gear. It's not a guarantee, and some Dexterity and Intellect gear still drops here, but most of what you find will be Strength-based.
 
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> **Great Swords** and **Instruments** only drop here and in Eastern Gate.
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Hybrid armor here is usually <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>. Hybrid swords, daggers and instruments are <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>/<span class="pdx-a pdx-a--int" title="Intellect">INT</span>.
+
 ## Things to watch out for
 
 [Mechanics, threats, or common mistakes.]
+
+## Farm here if you're looking for
+
+**The Filthworks**
+
+- **Health and sustain on a ring.** <span class="pdx-u">Ring of Endless Hunger</span> has 120 Health, Health Regen, and Lifesteal and Manasteal on every kill.
+- **Tough armor for a poison build.** <span class="pdx-u">Sludgewalker Pants</span> and <span class="pdx-u">Burrower&#x27;s Greaves</span> have Armor, Evasion, Magic Resistance and Reduce All Damage, plus 20% Bonus vs Poisoned.
+
+**The Pit of Hands**
+
+- **Big crits on an axe.** <span class="pdx-u">Wormslayer&#x27;s Axe</span> has 14% Weapon Crit Rating, 12% Weapon Hit Rating and an 80% Crit Multiplier.
+- **Bulk up your health.** <span class="pdx-u">Helm of Subterranean Horror</span> has 95 Armor, 160 Health, and Lifesteal and Manasteal on every kill.
+- **A tanky chest for a poison build.** <span class="pdx-u">Carapace of the Depths</span> has 90 Armor, 24 Strength, Reduce All Damage and 20% Bonus vs Poisoned.
 
 ## Waystone decks
 

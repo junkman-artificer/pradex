@@ -9,17 +9,28 @@
 
 ## Overview
 
-[What this region is like and when players usually reach it.]
+The dark forest. Gloomhaven leans toward Dexterity gear, which it shares with Briarstone Quarry. Gloomwood Depths is the easy craft, with any two Mud or Night runes, and holds both a Unique Treasure and Oren the Reclusive Giant. Goblin Shipyard has no Uniques.
 
 ## Preferred gear drops
 
 Gloomhaven leans toward **Dexterity-based** gear. It's not a guarantee, and some Strength and Intellect gear still drops here, but most of what you find will be Dexterity-based.
 
-- **Wands** only drop in Gloomhaven.
+- **Wands** only drop in Gloomhaven and Briarstone Quarry.
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> **Clubs**, **Orbs**, **Relics** and **Quivers** only drop in those two regions too.
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Hybrid armor and quivers here are usually <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>/<span class="pdx-a pdx-a--int" title="Intellect">INT</span>. Hybrid swords are <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>, and hybrid maces are <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--int" title="Intellect">INT</span>.
 
 ## Things to watch out for
 
 [Mechanics, threats, or common mistakes.]
+
+## Farm here if you're looking for
+
+**Gloomwood Depths**
+
+- **Bulk up your defenses.** <span class="pdx-u">Oren&#x27;s Colossal Ward</span> has 100 Armor, 45% Block Rating, 12% Magic Resistance and 20% Reduce Status Duration.
+- **A club that cleaves and stuns.** <span class="pdx-u">Oren&#x27;s Earthshaker Club</span> has 44 Strength, 40% Cleave and 8% Stun on Hit.
+- **More damage for a Strength build.** <span class="pdx-u">Gloves of Ancient Strength</span> add 26 Strength plus Bonus Weapon and Physical Damage.
+- **Arcane and Holy power for a caster.** <span class="pdx-u">Nightsong Chalice</span>, <span class="pdx-u">Amulet of the Forest Moon</span> and <span class="pdx-u">Moonlit Wanderer&#x27;s Trousers</span> all bring Arcane or Holy Spell Power with Mana Regen. The amulet has no requirement.
 
 ## Waystone decks
 

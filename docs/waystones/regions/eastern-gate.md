@@ -9,15 +9,38 @@
 
 ## Overview
 
-[What this region is like and when players usually reach it.]
+The Old City at its worst. Eastern Gate has more waystone decks than any other region, four, and leans toward Strength gear, which it shares with The Burrows. Outer Wards is the easy one to craft, with any two City or Mask runes, but it has no Uniques. Each of the other three holds one.
 
 ## Preferred gear drops
 
 Eastern Gate leans toward **Strength-based** gear. It's not a guarantee, and some Dexterity and Intellect gear still drops here, but most of what you find will be Strength-based.
 
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> **Great Swords** and **Instruments** only drop here and in The Burrows.
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Hybrid armor here is usually <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>. Hybrid swords, daggers and instruments are <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>/<span class="pdx-a pdx-a--int" title="Intellect">INT</span>.
+
 ## Things to watch out for
 
 [Mechanics, threats, or common mistakes.]
+
+## Farm here if you're looking for
+
+**The Theater District**
+
+- **Better loot while you farm.** <span class="pdx-u">Starlet&#x27;s Lucky Ring</span> gives 24% Item Drop Rate, Item Drop Rarity and Gem Drop Rate, plus 16 Health and Mana Regen, with no attribute requirement.
+- **Speed for a Dexterity and Intellect build.** <span class="pdx-u">Maresque&#x27;s Dancing Shoes</span> add 10% Ability Speed and 9% Evasion.
+- **A Dexterity dagger with regen.** <span class="pdx-u">Curtainfall</span> pairs 18 Dexterity with Health and Mana Regen.
+
+**Heist at Smuggler's Wharf**
+
+- **A weapon for any build.** <span class="pdx-u">Guinsoo&#x27;s Hexblade</span> gives 24 to every attribute and has no requirement.
+- **Frost damage for a caster.** <span class="pdx-u">Philosopher&#x27;s Stone</span> brings 24 Frost Spell Power, plus Fire, Arcane and Holy, Barrier, and all three regens.
+- **Defense anyone can wear.** <span class="pdx-u">Cloak of Invisibility</span> has 14% Evasion, 12% Magic Resistance and 60 Barrier, with no requirement.
+
+**Mr. Ripley's Midnight Carnival**
+
+- **Fire damage from a staff.** <span class="pdx-u">Mr. Ripley&#x27;s Velvet Baton</span> has 28 Fire Spell Power and 18 Strength and Intellect.
+- **Speed for a Bard.** <span class="pdx-u">Scarlet Violin</span> gives 15% All Speed, 8 Performance and 12 Mana Regen.
+- **Crits and speed on a helmet.** <span class="pdx-u">Top Hat of Twisted Dreams</span> has 11% All Crit Rating, 12% Ability Speed and Bonus Magic Damage.
 
 ## Waystone decks
 

@@ -1,6 +1,6 @@
 # Briarstone Quarry { data-no="05" data-kind="Region" }
 
-<p class="pdx-types"><span class="pdx-type pdx-type--dex">Dexterity gear</span><span class="pdx-tag">1 waystone decks</span></p>
+<p class="pdx-types"><span class="pdx-type pdx-type--dex">Dexterity gear</span><span class="pdx-tag">1 waystone deck</span></p>
 
 !!! info "At a glance"
     - **Waystone decks:** 1
@@ -9,15 +9,25 @@
 
 ## Overview
 
-[What this region is like and when players usually reach it.]
+Just one waystone deck here, Nightsong Bloom, and it's a gathering deck, which makes it the place to farm Nightsong. It shares Gloomhaven's Dexterity gear and its Unique Treasure.
 
 ## Preferred gear drops
 
 Briarstone Quarry shares Gloomhaven's preference for **Dexterity-based** gear. It's not a guarantee, and some Strength and Intellect gear still drops here, but most of what you find will be Dexterity-based.
 
+- **Wands** only drop in Gloomhaven and Briarstone Quarry.
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> **Clubs**, **Orbs**, **Relics** and **Quivers** only drop in those two regions too.
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Hybrid armor and quivers here are usually <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>/<span class="pdx-a pdx-a--int" title="Intellect">INT</span>. Hybrid swords are <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>, and hybrid maces are <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--int" title="Intellect">INT</span>.
+
 ## Things to watch out for
 
 [Mechanics, threats, or common mistakes.]
+
+## Farm here if you're looking for
+
+**Nightsong Bloom**
+
+- **Arcane and Holy power for a caster.** <span class="pdx-u">Nightsong Chalice</span>, <span class="pdx-u">Amulet of the Forest Moon</span> and <span class="pdx-u">Moonlit Wanderer&#x27;s Trousers</span> all bring Arcane or Holy Spell Power with Mana Regen. The amulet has no requirement.
 
 ## Waystone decks
 

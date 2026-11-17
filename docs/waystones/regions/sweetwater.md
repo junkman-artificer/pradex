@@ -9,18 +9,34 @@
 
 ## Overview
 
-[What this region is like and when players usually reach it.]
+Sweetwater's waystones take you back to where it all started, now at level 25. It's the home of Intellect gear and the only place staves and bows drop, so casters and archers tend to spend a lot of time here. Meadowland Wilds is the easiest of its three decks to craft, since any two River, Flower or Song runes will do.
 
 ## Preferred gear drops
 
 Sweetwater leans toward **Intellect-based** gear. It's not a guarantee, and some Strength and Dexterity gear still drops here, but most of what you find will be Intellect-based.
 
-- **Staves** only drop in Sweetwater.
-- <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> **Bows** only drop here too.
+- **Staves** and **Bows** only drop in Sweetwater.
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> **Axes** only drop here too.
+- <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Hybrid gear here is usually <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--int" title="Intellect">INT</span>: armor, shields and axes. Hybrid swords can be <span class="pdx-a pdx-a--str" title="Strength">STR</span>/<span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> or <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span>/<span class="pdx-a pdx-a--int" title="Intellect">INT</span>.
 
 ## Things to watch out for
 
 [Mechanics, threats, or common mistakes.]
+
+## Farm here if you're looking for
+
+**Meadowland Wilds and Canals of Sweetwater**
+
+- **A caster weapon that keeps you topped up.** <span class="pdx-u">Wickerbeast&#x27;s Gnarled Staff</span> brings 24 Intellect, Frost, Fire and Arcane Spell Power, and Lifesteal and Manasteal on every spell hit. Holy casters who'd rather carry a sword get the same idea from the <span class="pdx-u">Sweetwater Blessed Sword</span>.
+- **Defense for a caster.** <span class="pdx-u">Cape of First Bloom</span> stacks Barrier, Evasion, Magic Resistance and 8% Reduce All Damage.
+- **Regen jewelry anyone can wear.** <span class="pdx-u">Ring of Sweetwater&#x27;s Blessing</span> and <span class="pdx-u">Amulet of Corrupted Growth</span> both give 10 Health Regen and 10 Mana Regen, with no attribute requirement.
+- **More damage for a Dexterity build.** <span class="pdx-u">Wickerbeast&#x27;s Grasp</span> adds Bonus Weapon, Physical and Magic Damage on top of 14 Dexterity.
+
+**Festival of Petals**
+
+- **A bow that hits more than once.** <span class="pdx-u">Petalstorm</span> has 11% Double Strike and 7% Triple Strike, plus Poison Spell Power.
+- **A Holy dagger that keeps your mana flowing.** <span class="pdx-u">Bloomcaller&#x27;s Ceremonial Dagger</span> pairs Holy Spell Power with Mana Regen and Lifesteal on Spell Hit.
+- **A sturdy caster chest.** <span class="pdx-u">Robes of Eternal Spring</span> has Barrier, all three regens, and Health and Mana on every cast.
 
 ## Waystone decks
 
