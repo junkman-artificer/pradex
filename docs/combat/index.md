@@ -9,7 +9,7 @@ Every character attacks on a timer set by their weapon **Speed**, the time betwe
 A fight ends when one side is defeated. If **both** sides go down at the same time, it's a **draw**:
 
 - **Adventure decks:** a draw counts as a defeat, and your party returns to town.
-- **[Arena](../arena/index.md):** your rating doesn't change.
+- **[Arena](../arena/index.md):** a draw counts as a loss. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span>
 
 ### Fatigue
 
@@ -37,7 +37,13 @@ Your party fights in a **2x2 grid**: two front line slots and two back line slot
 
 ### Who goes where
 
-[Tips for building a formation: who to put up front, who to tuck in back, and how party makeup changes it.]
+- **Put your melee fighters up front.** Warriors, Blood Knights and dual-wielding Thieves do their damage up close, and the back line cuts melee damage by 35%. Blood Knights are melee only, so they belong up front every time.
+- **Put your ranged attackers and casters in back.** Rangers, Magicians and Priests lose nothing back there, and it keeps the fragile ones out of reach of enemy melee.
+- **Two and two is the natural fit.** With two melee and two ranged, everyone lands where they're strongest.
+- **Too many melee? Grab a bow.** If three of you fight up close, whoever ends up in back takes the 35% hit. Warriors, Thieves and Bards can switch to a bow and lose nothing.
+- **Think about who steps up.** When a front liner falls, the ally behind them takes their place, so put your sturdier back liner behind the front liner most likely to drop first.
+- **Some abilities only help the front line.** Divine Shield and Holy Weapon from a Priest, and Firebrand and Icebrand Weapon from a Magician, only reach the front line, so they're at their best when the front is where your damage comes from.
+- **Shuffle between fights.** You can change your formation between battles, so if someone needs a breather and you have no other way to recover them, swap them to the back for a fight or two.
 
 ## Weapon range
 
