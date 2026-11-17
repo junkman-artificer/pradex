@@ -83,8 +83,8 @@ Deals damage over time. Each rank deals more:
 | Burn I | 3 |
 | Burn II | 6 |
 | Burn III | 9 |
-| Burn IV | [12?] |
-| Burn V | [15?] |
+| Burn IV | 12 |
+| Burn V | 15 |
 
 Higher ranks of Burn abilities apply higher ranks of Burn.
 
