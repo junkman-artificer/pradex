@@ -40,7 +40,20 @@ Roll a whole new affix for a slot. You're offered **three random choices** from 
 
 </div>
 
-Filling an empty slot costs more, and the cost goes up each time. [Exact costs.]
+Filling an empty slot costs more, and the cost goes up with every affix the item already has.
+
+<div class="pdx-compact pdx-dense" markdown>
+
+| Affixes already on the item | :lucide-flame:{ .flame--blue } Magic | :lucide-flame:{ .flame--red } Spirit | :lucide-flame:{ .flame--green } Mystic | :lucide-flame:{ .flame--purple } Astral |
+|---|---|---|---|---|
+| 1 | [ ] | [ ] | [ ] | 5 |
+| 2 | [ ] | [ ] | [ ] | [ ] |
+| 3 | [ ] | [ ] | [ ] | 7 |
+| 4 | [ ] | [ ] | [ ] | [ ] |
+
+</div>
+
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> These costs come from testing. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> Astral costs seem to go up by 1 for each affix already on the item.
 
 ### Reroll a value
 
