@@ -134,7 +134,7 @@ A "Found?" toggle on every Unique item card plus a checklist page with a progres
 Placeholders left in the site, to fill by spitballing one section at a time:
 
 - Parties: Building a Team (Ezraek is reworking the layout), Synergies folded into Building a Team as "Combos worth knowing" (Mana Loop, Deep Freeze, Dodge Tank, Spell Storm); review at the end whether it stays, formation tips on Combat.
-- In game checks: shop caps, ongoing. Tooltips without a known cap say "Sold at <shop>" (Alembics & Infusions, plus Moonmoss, Dreamshade and Frostfern at Stormwatch Provisions); every shop rotates its stock, so add caps as screenshots come in, Leatherworking attribute ranges (waiting on screenshots), Magic, Spirit and Mystic essence costs for imbuing Gloomhaven gear, Arena draw rating, Blind stacking, Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to non spell abilities.
+- In game checks: shop caps, ongoing. Tooltips without a known cap say "Sold at <shop>" (Alembics & Infusions, plus Moonmoss, Dreamshade and Frostfern at Stormwatch Provisions); every shop rotates its stock, so add caps as screenshots come in, Leatherworking attribute ranges (waiting on screenshots), Magic, Spirit and Mystic essence costs for imbuing Gloomhaven gear, Arena draw rating, whether Blind and Dazzle add up (both can be on one enemy; seen 2026-11-17), Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to non spell abilities.
 
 ### 5. Known rough edges
 

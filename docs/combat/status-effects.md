@@ -54,7 +54,7 @@ How much each stack deals depends on the source:
 
 !!! info "At a glance"
     - **Duration:** 4 seconds from Flash Bomb
-    - **Stacks:** [ ]
+    - **Stacks:** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> No. Reapplying it refreshes the duration.
     - **Immunity:** Immune to Blind (Shield Prefix)
 
 Increases the target's chance to miss. Shown as **Blinded** in combat replays.
@@ -64,6 +64,8 @@ How much depends on the source: Flash Bomb adds 30% at rank I and 45% at rank II
 - **Apply it:**
     - % Chance to Apply Blind (Suffix)
     - Flash Bomb: the target and adjacent enemies (Thief)
+
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> [Dazzle](#dazzle) is a separate status, and both can be on the same enemy at once. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> Their effects add together, so a Blinded and Dazzled enemy misses far more often.
 
 ## Burn
 
@@ -104,6 +106,20 @@ Higher ranks of Burn abilities apply higher ranks of Burn.
 Lowers the target's magic resistance by **40%** for **5 seconds**.
 
 - **Apply it:** % Chance to Curse (Suffix)
+
+## Dazzle
+
+<p class="pdx-types"><span class="pdx-type pdx-type--debuff">Debuff</span></p>
+
+!!! info "At a glance"
+    - **Duration:** 3 seconds from Dazzling Strike
+    - **Stacks:** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> No. Reapplying it refreshes the duration.
+    - **Immunity:** None
+
+Lowers the target's chance to hit. Shown as **Dazzled** in combat replays. Dazzling Strike lowers it by **30%** at rank I.
+
+- **Apply it:** Dazzling Strike (Warrior)
+- **Works well with:** [Blind](#blind), which can be on the same enemy at the same time.
 
 ## Deep Wound
 
