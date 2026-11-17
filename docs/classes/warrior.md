@@ -36,6 +36,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 - **Don't run every ability all the time.** Early on your mana can't keep up, so save your abilities for the fights that need them and let Rage do the work in between.
 - **Try a shield once you hit level 4.** Shield Bearer lets you trade some damage for a lot of survivability, which helps in longer decks before your gear catches up.
 - **Gear up in the Eastern Gate.** Two Unique Monsters have a chance to spawn in any Eastern Gate adventure deck except Old City Forum. **The Watchman** drops strong Strength and Health Regen gear with plenty of Armor. **The Masked Revenant** drops a ring with enough Mana Regen to keep **Hemorrhage** running almost on its own. The axe from The Bone Gallery's Skeleton's Chest is worth grabbing too: it has Strength and Health Regen, hits hard, and is one-handed, so you can keep your shield.
+- **Need a spellbook?** See [Warrior Spellbooks](../spellbooks/warrior.md) for where to buy or farm every one.
 
 ## Uniques to watch for
 

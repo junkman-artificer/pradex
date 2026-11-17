@@ -36,6 +36,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 - **Hold off on judging the class until level 8.** **Blood Tap** gives more Health Regen the lower your health gets, and once you have it, the Blood Knight gets a lot easier to play.
 - **Keep an eye out for strong weapons, especially ones with Health Regen.** Two-handers are hard to find early, so don't plan around Executioner. Take whatever hits hard, and grab anything with Health Regen.
 - **Gear up in the Eastern Gate.** **The Watchman** can spawn in any Eastern Gate adventure deck except Old City Forum, and his gear is packed with Strength, Health and Health Regen.
+- **Need a spellbook?** See [Blood Knight Spellbooks](../spellbooks/blood-knight.md) for where to buy or farm every one.
 
 ## Uniques to watch for
 

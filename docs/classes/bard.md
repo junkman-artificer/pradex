@@ -36,6 +36,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 - **Run a bow and a quiver.** Instruments only come from lucky drops and can't be crafted, so leave them for the endgame. A quiver is one of the easier places to roll Mana Regen, and a bow's Dexterity balances out the Intellect from a Magician subclass, which most Bards take.
 - **Take Requiem of Suffering at level 4.** It damages every enemy and Slows them, which makes solo fights a lot easier.
 - **Start with a store bow, then get the Gloomwood Longbow.** The Ranger guild hall in Eastern Gate sells bows you can imbue to get started. Later, the Gloomwood Longbow from the treasure box at the end of Thornheart Chamber (Gloomhaven) can easily carry you to the endgame.
+- **Need a spellbook?** See [Bard Spellbooks](../spellbooks/bard.md) for where to buy or farm every one.
 
 ## Uniques to watch for
 

@@ -36,6 +36,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 - **Get the Silver Dagger in Westfield.** It comes from The Miller's Vault, and it's the first guaranteed piece of Mana Regen gear.
 - **Then aim for the Catacomb Staff.** It comes from the Skeleton's Chest at the end of Old City Catacombs :lucide-move-right: The Bone Gallery (Eastern Gate), and it has Intellect, Mana Regen and Holy Spell Power all in one.
 - **Use a wand or staff for weapon damage.** Wands and staves deal magical damage, which scales with Intellect, while most other weapons scale with Strength.
+- **Need a spellbook?** See [Priest Spellbooks](../spellbooks/priest.md) for where to buy or farm every one.
 
 ## Uniques to watch for
 

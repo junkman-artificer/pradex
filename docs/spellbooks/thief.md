@@ -47,14 +47,14 @@ Where to get every Thief spellbook, by the level you can learn it. For how drops
 | 23 | Strangling Gas III | Farm in Icetooth Peaks (Icetooth Base Camp) |
 | 24 | Mutilate III | Farm in Ravenspire Tower through The Arcanist's Study (Icetooth Base Camp) |
 | 24 | Explosive Grenade III | Farm in Ravenspire Tower through The Arcanist's Study (Icetooth Base Camp) |
-| 25 | Kidney Punch III | Farm in any waystone deck |
-| 25 | Explosive Grenade IV | Farm in any waystone deck |
-| 25 | Poisoned Dagger IV | Farm in any waystone deck |
-| 25 | Cunning Strike III | Farm in any waystone deck |
-| 25 | Subduing Strike III | Farm in any waystone deck |
-| 25 | Deadly Poison IV | Farm in any waystone deck |
-| 25 | Shiv III | Farm in any waystone deck |
-| 25 | Flurry III | Farm in any waystone deck |
-| 25 | Leech III | Farm in any waystone deck |
+| 25 | Kidney Punch III | Farm in T1+ waystones |
+| 25 | Explosive Grenade IV | Farm in T2+ waystones |
+| 25 | Poisoned Dagger IV | Farm in T2+ waystones |
+| 25 | Cunning Strike III | Farm in T3+ waystones |
+| 25 | Subduing Strike III | Farm in T3+ waystones |
+| 25 | Deadly Poison IV | Farm in T4+ waystones |
+| 25 | Shiv III | Farm in T4+ waystones |
+| 25 | Flurry III | Farm in T5+ waystones |
+| 25 | Leech III | Farm in T5+ waystones |
 
 </div>

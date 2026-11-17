@@ -36,6 +36,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 - **Get a second weapon ready for level 4.** **Dual Wield** unlocks then, so pick up a second one-hander beforehand and equip it right away.
 - **Hunt for Extraction.** It unlocks at level 9, and Old City Catacombs :lucide-move-right: The Bone Gallery (Eastern Gate) is the place to farm the spellbook. You can also buy it from the Trading Post. Once you have it, your mana problems mostly go away.
 - **Run Thieves' Hideout :lucide-move-right: The Underbelly (Eastern Gate).** The Master of Shadows set from The Underbelly has Evasion, Hit and Crit on every armor piece, plus a poison dagger.
+- **Need a spellbook?** See [Thief Spellbooks](../spellbooks/thief.md) for where to buy or farm every one.
 
 ## Uniques to watch for
 

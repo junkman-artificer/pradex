@@ -35,6 +35,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 - **Grab Penetrating Shot at level 2.** It ignores half the target's armor, which makes it a strong opener against tough enemies.
 - **Upgrade your bow in steps.** Buy your first one in Sweetwater, then a stronger one from the Ranger guild hall in Eastern Gate to imbue. After that, the Gloomwood Longbow from the treasure box at the end of Thornheart Chamber (Gloomhaven) can easily carry you to the endgame.
 - **Run Thieves' Hideout :lucide-move-right: The Underbelly (Eastern Gate).** The Master of Shadows armor has Evasion, Hit and Crit on every piece, which helps you hold onto your Focus.
+- **Need a spellbook?** See [Ranger Spellbooks](../spellbooks/ranger.md) for where to buy or farm every one.
 
 ## Uniques to watch for
 

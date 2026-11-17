@@ -36,6 +36,7 @@ For specific gear, see [Gearing Up](../gearing-up/index.md).
 - **Pace your mana.** Early on you can't keep every spell going, so save them for the fights that need them, especially in longer decks.
 - **Get the Silver Dagger in Westfield.** It comes from The Miller's Vault, Westfield's boss dungeon, and it's the first guaranteed piece of Mana Regen gear. Once you reach Eastern Gate, the Catacomb Staff from The Bone Gallery's Skeleton's Chest is a big step up.
 - **Use a wand or staff for weapon damage.** Most weapons deal physical damage, which scales with Strength. Wands and staves deal magical damage, which scales with Intellect, so they suit a Magician much better. Wands attack from range, and staves hit in melee.
+- **Need a spellbook?** See [Magician Spellbooks](../spellbooks/magician.md) for where to buy or farm every one.
 
 ## Uniques to watch for
 
