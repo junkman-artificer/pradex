@@ -61,5 +61,7 @@ These come from the [official enchantments list](https://www.pradotraveler.com/e
 
 ## More tricks
 
-- [Trick]
-- [Trick]
+- **Borrow a subscriber's attunements.** Subscribers get 2 extra attunements on every item. If you're not a subscriber but a friend is, have them enchant the item for you before you equip it. Once it's bound to you, it's too late.
+- **Don't hoard spare gear.** Disenchant it for shards and essence, or sell the promising pieces that just didn't roll what you wanted on the Trading Post.
+- **Keep your crafting professions leveled.** Imbuing takes crafting materials for that type of gear, like Linen Cloth for a Linen Shirt. A profession that keeps pace with your level means you can make those materials yourself instead of hunting for them.
+- **Reduced Attribute Requirements lets you wear gear early.** It's an affix on most weapons and armor, and it can let you equip a strong piece a few levels before you'd normally meet its stat requirement.

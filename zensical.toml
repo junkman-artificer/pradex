@@ -30,6 +30,16 @@ nav = [
     { "Blood Knight" = "classes/blood-knight.md" },
     { "Ranger" = "classes/ranger.md" },
   ] },
+  { "Spellbooks" = [
+    "spellbooks/index.md",
+    { "Warrior" = "spellbooks/warrior.md" },
+    { "Magician" = "spellbooks/magician.md" },
+    { "Thief" = "spellbooks/thief.md" },
+    { "Priest" = "spellbooks/priest.md" },
+    { "Bard" = "spellbooks/bard.md" },
+    { "Blood Knight" = "spellbooks/blood-knight.md" },
+    { "Ranger" = "spellbooks/ranger.md" },
+  ] },
   { "Gearing Up" = [
     "gearing-up/index.md",
     { "Rarity" = "gearing-up/rarity.md" },
