@@ -6,7 +6,7 @@ For how party size affects gear drops and VITA costs, see [Party Size and Drops]
 
 ## The idea
 
-Uniques only show up at the end of each level of a deck. Every card before that costs you time and VITA, so **the smaller the deck, the more shots at Uniques you get for the same VITA**. Most of maximizing comes down to keeping your decks small and making the cards you do add count.
+Uniques only show up on the last card of each level, starting from the second level. The first level never has one. Every card before that costs you time and VITA, so **the smaller the deck, the more shots at Uniques you get for the same VITA**. Most of maximizing comes down to keeping your decks small and making the cards you do add count.
 
 ## Sorting your runes
 
