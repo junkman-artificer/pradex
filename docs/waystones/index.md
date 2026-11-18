@@ -17,19 +17,11 @@ Every rune has three things going on:
 - **Tier** decides how hard (and how rewarding) the deck is. Each tier adds +3 to the item level of what drops, and clearing a deck hands you higher-tier runes to keep climbing.
 - **Modifiers** come in three flavors: **Fortunes** add rewards (like Item Drop Rate), **Omens** make things harder (like more monster health), and **Card Modifiers** add specific cards (like +1 Shrine). Everything on all three runes stacks onto the waystone, so the trick is finding a combo that's rewarding without being brutal.
 
-Not sure which runes make which waystone? [Rune Combinations](runes.md) lists every one.
+Not sure which runes make which waystone? [Rune Combinations](runes.md) lists every possibility.
 
 ## More on waystones
 
 <div class="grid cards" markdown>
-
--   :lucide-trending-up:{ .lg .middle } __Maximizing Waystones__
-
-    ---
-
-    Deck building and getting the most from every run.
-
-    [:lucide-arrow-right: Read more](maximizing.md)
 
 -   :lucide-combine:{ .lg .middle } __Rune Combinations__
 
@@ -38,6 +30,14 @@ Not sure which runes make which waystone? [Rune Combinations](runes.md) lists ev
     All 84 ways to combine three runes, and the waystone each one makes.
 
     [:lucide-arrow-right: Look up runes](runes.md)
+
+-   :lucide-trending-up:{ .lg .middle } __Maximizing Waystones__
+
+    ---
+
+    Deck building and getting the most from every run.
+
+    [:lucide-arrow-right: Read more](maximizing.md)
 
 -   :lucide-map-pin:{ .lg .middle } __Regions__
 

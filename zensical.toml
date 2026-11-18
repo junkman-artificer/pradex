@@ -75,8 +75,8 @@ nav = [
   { "Arena" = "arena/index.md" },
   { "Waystones" = [
     "waystones/index.md",
-    { "Maximizing Waystones" = "waystones/maximizing.md" },
     { "Rune Combinations" = "waystones/runes.md" },
+    { "Maximizing Waystones" = "waystones/maximizing.md" },
     { "Regions" = [
       "waystones/regions/index.md",
       { "Sweetwater" = "waystones/regions/sweetwater.md" },
