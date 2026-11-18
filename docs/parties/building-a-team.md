@@ -6,7 +6,7 @@ A good team covers three things, in whatever mix its classes bring:
 
 1. **Stay standing.** Everything that keeps your party alive: healing, regen, Barrier, damage reduction, and control like stuns, freezes, slows and sleep, since a stunned enemy isn't hitting anyone. Think of the Priest's heals, the Bard's Meadowland Pastoral, the Warrior's Intimidating Shout, or the Magician's Blizzard.
 2. **End it fast.** Everything that shortens the fight before fatigue or enemy healing can catch up: raw damage, damage buffs like the Warrior's War Cry or the Bard's Soldier's Fanfare, haste, and debuffs that make enemies take more, like the Thief's Marked for Death.
-3. **Stay fueled.** Mana powers both of the above, and it usually runs out long before health does. The Magician's Arcane Infusion, the Priest's Prayer of Healing, the Bard's Harmony and Mana Regen on gear keep everyone casting through a whole deck.
+3. **Stay fueled.** Mana powers both of the above, and it usually runs out long before health does. The Magician's Arcane Infusion, the Priest's Prayer of Healing, the Bard's Harmony and Mana Regen on gear keep everyone casting through a whole deck. The [Mana Calculator](../tools/mana-calculator.md) shows how long your party can keep it up.
 
 Most classes can cover a bit of each on their own. What sets them apart is how strong they are at it, and whether it helps the whole party or only themselves. A Thief's Leech and Extraction only refill the Thief, while a Priest's Prayer of Healing refills everyone. When you're building a team, the shared stuff goes further.
 

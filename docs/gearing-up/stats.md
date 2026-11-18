@@ -35,7 +35,7 @@ Your pool of health and mana in combat, and the ways to refill them mid-fight.
 | Max Health | Your maximum health in combat. |
 | Max Mana | Your maximum mana in combat. |
 | Health Regen | Health restored every 5 seconds in combat. |
-| Mana Regen | Mana restored every 5 seconds in combat. |
+| Mana Regen | Mana restored every 5 seconds in combat. See how far it gets you with the [Mana Calculator](../tools/mana-calculator.md). |
 
 **Suffixes**
 

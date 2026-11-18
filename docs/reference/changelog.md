@@ -2,6 +2,11 @@
 
 A log of what's been added to the guide.
 
+## November 18, 2026
+
+- **[Mana Calculator](../tools/mana-calculator.md)**: a new Tools section, starting with a calculator for how many cards your build can play before it runs out of mana.
+- **[Classes](../classes/index.md)**: every class page now has a dropdown with all of its abilities, at every level.
+
 ## November 17, 2026
 
 - **[Rune Combinations](../waystones/runes.md)**: all 84 three-rune combinations and the waystone each one makes.

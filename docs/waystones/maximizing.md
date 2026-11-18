@@ -27,7 +27,7 @@ You'll pick up a lot of runes, and most aren't worth keeping. A quick way to sor
 **It depends**
 
 - **2 Monster cards:** usually a sell, unless its Item Drop Rate or Item Rarity Fortune is Tier IV or V. Those are worth keeping for a Monster hunting deck.
-- **Mana Cost or Regen Reduction Omens:** some players can't stand them, and others don't mind. Decide based on how your party handles mana.
+- **Mana Cost or Regen Reduction Omens:** some players can't stand them, and others don't mind. Decide based on how your party handles mana, and test it in the [Mana Calculator](../tools/mana-calculator.md) first.
 - **Attack Speed Omens:** these get dangerous when they stack. <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Stack too many in the Heist at Smuggler's Wharf, and an enemy can become impossible to kill.
 
 ## Planning a run

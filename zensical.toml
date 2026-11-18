@@ -86,6 +86,10 @@ nav = [
       { "Briarstone Quarry" = "waystones/regions/briarstone-quarry.md" },
     ] },
   ] },
+  { "Tools" = [
+    "tools/index.md",
+    { "Mana Calculator" = "tools/mana-calculator.md" },
+  ] },
   { "Reference" = [
     "reference/index.md",
     { "Glossary" = "reference/glossary.md" },
@@ -99,7 +103,7 @@ nav = [
 extra_css = [
   "stylesheets/extra.css",
 ]
-extra_javascript = ["javascripts/extra.js"]
+extra_javascript = ["javascripts/extra.js", "javascripts/pdx-abilities.js", "javascripts/mana-calc.js"]
 
 [project.theme]
 variant = "classic"
