@@ -95,6 +95,9 @@ Required level
 Rest
 :   Healing in town for money. The cost rises as the game goes on. See [Economy](../economy/index.md#what-money-is-for).
 
+Rune
+:   What waystones are made from. Combine three to craft one: their types pick the deck, the lowest tier of the three sets the waystone's tier, Omens make the run tougher, and Fortunes make it more rewarding. See [Rune Combinations](../waystones/runes.md).
+
 Seasonal
 :   The server with the latest updates. See [Character Creation](../character-creation/index.md#seasonal-or-legacy).
 
@@ -106,6 +109,9 @@ Skill level
 
 Socketed
 :   A Common-grade item with built-in sockets. The base for the endgame path. See [Rarity](../gearing-up/rarity.md#socketed).
+
+Spellbook
+:   An item that teaches your class a new ability, or a higher rank of one. See [Spellbooks](../spellbooks/index.md).
 
 Subclass
 :   A second class you can bring along once unlocked, capped at half your main class's level. See [Classes](../classes/index.md#subclasses).
@@ -130,6 +136,9 @@ Unique Treasure
 
 VITA
 :   The energy you spend to play, earned by walking. See [Core Concepts](../getting-started/core-concepts.md#vita).
+
+Venture Deeper
+:   The option after clearing a deck to carry on into the next deck in its chain. See [Spellbooks](../spellbooks/index.md).
 
 Waystone
 :   Endgame content made up of decks in each region. See [Waystones](../waystones/index.md).

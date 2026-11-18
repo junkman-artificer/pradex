@@ -2,17 +2,17 @@
 
 Official pages and community tools worth bookmarking.
 
-## Enchanting calculator
-
-[:lucide-sparkles: Official enchantments list](https://www.pradotraveler.com/enchantments){ .md-button .md-button--primary target="_blank" }
-
-The single most useful page on the official site, and the easiest to miss. It's tucked under **Professions** on pradotraveler.com, even though enchanting isn't a profession.
-
-Filter by item type, stat requirement, and item level to see every Prefix and Suffix that can roll on an item, with its tiers and odds. Seriously, check it before you spend attunements.
-
 ## Official site
 
 <div class="grid cards" markdown>
+
+-   :lucide-sparkles:{ .lg .middle } __Enchantments List__
+
+    ---
+
+    Every Prefix and Suffix that can roll on an item, with tiers and odds. Check it before you spend attunements.
+
+    [:lucide-external-link: Enchantments](https://www.pradotraveler.com/enchantments){ target="_blank" }
 
 -   :lucide-globe:{ .lg .middle } __Prado Traveler__
 

@@ -16,7 +16,6 @@ nav = [
   { "Getting Started" = [
     "getting-started/index.md",
     { "Core Concepts" = "getting-started/core-concepts.md" },
-    { "FAQ" = "getting-started/faq.md" },
   ] },
   { "Character Creation" = "character-creation/index.md" },
   { "First Steps" = "getting-started/first-steps.md" },
@@ -39,6 +38,15 @@ nav = [
     { "Bard" = "spellbooks/bard.md" },
     { "Blood Knight" = "spellbooks/blood-knight.md" },
     { "Ranger" = "spellbooks/ranger.md" },
+  ] },
+  { "Combat" = [
+    "combat/index.md",
+    { "Status Effects" = "combat/status-effects.md" },
+  ] },
+  { "Parties" = [
+    "parties/index.md",
+    { "Party Size and Drops" = "parties/party-size.md" },
+    { "Building a Team" = "parties/building-a-team.md" },
   ] },
   { "Gearing Up" = [
     "gearing-up/index.md",
@@ -63,15 +71,7 @@ nav = [
     "enchanting/index.md",
     { "Strategy" = "enchanting/strategy.md" },
   ] },
-  { "Combat" = [
-    "combat/index.md",
-    { "Status Effects" = "combat/status-effects.md" },
-  ] },
-  { "Parties" = [
-    "parties/index.md",
-    { "Party Size and Drops" = "parties/party-size.md" },
-    { "Building a Team" = "parties/building-a-team.md" },
-  ] },
+  { "Economy" = "economy/index.md" },
   { "Arena" = "arena/index.md" },
   { "Waystones" = [
     "waystones/index.md",
@@ -86,14 +86,14 @@ nav = [
       { "Briarstone Quarry" = "waystones/regions/briarstone-quarry.md" },
     ] },
   ] },
-  { "Economy" = "economy/index.md" },
   { "Reference" = [
     "reference/index.md",
     { "Glossary" = "reference/glossary.md" },
+    { "FAQ" = "getting-started/faq.md" },
     { "Resources" = "reference/resources.md" },
     { "Needs Proof" = "reference/needs-proof.md" },
     { "What's Changed" = "reference/changelog.md" },
-  ] },
+  ] }
 ]
 
 extra_css = [

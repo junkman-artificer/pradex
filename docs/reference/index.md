@@ -12,6 +12,14 @@ Quick lookups for terms, tools, and game changes.
 
     [:lucide-arrow-right: Look up a term](glossary.md)
 
+-   :lucide-circle-help:{ .lg .middle } __FAQ__
+
+    ---
+
+    Answers to common new-player questions.
+
+    [:lucide-arrow-right: Read the FAQ](../getting-started/faq.md)
+
 -   :lucide-link:{ .lg .middle } __Resources__
 
     ---

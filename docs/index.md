@@ -46,6 +46,22 @@ Your field guide to Prado. Everything from making your first character to master
 
     [:lucide-arrow-right: Choose](classes/index.md)
 
+-   :lucide-crosshair:{ .lg .middle } __Combat__
+
+    ---
+
+    How fights work, formations, and status effects.
+
+    [:lucide-arrow-right: Learn combat](combat/index.md)
+
+-   :lucide-users:{ .lg .middle } __Parties__
+
+    ---
+
+    Which classes work well together, and why.
+
+    [:lucide-arrow-right: Team up](parties/index.md)
+
 -   :lucide-backpack:{ .lg .middle } __Gearing Up__
 
     ---
@@ -70,21 +86,13 @@ Your field guide to Prado. Everything from making your first character to master
 
     [:lucide-arrow-right: Enchant](enchanting/index.md)
 
--   :lucide-crosshair:{ .lg .middle } __Combat__
+-   :lucide-coins:{ .lg .middle } __Economy__
 
     ---
 
-    How fights work, formations, and status effects.
+    Making gold and spending it wisely.
 
-    [:lucide-arrow-right: Learn combat](combat/index.md)
-
--   :lucide-users:{ .lg .middle } __Parties__
-
-    ---
-
-    Which classes work well together, and why.
-
-    [:lucide-arrow-right: Team up](parties/index.md)
+    [:lucide-arrow-right: Plan](economy/index.md)
 
 -   :lucide-trophy:{ .lg .middle } __Arena__
 
@@ -101,14 +109,6 @@ Your field guide to Prado. Everything from making your first character to master
     Getting the most from every run, region by region.
 
     [:lucide-arrow-right: Explore](waystones/index.md)
-
--   :lucide-coins:{ .lg .middle } __Economy__
-
-    ---
-
-    Making gold and spending it wisely.
-
-    [:lucide-arrow-right: Plan](economy/index.md)
 
 -   :lucide-book-open:{ .lg .middle } __Reference__
 
