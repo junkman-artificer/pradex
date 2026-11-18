@@ -32,7 +32,7 @@ Quick lookups for terms, tools, and game changes.
 
     ---
 
-    Game updates that changed advice in this guide.
+    What's been added to the guide, newest first.
 
     [:lucide-arrow-right: See changes](changelog.md)
 

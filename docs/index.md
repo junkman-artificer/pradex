@@ -114,7 +114,7 @@ Your field guide to Prado. Everything from making your first character to master
 
     ---
 
-    Glossary, tools, and what's changed.
+    Glossary, tools, open questions, and what's changed.
 
     [:lucide-arrow-right: Look up](reference/index.md)
 
