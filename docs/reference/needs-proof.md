@@ -14,6 +14,8 @@ Everything marked <span class="pdx-status pdx-status--unconfirmed" title="A best
 | How much stronger +1 and +2 potions are | [Alchemy](../crafting/alchemy.md) | Tooltips of a base, +1 and +2 version of the same potion |
 | Dreamshade comes from Stormwatch garden decks | [Alchemy](../crafting/alchemy.md#gathering-materials) | A Dreamshade drop in a Stormwatch garden deck |
 | Waystone mana cost increases apply after flat cuts like Arcane Spell Power and Moonlight Rhapsody | [Mana Calculator](../tools/mana-calculator.md#how-it-counts) | One spell's cost with Arcane Spell Power, with and without a cost increase |
+| Thunderclap, Explosive Grenade, Explosive Shot, Freezing Shot and Tranquilizing Shot aren't tagged as spells, so they don't trigger Mana on Spell Hit | [Mana Calculator](../tools/mana-calculator.md#how-it-counts) | The Tags tab on each ability in game |
+| Piercing Shot's second target, Decoy's counterattack and Mighty Strikes' splash don't trigger Weapon Manasteal | [Mana Calculator](../tools/mana-calculator.md#how-it-counts) | Mana before and after each one with Weapon Manasteal on gear |
 | Where the Smithing weapon recipes are found | [Smithing](../crafting/smithing.md) | The deck or vendor where you got the recipe |
 | Great Axes come with % Weapon Crit Rate on their damage roll, like Swords and Daggers do | [Stats](../gearing-up/stats.md#damage-prefix-bonuses) | A Great Axe showing Crit Rate as part of its damage |
 | Staffs are the only pure Intellect two-handers, apart from the odd Epic Great Sword | [Enchanting Strategy](../enchanting/strategy.md#where-the-best-rolls-live) | Any other two-hander rolling pure Intellect |

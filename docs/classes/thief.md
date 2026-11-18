@@ -80,7 +80,7 @@ If you like fast weapons and big damage numbers, with the choice between snowbal
 
 The big picture for building a Thief, most important first:
 
-1. **Two good weapons.** Dual Wield doubles your weapon damage and your affixes, so both hands matter.
+1. **Two good weapons.** Dual Wield doubles your affixes and adds a second weapon's hits, so both hands matter. Your off hand swings 50% slower than its listed speed, so put the faster weapon in your main hand. The exception is **Shiv**, which strikes with your off hand on its own short cooldown, so a Shiv build may want its hardest-hitting weapon there instead.
 2. **The stat your build runs on.** Poison Spell Power for a poison build, or Crit and Hit for a crit build. Dexterity helps both.
 3. **Mana Regen, until you have Extraction.** The **Extraction** spellbook turns your poison stacks into mana, so it's worth farming for or buying from the Trading Post. Once you have it, Mana Regen matters a lot less.
 

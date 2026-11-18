@@ -134,6 +134,8 @@ Hitting more often, harder, and faster.
 | % Faster Ability Cooldown | Cuts the cooldowns of your active abilities by that percentage. Shown as "Ability Speed" on your character sheet. Stacks with [Ability Haste](../combat/status-effects.md#ability-haste). |
 | All Cooldowns % Faster | Cuts both ability cooldowns and the time between weapon attacks by that percentage. Shown as "All Speed" on your character sheet. Stacks with Haste. |
 
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Speed cuts the time by its percentage: a 2.80 second weapon with 20% Faster Cooldowns swings every 2.24 seconds. An off-hand weapon swings **50% slower** than its listed speed, after any speed bonus. A 4.20 second off hand shows 6.30 seconds, and a 3.30 second one with 20% speed shows 3.96. Your character sheet already shows both hands at their real speed.
+
 ### Damage prefix bonuses
 
 The **Damage** prefix's extra bonus depends on the weapon:

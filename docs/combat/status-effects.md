@@ -296,7 +296,7 @@ Makes ability timers count down at **double speed**, so abilities come back in h
 
 Makes weapon timers count down at **double speed**, so you attack twice as often. It's the weapon version of [Ability Haste](#ability-haste). It doesn't affect ability timers.
 
-<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Weapon Speed and All Speed on gear shorten the time between attacks instead, and the speed on your stats already includes them. A 2.80 second dagger with 9% All Speed shows 2.54 seconds, and Haste counts that down at double speed.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Weapon Speed and All Speed on gear shorten the time between attacks instead, and the speed on your stats already includes them. A 2.80 second weapon with 20% speed shows 2.24 seconds, and Haste counts that down at double speed.
 
 - **Get it:**
     - Soldier's Fanfare, Ode to Glory, Rogue's Scherzo, Dancer's Bagatelle (Bard songs, whole party)

@@ -20,6 +20,9 @@
   function family(name) { return name.replace(/ (II|III|IV|V)$/, ""); }
   function num(re, text) { var m = re.exec(text); return m ? parseFloat(m[1]) : 0; }
 
+  // Damaging abilities that don't sound like spells. Treated as not tagged "spell", so no Mana on Spell Hit.
+  var NOT_SPELLS = ["Explosive Shot", "Freezing Shot", "Tranquilizing Shot", "Explosive Grenade", "Thunderclap"];
+
   // What an ability does to mana and timers, read from its text.
   function effects(a) {
     var t = a.text, e = {};
@@ -31,9 +34,20 @@
     e.infusion = num(/giving ([\d.]+) mana regen per second for 3 seconds/, t);
     e.partyMana = num(/health and ([\d.]+) mana to all allies/, t);
     e.oneMana = num(/health and ([\d.]+) mana to an allied character/, t);
+    // Weapon hits from abilities, for Weapon Manasteal. These never count as spell hits.
+    var strikes = /Deal (\d+) main-hand weapon strikes/.exec(t);
+    if (strikes) e.wHits = parseInt(strikes[1], 10);
+    else if (/with both weapons/.test(t)) e.wHits = "weapons";
+    else if (/with your off-hand weapon/.test(t)) e.wHits = 1;
+    else if (/[\d.]+% weapon damage/.test(t)) {
+      if (/all enemies/.test(t)) e.wHits = "all";
+      else if (/twin arrows/.test(t)) { e.wHits = 2; e.wCap = true; }
+      else e.wHits = 1;
+    } else e.wHits = 0;
     // Spell hits, for Mana on Spell Hit: damaging abilities that aren't weapon strikes.
-    var damaging = /damage/.test(t) && !/weapon damage|weapon strike|weapon attack|Bleed|reducing|reduces|damage taken|damage received|missing/.test(t) && !e.isSong;
+    var damaging = !e.wHits && NOT_SPELLS.indexOf(family(a.name || "")) < 0 && /damage/.test(t) && !/whenever|missed attacks/i.test(t) && !/weapon damage|weapon strike|weapon attack|Bleed|reducing|reduces|damage taken|damage received|missing/.test(t) && !e.isSong;
     if (/arcane damage|projectiles/.test(t) && /3 arcane projectiles/.test(t)) { e.hits = 3; e.fixedHits = true; }
+    else if (damaging && /enemies adjacent to your target are struck/.test(t)) e.hits = 3; // the target and up to two beside it
     else if (damaging && /all enemies|each enemy|enemy front line/.test(t)) e.hits = "all";
     else if (damaging && /adjacent/.test(t)) e.hits = 2;
     else e.hits = damaging ? 1 : 0;
@@ -60,13 +74,13 @@
   // ---------- simulation ----------
   function simulate(cfg) {
     var casters = [];
-    function addCaster(list, who, perf) {
-      // Ability Speed shortens your own cooldowns. Teammates keep the listed cooldown.
-      var cut = who === "me" ? 1 - Math.min(90, cfg.abilitySpeed) / 100 : 1;
+    function addCaster(list, who, perf, speed) {
+      // Gear speed shortens cooldowns, capped at a 90% cut so a typo can't zero them out.
+      var cut = 1 - Math.min(90, speed || 0) / 100;
       list.forEach(function (a) { casters.push({ a: a, e: effects(a), who: who, perf: perf || 0, cd: a.cd * cut, t: a.cd * cut }); });
     }
-    addCaster(cfg.mine, "me", cfg.myPerf);
-    cfg.mates.forEach(function (m, i) { addCaster(m.abilities, "mate" + i, m.perf); });
+    addCaster(cfg.mine, "me", cfg.myPerf, cfg.abilitySpeed);
+    cfg.mates.forEach(function (m, i) { addCaster(m.abilities, "mate" + i, m.perf, m.speed); });
 
     var regenMul = 1 - Math.min(100, cfg.regenRed) / 100;
     var regen = (cfg.regen + cfg.harmony) * regenMul;
@@ -100,6 +114,8 @@
             mana += cfg.onCast;
             var hits = e.hits === "all" ? cfg.enemies : e.fixedHits ? e.hits : Math.min(e.hits, cfg.enemies);
             mana += hits * cfg.spellSteal * steal * cfg.spellHit / 100;
+            var wh = e.wHits === "all" ? cfg.enemies : e.wHits === "weapons" ? Math.max(1, cfg.weapons.length) : e.wCap ? Math.min(e.wHits, cfg.enemies) : e.wHits;
+            mana += wh * cfg.weaponSteal * steal * cfg.hitChance / 100;
             if (cfg.virtuoso && cfg.myPerf) aHaste += 0.1 * cfg.myPerf;
           }
           // Effects that reach you, from your casts or a teammate's
@@ -184,13 +200,13 @@
       ]),
       el("div", { class: "pdx-calc__row" }, [
         field("Mana on Kill", "mc-onkill", 0, "Per enemy defeated"),
-        field("Ability Speed %", "mc-aspeed", 0, "Shortens ability cooldowns"),
-        field("All Speed %", "mc-allspeed", 0, "Cooldowns and weapon speed"),
-        field("Spell hit chance %", "mc-shit", 90, "For Mana on Spell Hit", null, "mc-sgroup")
+        field("Ability Speed %", "mc-aspeed", 0, "Shortens ability cooldowns", { max: "90" }),
+        field("All Speed %", "mc-allspeed", 0, "Cooldowns and weapon speed", { max: "90" }),
+        field("Spell hit chance %", "mc-shit", 90, "For Mana on Spell Hit", { max: "100" }, "mc-sgroup")
       ]),
       el("div", { class: "pdx-calc__row", id: "mc-wgroup", hidden: "hidden" }, [
-        field("Main hand speed", "mc-w1", 3.0, "Speed shown in your stats"), field("Off hand speed", "mc-w2", 0, "0 if not dual wielding"),
-        field("Weapon hit chance %", "mc-hit", 90, "For Weapon Manasteal")
+        field("Main hand speed", "mc-w1", 3.0, "Speed shown in your stats"), field("Off hand speed", "mc-w2", 0, "From your stats, 0 if none"),
+        field("Weapon hit chance %", "mc-hit", 90, "For Weapon Manasteal", { max: "100" })
       ])
     ]);
 
@@ -225,7 +241,8 @@
           select("Level", "mc-ml" + i, levels(25), "25"),
           select("Subclass", "mc-msb" + i, [["", "None"]].concat(CLASSES), ""),
           select("Subclass level", "mc-msl" + i, levels(12), "12"),
-          field("Performance", "mc-mp" + i, 0, "Bard main or subclass")
+          field("Performance", "mc-mp" + i, 0, "Bard main or subclass"),
+          field("Ability Speed %", "mc-mspd" + i, 0, "Ability plus All Speed", { max: "90" })
         ]),
         el("div", { class: "pdx-calc__abilities", id: "mc-ma" + i })
       ]));
@@ -375,7 +392,10 @@
     function updatePerf() {
       function isBard(a, b) { return root.querySelector(a).value === "BRD" || root.querySelector(b).value === "BRD"; }
       root.querySelector("#mc-perf").disabled = !isBard("#mc-cls", "#mc-sub");
-      for (var k = 0; k < 3; k++) root.querySelector("#mc-mp" + k).disabled = !isBard("#mc-m" + k, "#mc-msb" + k);
+      for (var k = 0; k < 3; k++) {
+        root.querySelector("#mc-mp" + k).disabled = !isBard("#mc-m" + k, "#mc-msb" + k);
+        root.querySelector("#mc-mspd" + k).disabled = !root.querySelector("#mc-ma" + k).querySelector(".pdx-calc__slot");
+      }
     }
     function find(cls, name) {
       return all().map(ab).filter(function (a) { return a.cls === cls && a.name === name; })[0];
@@ -398,15 +418,15 @@
         }).filter(Boolean);
         var perf = v(root, "mc-mp" + i);
         if (mbox.dataset.harmony) harmony += perf;
-        mateList.push({ perf: perf, abilities: picks.filter(function (a) { return a.cd > 0; }) });
+        mateList.push({ perf: perf, speed: Math.min(90, v(root, "mc-mspd" + i)), abilities: picks.filter(function (a) { return a.cd > 0; }) });
       }
       var weapons = [v(root, "mc-w1"), v(root, "mc-w2")].filter(function (s) { return s > 0; });
       var cfg = {
         mine: mine.filter(Boolean), mates: mateList, maxMana: v(root, "mc-max"), regen: v(root, "mc-regen"), harmony: harmony,
         arcane: v(root, "mc-arcane"), myPerf: v(root, "mc-perf"), virtuoso: myCls === "BRD" && myLvl >= 16,
         onCast: v(root, "mc-oncast"), spellSteal: v(root, "mc-spellsteal"), weaponSteal: v(root, "mc-wsteal"),
-        incSteal: v(root, "mc-incsteal"), spellHit: v(root, "mc-shit"), onKill: v(root, "mc-onkill"), weapons: weapons, hitChance: v(root, "mc-hit"),
-        abilitySpeed: v(root, "mc-aspeed") + v(root, "mc-allspeed"),
+        incSteal: v(root, "mc-incsteal"), spellHit: Math.min(100, v(root, "mc-shit")), onKill: v(root, "mc-onkill"), weapons: weapons, hitChance: Math.min(100, v(root, "mc-hit")),
+        abilitySpeed: Math.min(90, v(root, "mc-aspeed") + v(root, "mc-allspeed")),
         costInc: v(root, "mc-inc"), regenRed: v(root, "mc-red"), enemies: Math.max(1, v(root, "mc-enemies"))
       };
       render(simulate(cfg), cfg);
@@ -429,6 +449,12 @@
     }
 
     root.addEventListener("change", function (ev) {
+      // Snap typed numbers back into range, so a typo shows what is actually counted.
+      var tg = ev.target;
+      if (tg.type === "number" && tg.value !== "") {
+        if (tg.max !== "" && +tg.value > +tg.max) tg.value = tg.max;
+        if (tg.min !== "" && +tg.value < +tg.min) tg.value = tg.min;
+      }
       var id = ev.target.id || "";
       if (id === "mc-cls") listSubs();
       updatePerf();
@@ -437,7 +463,7 @@
       if (ev.target.classList.contains("mc-rank")) lockPicked();
       if (ev.target.classList.contains("mc-trank")) lockMate(ev.target.closest(".pdx-calc__abilities"));
       if (ev.target.classList.contains("mc-tspell")) { var mb = ev.target.closest(".pdx-calc__abilities"); fillMateRank(ev.target, ev.target.parentNode.querySelector("select.mc-trank"), mb._fams, null); lockMate(mb); }
-      var m = /^mc-(?:m|ml|msb|msl)(\d)$/.exec(id); if (m) listMate(m[1]);
+      var m = /^mc-(?:m|ml|msb|msl)(\d)$/.exec(id); if (m) { listMate(m[1]); updatePerf(); }
       run();
     });
     function showGroups() {
