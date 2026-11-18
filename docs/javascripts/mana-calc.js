@@ -481,6 +481,19 @@
       }
       showGroups(); run();
     });
+    // Clicking into a number box empties it, so you can type straight over the old value.
+    // The old value shows faintly as a hint, and comes back if you leave without typing.
+    root.addEventListener("focusin", function (ev) {
+      var n = ev.target;
+      if (n.type !== "number") return;
+      n.dataset.was = n.value; n.placeholder = n.value; n.value = "";
+    });
+    root.addEventListener("focusout", function (ev) {
+      var n = ev.target;
+      if (n.type !== "number" || n.dataset.was === undefined) return;
+      if (n.value === "") n.value = n.dataset.was;
+      delete n.dataset.was; n.placeholder = "";
+    });
     root.querySelector(".pdx-calc__toggle").addEventListener("click", function () {
       var open = this.getAttribute("aria-expanded") !== "true";
       this.setAttribute("aria-expanded", String(open));
