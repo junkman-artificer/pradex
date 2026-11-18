@@ -151,3 +151,7 @@ zensical serve
 ```
 
 Then check the page at phone width in the browser's device toolbar. Before handing back: the build prints "No issues found" and nothing scrolls sideways at 360 px.
+
+## Needs Proof
+
+`docs/reference/needs-proof.md` lists every Unconfirmed claim on the site. Whenever an Unconfirmed tag is added or cleared, update that table in the same change so it never drifts. Observed items stay off it. Leatherworking attributes are not on it: Ezraek is filling those in from game data before launch.

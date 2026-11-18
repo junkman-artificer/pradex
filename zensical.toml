@@ -90,6 +90,7 @@ nav = [
     "reference/index.md",
     { "Glossary" = "reference/glossary.md" },
     { "Resources" = "reference/resources.md" },
+    { "Needs Proof" = "reference/needs-proof.md" },
     { "What's Changed" = "reference/changelog.md" },
   ] },
 ]

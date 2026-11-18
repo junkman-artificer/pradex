@@ -454,6 +454,7 @@
 .md-typeset :is(.admonition, details).abstract { --pdx-adm: #7ee0d8; }
 /* Collapsible notes hold Unique items, so they wear Unique gold */
 .md-typeset details.note { --pdx-adm: #f2c230; }
+.md-typeset details.note > summary::before { -webkit-mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M11.562 3.266a.5.5 0 0 1 .876 0L15.39 8.87a1 1 0 0 0 1.516.294L21.183 5.5a.5.5 0 0 1 .798.519l-2.834 10.246a1 1 0 0 1-.956.734H5.81a1 1 0 0 1-.957-.734L2.02 6.02a.5.5 0 0 1 .798-.519l4.276 3.664a1 1 0 0 0 1.516-.294z'/><path d='M5 21h14'/></svg>"); mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M11.562 3.266a.5.5 0 0 1 .876 0L15.39 8.87a1 1 0 0 0 1.516.294L21.183 5.5a.5.5 0 0 1 .798.519l-2.834 10.246a1 1 0 0 1-.956.734H5.81a1 1 0 0 1-.957-.734L2.02 6.02a.5.5 0 0 1 .798-.519l4.276 3.664a1 1 0 0 0 1.516-.294z'/><path d='M5 21h14'/></svg>"); }
 
 /* "At a glance" boxes read like a data plate: label on the left, value on the right */
 .md-typeset .admonition.info > ul { list-style: none; margin: 0.3rem 0 0.5rem; padding: 0; }
@@ -690,3 +691,19 @@
 .md-typeset .pdx-mon__rarity { font-family: var(--pdx-readout); font-size: 0.62rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--pdx-mon-c, #e6e6e6); opacity: 0.85; }
 .md-typeset .pdx-mon__meta { font-family: var(--pdx-readout); font-size: 0.66rem; color: #a9b1bc; margin: 0.15rem 0 0.45rem; }
 .md-typeset .pdx-mon__entry { margin: 0; font-size: 0.78rem; line-height: 1.5; }
+
+/* ---------- Theme check 2026-11-17 ---------- */
+/* Wide screens: let the screen panel use the room so tables stop wrapping */
+@media screen and (min-width: 76.25em) {
+  .md-grid { max-width: 72rem; }
+  .md-header__inner { padding-left: 0.8rem; padding-right: 0.8rem; }
+}
+/* Ability names in spellbook tables stay on one line */
+@media screen and (min-width: 45em) {
+  .md-typeset td a[href*="pradotraveler.com/abilities/"] { white-space: nowrap; }
+}
+/* Home stat tiles: keep each label word whole on phones */
+@media screen and (max-width: 44.984375em) {
+  .md-typeset .pdx-hero__stats span,
+  .md-typeset .pdx-hero__stats a { font-size: 0.5rem; letter-spacing: 0.04em; overflow-wrap: normal; word-break: keep-all; hyphens: none; }
+}

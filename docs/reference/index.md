@@ -20,6 +20,14 @@ Quick lookups for terms, tools, and game changes.
 
     [:lucide-arrow-right: View resources](resources.md)
 
+-   :lucide-search-check:{ .lg .middle } __Needs Proof__
+
+    ---
+
+    Best guesses that still need a screenshot. Help confirm them.
+
+    [:lucide-arrow-right: See the list](needs-proof.md)
+
 -   :lucide-history:{ .lg .middle } __What's Changed__
 
     ---
