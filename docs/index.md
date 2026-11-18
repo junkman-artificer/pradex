@@ -46,6 +46,14 @@ Your field guide to Prado. Everything from making your first character to master
 
     [:lucide-arrow-right: Choose](classes/index.md)
 
+-   :lucide-book-marked:{ .lg .middle } __Spellbooks__
+
+    ---
+
+    Where to buy or farm every ability's spellbook.
+
+    [:lucide-arrow-right: Find spellbooks](spellbooks/index.md)
+
 -   :lucide-crosshair:{ .lg .middle } __Combat__
 
     ---
@@ -110,11 +118,19 @@ Your field guide to Prado. Everything from making your first character to master
 
     [:lucide-arrow-right: Explore](waystones/index.md)
 
+-   :lucide-calculator:{ .lg .middle } __Tools__
+
+    ---
+
+    The Mana Calculator, for testing a build before a run.
+
+    [:lucide-arrow-right: Open tools](tools/index.md)
+
 -   :lucide-book-open:{ .lg .middle } __Reference__
 
     ---
 
-    Glossary, tools, open questions, and what's changed.
+    Glossary, links, open questions, and what's changed.
 
     [:lucide-arrow-right: Look up](reference/index.md)
 

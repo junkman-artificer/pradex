@@ -130,9 +130,9 @@ Hitting more often, harder, and faster.
 | Add % Spell Damage Dealt to Barrier | Restores Barrier equal to a percentage of the spell damage you deal. Helps rebuild or bolster your Barrier mid-fight. |
 | Add % Crit Damage to Barrier | Restores Barrier equal to a percentage of your critical strike damage. Helps rebuild or bolster your Barrier mid-fight. |
 | Decrease Weapon Cooldown by | Shortens the time between weapon attacks. Lower is better. |
-| % Faster Weapon Cooldowns | Shortens the time between weapon attacks by a percentage. |
-| % Faster Ability Cooldown | Shortens the cooldowns of your active abilities. Shown as "Ability Speed" on your character sheet. |
-| All Cooldowns % Faster | Shortens both ability cooldowns and the time between weapon attacks. Shown as "All Speed" on your character sheet. |
+| % Faster Weapon Cooldowns | Cuts the time between weapon attacks by that percentage. Shown as "Weapon Speed" on items. |
+| % Faster Ability Cooldown | Cuts the cooldowns of your active abilities by that percentage. Shown as "Ability Speed" on your character sheet. Stacks with [Ability Haste](../combat/status-effects.md#ability-haste). |
+| All Cooldowns % Faster | Cuts both ability cooldowns and the time between weapon attacks by that percentage. Shown as "All Speed" on your character sheet. Stacks with Haste. |
 
 ### Damage prefix bonuses
 

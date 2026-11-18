@@ -273,6 +273,8 @@ Not every status is bad. These are buffs that help you or your allies.
 
 Makes ability timers count down at **double speed**, so abilities come back in half the time. It's the mirror of [Slow](#slow). It doesn't affect weapon timers.
 
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Ability Speed and All Speed on gear work differently: they shorten the cooldown itself, so they stack with Haste. With 20% Ability Speed, a 10 second cooldown becomes 8 seconds, and Haste counts those 8 down in 4.
+
 - **Get it:**
     - Wizard's Minuet, Moonlight Rhapsody, Meadowland Pastoral (Bard songs, whole party)
     - Virtuoso: a short burst every time the Bard casts an ability (Bard trait)
@@ -293,6 +295,8 @@ Makes ability timers count down at **double speed**, so abilities come back in h
     - **Removed by:** Purge, Mass Exorcism
 
 Makes weapon timers count down at **double speed**, so you attack twice as often. It's the weapon version of [Ability Haste](#ability-haste). It doesn't affect ability timers.
+
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Weapon Speed and All Speed on gear shorten the time between attacks instead, and the speed on your stats already includes them. A 2.80 second dagger with 9% All Speed shows 2.54 seconds, and Haste counts that down at double speed.
 
 - **Get it:**
     - Soldier's Fanfare, Ode to Glory, Rogue's Scherzo, Dancer's Bagatelle (Bard songs, whole party)

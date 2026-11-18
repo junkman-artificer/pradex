@@ -160,6 +160,10 @@ Then check the page at phone width in the browser's device toolbar. Before handi
 
 `docs/waystones/runes.md` lists all 84 three-rune combinations. Source: Ezraek's Rune Gap Check spreadsheet (Waystone Forge recipes checked against the community runecrafting site). The 5 High priority combos and Flower + Mask + Night were crafted in game by Ezraek, so they carry no tag. The 17 Medium priority combos use the Waystone Forge pick and are tagged Observed, since every one tested so far has matched. The page no longer links out to the runecrafting site; readers should find it all here.
 
+## Tools
+
+`docs/tools/` is for things that run on Pradex itself, starting with the Mana Calculator (`tools/mana-calculator.md`, logic in `docs/javascripts/mana-calc.js`, ability data in `docs/javascripts/pdx-abilities.js`, generated from `data/abilities.tsv`). Outside sites and community tools stay in Reference > Resources, so the two lists never overlap. Every new tool gets a card on the Tools page.
+
 ## All abilities dropdowns
 
 Each class page has an "All <Class> abilities" dropdown between Overview and Priorities, listing every rank of every ability (Traits included) with what it does. The "What the <Class> unlocks by level 12" dropdown under As a subclass stays separate on purpose. Source: the official class pages (/classes/WAR etc. list every rank), pulled 2026-11-18 and checked character for character against the live site. The raw data, including mana cost and cooldown, lives in `data/abilities.tsv` (not published), so ability questions can be answered from the repo. Text formatting matches the subclass tables: ".0" dropped, a full stop at the end, and small typo fixes ("is will", "damage each" said twice, "2 second").

@@ -1,6 +1,6 @@
 # Reference
 
-Quick lookups for terms, tools, and game changes.
+Quick lookups for terms, links, and game changes.
 
 <div class="grid cards" markdown>
 

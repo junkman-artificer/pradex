@@ -6,6 +6,7 @@ A log of what's been added to the guide.
 
 - **[Mana Calculator](../tools/mana-calculator.md)**: a new Tools section, starting with a calculator for how many cards your build can play before it runs out of mana.
 - **[Classes](../classes/index.md)**: every class page now has a dropdown with all of its abilities, at every level.
+- **[Inventory and stash](../getting-started/core-concepts.md#inventory-and-stash)**: how much each holds, and why a full bag stops you from traveling.
 
 ## November 17, 2026
 

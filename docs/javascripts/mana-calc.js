@@ -61,7 +61,9 @@
   function simulate(cfg) {
     var casters = [];
     function addCaster(list, who, perf) {
-      list.forEach(function (a) { casters.push({ a: a, e: effects(a), who: who, perf: perf || 0, t: a.cd }); });
+      // Ability Speed shortens your own cooldowns. Teammates keep the listed cooldown.
+      var cut = who === "me" ? 1 - Math.min(90, cfg.abilitySpeed) / 100 : 1;
+      list.forEach(function (a) { casters.push({ a: a, e: effects(a), who: who, perf: perf || 0, cd: a.cd * cut, t: a.cd * cut }); });
     }
     addCaster(cfg.mine, "me", cfg.myPerf);
     cfg.mates.forEach(function (m, i) { addCaster(m.abilities, "mate" + i, m.perf); });
@@ -77,18 +79,18 @@
       var aHaste = 0, wHaste = 0, cut = 0, cutLeft = 0, infRate = 0, infLeft = 0;
       var weapons = cfg.weapons.map(function (s) { return { speed: s, t: s }; });
       var tick = 5;
-      casters.forEach(function (c) { c.t = c.a.cd; });
+      casters.forEach(function (c) { c.t = c.cd; });
 
       for (var time = 0; time < FIGHT - 1e-9; time += DT) {
-        // Haste adds 100% speed, and gear speed adds on top of it.
-        var aMul = 1 + cfg.abilitySpeed / 100 + (aHaste > 0 ? 1 : 0), wMul = 1 + cfg.allSpeed / 100 + (wHaste > 0 ? 1 : 0);
+        // Haste makes timers count down twice as fast. Gear speed already shortened the timers above.
+        var aMul = aHaste > 0 ? 2 : 1, wMul = wHaste > 0 ? 2 : 1; // the weapon speed you enter already includes All Speed
         // Abilities
         for (var i = 0; i < casters.length; i++) {
           var c = casters[i];
           if (!c.a.cd) continue;
           c.t -= DT * aMul;
           if (c.t > 1e-9) continue;
-          c.t += c.a.cd;
+          c.t += c.cd;
           var e = c.e;
           if (c.who === "me") {
             var cost = Math.max(0, c.a.mana - Math.floor(cfg.arcane / 4) - (cutLeft > 0 ? cut : 0));
@@ -182,12 +184,12 @@
       ]),
       el("div", { class: "pdx-calc__row" }, [
         field("Mana on Kill", "mc-onkill", 0, "Per enemy defeated"),
-        field("Ability Speed %", "mc-aspeed", 0, "Faster ability cooldowns"),
-        field("All Speed %", "mc-allspeed", 0, "Cooldowns and attacks"),
+        field("Ability Speed %", "mc-aspeed", 0, "Shortens ability cooldowns"),
+        field("All Speed %", "mc-allspeed", 0, "Cooldowns and weapon speed"),
         field("Spell hit chance %", "mc-shit", 90, "For Mana on Spell Hit", null, "mc-sgroup")
       ]),
       el("div", { class: "pdx-calc__row", id: "mc-wgroup", hidden: "hidden" }, [
-        field("Main hand speed", "mc-w1", 3.0, "Seconds per attack"), field("Off hand speed", "mc-w2", 0, "0 if not dual wielding"),
+        field("Main hand speed", "mc-w1", 3.0, "Speed shown in your stats"), field("Off hand speed", "mc-w2", 0, "0 if not dual wielding"),
         field("Weapon hit chance %", "mc-hit", 90, "For Weapon Manasteal")
       ])
     ]);
@@ -404,7 +406,7 @@
         arcane: v(root, "mc-arcane"), myPerf: v(root, "mc-perf"), virtuoso: myCls === "BRD" && myLvl >= 16,
         onCast: v(root, "mc-oncast"), spellSteal: v(root, "mc-spellsteal"), weaponSteal: v(root, "mc-wsteal"),
         incSteal: v(root, "mc-incsteal"), spellHit: v(root, "mc-shit"), onKill: v(root, "mc-onkill"), weapons: weapons, hitChance: v(root, "mc-hit"),
-        abilitySpeed: v(root, "mc-aspeed") + v(root, "mc-allspeed"), allSpeed: v(root, "mc-allspeed"),
+        abilitySpeed: v(root, "mc-aspeed") + v(root, "mc-allspeed"),
         costInc: v(root, "mc-inc"), regenRed: v(root, "mc-red"), enemies: Math.max(1, v(root, "mc-enemies"))
       };
       render(simulate(cfg), cfg);
