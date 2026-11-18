@@ -440,7 +440,7 @@
       else if (res.fullPower === 0) head = "You'll start skipping casts on your very first card.";
       else head = "You can play " + res.fullPower + " card" + (res.fullPower === 1 ? "" : "s") + " at full power before you start skipping casts.";
       out.appendChild(el("p", { class: "pdx-calc__result", text: head }));
-      var t = el("table", {}, [el("thead", {}, [el("tr", {}, ["Card", "Mana at start", "Mana at end", "Casts", "Skipped"].map(function (h) { return el("th", { text: h }); }))])]);
+      var t = el("table", {}, [el("thead", {}, [el("tr", {}, ["Card", "Start", "End", "Casts", "Skips"].map(function (h) { return el("th", { text: h }); }))])]);
       var tb = el("tbody");
       res.rows.slice(0, Math.max(5, (res.fullPower || 0) + 3)).slice(0, 15).forEach(function (r) {
         tb.appendChild(el("tr", r.skipped ? { class: "pdx-calc__skip" } : {}, [r.fight, Math.round(r.start), Math.round(r.end), r.cast, r.skipped].map(function (x) { return el("td", { text: String(x) }); })));
