@@ -14,7 +14,7 @@ Waystones are Prado's end-game PvE. Here's the short version: you combine three 
 Every rune has three things going on:
 
 - **Type** decides which deck you get. Flower Rune + City Rune + any other rune makes Festival of Petals, for example, which runs in Sweetwater.
-- **Tier** decides how hard (and how rewarding) the deck is. Each tier adds +3 to the item level of what drops, and clearing a deck hands you higher-tier runes to keep climbing.
+- **Tier** decides how hard (and how rewarding) the deck is, and the lowest tier of your three runes sets the waystone's tier. Each tier adds +3 to the item level of what drops, and clearing a deck hands you higher-tier runes to keep climbing.
 - **Modifiers** come in three flavors: **Fortunes** add rewards (like Item Drop Rate), **Omens** make things harder (like more monster health), and **Card Modifiers** add specific cards (like +1 Shrine). Everything on all three runes stacks onto the waystone, so the trick is finding a combo that's rewarding without being brutal.
 
 Not sure which runes make which waystone? [Rune Combinations](runes.md) lists every possibility.

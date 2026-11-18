@@ -6,14 +6,6 @@ Official pages and community tools worth bookmarking.
 
 <div class="grid cards" markdown>
 
--   :lucide-sparkles:{ .lg .middle } __Enchantments List__
-
-    ---
-
-    Every Prefix and Suffix that can roll on an item, with tiers and odds. Check it before you spend attunements.
-
-    [:lucide-external-link: Enchantments](https://www.pradotraveler.com/enchantments){ target="_blank" }
-
 -   :lucide-globe:{ .lg .middle } __Prado Traveler__
 
     ---
@@ -41,6 +33,14 @@ Official pages and community tools worth bookmarking.
     [:lucide-external-link: Leatherworking](https://www.pradotraveler.com/leatherworking){ target="_blank" }
     [:lucide-external-link: Alchemy](https://www.pradotraveler.com/alchemy){ target="_blank" }
     [:lucide-external-link: Cooking](https://www.pradotraveler.com/cooking){ target="_blank" }
+
+-   :lucide-sparkles:{ .lg .middle } __Enchantments List__
+
+    ---
+
+    Every Prefix and Suffix that can roll on an item, with tiers and odds. Check it before you spend attunements.
+
+    [:lucide-external-link: Enchantments](https://www.pradotraveler.com/enchantments){ target="_blank" }
 
 </div>
 
