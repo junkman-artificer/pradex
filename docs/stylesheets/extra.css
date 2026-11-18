@@ -708,14 +708,14 @@
   .md-typeset .pdx-hero__stats a { font-size: 0.5rem; letter-spacing: 0.04em; overflow-wrap: normal; word-break: keep-all; hyphens: none; }
 }
 /* ---------- Mana calculator ---------- */
-.md-typeset .pdx-calc { display: grid; gap: 0.8rem; margin: 1rem 0; }
+.md-typeset .pdx-calc { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0.8rem; margin: 1rem 0; }
 .md-typeset .pdx-calc__box { border: 1px solid var(--pdx-line); border-radius: 0.4rem; background: var(--pdx-raised); padding: 0.6rem 0.8rem 0.8rem; margin: 0; min-width: 0; }
 .md-typeset .pdx-calc__box legend { font-family: var(--pdx-readout); font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; font-size: 0.62rem; color: var(--pdx-screen); padding: 0 0.3rem; }
 .md-typeset .pdx-calc__row { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.6rem; margin-top: 0.4rem; }
 .md-typeset .pdx-calc__field { display: flex; flex-direction: column; gap: 0.15rem; font-size: 0.66rem; min-width: 0; }
 .md-typeset .pdx-calc__field > span { color: var(--pdx-dim); }
 .md-typeset .pdx-calc__field small { color: var(--pdx-dim); font-size: 0.58rem; }
-.md-typeset .pdx-calc input[type="number"], .md-typeset .pdx-calc select { width: 100%; box-sizing: border-box; background: var(--pdx-ink); color: inherit; border: 1px solid var(--pdx-line); border-radius: 0.25rem; padding: 0.3rem 0.4rem; font: inherit; font-size: 0.72rem; }
+.md-typeset .pdx-calc input[type="number"], .md-typeset .pdx-calc select { width: 100%; min-width: 0; max-width: 100%; text-overflow: ellipsis; box-sizing: border-box; background: var(--pdx-ink); color: inherit; border: 1px solid var(--pdx-line); border-radius: 0.25rem; padding: 0.3rem 0.4rem; font: inherit; font-size: 0.72rem; }
 .md-typeset .pdx-calc input:focus-visible, .md-typeset .pdx-calc select:focus-visible { outline: 2px solid var(--pdx-screen); outline-offset: 1px; }
 .md-typeset .pdx-calc__slider input[type="range"] { width: 100%; accent-color: var(--pdx-red); }
 .md-typeset .pdx-calc__slider b { color: var(--pdx-amber); font-family: var(--pdx-readout); }
@@ -736,7 +736,11 @@
 .md-typeset .pdx-calc__out { border-left: 3px solid var(--pdx-screen); padding-left: 0.8rem; }
 .md-typeset .pdx-calc__result { font-family: var(--pdx-readout); font-size: 0.85rem; color: var(--pdx-screen); margin: 0.2rem 0 0.6rem; }
 .md-typeset .pdx-calc__skip td { color: var(--pdx-amber); }
-.md-typeset .pdx-calc__slots { display: grid; gap: 0.4rem; margin-top: 0.5rem; }
+.md-typeset .pdx-calc__out { min-width: 0; }
+.md-typeset .pdx-calc__out .md-typeset__table { display: block; max-width: 100%; overflow-x: auto; }
+.md-typeset .pdx-calc__out table:not([class]) { display: table; width: 100%; font-size: 0.68rem; }
+.md-typeset .pdx-calc__out table:not([class]) th, .md-typeset .pdx-calc__out table:not([class]) td { min-width: 0; padding: 0.45em 0.6em; white-space: normal; }
+.md-typeset .pdx-calc__slots { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0.4rem; margin-top: 0.5rem; }
 .md-typeset .pdx-calc__slot { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 0.15rem 0.5rem; align-items: center; }
 .md-typeset .pdx-calc__slotno { grid-column: 1 / -1; }
 .md-typeset .pdx-calc__abilities .pdx-calc__slot { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); }
