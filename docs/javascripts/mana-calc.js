@@ -227,17 +227,19 @@
       ])
     ]);
 
-    var partyBody = el("div", { id: "mc-party", hidden: "hidden" });
+    var partyBody = el("div", { id: "mc-party" });
     var mates = el("fieldset", { class: "pdx-calc__box pdx-calc__party" }, [el("legend", {}, [
-      el("button", { type: "button", class: "pdx-calc__toggle", "aria-expanded": "false", "aria-controls": "mc-party" }, [
-        el("span", { text: "Your party" }), el("b", { id: "mc-pcount" }), el("small", { text: "Add teammates who help with mana" })])
-      ]), partyBody]);
+      el("span", { text: "Your party" }), el("b", { id: "mc-pcount" })]), partyBody]);
     partyBody.appendChild(
       el("p", { class: "pdx-calc__note", text: "Teammates' support is counted as if they cast it on cooldown. Add their subclass too, since a Bard or Priest subclass still brings Harmony or Prayer of Healing." }));
     for (var i = 0; i < 3; i++) {
-      partyBody.appendChild(el("div", { class: "pdx-calc__mate", "data-i": String(i) }, [
+      partyBody.appendChild(el("div", { class: "pdx-calc__mate", "data-i": String(i), hidden: "hidden" }, [
+        el("div", { class: "pdx-calc__matehead" }, [
+          el("span", { class: "pdx-calc__slotno" }),
+          el("button", { type: "button", class: "pdx-calc__remove", "data-i": String(i), text: "Remove" })
+        ]),
         el("div", { class: "pdx-calc__row" }, [
-          select("Teammate " + (i + 1), "mc-m" + i, [["", "Empty"]].concat(CLASSES), ""),
+          select("Class", "mc-m" + i, [["", "Pick a class"]].concat(CLASSES), ""),
           select("Level", "mc-ml" + i, levels(25), "25"),
           select("Subclass", "mc-msb" + i, [["", "None"]].concat(CLASSES), ""),
           select("Subclass level", "mc-msl" + i, levels(12), "12"),
@@ -247,6 +249,7 @@
         el("div", { class: "pdx-calc__abilities", id: "mc-ma" + i })
       ]));
     }
+    partyBody.appendChild(el("button", { type: "button", class: "pdx-calc__add", text: "Add a teammate" }));
 
     var out = el("div", { class: "pdx-calc__out", id: "mc-out", "aria-live": "polite" });
     [you, stats, fight, mates, out].forEach(function (n) { form.appendChild(n); });
@@ -404,7 +407,7 @@
     function run() {
       root.querySelector("#mc-incv").textContent = v(root, "mc-inc") + "%";
       root.querySelector("#mc-redv").textContent = v(root, "mc-red") + "%";
-      var set = 0; for (var q = 0; q < 3; q++) if (root.querySelector("#mc-m" + q).value) set++;
+      var set = root.querySelectorAll(".pdx-calc__mate:not([hidden])").length;
       root.querySelector("#mc-pcount").textContent = set ? "(" + set + ")" : "";
       var mine = [].slice.call(abilityBox.querySelectorAll("select.mc-rank")).filter(function (n) { return n.value; }).map(function (n) { return find(n.id && root.querySelector("#mc-s" + n.id.slice(4)).value.split("|")[0], n.value); });
       var myCls = root.querySelector("#mc-cls").value, myLvl = v(root, "mc-lvl");
@@ -494,11 +497,35 @@
       if (n.value === "") n.value = n.dataset.was;
       delete n.dataset.was; n.placeholder = "";
     });
-    root.querySelector(".pdx-calc__toggle").addEventListener("click", function () {
-      var open = this.getAttribute("aria-expanded") !== "true";
-      this.setAttribute("aria-expanded", String(open));
-      partyBody.hidden = !open;
+    // Teammates are added one at a time, up to three, and numbered in the order they show.
+    function relabelMates() {
+      var shown = [].slice.call(root.querySelectorAll(".pdx-calc__mate:not([hidden])"));
+      shown.forEach(function (m, k) { m.querySelector(".pdx-calc__slotno").textContent = "Teammate " + (k + 1); });
+      root.querySelector(".pdx-calc__add").hidden = shown.length >= 3;
+    }
+    root.querySelector(".pdx-calc__add").addEventListener("click", function () {
+      var next = root.querySelector(".pdx-calc__mate[hidden]");
+      if (!next) return;
+      partyBody.insertBefore(next, this);
+      next.hidden = false;
+      relabelMates(); run();
+      next.querySelector("select").focus();
     });
+    partyBody.addEventListener("click", function (ev) {
+      var btn = ev.target.closest(".pdx-calc__remove");
+      if (!btn) return;
+      var i = btn.dataset.i;
+      root.querySelector("#mc-m" + i).value = "";
+      root.querySelector("#mc-msb" + i).value = "";
+      root.querySelector("#mc-ml" + i).value = "25";
+      root.querySelector("#mc-msl" + i).value = "12";
+      root.querySelector("#mc-mp" + i).value = "0";
+      root.querySelector("#mc-mspd" + i).value = "0";
+      listMate(i); updatePerf();
+      btn.closest(".pdx-calc__mate").hidden = true;
+      relabelMates(); run();
+    });
+    relabelMates();
     listSubs();
     listAbilities();
     for (var k = 0; k < 3; k++) listMate(k);
