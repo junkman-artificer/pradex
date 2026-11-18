@@ -2,7 +2,7 @@
 
 Every waystone takes three runes, and the rune **types** decide which deck you get. There are seven types, so there are 84 possible combinations, and every one of them is below. The order you put them in doesn't matter.
 
-Not every rune shows up at every tier. Night Runes, for example, only drop at Tier 3 and up. Each deck's recipe on its region page shows the lowest tier you'll find each of its runes at.
+Not every rune drops at every tier. River, Flower, City and Mask Runes turn up from Tier 1, Mud and Song Runes from Tier 2, and Night Runes from Tier 3.
 
 !!! info "How sure is this?"
     Most of these come from crafting in game. <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> marks combinations where more than one deck could fit the recipe rules and nobody has crafted that exact mix yet, but every one tested so far has matched.
