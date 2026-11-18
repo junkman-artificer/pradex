@@ -1,0 +1,312 @@
+class	level	tier	type	name	cost	cooldown	text
+WAR	2		Active	Hemorrhage	6 Mana	4.8s	Inflict a deep wound dealing 80.0% weapon damage and applying Bleed for 4.0 damage per second for 4 seconds.
+WAR	2		Passive	Rage			Each successful attack fuels your anger, increasing your weapon damage by 1.
+WAR	3		Active	Crippling Blow	6 Mana	5.3s	Deliver a powerful strike for 80.0% weapon damage and reduces the target's damage by 7.0 for 3 seconds.
+WAR	4		Active	Thunderclap	8 Mana	6.1s	Slam the ground with a thunderous blow, dealing 10.0 to 13.0 damage to the enemy front line and slowing them for 1 second.
+WAR	4		Trait	Shield Bearer			Allows shields to be equipped in your offhand.
+WAR	5		Active	Dazzling Strike	8 Mana	5.6s	Disorient the enemy, striking them for 90.0% weapon damage and reducing their chance to hit by 30.0% for 3 seconds.
+WAR	6		Active	War Cry	9 Mana	6.0s	Release a war cry, boosting all party members' weapon damage by 7.0 for 4 seconds.
+WAR	7		Active	Blademail	9 Mana	6.0s	Whenever an enemy successfully attacks you, deal 6.0 damage to the attacker for 5 seconds.
+WAR	7		Active	Pain Suppression	8 Mana	6.0s	Harness your inner fortitude, temporarily mitigating pain, reducing incoming damage by 7.0 for 4 seconds
+WAR	8		Trait	Iron Will			Every 10 Strength grants +1 Health Regen.
+WAR	8		Active	Provoke	10 Mana	7.0s	Taunt the enemy, forcing them to target you for the next 3.0 seconds.
+WAR	9		Active	Mighty Strikes	12 Mana	6.0s	Your weapon attacks deal 30.0% damage to adjacent enemies.
+WAR	10		Active	Hemorrhage II	12 Mana	4.8s	Inflict a deep wound dealing 120.0% weapon damage and applying Bleed for 8.0 damage per second for 4 seconds.
+WAR	10		Active	Glancing Blows	14 Mana	6.0s	React to enemy reflexes for 5 seconds; any missed attacks deal half damage to the enemy.
+WAR	10		Active	Whirlwind	14 Mana	8.0s	Unleash a whirlwind of blades, striking all enemies for 85.0% weapon damage.
+WAR	11		Active	Intimidating Shout	9 Mana	6.0s	Let out an intimidating shout, reducing enemy damage by 7.0 for 4 seconds.
+WAR	11		Passive	Rage II			Each successful attack fuels your anger, increasing your weapon damage by 2.
+WAR	12		Trait	Counter			Attack with your main-hand weapon whenever you dodge an enemy attack.
+WAR	12		Active	Crippling Blow II	12 Mana	5.3s	Deliver a powerful strike for 120.0% weapon damage and reduces the target's damage by 12.0 for 3 seconds.
+WAR	12		Active	Thunderclap II	14 Mana	6.1s	Slam the ground with a thunderous blow, dealing 17.0 to 21.0 damage to the enemy front line and slowing them for 1.25 seconds.
+WAR	13		Active	Berserk	15 Mana	5.0s	Enter a frenzied state, purging one negative status effect and increasing weapon damage by 1 for every 3% of health missing.
+WAR	13		Active	Pain Suppression II	14 Mana	6.0s	Harness your inner fortitude, temporarily mitigating pain, reducing incoming damage by 12.0 for 4 seconds
+WAR	14		Passive	Overkill			Revel in your defeated enemies, healing for half of the overkill damage dealt to each enemy.
+WAR	14		Active	War Cry II	16 Mana	6.0s	Release a war cry, boosting all party members' weapon damage by 14.0 for 4 seconds.
+WAR	15		Active	Blademail II	12 Mana	6.0s	Whenever an enemy successfully attacks you, deal 12.0 damage to the attacker for 5 seconds.
+WAR	15		Active	Dazzling Strike II	18 Mana	5.6s	Disorient the enemy, striking them for 140.0% weapon damage and reducing their chance to hit by 30.0% for 3 seconds.
+WAR	16		Active	Provoke II	18 Mana	7.0s	Taunt the enemy, forcing them to target you for the next 4.0 seconds.
+WAR	16		Trait	Second Wind			Once per combat, when your health drops below 0, instantly restore it to 30% of your max hp.
+WAR	17		Active	Mighty Strikes II	18 Mana	6.0s	Your weapon attacks deal 50.0% damage to adjacent enemies.
+WAR	17		Active	Hemorrhage III	20 Mana	4.8s	Inflict a deep wound dealing 160.0% weapon damage and applying Bleed for 12.0 damage per second for 4 seconds.
+WAR	18		Active	Whirlwind II	26 Mana	8.0s	Unleash a whirlwind of blades, striking all enemies for 110.0% weapon damage.
+WAR	18		Active	Intimidating Shout II	20 Mana	6.0s	Let out an intimidating shout, reducing enemy damage by 14.0 for 4 seconds.
+WAR	19		Active	Pain Suppression III	22 Mana	6.0s	Harness your inner fortitude, temporarily mitigating pain, reducing incoming damage by 17.0 for 4 seconds
+WAR	20		Passive	Rage III			Each successful attack fuels your anger, increasing your weapon damage by 3.
+WAR	20		Active	Crippling Blow III	20 Mana	5.3s	Deliver a powerful strike for 160.0% weapon damage and reduces the target's damage by 21.0 for 3 seconds.
+WAR	21		Active	Thunderclap III	24 Mana	6.1s	Slam the ground with a thunderous blow, dealing 32.0 to 35.0 damage to the enemy front line and slowing them for 1.5 seconds.
+WAR	23		Active	Blademail III	25 Mana	6.0s	Whenever an enemy successfully attacks you, deal 20.0 damage to the attacker for 5 seconds.
+WAR	23		Active	Berserk II	24 Mana	5.0s	Enter a frenzied state, purging one negative status effect and increasing weapon damage by 1 for every 2% of health missing.
+WAR	24		Active	War Cry III	20 Mana	6.0s	Release a war cry, boosting all party members' weapon damage by 21.0 for 4 seconds.
+WAR	24		Active	Provoke III	28 Mana	7.0s	Taunt the enemy, forcing them to target you for the next 5.0 seconds.
+WAR	25		Active	Intimidating Shout III	28 Mana	6.0s	Let out an intimidating shout, reducing enemy damage by 21.0 for 4 seconds.
+WAR	25	1	Active	Hemorrhage IV	28 Mana	4.8s	Inflict a deep wound dealing 200.0% weapon damage and applying Bleed for 16.0 damage per second for 4 seconds.
+WAR	25	2	Active	Crippling Blow IV	32 Mana	5.3s	Deliver a powerful strike for 200.0% weapon damage and reduces the target's damage by 28.0 for 3 seconds.
+WAR	25	2	Active	Dazzling Strike III	34 Mana	5.6s	Disorient the enemy, striking them for 180.0% weapon damage and reducing their chance to hit by 30.0% for 3 seconds.
+WAR	25	2	Passive	Overkill II			Revel in your defeated enemies, healing for the overkill damage dealt to each enemy.
+WAR	25	2	Active	Thunderclap IV	32 Mana	6.1s	Slam the ground with a thunderous blow, dealing 58.0 to 64.0 damage to the enemy front line and slowing them for 1.75 seconds.
+WAR	25	3	Active	Blademail IV	32 Mana	6.0s	Whenever an enemy successfully attacks you, deal 32.0 damage to the attacker for 5 seconds.
+WAR	25	3	Active	War Cry IV	30 Mana	6.0s	Release a war cry, boosting all party members' weapon damage by 28.0 for 4 seconds.
+WAR	25	3	Active	Mighty Strikes III	30 Mana	6.0s	Your weapon attacks deal 80.0% damage to adjacent enemies.
+WAR	25	4	Active	Pain Suppression IV	32 Mana	6.0s	Harness your inner fortitude, temporarily mitigating pain, reducing incoming damage by 25.0 for 4 seconds
+WAR	25	5	Active	Whirlwind III	44 Mana	8.0s	Unleash a whirlwind of blades, striking all enemies for 135.0% weapon damage.
+WAR	25	5	Active	Hemorrhage V	38 Mana	4.8s	Inflict a deep wound dealing 240.0% weapon damage and applying Bleed for 24.0 damage per second for 4 seconds.
+WAR	25	5	Passive	Rage IV			Each successful attack fuels your anger, increasing your weapon damage by 4.
+MAG	2		Active	Fireball	7 Mana	4.8s	Launch a blazing orb at your enemy, dealing 4.0 to 8.0 fire damage, and applying Burn for 3 seconds.
+MAG	3		Active	Firebrand Weapon	5 Mana	5.0s	Imbue your front line's weapons with flames for 4 seconds, causing their successful weapon attacks to apply Burn to the target.
+MAG	4		Trait	Attuned			Allows orbs to be equipped in your offhand.
+MAG	5		Active	Frostbolt	10 Mana	5.6s	Hurl a shard of ice at an enemy, dealing 8.0 to 12.0 frost damage and freezing them for 1 second.
+MAG	6		Active	Mage Armor	7 Mana	7.2s	Weave arcane wards around your front line, restoring 2.0 mana to them whenever they take damage.
+MAG	7		Active	Icebrand Weapon	10 Mana	5.0s	Imbue your front line's weapons with icy magic for 4 seconds, causing their successful attacks to freeze the enemy for 1 second.
+MAG	8		Active	Arcane Missiles	10 Mana	6.7s	Fire 3 arcane projectiles that seek out your enemies, dealing 5.0 to 9.0 arcane damage each.
+MAG	8		Trait	Manafont			Every 10 Intellect grants +1 Mana Regen.
+MAG	9		Active	Lightning Bolt	14 Mana	3.8s	Strike your enemy with a bolt of lightning, dealing 14.0 to 18.0 damage. If the enemy is frozen, this deals double damage.
+MAG	10		Active	Fireball II	17 Mana	4.8s	Launch a blazing orb at your enemy, dealing 16.0 to 19.0 fire damage, and applying Burn II for 3 seconds.
+MAG	11		Active	Dragon's Breath	15 Mana	6.0s	Unleash a fiery breath, applying Burn to each enemy at the front line for 3 seconds.
+MAG	12		Trait	Archivist			Increase your chance to discover spellbooks by 5%.
+MAG	12		Active	Mage Armor II	14 Mana	7.2s	Weave arcane wards around your front line, restoring 4.0 mana to them whenever they take damage.
+MAG	13		Active	Arcane Infusion	18 Mana	10.0s	Channel arcane energy to invigorate your allies, giving 5.0 mana regen per second for 3 seconds.
+MAG	13		Active	Blizzard	18 Mana	8.6s	Summon a chilling blizzard, dealing 14.0 to 17.0 damage, and freezing each enemy for 1 second.
+MAG	14		Active	Firebrand Weapon II	12 Mana	5.0s	Imbue your front line's weapons with flames for 4 seconds, causing their successful weapon attacks to apply Burn II to the target.
+MAG	15		Active	Frostbolt II	20 Mana	5.6s	Hurl a shard of ice at an enemy, dealing 18.0 to 24.0 frost damage and freezing them for 2 seconds.
+MAG	15		Active	Mirror Image	18 Mana	9.0s	Create 2 illusory duplicates of yourself to confuse and distract enemies. Each illusion may absorb one attack.
+MAG	16		Active	Icebrand Weapon II	18 Mana	5.0s	Imbue your front line's weapons with icy magic for 4 seconds, causing their successful attacks to freeze the enemy for 2 seconds.
+MAG	16		Trait	Enchiridion			Expand your spellbook, increasing your equippable spell slots by 1.
+MAG	16		Active	Lightning Bolt II	28 Mana	3.8s	Strike your enemy with a bolt of lightning, dealing 24.0 to 32.0 damage. If the enemy is frozen, this deals double damage.
+MAG	18		Active	Fireball III	32 Mana	4.8s	Launch a blazing orb at your enemy, dealing 40.0 to 46.0 fire damage, and applying Burn III for 3 seconds.
+MAG	18		Active	Arcane Missiles II	24 Mana	6.7s	Fire 3 arcane projectiles that seek out your enemies, each dealing 18.0 to 22.0 arcane damage each.
+MAG	18		Active	Dragon's Breath II	25 Mana	6.0s	Unleash a fiery breath, applying Burn II to each enemy at the front line for 3 seconds.
+MAG	19		Active	Arcane Infusion II	36 Mana	10.0s	Channel arcane energy to invigorate your allies, giving 10.0 mana regen per second for 3 seconds.
+MAG	19		Active	Mage Armor III	22 Mana	7.2s	Weave arcane wards around your front line, restoring 6.0 mana to them whenever they take damage.
+MAG	20		Active	Blizzard II	38 Mana	8.6s	Summon a chilling blizzard, dealing 28.0 to 32.0 damage, and freezing each enemy for 1.75 seconds.
+MAG	22		Active	Firebrand Weapon III	26 Mana	5.0s	Imbue your front line's weapons with flames for 4 seconds, causing their successful weapon attacks to apply Burn III to the target.
+MAG	23		Active	Frostbolt III	36 Mana	5.6s	Hurl a shard of ice at an enemy, dealing 40.0 to 44.0 frost damage and freezing for 3 seconds.
+MAG	23		Active	Lightning Bolt III	44 Mana	3.8s	Strike your enemy with a bolt of lightning, dealing 38.0 to 46.0 damage. If the enemy is frozen, this deals double damage.
+MAG	24		Active	Icebrand Weapon III	34 Mana	5.0s	Imbue your front line's weapons with icy magic for 4 seconds, causing their successful attacks to freeze the enemy for 3 seconds.
+MAG	25	1	Active	Dragon's Breath III	44 Mana	6.0s	Unleash a fiery breath, applying Burn III to each enemy at the front line for 3 seconds.
+MAG	25	1	Active	Fireball IV	49 Mana	4.8s	Launch a blazing orb at your enemy, dealing 48.0 to 54.0 fire damage, and applying Burn IV for 3 seconds.
+MAG	25	2	Active	Arcane Infusion III	50 Mana	10.0s	Channel arcane energy to invigorate your allies, giving 15.0 mana regen per second for 3 seconds.
+MAG	25	2	Active	Firebrand Weapon IV	42 Mana	5.0s	Imbue your front line's weapons with flames for 4 seconds, causing their successful weapon attacks to apply Burn IV to the target.
+MAG	25	3	Active	Mage Armor IV	48 Mana	7.2s	Weave arcane wards around your front line, restoring 8.0 mana to them whenever they take damage.
+MAG	25	3	Active	Arcane Missiles III	48 Mana	6.7s	Fire 3 arcane projectiles that seek out your enemies, each dealing 40.0 to 46.0 arcane damage each.
+MAG	25	4	Active	Blizzard III	56 Mana	8.6s	Summon a chilling blizzard, dealing 38.0 to 44.0 damage, and freezing each enemy for 2.5 seconds.
+MAG	25	4	Active	Lightning Bolt IV	72 Mana	3.8s	Strike your enemy with a bolt of lightning, dealing 50.0 to 54.0 damage. If the enemy is frozen, this deals double damage.
+MAG	25	5	Active	Fireball V	58 Mana	4.8s	Launch a blazing orb at your enemy, dealing 60.0 to 66.0 fire damage, and applying Burn V for 3 seconds.
+MAG	25	5	Active	Frostbolt IV	60 Mana	5.6s	Hurl a shard of ice at an enemy, dealing 52.0 to 56.0 frost damage and freezing for 3 seconds.
+THF	2		Active	Deadly Poison	4 Mana	6.0s	Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 1.0 Poison on hit.
+THF	3		Passive	Venomous Strike			Every fourth weapon strike deals 2.0 additional damage for each stack of Poison on the target enemy.
+THF	4		Trait	Dual Wield			Allows one-handed weapons to be equipped in your offhand.
+THF	4		Active	Poisoned Dagger	3 Mana	3.5s	Strike your enemy with a poisoned dagger, applying 1.0 Poison to the target enemy.
+THF	5		Active	Kidney Punch	4 Mana	5.5s	Deliver an incapacitating blow to an enemy, stunning them for 1.0 second.
+THF	6		Active	Explosive Grenade	8 Mana	6.0s	Hurl a grenade that detonates on impact, dealing 8.0 to 12.0 damage.
+THF	7		Passive	Twin Strike			Every fourth successful weapon attack strikes twice.
+THF	8		Trait	Focus Target			Focus all attacks on a single character until they are eliminated.
+THF	8		Passive	Leech			Every fourth successful weapon attack restores 3.0 health for each Poison on the target enemy.
+THF	9		Passive	Extraction			Every fourth successful weapon attack restores 2.0 mana for each stack of Poison on the target enemy.
+THF	9		Active	Flash Bomb	10 Mana	6.0s	Throw a bomb that explodes in a blinding flash, decreasing an enemy and adjacent target's hit chance by 30.0% for 4 seconds.
+THF	9		Active	Mutilate	12 Mana	6.7s	Savagely strike with both weapons at once, each dealing 70.0% of its weapon's damage.
+THF	10		Active	Marked for Death	9 Mana	5.0s	Mark an enemy for death, increasing all damage received by 25.0% for 5 seconds.
+THF	10		Active	Strangling Gas	10 Mana	5.5s	Throw a toxic cocktail that applies 1.0 Poison to the target and adjacent enemies.
+THF	11		Active	Evasion	9 Mana	7.0s	Increase your evasion by 25% for 4 seconds.
+THF	11		Passive	Subduing Strike			Every fourth successful weapon attack stuns your opponent for 1 second.
+THF	12		Active	Shiv	10 Mana	3.6s	Deliver a quick, close range strike with your off-hand weapon.
+THF	12		Trait	Treasure Hunter			Increase your chance to discover magic items by 10%.
+THF	12		Active	Poisoned Dagger II	12 Mana	3.5s	Strike your enemy with a poisoned dagger, applying 3.0 Poison to the target enemy.
+THF	12		Active	Deadly Poison II	14 Mana	6.0s	Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 3.0 Poison on hit.
+THF	13		Active	Flurry	16 Mana	6.5s	Deal 3 main-hand weapon strikes in quick succession that deal 30% damage each.
+THF	13		Active	Cunning Strike	10 Mana	7.0s	Your next weapon attack is will deal an additional 0.4x DEX in damage.
+THF	14		Passive	Venomous Strike II			Every fourth weapon strike deals 5.0 additional damage for each stack of Poison on the target enemy.
+THF	14		Active	Decoy	14 Mana	6.5s	Create a decoy which absorbs the next enemy attack. Then counterattack with your weapon.
+THF	15		Active	Explosive Grenade II	18 Mana	6.0s	Hurl a grenade that detonates on impact, dealing 30.0 to 35.0 damage.
+THF	15		Active	Kidney Punch II	14 Mana	5.5s	Deliver an incapacitating blow to an enemy, stunning them for 2.0 second.
+THF	16		Passive	Leech II			Every fourth successful weapon attack restores 5.0 health for each Poison on the target enemy.
+THF	16		Passive	Extraction II			Every fourth successful weapon attack restores 4.0 mana for each stack of Poison on the target enemy.
+THF	16		Trait	Tactician			Critical strike rate and hit rate bonuses from Dexterity are doubled.
+THF	17		Active	Flash Bomb II	22 Mana	6.0s	Throw a bomb that explodes in a blinding flash, decreasing an enemy and adjacent target's hit chance by 45.0% for 4 seconds.
+THF	17		Active	Mutilate II	22 Mana	6.7s	Savagely strike with both weapons at once, each dealing 90.0% of its weapon's damage.
+THF	18		Active	Strangling Gas II	20 Mana	5.5s	Throw a toxic cocktail that applies 3.0 Poison to the target and adjacent enemies.
+THF	18		Passive	Subduing Strike II			Every fourth successful weapon attack stuns your opponent for 1.75 seconds.
+THF	19		Active	Evasion II	22 Mana	7.0s	Increase your evasion by 40% for 4 seconds.
+THF	19		Active	Cunning Strike II	18 Mana	6.0s	Your next weapon attack is will deal an additional 0.7x DEX in damage.
+THF	20		Active	Marked for Death II	20 Mana	5.0s	Mark an enemy for death, increasing all damage received by 40.0% for 5 seconds.
+THF	20		Active	Poisoned Dagger III	24 Mana	3.5s	Strike your enemy with a poisoned dagger, applying 5.0 Poison to the target enemy.
+THF	21		Active	Shiv II	18 Mana	3.2s	Deliver a quick, close range strike with your off-hand weapon.
+THF	21		Active	Flurry II	28 Mana	6.5s	Deal 4 main-hand weapon strikes in quick succession that deal 30% damage each.
+THF	22		Passive	Venomous Strike III			Every fourth weapon strike deals 8.0 additional damage for each stack of Poison on the target enemy.
+THF	22		Passive	Extraction III			Every fourth successful weapon attack restores 6.0 mana for each stack of Poison on the target enemy.
+THF	22		Active	Deadly Poison III	30 Mana	6.0s	Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 5.0 Poison on hit.
+THF	23		Active	Strangling Gas III	32 Mana	5.5s	Throw a toxic cocktail that applies 5.0 Poison to the target and adjacent enemies.
+THF	24		Active	Mutilate III	34 Mana	6.7s	Savagely strike with both weapons at once, each dealing 110.0% of its weapon's damage.
+THF	24		Active	Explosive Grenade III	32 Mana	6.0s	Hurl a grenade that detonates on impact, dealing 44.0 to 52.0 damage.
+THF	25	1	Active	Kidney Punch III	38 Mana	5.5s	Deliver an incapacitating blow to an enemy, stunning them for 3.0 second.
+THF	25	2	Active	Explosive Grenade IV	42 Mana	5.0s	Hurl a grenade that detonates on impact, dealing 75.0 to 80.0 damage.
+THF	25	2	Active	Poisoned Dagger IV	36 Mana	3.5s	Strike your enemy with a poisoned dagger, applying 7.0 Poison to the target enemy.
+THF	25	3	Active	Cunning Strike III	30 Mana	6.0s	Your next weapon attack is will deal an additional 1.0x DEX in damage.
+THF	25	3	Passive	Subduing Strike III			Every fourth successful weapon attack stuns your opponent for 2.5 seconds.
+THF	25	4	Active	Deadly Poison IV	40 Mana	6.0s	Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 7.0 Poison on hit.
+THF	25	4	Active	Shiv III	30 Mana	2.8s	Deliver a quick, close range strike with your off-hand weapon.
+THF	25	5	Active	Flurry III	40 Mana	6.5s	Deal 5 main-hand weapon strikes in quick succession that deal 30% damage each.
+THF	25	5	Passive	Leech III			Every fourth successful weapon attack restores 7.0 health for each Poison on the target enemy.
+PST	2		Active	Penance	6 Mana	4.5s	Speak a word of power, dealing 12.0 holy damage over 3 seconds to a target enemy.
+PST	3		Active	Holy Weapon	4 Mana	5.3s	Imbue your front line's weapons with holy power, causing their successful weapon attacks to heal them for 4.0 health.
+PST	4		Active	Divine Shield	5 Mana	6.3s	Wrap your front line in holy protection, granting each ally 8.0 Barrier.
+PST	4		Trait	Piety			Allows Relics to be equipped in your offhand.
+PST	5		Active	Healing Word	8 Mana	7.2s	Speak a word of healing, instantly restoring 7.0 health and 5.0 mana to an allied character.
+PST	6		Active	Cleanse	10 Mana	8.4s	Infuse an ally with divine energy, removing one negative status effect.
+PST	7		Active	Holy Armor	4 Mana	7.2s	Imbue your front line's armor with holy power, healing them for 4.0 health whenever they take damage.
+PST	8		Trait	Mercy			Every 10 Intellect grants your party +1 Health Regen.
+PST	8		Active	Purge	12 Mana	8.9s	Exorcise an enemy, removing one positive status effect.
+PST	9		Active	Holy Nova	12 Mana	9.3s	Release a burst of holy energy, dealing 9.0 damage to all enemies, and healing all allies for 5.0 health.
+PST	10		Active	Penance II	13 Mana	4.5s	Speak a word of power, dealing 24.0 holy damage over 3 seconds to a target enemy.
+PST	11		Active	Prayer of Healing	12 Mana	9.7s	Utter a prayer of healing, instantly restoring 9.0 health and 5.0 mana to all allies.
+PST	12		Active	Divine Shield II	14 Mana	6.3s	Wrap your front line in holy protection, granting each ally 18.0 Barrier.
+PST	12		Trait	Supplication			You may select from 4 blessings when you encounter a Shrine.
+PST	13		Active	Healing Word II	16 Mana	7.2s	Speak a word of healing, instantly restoring 14.0 health and 12.0 mana to an allied character.
+PST	14		Active	Holy Weapon II	10 Mana	5.3s	Imbue your front line's weapons with holy power, causing their successful weapon attacks to heal them for 13.0 health.
+PST	16		Trait	Deliverance			Once per combat, call upon divine mercy to resurrect a fallen ally with 20% health and mana.
+PST	16		Active	Holy Armor II	10 Mana	7.2s	Imbue your front line's armor with holy power, healing them for 10.0 health whenever they take damage.
+PST	17		Active	Cleanse II	28 Mana	8.4s	Infuse an ally with divine energy, removing two negative status effects.
+PST	17		Active	Divine Shield III	24 Mana	6.3s	Wrap your front line in holy protection, granting each ally 28.0 Barrier.
+PST	18		Active	Holy Nova II	30 Mana	9.3s	Release a burst of holy energy, dealing 18.0 damage to all enemies, and healing all allies for 10.0 health.
+PST	18		Active	Penance III	24 Mana	4.5s	Speak a word of power, dealing 42.0 holy damage over 3 seconds to a target enemy.
+PST	18		Active	Prayer of Healing II	26 Mana	9.7s	Utter a prayer of healing, instantly restoring 30.0 health and 14.0 mana to all allies.
+PST	20		Active	Mass Dispel	46 Mana	10.2s	Call upon divine power to remove one negative status effect from all allies.
+PST	21		Active	Purge II	28 Mana	8.9s	Exorcise an enemy, removing two positive status effects.
+PST	22		Active	Healing Word III	30 Mana	7.2s	Speak a word of healing, instantly restoring 36.0 health and 24.0 mana to an allied character.
+PST	23		Active	Divine Shield IV	32 Mana	6.3s	Wrap your front line in holy protection, granting each ally 40.0 Barrier.
+PST	23		Active	Holy Weapon III	20 Mana	5.3s	Imbue your front line's weapons with holy power, causing their successful weapon attacks to heal them for 21.0 health.
+PST	24		Active	Holy Armor III	20 Mana	7.2s	Imbue your front line's armor with holy power, healing them for 18.0 health whenever they take damage.
+PST	24		Active	Mass Exorcism	54 Mana	10.2s	Unleash divine wrath to banish one positive status effect from every enemy.
+PST	25		Active	Holy Nova III	46 Mana	9.3s	Release a burst of holy energy, dealing 33.0 damage to all enemies, and healing all allies for 18.0 health.
+PST	25		Active	Penance IV	38 Mana	4.5s	Speak a word of power, dealing 60.0 holy damage over 3 seconds to a target enemy.
+PST	25		Active	Prayer of Healing III	42 Mana	9.7s	Utter a prayer of healing, instantly restoring 54.0 health and 30.0 mana to all allies.
+PST	25	1	Active	Healing Word IV	40 Mana	7.2s	Speak a word of healing, instantly restoring 56.0 health and 30.0 mana to an allied character.
+PST	25	2	Active	Divine Shield V	48 Mana	6.3s	Wrap your front line in holy protection, granting each ally 56.0 Barrier.
+PST	25	3	Active	Cleanse III	50 Mana	8.4s	Infuse an ally with divine energy, removing three negative status effects.
+PST	25	4	Active	Prayer of Healing IV	52 Mana	9.7s	Utter a prayer of healing, instantly restoring 64.0 health and 40.0 mana to all allies.
+PST	25	4	Active	Purge III	56 Mana	8.9s	Exorcise an enemy, removing three positive status effects.
+PST	25	5	Active	Healing Word V	50 Mana	7.2s	Speak a word of healing, instantly restoring 68.0 health and 42.0 mana to an allied character.
+PST	25	5	Active	Penance V	50 Mana	4.5s	Speak a word of power, dealing 90.0 holy damage over 3 seconds to a target enemy.
+BRD	2		Active	Soldier's Fanfare	4 Mana	7.1s	Sound a heroic fanfare that increases your allies' weapon damage by 8 for 4 seconds and grants them Weapon Haste for 1 second.
+BRD	3		Active	Wizard's Minuet	4 Mana	8.1s	Play a mystical minuet that increases your allies' spellpower by 6 for 4 seconds and grants them Ability Haste for 1 second.
+BRD	4		Trait	Musician			Allows Instruments to be equipped in your offhand.
+BRD	4		Active	Requiem of Suffering	5 Mana	7.7s	Intone a sorrowful requiem that deals 3 damage per second for 4 seconds to all enemies and applies Slow for 1 second.
+BRD	5		Active	Ode to Glory	5 Mana	8.3s	Sing an inspiring ode that reduces damage taken by allies by 4 for 5 seconds, and grants them Weapon Haste for 1 second.
+BRD	6		Active	Rogue's Scherzo	4 Mana	6.7s	Strike up a sharp scherzo that grants allies 10% hit rating and crit rating for 4 seconds and Weapon Haste for 1 second.
+BRD	8		Active	Dancer's Bagatelle	5 Mana	7.6s	Play a rhythmic bagatelle that grants allies 10% evasion for 4 seconds and Weapon Haste for 1 second.
+BRD	8		Trait	Performer			Every 8 Dexterity and 8 Intellect increases Performance by 1.
+BRD	9		Active	Moonlight Rhapsody	7 Mana	8.4s	Weave an enchanting rhapsody that reduces mana cost of allies' spells by 4 for 5 seconds, and grants Ability Haste for 1 second.
+BRD	9		Active	Sorcerer's Lament	7 Mana	7.9s	Compose a melancholic lament that decreases enemy magic resistance by 20% for 4 seconds and applies Slow for 1 second.
+BRD	10		Active	Meadowland Pastoral	9 Mana	9.6s	Perform a soothing pastoral melody, granting all allies 2 health regen per second for 5 seconds, and Ability Haste for 1 second.
+BRD	11		Active	Requiem of Suffering II	14 Mana	7.7s	Intone a sorrowful requiem that deals 6 damage per second for 4 seconds to all enemies and applies Slow for 1.2 seconds.
+BRD	12		Trait	Harmony			Every point in Performance grants your party +1 Mana Regen.
+BRD	12		Active	Ode to Glory II	12 Mana	8.3s	Sing an inspiring ode that reduces damage taken by allies by 7 for 5 seconds, and grants them Weapon Haste for 1.2 seconds.
+BRD	12		Active	Soldier's Fanfare II	11 Mana	7.1s	Sound a heroic fanfare that increases your allies' weapon damage by 16 for 4 seconds and grants them Weapon Haste for 1.2 seconds.
+BRD	13		Active	Wizard's Minuet II	14 Mana	8.1s	Play a mystical minuet that increases your allies' spellpower by 10 for 4 seconds and grants them Ability Haste for 1.2 seconds.
+BRD	14		Active	Rogue's Scherzo II	14 Mana	6.7s	Strike up a sharp scherzo that grants allies 15% hit rating and crit rating for 4 seconds and Weapon Haste for 1.2 seconds.
+BRD	15		Active	Moonlight Rhapsody II	16 Mana	8.4s	Weave an enchanting rhapsody that reduces mana cost of allies' spells by 7 for 5 seconds, and grants Ability Haste for 1.2 seconds.
+BRD	16		Active	Dancer's Bagatelle II	14 Mana	7.6s	Play a rhythmic bagatelle that grants allies 20% evasion for 4 seconds and Weapon Haste for 1.2 seconds.
+BRD	16		Trait	Virtuoso			Every time you cast an ability, gain Ability Haste for 0.1 seconds per Performance.
+BRD	17		Active	Meadowland Pastoral II	18 Mana	9.6s	Perform a soothing pastoral melody, granting all allies 4 health regen per second for 5 seconds, and Ability Haste for 1.2 seconds.
+BRD	18		Active	Sorcerer's Lament II	16 Mana	7.9s	Compose a melancholic lament that decreases enemy magic resistance by 30% for 4 seconds and applies Slow for 1.2 seconds.
+BRD	19		Active	Requiem of Suffering III	24 Mana	7.7s	Intone a sorrowful requiem that deals 10 damage per second for 4 seconds to all enemies and applies Slow for 1.4 seconds.
+BRD	20		Active	Wizard's Minuet III	22 Mana	8.1s	Play a mystical minuet that increases your allies' spellpower by 14 for 4 seconds and grants them Ability Haste for 1.4 seconds.
+BRD	21		Active	Soldier's Fanfare III	18 Mana	7.1s	Sound a heroic fanfare that increases your allies' weapon damage by 24 for 4 seconds and grants them Weapon Haste for 1.4 seconds.
+BRD	22		Active	Ode to Glory III	20 Mana	8.3s	Sing an inspiring ode that reduces damage taken by allies by 11 for 5 seconds, and grants them Weapon Haste for 1.4 seconds.
+BRD	23		Active	Meadowland Pastoral III	27 Mana	9.6s	Perform a soothing pastoral melody, granting all allies 6 health regen per second for 5 seconds, and Ability Haste for 1.4 seconds.
+BRD	23		Active	Moonlight Rhapsody III	26 Mana	8.4s	Weave an enchanting rhapsody that reduces mana cost of allies' spells by 11 for 5 seconds, and grants Ability Haste for 1.4 seconds.
+BRD	24		Active	Dancer's Bagatelle III	26 Mana	7.6s	Play a rhythmic bagatelle that grants allies 30% evasion for 4 seconds and Weapon Haste for 1.4 seconds.
+BRD	25		Active	Rogue's Scherzo III	33 Mana	6.7s	Strike up a sharp scherzo that grants allies 20% hit rating and crit rating for 4 seconds and Weapon Haste for 1.4 seconds.
+BRD	25	1	Active	Sorcerer's Lament III	28 Mana	7.9s	Compose a melancholic lament that decreases enemy magic resistance by 40% for 4 seconds and applies Slow for 1.4 seconds.
+BRD	25	2	Active	Requiem of Suffering IV	34 Mana	7.7s	Intone a sorrowful requiem that deals 15 damage per second for 4 seconds to all enemies and applies Slow for 1.6 seconds.
+BRD	25	3	Active	Ode to Glory IV	30 Mana	8.3s	Sing an inspiring ode that reduces damage taken by allies by 15 for 5 seconds, and grants them Weapon Haste for 1.6 seconds.
+BRD	25	4	Active	Meadowland Pastoral IV	36 Mana	9.6s	Perform a soothing pastoral melody, granting all allies 8 health regen per second for 5 seconds, and Ability Haste for 1.6 seconds.
+BRD	25	4	Active	Wizard's Minuet IV	30 Mana	8.1s	Play a mystical minuet that increases your allies' spellpower by 18 for 4 seconds and grants them Ability Haste for 1.6 seconds.
+BRD	25	5	Active	Moonlight Rhapsody IV	34 Mana	8.4s	Weave an enchanting rhapsody that reduces mana cost of allies' spells by 15 for 5 seconds, and grants Ability Haste for 1.6 seconds.
+BLO	2		Active	Blood Strike	3% Max Health	4.8s	Inflict a deep wound, dealing 85% weapon damage and applying Bleed for 10.0 + 3.0% of the enemy's Max Health over 7 seconds.
+BLO	3		Passive	Thirst			Your defeated enemies sate a primal hunger. Restore 6.0% of Max Health when an enemy is defeated.
+BLO	4		Active	Cruel Weapon	2% Max Health	6.5s	Coat your blade in cursed blood for 6 seconds. Your successful weapon attacks apply Bleed for 2.0% of enemy Max Health over 7 seconds.
+BLO	4		Trait	Executioner			Your Great Sword, Great Axe, and Spear attacks gain 15% Cleave.
+BLO	5		Active	Blood Pact	3% Max Health	8.3s	Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 4.0 + 3.0% of your Max Health.
+BLO	5		Passive	Communion			Your successful weapon attacks grant allies 1.0 health regen per second for 3.0 seconds. This effect does not stack.
+BLO	6		Active	Heart Strike	18 Mana	6.3s	Plunge your weapon at the heart, dealing 85.0% weapon damage and healing for 2.0% of Max Health for every stack of Bleed on the target.
+BLO	6		Active	Drain Life	12 Mana	6.9s	Siphon lifeblood from a target enemy, stealing 8.0 to 12.0 + 3.0% Max Health.
+BLO	7		Active	Blood Boil	3% Max Health	7.4s	Boil the blood in your enemies' veins, applying Bleed to all enemies for 8.0 to 12.0 +3.0% of your Max Health over 7 seconds.
+BLO	8		Trait	Blood Tap			Gain +1 Health Regen for every 4% of Max Health missing.
+BLO	8		Active	Blood Bolt	3% Max Health	7.2s	Hurl a lance of crystallized blood at a target enemy, dealing 10.0 to 14.0 + 3.0% of your Max Health in damage.
+BLO	8		Active	Bloodrage	2% Max Health	7.6s	Enter a bloody frenzy, purging one negative status effect and gaining Weapon Haste for 3.0 seconds.
+BLO	9		Active	Death Strike	2% Max Health	5.7s	Strike at an open wound with ruthless precision, dealing 85.0% weapon damage +15.0% for every stack of Bleed on the target.
+BLO	11		Active	Blood Strike II	4% Max Health	4.8s	Inflict a deep wound, dealing 85% weapon damage and applying Bleed for 15.0 + 3.75% of the enemy's Max Health over 7 seconds.
+BLO	12		Active	Blood Pact II	4% Max Health	8.3s	Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 8.0 + 4.0% of your Max Health.
+BLO	12		Trait	Vampiric Aura			All allies gain 15% Weapon Lifesteal.
+BLO	13		Active	Cruel Weapon II	3% Max Health	6.5s	Coat your blade in cursed blood for 6 seconds. Your successful weapon attacks apply Bleed for 2.5% of enemy Max Health over 7 seconds.
+BLO	14		Active	Drain Life II	24 Mana	6.9s	Siphon lifeblood from a target enemy, stealing 18.0 to 22.0 + 3.5% Max Health.
+BLO	14		Active	Blood Boil II	4% Max Health	7.4s	Boil the blood in your enemies' veins, applying Bleed to all enemies for 16.0 to 20.0 +4.0% of your Max Health over 7 seconds.
+BLO	14		Active	Blood Bolt II	4% Max Health	7.2s	Hurl a lance of crystallized blood at a target enemy, dealing 18.0 to 22.0 + 4.0% of your Max Health in damage.
+BLO	14		Active	Bloodrage II	3% Max Health	7.6s	Enter a bloody frenzy, purging one negative status effect and gaining Weapon Haste for 4.0 seconds.
+BLO	14		Passive	Communion II			Your successful weapon attacks grant allies 2.0 health regen per second for 4.0 seconds. This effect does not stack.
+BLO	16		Trait	Sanguine Might			Your attacks deal +1 damage for every 10 health you are missing.
+BLO	16		Passive	Thirst II			Your defeated enemies sate a primal hunger. Restore 7.0% of Max Health when an enemy is defeated.
+BLO	17		Active	Death Strike II	3% Max Health	5.7s	Strike at an open wound with ruthless precision, dealing 85.0% weapon damage +22.5% for every stack of Bleed on the target.
+BLO	17		Active	Heart Strike II	30 Mana	6.3s	Plunge your weapon at the heart, dealing 85.0% weapon damage and healing for 2.75% of Max Health for every stack of Bleed on the target.
+BLO	19		Active	Blood Pact III	5% Max Health	8.3s	Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 12.0 + 5.0% of your Max Health.
+BLO	20		Active	Blood Strike III	5% Max Health	4.8s	Inflict a deep wound, dealing 85% weapon damage and applying Bleed for 20.0 + 4.5% of the enemy's Max Health over 7 seconds.
+BLO	20		Active	Drain Life III	36 Mana	6.9s	Siphon lifeblood from a target enemy, stealing 28.0 to 32.0 + 4.0% Max Health.
+BLO	21		Active	Bloodrage III	4% Max Health	7.6s	Enter a bloody frenzy, purging one negative status effect and gaining Weapon Haste for 5.0 seconds.
+BLO	21		Active	Cruel Weapon III	4% Max Health	6.5s	Coat your blade in cursed blood for 6 seconds. Your successful weapon attacks apply Bleed for 3.0% of enemy Max Health over 7 seconds.
+BLO	22		Active	Blood Boil III	5% Max Health	7.4s	Boil the blood in your enemies' veins, applying Bleed to all enemies for 26.0 to 30.0 +5.0% of your Max Health over 7 seconds.
+BLO	22		Active	Blood Bolt III	5% Max Health	7.2s	Hurl a lance of crystallized blood at a target enemy, dealing 26.0 to 30.0 + 5.0% of your Max Health in damage.
+BLO	23		Passive	Communion III			Your successful weapon attacks grant allies 3.0 health regen per second for 5.0 seconds. This effect does not stack.
+BLO	24		Active	Death Strike III	4% Max Health	5.7s	Strike at an open wound with ruthless precision, dealing 85.0% weapon damage +30.0% for every stack of Bleed on the target.
+BLO	24		Passive	Thirst III			Your defeated enemies sate a primal hunger. Restore 8.0% of Max Health when an enemy is defeated.
+BLO	25		Active	Heart Strike III	44 Mana	6.3s	Plunge your weapon at the heart, dealing 85.0% weapon damage and healing for 3.5% of Max Health for every stack of Bleed on the target.
+BLO	25	1	Active	Blood Strike IV	6% Max Health	4.8s	Drive your weapon deep and twist, dealing 85% weapon damage and applying Bleed for 25.0 + 5.25% of the enemy's Max Health over 7 seconds.
+BLO	25	2	Active	Drain Life IV	48 Mana	6.9s	Siphon lifeblood from a target enemy, stealing 36.0 to 40.0 + 4.5% Max Health.
+BLO	25	3	Active	Blood Boil IV	6% Max Health	7.4s	Boil the blood in your enemies' veins, applying Bleed to all enemies for 36.0 to 40.0 +6.0% of your Max Health over 7 seconds.
+BLO	25	3	Active	Cruel Weapon IV	5% Max Health	6.5s	Coat your blade in cursed blood for 6 seconds. Your successful weapon attacks apply Bleed for 3.5% of enemy Max Health over 7 seconds.
+BLO	25	4	Active	Blood Bolt IV	6% Max Health	7.2s	Hurl a lance of crystallized blood at a target enemy, dealing 34.0 to 38.0 + 6.0% of your Max Health in damage.
+BLO	25	5	Active	Blood Pact IV	6% Max Health	8.3s	Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 16.0 + 6.0% of your Max Health.
+RNG	2		Active	Penetrating Shot	5 Mana	5.6s	Drive an arrow clean through the target, dealing 90.0% weapon damage plus 5 damage and ignoring half of their armor.
+RNG	3		Active	Serpent Shot	6 Mana	5.2s	Fire a poison-tipped arrow, dealing 80.0% weapon damage and applying 1.0 Poison.
+RNG	4		Trait	Marksmanship			Your Bow attacks gain 10% hit rate.
+RNG	4		Active	Freezing Shot	7 Mana	5.6s	Fire a frost-tipped arrow, dealing 7.0 to 11.0 damage and freezing the target for 1 second.
+RNG	5		Active	Quick Shot	5 Mana	4.0s	Loose a swift arrow at a random enemy, dealing 85.0% weapon damage.
+RNG	6		Active	Explosive Shot	8 Mana	6.5s	Fire an explosive arrow, dealing 8.0 to 12.0 damage. If this attack hits, enemies adjacent to your target are struck as well, and all enemies hit suffer Burn for 3 seconds.
+RNG	7		Active	Arcane Shot	9 Mana	7.0s	Loose an arcane-tipped arrow, dealing 80.0% weapon damage as arcane damage.
+RNG	8		Active	Piercing Shot	7 Mana	6.0s	Loose a mighty shot at the front line, dealing 85.0% weapon damage. If this attack hits, the enemy directly behind your target also takes a portion of the damage.
+RNG	8		Trait	Survivalist			Gain +2 to Foraging skill rolls. Food restores twice as much health and mana.
+RNG	9		Active	Split Shot	9 Mana	6.5s	Split your shot into twin arrows, dealing 85.0% weapon damage to your target and to the enemy beside them.
+RNG	10		Active	Deadly Shot	8 Mana	5.7s	Snipe the most wounded enemy, dealing 85.0% weapon damage to the enemy with the least remaining health.
+RNG	11		Active	Tranquilizing Shot	10 Mana	8.0s	Fire a tranquilizing dart at the back line, dealing 10.0 to 14.0 damage and putting the target to Sleep for 2 seconds.
+RNG	11		Active	Quick Draw	8 Mana	7.6s	Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 2.0 seconds.
+RNG	12		Active	Quick Shot II	8 Mana	4.0s	Loose a swift arrow at a random enemy, dealing 100.0% weapon damage.
+RNG	12		Trait	Focus Fire			Every weapon attack grants 1 Focus (max 10). Each Focus increases your damage by 3%. Taking damage removes half of your Focus.
+RNG	13		Active	Serpent Shot II	15 Mana	5.2s	Fire a poison-tipped arrow, dealing 80.0% weapon damage and applying 3.0 Poison.
+RNG	13		Active	Penetrating Shot II	12 Mana	5.6s	Drive an arrow clean through the target, dealing 120.0% weapon damage plus 8 damage and ignoring half of their armor.
+RNG	14		Active	Explosive Shot II	17 Mana	6.5s	Fire an explosive arrow, dealing 24.0 to 30.0 damage. If this attack hits, enemies adjacent to your target are struck as well, and all enemies hit suffer Burn II for 3 seconds.
+RNG	14		Active	Freezing Shot II	14 Mana	5.6s	Fire a frost-tipped arrow, dealing 18.0 to 24.0 damage and freezing the target for 2 seconds.
+RNG	15		Active	Arcane Shot II	18 Mana	7.0s	Loose an arcane-tipped arrow, dealing 95.0% weapon damage as arcane damage.
+RNG	16		Active	Deadly Shot II	16 Mana	5.7s	Snipe the most wounded enemy, dealing 100.0% weapon damage to the enemy with the least remaining health.
+RNG	16		Active	Piercing Shot II	16 Mana	6.0s	Loose a mighty shot at the front line, dealing 110.0% weapon damage. If this attack hits, the enemy directly behind your target also takes a portion of the damage.
+RNG	16		Trait	Deadeye			Your weapon critical hits grant 1.5 seconds of Weapon Haste.
+RNG	17		Active	Tranquilizing Shot II	22 Mana	8.0s	Fire a tranquilizing dart at the back line, dealing 24.0 to 30.0 damage and putting the target to Sleep for 3 seconds.
+RNG	17		Active	Quick Draw II	16 Mana	7.6s	Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 3.0 seconds.
+RNG	18		Active	Quick Shot III	14 Mana	4.0s	Loose a swift arrow at a random enemy, dealing 115.0% weapon damage.
+RNG	19		Active	Explosive Shot III	30 Mana	6.5s	Fire an explosive arrow, dealing 40.0 to 46.0 damage. If this attack hits, enemies adjacent to your target are struck as well, and all enemies hit suffer Burn III for 3 seconds.
+RNG	19		Active	Penetrating Shot III	20 Mana	5.6s	Drive an arrow clean through the target, dealing 155.0% weapon damage plus 12 damage and ignoring half of their armor.
+RNG	20		Active	Serpent Shot III	26 Mana	5.2s	Fire a poison-tipped arrow, dealing 80.0% weapon damage and applying 5.0 Poison.
+RNG	20		Active	Split Shot II	24 Mana	6.5s	Split your shot into twin arrows, dealing 105.0% weapon damage to your target and to the enemy beside them.
+RNG	21		Active	Freezing Shot III	34 Mana	5.6s	Fire a frost-tipped arrow, dealing 36.0 to 42.0 damage and freezing the target for 3 seconds.
+RNG	21		Active	Piercing Shot III	24 Mana	6.0s	Loose a mighty shot at the front line, dealing 135.0% weapon damage. If this attack hits, the enemy directly behind your target also takes a portion of the damage.
+RNG	22		Active	Arcane Shot III	28 Mana	7.0s	Loose an arcane-tipped arrow, dealing 110.0% weapon damage as arcane damage.
+RNG	23		Active	Deadly Shot III	26 Mana	5.7s	Snipe the most wounded enemy, dealing 115.0% weapon damage to the enemy with the least remaining health.
+RNG	24		Active	Quick Draw III	26 Mana	7.6s	Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 4.0 seconds.
+RNG	25	1	Active	Penetrating Shot IV	30 Mana	5.6s	Drive an arrow clean through the target, dealing 190.0% weapon damage plus 16 damage and ignoring half of their armor.
+RNG	25	1	Active	Tranquilizing Shot III	36 Mana	8.0s	Fire a tranquilizing dart at the back line, dealing 42.0 to 48.0 damage and putting the target to Sleep for 4 seconds.
+RNG	25	2	Active	Explosive Shot IV	44 Mana	6.5s	Fire an explosive arrow, dealing 60.0 to 66.0 damage. If this attack hits, enemies adjacent to your target are struck as well, and all enemies hit suffer Burn IV for 3 seconds.
+RNG	25	3	Active	Quick Shot IV	22 Mana	4.0s	Loose a swift arrow at a random enemy, dealing 130.0% weapon damage.
+RNG	25	3	Active	Serpent Shot IV	40 Mana	5.2s	Fire a poison-tipped arrow, dealing 80.0% weapon damage and applying 7.0 Poison.
+RNG	25	3	Active	Piercing Shot IV	34 Mana	6.0s	Loose a mighty shot at the front line, dealing 160.0% weapon damage. If this attack hits, the enemy directly behind your target also takes a portion of the damage.
+RNG	25	4	Active	Deadly Shot IV	38 Mana	5.7s	Snipe the most wounded enemy, dealing 130.0% weapon damage to the enemy with the least remaining health.
+RNG	25	4	Active	Quick Draw IV	38 Mana	7.6s	Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 5.0 seconds.
+RNG	25	5	Active	Penetrating Shot V	42 Mana	5.6s	Drive an arrow clean through the target, dealing 225.0% weapon damage plus 20 damage and ignoring half of their armor.

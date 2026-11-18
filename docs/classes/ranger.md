@@ -18,6 +18,54 @@ The trade-off is that Focus Fire rewards staying untouched, since taking damage 
 
 If you like picking the right tool for each fight and dealing damage from a safe distance, the Ranger is a great pick, though it's only available to subscribers, and only in the current season.
 
+??? abstract "All Ranger abilities"
+    | Level | Name | Type | What it does |
+    |---|---|---|---|
+    | 2 | Penetrating Shot | Active | Drive an arrow clean through the target, dealing 90% weapon damage plus 5 damage and ignoring half of their armor. |
+    | 3 | Serpent Shot | Active | Fire a poison-tipped arrow, dealing 80% weapon damage and applying 1 Poison. |
+    | 4 | Marksmanship | Trait | Your Bow attacks gain 10% hit rate. |
+    | 4 | Freezing Shot | Active | Fire a frost-tipped arrow, dealing 7 to 11 damage and freezing the target for 1 second. |
+    | 5 | Quick Shot | Active | Loose a swift arrow at a random enemy, dealing 85% weapon damage. |
+    | 6 | Explosive Shot | Active | Fire an explosive arrow, dealing 8 to 12 damage. If this attack hits, enemies adjacent to your target are struck as well, and all enemies hit suffer Burn for 3 seconds. |
+    | 7 | Arcane Shot | Active | Loose an arcane-tipped arrow, dealing 80% weapon damage as arcane damage. |
+    | 8 | Piercing Shot | Active | Loose a mighty shot at the front line, dealing 85% weapon damage. If this attack hits, the enemy directly behind your target also takes a portion of the damage. |
+    | 8 | Survivalist | Trait | Gain +2 to Foraging skill rolls. Food restores twice as much health and mana. |
+    | 9 | Split Shot | Active | Split your shot into twin arrows, dealing 85% weapon damage to your target and to the enemy beside them. |
+    | 10 | Deadly Shot | Active | Snipe the most wounded enemy, dealing 85% weapon damage to the enemy with the least remaining health. |
+    | 11 | Tranquilizing Shot | Active | Fire a tranquilizing dart at the back line, dealing 10 to 14 damage and putting the target to Sleep for 2 seconds. |
+    | 11 | Quick Draw | Active | Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 2 seconds. |
+    | 12 | Quick Shot II | Active | Loose a swift arrow at a random enemy, dealing 100% weapon damage. |
+    | 12 | Focus Fire | Trait | Every weapon attack grants 1 Focus (max 10). Each Focus increases your damage by 3%. Taking damage removes half of your Focus. |
+    | 13 | Serpent Shot II | Active | Fire a poison-tipped arrow, dealing 80% weapon damage and applying 3 Poison. |
+    | 13 | Penetrating Shot II | Active | Drive an arrow clean through the target, dealing 120% weapon damage plus 8 damage and ignoring half of their armor. |
+    | 14 | Explosive Shot II | Active | Fire an explosive arrow, dealing 24 to 30 damage. If this attack hits, enemies adjacent to your target are struck as well, and all enemies hit suffer Burn II for 3 seconds. |
+    | 14 | Freezing Shot II | Active | Fire a frost-tipped arrow, dealing 18 to 24 damage and freezing the target for 2 seconds. |
+    | 15 | Arcane Shot II | Active | Loose an arcane-tipped arrow, dealing 95% weapon damage as arcane damage. |
+    | 16 | Deadly Shot II | Active | Snipe the most wounded enemy, dealing 100% weapon damage to the enemy with the least remaining health. |
+    | 16 | Piercing Shot II | Active | Loose a mighty shot at the front line, dealing 110% weapon damage. If this attack hits, the enemy directly behind your target also takes a portion of the damage. |
+    | 16 | Deadeye | Trait | Your weapon critical hits grant 1.5 seconds of Weapon Haste. |
+    | 17 | Tranquilizing Shot II | Active | Fire a tranquilizing dart at the back line, dealing 24 to 30 damage and putting the target to Sleep for 3 seconds. |
+    | 17 | Quick Draw II | Active | Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 3 seconds. |
+    | 18 | Quick Shot III | Active | Loose a swift arrow at a random enemy, dealing 115% weapon damage. |
+    | 19 | Explosive Shot III | Active | Fire an explosive arrow, dealing 40 to 46 damage. If this attack hits, enemies adjacent to your target are struck as well, and all enemies hit suffer Burn III for 3 seconds. |
+    | 19 | Penetrating Shot III | Active | Drive an arrow clean through the target, dealing 155% weapon damage plus 12 damage and ignoring half of their armor. |
+    | 20 | Serpent Shot III | Active | Fire a poison-tipped arrow, dealing 80% weapon damage and applying 5 Poison. |
+    | 20 | Split Shot II | Active | Split your shot into twin arrows, dealing 105% weapon damage to your target and to the enemy beside them. |
+    | 21 | Freezing Shot III | Active | Fire a frost-tipped arrow, dealing 36 to 42 damage and freezing the target for 3 seconds. |
+    | 21 | Piercing Shot III | Active | Loose a mighty shot at the front line, dealing 135% weapon damage. If this attack hits, the enemy directly behind your target also takes a portion of the damage. |
+    | 22 | Arcane Shot III | Active | Loose an arcane-tipped arrow, dealing 110% weapon damage as arcane damage. |
+    | 23 | Deadly Shot III | Active | Snipe the most wounded enemy, dealing 115% weapon damage to the enemy with the least remaining health. |
+    | 24 | Quick Draw III | Active | Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 4 seconds. |
+    | 25 | Penetrating Shot IV | Active | Drive an arrow clean through the target, dealing 190% weapon damage plus 16 damage and ignoring half of their armor. |
+    | 25 | Tranquilizing Shot III | Active | Fire a tranquilizing dart at the back line, dealing 42 to 48 damage and putting the target to Sleep for 4 seconds. |
+    | 25 | Explosive Shot IV | Active | Fire an explosive arrow, dealing 60 to 66 damage. If this attack hits, enemies adjacent to your target are struck as well, and all enemies hit suffer Burn IV for 3 seconds. |
+    | 25 | Quick Shot IV | Active | Loose a swift arrow at a random enemy, dealing 130% weapon damage. |
+    | 25 | Serpent Shot IV | Active | Fire a poison-tipped arrow, dealing 80% weapon damage and applying 7 Poison. |
+    | 25 | Piercing Shot IV | Active | Loose a mighty shot at the front line, dealing 160% weapon damage. If this attack hits, the enemy directly behind your target also takes a portion of the damage. |
+    | 25 | Deadly Shot IV | Active | Snipe the most wounded enemy, dealing 130% weapon damage to the enemy with the least remaining health. |
+    | 25 | Quick Draw IV | Active | Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 5 seconds. |
+    | 25 | Penetrating Shot V | Active | Drive an arrow clean through the target, dealing 225% weapon damage plus 20 damage and ignoring half of their armor. |
+
 ## Priorities
 
 The big picture for building a Ranger, most important first:

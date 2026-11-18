@@ -18,6 +18,63 @@ The trade-off is that everything happens up close, and Warriors have very little
 
 If you want a sturdy, forgiving first character that can tank or deal damage depending on how you build it, the Warrior is a great pick, and it's available to everyone.
 
+??? abstract "All Warrior abilities"
+    | Level | Name | Type | What it does |
+    |---|---|---|---|
+    | 2 | Hemorrhage | Active | Inflict a deep wound dealing 80% weapon damage and applying Bleed for 4 damage per second for 4 seconds. |
+    | 2 | Rage | Passive | Each successful attack fuels your anger, increasing your weapon damage by 1. |
+    | 3 | Crippling Blow | Active | Deliver a powerful strike for 80% weapon damage and reduces the target's damage by 7 for 3 seconds. |
+    | 4 | Thunderclap | Active | Slam the ground with a thunderous blow, dealing 10 to 13 damage to the enemy front line and slowing them for 1 second. |
+    | 4 | Shield Bearer | Trait | Allows shields to be equipped in your offhand. |
+    | 5 | Dazzling Strike | Active | Disorient the enemy, striking them for 90% weapon damage and reducing their chance to hit by 30% for 3 seconds. |
+    | 6 | War Cry | Active | Release a war cry, boosting all party members' weapon damage by 7 for 4 seconds. |
+    | 7 | Blademail | Active | Whenever an enemy successfully attacks you, deal 6 damage to the attacker for 5 seconds. |
+    | 7 | Pain Suppression | Active | Harness your inner fortitude, temporarily mitigating pain, reducing incoming damage by 7 for 4 seconds. |
+    | 8 | Iron Will | Trait | Every 10 Strength grants +1 Health Regen. |
+    | 8 | Provoke | Active | Taunt the enemy, forcing them to target you for the next 3 seconds. |
+    | 9 | Mighty Strikes | Active | Your weapon attacks deal 30% damage to adjacent enemies. |
+    | 10 | Hemorrhage II | Active | Inflict a deep wound dealing 120% weapon damage and applying Bleed for 8 damage per second for 4 seconds. |
+    | 10 | Glancing Blows | Active | React to enemy reflexes for 5 seconds; any missed attacks deal half damage to the enemy. |
+    | 10 | Whirlwind | Active | Unleash a whirlwind of blades, striking all enemies for 85% weapon damage. |
+    | 11 | Intimidating Shout | Active | Let out an intimidating shout, reducing enemy damage by 7 for 4 seconds. |
+    | 11 | Rage II | Passive | Each successful attack fuels your anger, increasing your weapon damage by 2. |
+    | 12 | Counter | Trait | Attack with your main-hand weapon whenever you dodge an enemy attack. |
+    | 12 | Crippling Blow II | Active | Deliver a powerful strike for 120% weapon damage and reduces the target's damage by 12 for 3 seconds. |
+    | 12 | Thunderclap II | Active | Slam the ground with a thunderous blow, dealing 17 to 21 damage to the enemy front line and slowing them for 1.25 seconds. |
+    | 13 | Berserk | Active | Enter a frenzied state, purging one negative status effect and increasing weapon damage by 1 for every 3% of health missing. |
+    | 13 | Pain Suppression II | Active | Harness your inner fortitude, temporarily mitigating pain, reducing incoming damage by 12 for 4 seconds. |
+    | 14 | Overkill | Passive | Revel in your defeated enemies, healing for half of the overkill damage dealt to each enemy. |
+    | 14 | War Cry II | Active | Release a war cry, boosting all party members' weapon damage by 14 for 4 seconds. |
+    | 15 | Blademail II | Active | Whenever an enemy successfully attacks you, deal 12 damage to the attacker for 5 seconds. |
+    | 15 | Dazzling Strike II | Active | Disorient the enemy, striking them for 140% weapon damage and reducing their chance to hit by 30% for 3 seconds. |
+    | 16 | Provoke II | Active | Taunt the enemy, forcing them to target you for the next 4 seconds. |
+    | 16 | Second Wind | Trait | Once per combat, when your health drops below 0, instantly restore it to 30% of your max hp. |
+    | 17 | Mighty Strikes II | Active | Your weapon attacks deal 50% damage to adjacent enemies. |
+    | 17 | Hemorrhage III | Active | Inflict a deep wound dealing 160% weapon damage and applying Bleed for 12 damage per second for 4 seconds. |
+    | 18 | Whirlwind II | Active | Unleash a whirlwind of blades, striking all enemies for 110% weapon damage. |
+    | 18 | Intimidating Shout II | Active | Let out an intimidating shout, reducing enemy damage by 14 for 4 seconds. |
+    | 19 | Pain Suppression III | Active | Harness your inner fortitude, temporarily mitigating pain, reducing incoming damage by 17 for 4 seconds. |
+    | 20 | Rage III | Passive | Each successful attack fuels your anger, increasing your weapon damage by 3. |
+    | 20 | Crippling Blow III | Active | Deliver a powerful strike for 160% weapon damage and reduces the target's damage by 21 for 3 seconds. |
+    | 21 | Thunderclap III | Active | Slam the ground with a thunderous blow, dealing 32 to 35 damage to the enemy front line and slowing them for 1.5 seconds. |
+    | 23 | Blademail III | Active | Whenever an enemy successfully attacks you, deal 20 damage to the attacker for 5 seconds. |
+    | 23 | Berserk II | Active | Enter a frenzied state, purging one negative status effect and increasing weapon damage by 1 for every 2% of health missing. |
+    | 24 | War Cry III | Active | Release a war cry, boosting all party members' weapon damage by 21 for 4 seconds. |
+    | 24 | Provoke III | Active | Taunt the enemy, forcing them to target you for the next 5 seconds. |
+    | 25 | Intimidating Shout III | Active | Let out an intimidating shout, reducing enemy damage by 21 for 4 seconds. |
+    | 25 | Hemorrhage IV | Active | Inflict a deep wound dealing 200% weapon damage and applying Bleed for 16 damage per second for 4 seconds. |
+    | 25 | Crippling Blow IV | Active | Deliver a powerful strike for 200% weapon damage and reduces the target's damage by 28 for 3 seconds. |
+    | 25 | Dazzling Strike III | Active | Disorient the enemy, striking them for 180% weapon damage and reducing their chance to hit by 30% for 3 seconds. |
+    | 25 | Overkill II | Passive | Revel in your defeated enemies, healing for the overkill damage dealt to each enemy. |
+    | 25 | Thunderclap IV | Active | Slam the ground with a thunderous blow, dealing 58 to 64 damage to the enemy front line and slowing them for 1.75 seconds. |
+    | 25 | Blademail IV | Active | Whenever an enemy successfully attacks you, deal 32 damage to the attacker for 5 seconds. |
+    | 25 | War Cry IV | Active | Release a war cry, boosting all party members' weapon damage by 28 for 4 seconds. |
+    | 25 | Mighty Strikes III | Active | Your weapon attacks deal 80% damage to adjacent enemies. |
+    | 25 | Pain Suppression IV | Active | Harness your inner fortitude, temporarily mitigating pain, reducing incoming damage by 25 for 4 seconds. |
+    | 25 | Whirlwind III | Active | Unleash a whirlwind of blades, striking all enemies for 135% weapon damage. |
+    | 25 | Hemorrhage V | Active | Inflict a deep wound dealing 240% weapon damage and applying Bleed for 24 damage per second for 4 seconds. |
+    | 25 | Rage IV | Passive | Each successful attack fuels your anger, increasing your weapon damage by 4. |
+
 ## Priorities
 
 The big picture for building a Warrior, most important first:

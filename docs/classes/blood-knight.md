@@ -18,6 +18,53 @@ The trade-off is that your health is both your fuel and your life. Spend too muc
 
 If you like living on the edge and turning the enemy's blood into your own staying power, the Blood Knight is a great pick, though it's only available to subscribers.
 
+??? abstract "All Blood Knight abilities"
+    | Level | Name | Type | What it does |
+    |---|---|---|---|
+    | 2 | Blood Strike | Active | Inflict a deep wound, dealing 85% weapon damage and applying Bleed for 10 + 3% of the enemy's Max Health over 7 seconds. |
+    | 3 | Thirst | Passive | Your defeated enemies sate a primal hunger. Restore 6% of Max Health when an enemy is defeated. |
+    | 4 | Cruel Weapon | Active | Coat your blade in cursed blood for 6 seconds. Your successful weapon attacks apply Bleed for 2% of enemy Max Health over 7 seconds. |
+    | 4 | Executioner | Trait | Your Great Sword, Great Axe, and Spear attacks gain 15% Cleave. |
+    | 5 | Blood Pact | Active | Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 4 + 3% of your Max Health. |
+    | 5 | Communion | Passive | Your successful weapon attacks grant allies 1 health regen per second for 3 seconds. This effect does not stack. |
+    | 6 | Heart Strike | Active | Plunge your weapon at the heart, dealing 85% weapon damage and healing for 2% of Max Health for every stack of Bleed on the target. |
+    | 6 | Drain Life | Active | Siphon lifeblood from a target enemy, stealing 8 to 12 + 3% Max Health. |
+    | 7 | Blood Boil | Active | Boil the blood in your enemies' veins, applying Bleed to all enemies for 8 to 12 + 3% of your Max Health over 7 seconds. |
+    | 8 | Blood Tap | Trait | Gain +1 Health Regen for every 4% of Max Health missing. |
+    | 8 | Blood Bolt | Active | Hurl a lance of crystallized blood at a target enemy, dealing 10 to 14 + 3% of your Max Health in damage. |
+    | 8 | Bloodrage | Active | Enter a bloody frenzy, purging one negative status effect and gaining Weapon Haste for 3 seconds. |
+    | 9 | Death Strike | Active | Strike at an open wound with ruthless precision, dealing 85% weapon damage +15% for every stack of Bleed on the target. |
+    | 11 | Blood Strike II | Active | Inflict a deep wound, dealing 85% weapon damage and applying Bleed for 15 + 3.75% of the enemy's Max Health over 7 seconds. |
+    | 12 | Blood Pact II | Active | Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 8 + 4% of your Max Health. |
+    | 12 | Vampiric Aura | Trait | All allies gain 15% Weapon Lifesteal. |
+    | 13 | Cruel Weapon II | Active | Coat your blade in cursed blood for 6 seconds. Your successful weapon attacks apply Bleed for 2.5% of enemy Max Health over 7 seconds. |
+    | 14 | Drain Life II | Active | Siphon lifeblood from a target enemy, stealing 18 to 22 + 3.5% Max Health. |
+    | 14 | Blood Boil II | Active | Boil the blood in your enemies' veins, applying Bleed to all enemies for 16 to 20 + 4% of your Max Health over 7 seconds. |
+    | 14 | Blood Bolt II | Active | Hurl a lance of crystallized blood at a target enemy, dealing 18 to 22 + 4% of your Max Health in damage. |
+    | 14 | Bloodrage II | Active | Enter a bloody frenzy, purging one negative status effect and gaining Weapon Haste for 4 seconds. |
+    | 14 | Communion II | Passive | Your successful weapon attacks grant allies 2 health regen per second for 4 seconds. This effect does not stack. |
+    | 16 | Sanguine Might | Trait | Your attacks deal +1 damage for every 10 health you are missing. |
+    | 16 | Thirst II | Passive | Your defeated enemies sate a primal hunger. Restore 7% of Max Health when an enemy is defeated. |
+    | 17 | Death Strike II | Active | Strike at an open wound with ruthless precision, dealing 85% weapon damage +22.5% for every stack of Bleed on the target. |
+    | 17 | Heart Strike II | Active | Plunge your weapon at the heart, dealing 85% weapon damage and healing for 2.75% of Max Health for every stack of Bleed on the target. |
+    | 19 | Blood Pact III | Active | Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 12 + 5% of your Max Health. |
+    | 20 | Blood Strike III | Active | Inflict a deep wound, dealing 85% weapon damage and applying Bleed for 20 + 4.5% of the enemy's Max Health over 7 seconds. |
+    | 20 | Drain Life III | Active | Siphon lifeblood from a target enemy, stealing 28 to 32 + 4% Max Health. |
+    | 21 | Bloodrage III | Active | Enter a bloody frenzy, purging one negative status effect and gaining Weapon Haste for 5 seconds. |
+    | 21 | Cruel Weapon III | Active | Coat your blade in cursed blood for 6 seconds. Your successful weapon attacks apply Bleed for 3% of enemy Max Health over 7 seconds. |
+    | 22 | Blood Boil III | Active | Boil the blood in your enemies' veins, applying Bleed to all enemies for 26 to 30 + 5% of your Max Health over 7 seconds. |
+    | 22 | Blood Bolt III | Active | Hurl a lance of crystallized blood at a target enemy, dealing 26 to 30 + 5% of your Max Health in damage. |
+    | 23 | Communion III | Passive | Your successful weapon attacks grant allies 3 health regen per second for 5 seconds. This effect does not stack. |
+    | 24 | Death Strike III | Active | Strike at an open wound with ruthless precision, dealing 85% weapon damage +30% for every stack of Bleed on the target. |
+    | 24 | Thirst III | Passive | Your defeated enemies sate a primal hunger. Restore 8% of Max Health when an enemy is defeated. |
+    | 25 | Heart Strike III | Active | Plunge your weapon at the heart, dealing 85% weapon damage and healing for 3.5% of Max Health for every stack of Bleed on the target. |
+    | 25 | Blood Strike IV | Active | Drive your weapon deep and twist, dealing 85% weapon damage and applying Bleed for 25 + 5.25% of the enemy's Max Health over 7 seconds. |
+    | 25 | Drain Life IV | Active | Siphon lifeblood from a target enemy, stealing 36 to 40 + 4.5% Max Health. |
+    | 25 | Blood Boil IV | Active | Boil the blood in your enemies' veins, applying Bleed to all enemies for 36 to 40 + 6% of your Max Health over 7 seconds. |
+    | 25 | Cruel Weapon IV | Active | Coat your blade in cursed blood for 6 seconds. Your successful weapon attacks apply Bleed for 3.5% of enemy Max Health over 7 seconds. |
+    | 25 | Blood Bolt IV | Active | Hurl a lance of crystallized blood at a target enemy, dealing 34 to 38 + 6% of your Max Health in damage. |
+    | 25 | Blood Pact IV | Active | Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 16 + 6% of your Max Health. |
+
 ## Priorities
 
 The big picture for building a Blood Knight, most important first:

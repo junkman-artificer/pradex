@@ -18,6 +18,64 @@ The trade-off is that you're relying on Evasion more than Armor, so a bad run of
 
 If you like fast weapons and big damage numbers, with the choice between snowballing poison and raw crits, the Thief is a great pick, and it's available to everyone.
 
+??? abstract "All Thief abilities"
+    | Level | Name | Type | What it does |
+    |---|---|---|---|
+    | 2 | Deadly Poison | Active | Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 1 Poison on hit. |
+    | 3 | Venomous Strike | Passive | Every fourth weapon strike deals 2 additional damage for each stack of Poison on the target enemy. |
+    | 4 | Dual Wield | Trait | Allows one-handed weapons to be equipped in your offhand. |
+    | 4 | Poisoned Dagger | Active | Strike your enemy with a poisoned dagger, applying 1 Poison to the target enemy. |
+    | 5 | Kidney Punch | Active | Deliver an incapacitating blow to an enemy, stunning them for 1 second. |
+    | 6 | Explosive Grenade | Active | Hurl a grenade that detonates on impact, dealing 8 to 12 damage. |
+    | 7 | Twin Strike | Passive | Every fourth successful weapon attack strikes twice. |
+    | 8 | Focus Target | Trait | Focus all attacks on a single character until they are eliminated. |
+    | 8 | Leech | Passive | Every fourth successful weapon attack restores 3 health for each Poison on the target enemy. |
+    | 9 | Extraction | Passive | Every fourth successful weapon attack restores 2 mana for each stack of Poison on the target enemy. |
+    | 9 | Flash Bomb | Active | Throw a bomb that explodes in a blinding flash, decreasing an enemy and adjacent target's hit chance by 30% for 4 seconds. |
+    | 9 | Mutilate | Active | Savagely strike with both weapons at once, each dealing 70% of its weapon's damage. |
+    | 10 | Marked for Death | Active | Mark an enemy for death, increasing all damage received by 25% for 5 seconds. |
+    | 10 | Strangling Gas | Active | Throw a toxic cocktail that applies 1 Poison to the target and adjacent enemies. |
+    | 11 | Evasion | Active | Increase your evasion by 25% for 4 seconds. |
+    | 11 | Subduing Strike | Passive | Every fourth successful weapon attack stuns your opponent for 1 second. |
+    | 12 | Shiv | Active | Deliver a quick, close range strike with your off-hand weapon. |
+    | 12 | Treasure Hunter | Trait | Increase your chance to discover magic items by 10%. |
+    | 12 | Poisoned Dagger II | Active | Strike your enemy with a poisoned dagger, applying 3 Poison to the target enemy. |
+    | 12 | Deadly Poison II | Active | Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 3 Poison on hit. |
+    | 13 | Flurry | Active | Deal 3 main-hand weapon strikes in quick succession that deal 30% damage each. |
+    | 13 | Cunning Strike | Active | Your next weapon attack will deal an additional 0.4x DEX in damage. |
+    | 14 | Venomous Strike II | Passive | Every fourth weapon strike deals 5 additional damage for each stack of Poison on the target enemy. |
+    | 14 | Decoy | Active | Create a decoy which absorbs the next enemy attack. Then counterattack with your weapon. |
+    | 15 | Explosive Grenade II | Active | Hurl a grenade that detonates on impact, dealing 30 to 35 damage. |
+    | 15 | Kidney Punch II | Active | Deliver an incapacitating blow to an enemy, stunning them for 2 seconds. |
+    | 16 | Leech II | Passive | Every fourth successful weapon attack restores 5 health for each Poison on the target enemy. |
+    | 16 | Extraction II | Passive | Every fourth successful weapon attack restores 4 mana for each stack of Poison on the target enemy. |
+    | 16 | Tactician | Trait | Critical strike rate and hit rate bonuses from Dexterity are doubled. |
+    | 17 | Flash Bomb II | Active | Throw a bomb that explodes in a blinding flash, decreasing an enemy and adjacent target's hit chance by 45% for 4 seconds. |
+    | 17 | Mutilate II | Active | Savagely strike with both weapons at once, each dealing 90% of its weapon's damage. |
+    | 18 | Strangling Gas II | Active | Throw a toxic cocktail that applies 3 Poison to the target and adjacent enemies. |
+    | 18 | Subduing Strike II | Passive | Every fourth successful weapon attack stuns your opponent for 1.75 seconds. |
+    | 19 | Evasion II | Active | Increase your evasion by 40% for 4 seconds. |
+    | 19 | Cunning Strike II | Active | Your next weapon attack will deal an additional 0.7x DEX in damage. |
+    | 20 | Marked for Death II | Active | Mark an enemy for death, increasing all damage received by 40% for 5 seconds. |
+    | 20 | Poisoned Dagger III | Active | Strike your enemy with a poisoned dagger, applying 5 Poison to the target enemy. |
+    | 21 | Shiv II | Active | Deliver a quick, close range strike with your off-hand weapon. |
+    | 21 | Flurry II | Active | Deal 4 main-hand weapon strikes in quick succession that deal 30% damage each. |
+    | 22 | Venomous Strike III | Passive | Every fourth weapon strike deals 8 additional damage for each stack of Poison on the target enemy. |
+    | 22 | Extraction III | Passive | Every fourth successful weapon attack restores 6 mana for each stack of Poison on the target enemy. |
+    | 22 | Deadly Poison III | Active | Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 5 Poison on hit. |
+    | 23 | Strangling Gas III | Active | Throw a toxic cocktail that applies 5 Poison to the target and adjacent enemies. |
+    | 24 | Mutilate III | Active | Savagely strike with both weapons at once, each dealing 110% of its weapon's damage. |
+    | 24 | Explosive Grenade III | Active | Hurl a grenade that detonates on impact, dealing 44 to 52 damage. |
+    | 25 | Kidney Punch III | Active | Deliver an incapacitating blow to an enemy, stunning them for 3 seconds. |
+    | 25 | Explosive Grenade IV | Active | Hurl a grenade that detonates on impact, dealing 75 to 80 damage. |
+    | 25 | Poisoned Dagger IV | Active | Strike your enemy with a poisoned dagger, applying 7 Poison to the target enemy. |
+    | 25 | Cunning Strike III | Active | Your next weapon attack will deal an additional 1x DEX in damage. |
+    | 25 | Subduing Strike III | Passive | Every fourth successful weapon attack stuns your opponent for 2.5 seconds. |
+    | 25 | Deadly Poison IV | Active | Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 7 Poison on hit. |
+    | 25 | Shiv III | Active | Deliver a quick, close range strike with your off-hand weapon. |
+    | 25 | Flurry III | Active | Deal 5 main-hand weapon strikes in quick succession that deal 30% damage each. |
+    | 25 | Leech III | Passive | Every fourth successful weapon attack restores 7 health for each Poison on the target enemy. |
+
 ## Priorities
 
 The big picture for building a Thief, most important first:

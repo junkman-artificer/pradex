@@ -18,6 +18,51 @@ The trade-off is that Magicians are fragile. Most of their power comes from Inte
 
 If you like big spell damage and being the reason your party never runs dry, the Magician is a great pick, and it's available to everyone.
 
+??? abstract "All Magician abilities"
+    | Level | Name | Type | What it does |
+    |---|---|---|---|
+    | 2 | Fireball | Active | Launch a blazing orb at your enemy, dealing 4 to 8 fire damage, and applying Burn for 3 seconds. |
+    | 3 | Firebrand Weapon | Active | Imbue your front line's weapons with flames for 4 seconds, causing their successful weapon attacks to apply Burn to the target. |
+    | 4 | Attuned | Trait | Allows orbs to be equipped in your offhand. |
+    | 5 | Frostbolt | Active | Hurl a shard of ice at an enemy, dealing 8 to 12 frost damage and freezing them for 1 second. |
+    | 6 | Mage Armor | Active | Weave arcane wards around your front line, restoring 2 mana to them whenever they take damage. |
+    | 7 | Icebrand Weapon | Active | Imbue your front line's weapons with icy magic for 4 seconds, causing their successful attacks to freeze the enemy for 1 second. |
+    | 8 | Arcane Missiles | Active | Fire 3 arcane projectiles that seek out your enemies, dealing 5 to 9 arcane damage each. |
+    | 8 | Manafont | Trait | Every 10 Intellect grants +1 Mana Regen. |
+    | 9 | Lightning Bolt | Active | Strike your enemy with a bolt of lightning, dealing 14 to 18 damage. If the enemy is frozen, this deals double damage. |
+    | 10 | Fireball II | Active | Launch a blazing orb at your enemy, dealing 16 to 19 fire damage, and applying Burn II for 3 seconds. |
+    | 11 | Dragon's Breath | Active | Unleash a fiery breath, applying Burn to each enemy at the front line for 3 seconds. |
+    | 12 | Archivist | Trait | Increase your chance to discover spellbooks by 5%. |
+    | 12 | Mage Armor II | Active | Weave arcane wards around your front line, restoring 4 mana to them whenever they take damage. |
+    | 13 | Arcane Infusion | Active | Channel arcane energy to invigorate your allies, giving 5 mana regen per second for 3 seconds. |
+    | 13 | Blizzard | Active | Summon a chilling blizzard, dealing 14 to 17 damage, and freezing each enemy for 1 second. |
+    | 14 | Firebrand Weapon II | Active | Imbue your front line's weapons with flames for 4 seconds, causing their successful weapon attacks to apply Burn II to the target. |
+    | 15 | Frostbolt II | Active | Hurl a shard of ice at an enemy, dealing 18 to 24 frost damage and freezing them for 2 seconds. |
+    | 15 | Mirror Image | Active | Create 2 illusory duplicates of yourself to confuse and distract enemies. Each illusion may absorb one attack. |
+    | 16 | Icebrand Weapon II | Active | Imbue your front line's weapons with icy magic for 4 seconds, causing their successful attacks to freeze the enemy for 2 seconds. |
+    | 16 | Enchiridion | Trait | Expand your spellbook, increasing your equippable spell slots by 1. |
+    | 16 | Lightning Bolt II | Active | Strike your enemy with a bolt of lightning, dealing 24 to 32 damage. If the enemy is frozen, this deals double damage. |
+    | 18 | Fireball III | Active | Launch a blazing orb at your enemy, dealing 40 to 46 fire damage, and applying Burn III for 3 seconds. |
+    | 18 | Arcane Missiles II | Active | Fire 3 arcane projectiles that seek out your enemies, each dealing 18 to 22 arcane damage. |
+    | 18 | Dragon's Breath II | Active | Unleash a fiery breath, applying Burn II to each enemy at the front line for 3 seconds. |
+    | 19 | Arcane Infusion II | Active | Channel arcane energy to invigorate your allies, giving 10 mana regen per second for 3 seconds. |
+    | 19 | Mage Armor III | Active | Weave arcane wards around your front line, restoring 6 mana to them whenever they take damage. |
+    | 20 | Blizzard II | Active | Summon a chilling blizzard, dealing 28 to 32 damage, and freezing each enemy for 1.75 seconds. |
+    | 22 | Firebrand Weapon III | Active | Imbue your front line's weapons with flames for 4 seconds, causing their successful weapon attacks to apply Burn III to the target. |
+    | 23 | Frostbolt III | Active | Hurl a shard of ice at an enemy, dealing 40 to 44 frost damage and freezing for 3 seconds. |
+    | 23 | Lightning Bolt III | Active | Strike your enemy with a bolt of lightning, dealing 38 to 46 damage. If the enemy is frozen, this deals double damage. |
+    | 24 | Icebrand Weapon III | Active | Imbue your front line's weapons with icy magic for 4 seconds, causing their successful attacks to freeze the enemy for 3 seconds. |
+    | 25 | Dragon's Breath III | Active | Unleash a fiery breath, applying Burn III to each enemy at the front line for 3 seconds. |
+    | 25 | Fireball IV | Active | Launch a blazing orb at your enemy, dealing 48 to 54 fire damage, and applying Burn IV for 3 seconds. |
+    | 25 | Arcane Infusion III | Active | Channel arcane energy to invigorate your allies, giving 15 mana regen per second for 3 seconds. |
+    | 25 | Firebrand Weapon IV | Active | Imbue your front line's weapons with flames for 4 seconds, causing their successful weapon attacks to apply Burn IV to the target. |
+    | 25 | Mage Armor IV | Active | Weave arcane wards around your front line, restoring 8 mana to them whenever they take damage. |
+    | 25 | Arcane Missiles III | Active | Fire 3 arcane projectiles that seek out your enemies, each dealing 40 to 46 arcane damage. |
+    | 25 | Blizzard III | Active | Summon a chilling blizzard, dealing 38 to 44 damage, and freezing each enemy for 2.5 seconds. |
+    | 25 | Lightning Bolt IV | Active | Strike your enemy with a bolt of lightning, dealing 50 to 54 damage. If the enemy is frozen, this deals double damage. |
+    | 25 | Fireball V | Active | Launch a blazing orb at your enemy, dealing 60 to 66 fire damage, and applying Burn V for 3 seconds. |
+    | 25 | Frostbolt IV | Active | Hurl a shard of ice at an enemy, dealing 52 to 56 frost damage and freezing for 3 seconds. |
+
 ## Priorities
 
 The big picture for building a Magician, most important first:

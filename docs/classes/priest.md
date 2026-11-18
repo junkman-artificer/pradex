@@ -18,6 +18,50 @@ The trade-off is that your damage won't match a dedicated damage class, and ever
 
 If you like being the reason your party survives, while still getting to smite things, the Priest is a great pick, and it's available to everyone.
 
+??? abstract "All Priest abilities"
+    | Level | Name | Type | What it does |
+    |---|---|---|---|
+    | 2 | Penance | Active | Speak a word of power, dealing 12 holy damage over 3 seconds to a target enemy. |
+    | 3 | Holy Weapon | Active | Imbue your front line's weapons with holy power, causing their successful weapon attacks to heal them for 4 health. |
+    | 4 | Divine Shield | Active | Wrap your front line in holy protection, granting each ally 8 Barrier. |
+    | 4 | Piety | Trait | Allows Relics to be equipped in your offhand. |
+    | 5 | Healing Word | Active | Speak a word of healing, instantly restoring 7 health and 5 mana to an allied character. |
+    | 6 | Cleanse | Active | Infuse an ally with divine energy, removing one negative status effect. |
+    | 7 | Holy Armor | Active | Imbue your front line's armor with holy power, healing them for 4 health whenever they take damage. |
+    | 8 | Mercy | Trait | Every 10 Intellect grants your party +1 Health Regen. |
+    | 8 | Purge | Active | Exorcise an enemy, removing one positive status effect. |
+    | 9 | Holy Nova | Active | Release a burst of holy energy, dealing 9 damage to all enemies, and healing all allies for 5 health. |
+    | 10 | Penance II | Active | Speak a word of power, dealing 24 holy damage over 3 seconds to a target enemy. |
+    | 11 | Prayer of Healing | Active | Utter a prayer of healing, instantly restoring 9 health and 5 mana to all allies. |
+    | 12 | Divine Shield II | Active | Wrap your front line in holy protection, granting each ally 18 Barrier. |
+    | 12 | Supplication | Trait | You may select from 4 blessings when you encounter a Shrine. |
+    | 13 | Healing Word II | Active | Speak a word of healing, instantly restoring 14 health and 12 mana to an allied character. |
+    | 14 | Holy Weapon II | Active | Imbue your front line's weapons with holy power, causing their successful weapon attacks to heal them for 13 health. |
+    | 16 | Deliverance | Trait | Once per combat, call upon divine mercy to resurrect a fallen ally with 20% health and mana. |
+    | 16 | Holy Armor II | Active | Imbue your front line's armor with holy power, healing them for 10 health whenever they take damage. |
+    | 17 | Cleanse II | Active | Infuse an ally with divine energy, removing two negative status effects. |
+    | 17 | Divine Shield III | Active | Wrap your front line in holy protection, granting each ally 28 Barrier. |
+    | 18 | Holy Nova II | Active | Release a burst of holy energy, dealing 18 damage to all enemies, and healing all allies for 10 health. |
+    | 18 | Penance III | Active | Speak a word of power, dealing 42 holy damage over 3 seconds to a target enemy. |
+    | 18 | Prayer of Healing II | Active | Utter a prayer of healing, instantly restoring 30 health and 14 mana to all allies. |
+    | 20 | Mass Dispel | Active | Call upon divine power to remove one negative status effect from all allies. |
+    | 21 | Purge II | Active | Exorcise an enemy, removing two positive status effects. |
+    | 22 | Healing Word III | Active | Speak a word of healing, instantly restoring 36 health and 24 mana to an allied character. |
+    | 23 | Divine Shield IV | Active | Wrap your front line in holy protection, granting each ally 40 Barrier. |
+    | 23 | Holy Weapon III | Active | Imbue your front line's weapons with holy power, causing their successful weapon attacks to heal them for 21 health. |
+    | 24 | Holy Armor III | Active | Imbue your front line's armor with holy power, healing them for 18 health whenever they take damage. |
+    | 24 | Mass Exorcism | Active | Unleash divine wrath to banish one positive status effect from every enemy. |
+    | 25 | Holy Nova III | Active | Release a burst of holy energy, dealing 33 damage to all enemies, and healing all allies for 18 health. |
+    | 25 | Penance IV | Active | Speak a word of power, dealing 60 holy damage over 3 seconds to a target enemy. |
+    | 25 | Prayer of Healing III | Active | Utter a prayer of healing, instantly restoring 54 health and 30 mana to all allies. |
+    | 25 | Healing Word IV | Active | Speak a word of healing, instantly restoring 56 health and 30 mana to an allied character. |
+    | 25 | Divine Shield V | Active | Wrap your front line in holy protection, granting each ally 56 Barrier. |
+    | 25 | Cleanse III | Active | Infuse an ally with divine energy, removing three negative status effects. |
+    | 25 | Prayer of Healing IV | Active | Utter a prayer of healing, instantly restoring 64 health and 40 mana to all allies. |
+    | 25 | Purge III | Active | Exorcise an enemy, removing three positive status effects. |
+    | 25 | Healing Word V | Active | Speak a word of healing, instantly restoring 68 health and 42 mana to an allied character. |
+    | 25 | Penance V | Active | Speak a word of power, dealing 90 holy damage over 3 seconds to a target enemy. |
+
 ## Priorities
 
 The big picture for building a Priest, most important first:

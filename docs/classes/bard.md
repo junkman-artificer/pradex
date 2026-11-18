@@ -18,6 +18,46 @@ The trade-off is that most of your strength goes to other people. Your own damag
 
 If you like making the whole party better and watching fights speed up around you, the Bard is a great pick, though it's only available to subscribers.
 
+??? abstract "All Bard abilities"
+    | Level | Name | Type | What it does |
+    |---|---|---|---|
+    | 2 | Soldier's Fanfare | Active | Sound a heroic fanfare that increases your allies' weapon damage by 8 for 4 seconds and grants them Weapon Haste for 1 second. |
+    | 3 | Wizard's Minuet | Active | Play a mystical minuet that increases your allies' spellpower by 6 for 4 seconds and grants them Ability Haste for 1 second. |
+    | 4 | Musician | Trait | Allows Instruments to be equipped in your offhand. |
+    | 4 | Requiem of Suffering | Active | Intone a sorrowful requiem that deals 3 damage per second for 4 seconds to all enemies and applies Slow for 1 second. |
+    | 5 | Ode to Glory | Active | Sing an inspiring ode that reduces damage taken by allies by 4 for 5 seconds, and grants them Weapon Haste for 1 second. |
+    | 6 | Rogue's Scherzo | Active | Strike up a sharp scherzo that grants allies 10% hit rating and crit rating for 4 seconds and Weapon Haste for 1 second. |
+    | 8 | Dancer's Bagatelle | Active | Play a rhythmic bagatelle that grants allies 10% evasion for 4 seconds and Weapon Haste for 1 second. |
+    | 8 | Performer | Trait | Every 8 Dexterity and 8 Intellect increases Performance by 1. |
+    | 9 | Moonlight Rhapsody | Active | Weave an enchanting rhapsody that reduces mana cost of allies' spells by 4 for 5 seconds, and grants Ability Haste for 1 second. |
+    | 9 | Sorcerer's Lament | Active | Compose a melancholic lament that decreases enemy magic resistance by 20% for 4 seconds and applies Slow for 1 second. |
+    | 10 | Meadowland Pastoral | Active | Perform a soothing pastoral melody, granting all allies 2 health regen per second for 5 seconds, and Ability Haste for 1 second. |
+    | 11 | Requiem of Suffering II | Active | Intone a sorrowful requiem that deals 6 damage per second for 4 seconds to all enemies and applies Slow for 1.2 seconds. |
+    | 12 | Harmony | Trait | Every point in Performance grants your party +1 Mana Regen. |
+    | 12 | Ode to Glory II | Active | Sing an inspiring ode that reduces damage taken by allies by 7 for 5 seconds, and grants them Weapon Haste for 1.2 seconds. |
+    | 12 | Soldier's Fanfare II | Active | Sound a heroic fanfare that increases your allies' weapon damage by 16 for 4 seconds and grants them Weapon Haste for 1.2 seconds. |
+    | 13 | Wizard's Minuet II | Active | Play a mystical minuet that increases your allies' spellpower by 10 for 4 seconds and grants them Ability Haste for 1.2 seconds. |
+    | 14 | Rogue's Scherzo II | Active | Strike up a sharp scherzo that grants allies 15% hit rating and crit rating for 4 seconds and Weapon Haste for 1.2 seconds. |
+    | 15 | Moonlight Rhapsody II | Active | Weave an enchanting rhapsody that reduces mana cost of allies' spells by 7 for 5 seconds, and grants Ability Haste for 1.2 seconds. |
+    | 16 | Dancer's Bagatelle II | Active | Play a rhythmic bagatelle that grants allies 20% evasion for 4 seconds and Weapon Haste for 1.2 seconds. |
+    | 16 | Virtuoso | Trait | Every time you cast an ability, gain Ability Haste for 0.1 seconds per Performance. |
+    | 17 | Meadowland Pastoral II | Active | Perform a soothing pastoral melody, granting all allies 4 health regen per second for 5 seconds, and Ability Haste for 1.2 seconds. |
+    | 18 | Sorcerer's Lament II | Active | Compose a melancholic lament that decreases enemy magic resistance by 30% for 4 seconds and applies Slow for 1.2 seconds. |
+    | 19 | Requiem of Suffering III | Active | Intone a sorrowful requiem that deals 10 damage per second for 4 seconds to all enemies and applies Slow for 1.4 seconds. |
+    | 20 | Wizard's Minuet III | Active | Play a mystical minuet that increases your allies' spellpower by 14 for 4 seconds and grants them Ability Haste for 1.4 seconds. |
+    | 21 | Soldier's Fanfare III | Active | Sound a heroic fanfare that increases your allies' weapon damage by 24 for 4 seconds and grants them Weapon Haste for 1.4 seconds. |
+    | 22 | Ode to Glory III | Active | Sing an inspiring ode that reduces damage taken by allies by 11 for 5 seconds, and grants them Weapon Haste for 1.4 seconds. |
+    | 23 | Meadowland Pastoral III | Active | Perform a soothing pastoral melody, granting all allies 6 health regen per second for 5 seconds, and Ability Haste for 1.4 seconds. |
+    | 23 | Moonlight Rhapsody III | Active | Weave an enchanting rhapsody that reduces mana cost of allies' spells by 11 for 5 seconds, and grants Ability Haste for 1.4 seconds. |
+    | 24 | Dancer's Bagatelle III | Active | Play a rhythmic bagatelle that grants allies 30% evasion for 4 seconds and Weapon Haste for 1.4 seconds. |
+    | 25 | Rogue's Scherzo III | Active | Strike up a sharp scherzo that grants allies 20% hit rating and crit rating for 4 seconds and Weapon Haste for 1.4 seconds. |
+    | 25 | Sorcerer's Lament III | Active | Compose a melancholic lament that decreases enemy magic resistance by 40% for 4 seconds and applies Slow for 1.4 seconds. |
+    | 25 | Requiem of Suffering IV | Active | Intone a sorrowful requiem that deals 15 damage per second for 4 seconds to all enemies and applies Slow for 1.6 seconds. |
+    | 25 | Ode to Glory IV | Active | Sing an inspiring ode that reduces damage taken by allies by 15 for 5 seconds, and grants them Weapon Haste for 1.6 seconds. |
+    | 25 | Meadowland Pastoral IV | Active | Perform a soothing pastoral melody, granting all allies 8 health regen per second for 5 seconds, and Ability Haste for 1.6 seconds. |
+    | 25 | Wizard's Minuet IV | Active | Play a mystical minuet that increases your allies' spellpower by 18 for 4 seconds and grants them Ability Haste for 1.6 seconds. |
+    | 25 | Moonlight Rhapsody IV | Active | Weave an enchanting rhapsody that reduces mana cost of allies' spells by 15 for 5 seconds, and grants Ability Haste for 1.6 seconds. |
+
 ## Priorities
 
 The big picture for building a Bard, most important first:
