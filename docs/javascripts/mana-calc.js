@@ -268,8 +268,9 @@
       order.sort(function (x, y) { return fams[x].name.localeCompare(fams[y].name) || fams[x].cls.localeCompare(fams[y].cls); });
       return { fams: fams, order: order, slots: cls === "MAG" && lvl >= 16 ? 4 : 3, showCls: !!sub };
     }
-    function className(c) { return CLASSES.filter(function (x) { return x[0] === c; })[0][1]; }
-    function rankLabel(a) { return a.name + " (" + (a.mana ? a.mana + " mana" : "health") + ", " + a.cd + "s)"; }
+    // The spell name is already in the spell dropdown, so ranks only show the numeral.
+    function rankName(a) { var m = / (II|III|IV|V)$/.exec(a.name); return "Rank " + (m ? m[1] : "I"); }
+    function rankLabel(a) { return rankName(a) + " (" + (a.mana ? a.mana + " mana" : "health") + ", " + a.cd + "s)"; }
     function fillRank(i, c, keep) {
       var sel = root.querySelector("#mc-s" + i), rank = root.querySelector("#mc-r" + i);
       rank.innerHTML = "";
@@ -317,7 +318,7 @@
         spell.appendChild(el("option", { value: "", text: "Empty" }));
         c.order.forEach(function (key) {
           var f = c.fams[key];
-          spell.appendChild(el("option", { value: key, text: f.name + (c.showCls ? " (" + className(f.cls) + ")" : "") }));
+          spell.appendChild(el("option", { value: key, text: f.name }));
         });
         var rank = el("select", { id: "mc-r" + i, class: "mc-rank", "aria-label": "Slot " + (i + 1) + " rank" });
         abilityBox.appendChild(el("div", { class: "pdx-calc__slot" }, [
@@ -381,7 +382,7 @@
       var f = fams[spell.value];
       if (!f) { rank.disabled = true; rank.appendChild(el("option", { value: "", text: "No rank" })); return; }
       rank.disabled = false;
-      f.ranks.forEach(function (a) { rank.appendChild(el("option", { value: a.name, text: a.name })); });
+      f.ranks.forEach(function (a) { rank.appendChild(el("option", { value: a.name, text: rankName(a) })); });
       var names = f.ranks.map(function (a) { return a.name; });
       rank.value = keep && names.indexOf(keep) >= 0 ? keep : names[names.length - 1];
     }

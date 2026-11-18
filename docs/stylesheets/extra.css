@@ -737,11 +737,12 @@
 .md-typeset .pdx-calc__result { font-family: var(--pdx-readout); font-size: 0.85rem; color: var(--pdx-screen); margin: 0.2rem 0 0.6rem; }
 .md-typeset .pdx-calc__skip td { color: var(--pdx-amber); }
 .md-typeset .pdx-calc__slots { display: grid; gap: 0.4rem; margin-top: 0.5rem; }
-.md-typeset .pdx-calc__slot { display: grid; grid-template-columns: 3.2rem minmax(0, 1fr) minmax(0, 1.4fr); gap: 0.5rem; align-items: center; }
+.md-typeset .pdx-calc__slot { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 0.15rem 0.5rem; align-items: center; }
+.md-typeset .pdx-calc__slotno { grid-column: 1 / -1; }
+.md-typeset .pdx-calc__abilities .pdx-calc__slot { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); }
 .md-typeset .pdx-calc__slotno { font-family: var(--pdx-readout); font-size: 0.6rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--pdx-dim); }
 @media screen and (max-width: 44.984375em) {
-  .md-typeset .pdx-calc__slot { grid-template-columns: 1fr 1fr; }
-  .md-typeset .pdx-calc__slotno { grid-column: 1 / -1; }
+  .md-typeset .pdx-calc__slot, .md-typeset .pdx-calc__abilities .pdx-calc__slot { grid-template-columns: minmax(0, 1fr); }
   .md-typeset .pdx-calc__abilities { grid-template-columns: minmax(0, 1fr); }
   .md-typeset .pdx-calc__slider input[type="range"] { display: none; }
   .md-typeset .pdx-calc__slider .pdx-calc__num { display: block; }
