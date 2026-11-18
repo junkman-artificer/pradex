@@ -4,6 +4,8 @@ A log of what's been added to the guide.
 
 ## November 17, 2026
 
+- **[Rune Combinations](../waystones/runes.md)**: all 84 three-rune combinations and the waystone each one makes.
+- **[Needs Proof](needs-proof.md)**: every best guess on the site in one list, so you can help confirm them.
 - **[Spellbooks](../spellbooks/index.md)**: a new section with where to buy or farm every ability's spellbook, for all seven classes.
 - **[Uniques](../gearing-up/uniques/leveling.md)**: every Unique Monster and its loot in one place, split into Leveling, Endgame and Arena.
 - **[Waystone regions](../waystones/regions/index.md)**: each region now has an overview, which gear drops there, the monsters to watch out for, and what to farm for.
