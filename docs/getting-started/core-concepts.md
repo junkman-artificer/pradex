@@ -36,6 +36,12 @@ You've got 12 equipment slots to fill. Gear comes in six rarity tiers, and highe
 
 [:lucide-arrow-right: Learn more](../gearing-up/index.md)
 
+## Inventory and stash
+
+Your inventory holds what you carry, and your stash holds what you've put away. Each one fits **100** items, or **200** for subscribers.
+
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Keep an eye on your inventory. When it's full, you can't travel or start a deck until you free up space, though waystone decks still work. Only the player who starts it needs the room, so a party member with space can take everyone.
+
 ## Crafting and enchanting
 
 Crafting makes gear and consumables from gathered materials. Enchanting changes an item's affixes, and imbuing raises its rarity. Together, they're how you turn decent gear into great gear.

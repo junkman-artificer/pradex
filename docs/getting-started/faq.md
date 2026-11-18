@@ -13,6 +13,9 @@ Click a question to see the answer.
 
     If only some of your party goes down, they come back with 1 health after the fight and keep going.
 
+??? question "Why can't I travel or start a deck?"
+    <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Your inventory is probably full. Sell or stash something to make room, or have a party member with space start it instead. Waystone decks aren't affected. See [Inventory and stash](core-concepts.md#inventory-and-stash).
+
 ??? question "What's the level cap?"
     Currently **25** for your main class and **12** for your subclass. See [Subclass level](../classes/index.md#subclass-level) for how subclass levels work.
 
