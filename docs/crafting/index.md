@@ -100,3 +100,5 @@ Crafting earns profession experience, and leveling up unlocks more advanced reci
     [:lucide-arrow-right: View recipes](cooking.md)
 
 </div>
+
+[:lucide-arrow-right: Next: Enchanting](../enchanting/index.md)

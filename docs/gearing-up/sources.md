@@ -78,3 +78,5 @@ Buy gear from other players. It unlocks once you reach **Eastern Gate**. Weapons
 
 !!! warning "Lone Wolf players"
     Using the Arena or the Trading Post ends your [Lone Wolf](../character-creation/index.md#lone-wolf-optional) status.
+
+[:lucide-arrow-right: Next: Crafting](../crafting/index.md)

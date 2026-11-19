@@ -44,3 +44,5 @@ Tuck the lower-level player into the back line. That keeps them out of reach of 
     [:lucide-arrow-right: Build a team](building-a-team.md)
 
 </div>
+
+[:lucide-arrow-right: Next: Party Size and Drops](party-size.md)

@@ -10,7 +10,7 @@ That's why most of this guide is about preparation.
 
 ## VITA
 
-VITA is the energy you spend to play, and you earn it by walking in the real world. A brand-new character even starts with VITA from their last two days of walking. You can hold up to **80 VITA** at a time, and anything past that waits for you until you spend some.
+VITA is the energy you spend to play, and you earn it by walking in the real world. A brand-new character even starts with VITA from their last two days of walking. You can hold up to **80 VITA** at a time, and anything past that waits for you until you spend some. That backlog only reaches back two days, though, so steps older than that are lost and you can't bank VITA forever.
 
 | Steps each day | VITA earned |
 |---|---|
@@ -21,8 +21,6 @@ You also get **100 bonus experience** each at **2,000** and **5,000** steps ever
 
 !!! tip "Hit 5,000 steps every day"
     Your first 5,000 steps give you the best VITA return, plus both experience bonuses. If you build one habit, make it this one.
-
-[:lucide-arrow-right: Learn more](../character-creation/index.md#once-you-start-vita)
 
 ## Classes
 
@@ -36,13 +34,13 @@ You've got 12 equipment slots to fill. Gear comes in six rarity tiers, and highe
 
 [:lucide-arrow-right: Learn more](../gearing-up/index.md)
 
-## Inventory and stash
+## Inventory and Stash
 
 Your inventory holds what you carry, and your stash holds what you've put away. Each one fits **100** items, or **200** for subscribers.
 
 <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Keep an eye on your inventory. When it's full, you can't travel or start a deck until you free up space, though waystone decks still work. Only the player who starts it needs the room, so a party member with space can take everyone.
 
-## Crafting and enchanting
+## Crafting and Enchanting
 
 Crafting makes gear and consumables from gathered materials. Enchanting changes an item's affixes, and imbuing raises its rarity. Together, they're how you turn decent gear into great gear.
 

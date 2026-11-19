@@ -197,3 +197,5 @@ Finding more and better loot, and adding sockets.
 | % Increased Item Drop Rate | Increases your chance of items dropping. |
 | % Spellbook Find Rate | Increases your chance of finding spellbooks. |
 | % Gem Find Rate | Increases your chance of finding gems. |
+
+[:lucide-arrow-right: Next: Where to Get Gear](sources.md)

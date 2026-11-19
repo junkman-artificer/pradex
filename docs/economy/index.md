@@ -57,3 +57,5 @@ Items and gold from the Trading Post are delivered to your **Mailbox**. Gold fro
 
 !!! warning "Lone Wolf players"
     Using the Trading Post ends your [Lone Wolf](../character-creation/index.md#lone-wolf-optional) status.
+
+[:lucide-arrow-right: Next: Arena](../arena/index.md)

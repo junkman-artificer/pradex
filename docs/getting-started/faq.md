@@ -6,7 +6,7 @@ Click a question to see the answer.
     Yes. Prado reads your steps from your phone's built-in step counter, so the next time you open the app, you'll get VITA for up to two days of walking since you last played.
 
 ??? question "Is there a limit to how much VITA I can save up?"
-    Yes. You can hold up to **80 VITA** at a time. If your steps earned you more than that, the extra waits for you and gets added as you spend what you have.
+    Yes. You can hold up to **80 VITA** at a time. If your steps earned you more than that, the extra waits for you and gets added as you spend what you have. Only the last two days of steps count, so anything older is lost.
 
 ??? question "What happens if my character dies partway through a deck?"
     If your whole party is defeated, you're sent back to town and the run counts as a loss. You keep any loot you've picked up, but the VITA is gone.
@@ -14,7 +14,7 @@ Click a question to see the answer.
     If only some of your party goes down, they come back with 1 health after the fight and keep going.
 
 ??? question "Why can't I travel or start a deck?"
-    <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Your inventory is probably full. Sell or stash something to make room, or have a party member with space start it instead. Waystone decks aren't affected. See [Inventory and stash](core-concepts.md#inventory-and-stash).
+    <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Your inventory is probably full. Sell or stash something to make room, or have a party member with space start it instead. Waystone decks aren't affected. See [Inventory and Stash](core-concepts.md#inventory-and-stash).
 
 ??? question "What's the level cap?"
     Currently **25** for your main class and **12** for your subclass. See [Subclass level](../classes/index.md#subclass-level) for how subclass levels work.

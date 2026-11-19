@@ -1,6 +1,6 @@
 # Combat
 
-Prado is an autobattler, so fights play out on their own. Your job is everything before the fight starts: your class, your gear, your formation, and who's in your party.
+You can't steer a fight once it starts, but knowing how one plays out shows you what to set up beforehand. This page covers fatigue, formations, weapon range, damage types, targeting, and how hits and blocks work.
 
 ## How a fight plays out
 
@@ -40,9 +40,9 @@ Your party fights in a **2x2 grid**: two front line slots and two back line slot
 - **Put your melee fighters up front.** Warriors, Blood Knights and dual-wielding Thieves do their damage up close, and the back line cuts melee damage by 35%. Blood Knights are melee only, so they belong up front every time.
 - **Put your ranged attackers and casters in back.** Rangers, Magicians and Priests lose nothing back there, and it keeps the fragile ones out of reach of enemy melee.
 - **Two and two is the natural fit.** With two melee and two ranged, everyone lands where they're strongest.
-- **Too many melee? Grab a bow.** If three of you fight up close, whoever ends up in back takes the 35% hit. Warriors, Thieves and Bards can switch to a bow and lose nothing.
+- **Too many melee? Grab a bow.** If three of you fight up close, whoever ends up in back takes the 35% hit. Warriors and Thieves can switch to a bow and lose nothing. Bards can too, but they give up their instrument, their biggest source of Performance.
 - **Think about who steps up.** When a front liner falls, the ally behind them takes their place, so put your sturdier back liner behind the front liner most likely to drop first.
-- **Some abilities only help the front line.** Divine Shield and Holy Weapon from a Priest, and Firebrand and Icebrand Weapon from a Magician, only reach the front line, so they're at their best when the front is where your damage comes from.
+- **Some abilities only help the front line.** A Magician's Firebrand and Icebrand Weapon add damage to front line weapon attacks, so they're at their best when the front is where your damage comes from. A Priest's Divine Shield and Holy Weapon keep the front line alive with Barrier and healing on every weapon hit, so they're at their best when the front is soaking the hits.
 - **Shuffle between fights.** You can change your formation between battles, so if someone needs a breather and you have no other way to recover them, swap them to the back for a fight or two.
 
 ## Weapon range
@@ -159,3 +159,5 @@ In the **combat replay**, damage and healing text are shown separately, and Free
     [:lucide-arrow-right: View statuses](status-effects.md)
 
 </div>
+
+[:lucide-arrow-right: Next: Parties](../parties/index.md)

@@ -9,3 +9,5 @@ Each region has its own page with details. Some regions share the same rules for
 | [The Burrows](the-burrows.md) | Shared with Eastern Gate: leans toward Strength gear. |
 | [Gloomhaven](gloomhaven.md) | Shared with Briarstone Quarry: leans toward Dexterity gear. The only place Wands drop. |
 | [Briarstone Quarry](briarstone-quarry.md) | Shared with Gloomhaven: leans toward Dexterity gear. |
+
+[:lucide-arrow-right: Next: Tools](../../tools/index.md)

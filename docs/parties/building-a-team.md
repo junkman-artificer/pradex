@@ -44,3 +44,5 @@ Sorcerer's Lament lowers the enemy's magic resistance, Wizard's Minuet raises ev
 Coordinated groups can also split up crafting professions and pass each other the materials they find, so everyone levels their specialty faster.
 
 For what each class brings to a group, see the **In a party** section on each [class page](../classes/index.md).
+
+[:lucide-arrow-right: Next: Gearing Up](../gearing-up/index.md)

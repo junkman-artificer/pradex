@@ -66,3 +66,5 @@ Not sure how to learn a spellbook once you have it? See [Get your first ability]
     [:lucide-arrow-right: View spellbooks](ranger.md)
 
 </div>
+
+[:lucide-arrow-right: Next: Combat](../combat/index.md)

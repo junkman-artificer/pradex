@@ -118,3 +118,5 @@ It costs one shard matching the item's level, plus crafting materials for that t
 
 !!! bug "Attunements didn't refill?"
     That's a bug! Report it on the [Prado Discord](https://discord.gg/CnB2zBeN65) and someone can help sort it out.
+
+[:lucide-arrow-right: Next: Strategy](strategy.md)

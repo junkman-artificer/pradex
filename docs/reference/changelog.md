@@ -10,7 +10,7 @@ A log of what's been added to the guide.
 
 - **[Mana Calculator](../tools/mana-calculator.md)**: a new Tools section, starting with a calculator for how many cards your build can play before it runs out of mana.
 - **[Classes](../classes/index.md)**: every class page now has a dropdown with all of its abilities, at every level.
-- **[Inventory and stash](../getting-started/core-concepts.md#inventory-and-stash)**: how much each holds, and why a full bag stops you from traveling.
+- **[Inventory and Stash](../getting-started/core-concepts.md#inventory-and-stash)**: how much each holds, and why a full bag stops you from traveling.
 - **[How speed works](../gearing-up/stats.md#offense)**: speed on gear shortens your timers, Haste then counts them down twice as fast, and off-hand weapons swing 50% slower.
 
 ## November 17, 2026

@@ -48,3 +48,5 @@ Not sure which runes make which waystone? [Rune Combinations](runes.md) lists ev
     [:lucide-arrow-right: Explore](regions/index.md)
 
 </div>
+
+[:lucide-arrow-right: Next: Maximizing Waystones](maximizing.md)

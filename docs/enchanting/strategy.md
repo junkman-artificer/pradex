@@ -65,3 +65,5 @@ These come from the [official enchantments list](https://www.pradotraveler.com/e
 - **Don't hoard spare gear.** Disenchant it for shards and essence, or sell the promising pieces that just didn't roll what you wanted on the Trading Post.
 - **Keep your crafting professions leveled.** Imbuing takes crafting materials for that type of gear, like Linen Cloth for a Linen Shirt. A profession that keeps pace with your level means you can make those materials yourself instead of hunting for them.
 - **Reduced Attribute Requirements lets you wear gear early.** It's an affix on most weapons and armor, and it can let you equip a strong piece a few levels before you'd normally meet its stat requirement.
+
+[:lucide-arrow-right: Next: Economy](../economy/index.md)

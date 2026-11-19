@@ -15,3 +15,5 @@ Unique Monsters drop more gear the bigger your party is, but larger parties pay 
 
 !!! tip "Go for a full party"
     3 and 4 players pay the same VITA, but 4 players get better odds at 3 pieces. Already running as a group of 3? It's worth grabbing a 4th, especially if you're not all hunting for the same thing.
+
+[:lucide-arrow-right: Next: Building a Team](building-a-team.md)

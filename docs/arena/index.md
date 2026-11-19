@@ -98,3 +98,5 @@ Valor's Armory in the Halls of Valor sells <span class="rarity rarity--unique">U
 - **Layered crowd control.** Expect stuns, freezes, and other effects stacked on top of each other. See [Status Effects](../combat/status-effects.md) for what each one does and how to protect against it.
 - **Accuracy.** Check that your hit rate is high enough to reliably land attacks on enemy players.
 - **Cooldown reduction.** Right now, Arena fights are usually won by whoever bursts first. Faster cooldowns get your biggest abilities out before the other team's. See the cooldown stats under [Offense](../gearing-up/stats.md#offense).
+
+[:lucide-arrow-right: Next: Waystones](../waystones/index.md)

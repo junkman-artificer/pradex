@@ -122,3 +122,5 @@ Sorted by rune, in the order River, Flower, Song, City, Mask, Mud, Night. Press 
 | Night&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
 
 </div>
+
+[:lucide-arrow-right: Next: Maximizing Waystones](maximizing.md)

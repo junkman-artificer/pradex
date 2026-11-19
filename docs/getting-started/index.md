@@ -41,3 +41,5 @@ Pradex follows the path most players take, from making a character all the way t
     [:lucide-arrow-right: Read the FAQ](faq.md)
 
 </div>
+
+[:lucide-arrow-right: Next: Core Concepts](core-concepts.md)

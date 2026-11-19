@@ -46,3 +46,5 @@ What weapons and off-hands you can use depends on your class. Check the **Weapon
     [:lucide-arrow-right: Find gear](sources.md)
 
 </div>
+
+[:lucide-arrow-right: Next: Rarity](rarity.md)

@@ -50,10 +50,8 @@ Rest at the **Riverbend Tavern** to recover health and mana between runs, and st
 **Travel to Westfield** takes you to the next town, with farmland decks and the Old Mill dungeon. Be warned, though: Westfield has no Alchemy station, so brew any potions you'll need before you head out.
 
 !!! warning "Common early mistakes"
-    - **Leaving your ability on all the time.** Early on, your mana can't keep up with it. Try using it for the first fight of a deck, then turning it off until you've recovered, so you don't run out of gas halfway through. This gets important once you reach double-deckers like Old Mill Dungeon into The Miller's Vault, which ends with a powerful Unique Monster "boss" fight.
+    - **Leaving your ability on all the time.** Early on, your mana can't keep up with it. Try using it for the first fight of a deck, then turning it off until you've recovered, so you don't run out of gas halfway through. This gets important once you reach double-deckers like Old Mill Dungeon into The Miller's Vault, which ends with a powerful Unique Monster "boss" fight. The [Mana Calculator](../tools/mana-calculator.md) shows how many fights your mana lasts with it on.
     - **Spending every last coin.** Resting gets more expensive as you go, so keep a buffer.
     - **Deleting a Seasonal character on a whim.** It can lock you out of Seasonal for 30 days.
 
-## What's next
-
-Ready to dig in? Browse the [Classes](../classes/index.md) to plan your build, or check [Gearing Up](../gearing-up/index.md) for what to wear.
+[:lucide-arrow-right: Next: Classes](../classes/index.md)

@@ -310,3 +310,5 @@ Makes weapon timers count down at **double speed**, so you attack twice as often
     The two songs overlapped often, and weapon timers never went past double speed.
 
     In a second replay, a Blood Knight cast Bloodrage while a Bard's Weapon Haste song was already running. The Blood Knight's weapon timer stayed at 2.0 seconds per second the whole time, the same speed as allies who only had the song.
+
+[:lucide-arrow-right: Next: Parties](../parties/index.md)
