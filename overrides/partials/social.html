@@ -1,0 +1,9 @@
+{#- Footer support link: the Ko-fi icon with a short line of text beside it. -#}
+<div class="md-social pdx-support">
+  {% for social in config.extra.social %}
+    <p class="pdx-support__text">Enjoying Pradex? <a href="{{ social.link }}" target="_blank" rel="noopener">Buy me a coffee on Ko-fi</a></p>
+    <a href="{{ social.link }}" target="_blank" rel="noopener" title="{{ social.name | e }}" class="md-social__link" aria-hidden="true" tabindex="-1">
+      {% include ".icons/" ~ social.icon ~ ".svg" %}
+    </a>
+  {% endfor %}
+</div>

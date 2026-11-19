@@ -763,3 +763,9 @@
 @media screen and (max-width: 44.984375em) {
   .md-typeset .pdx-calc__row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
+
+/* Footer support line: Ko-fi text and icon, on the right of the footer. */
+.pdx-support { display: flex; align-items: center; gap: 0.5rem; }
+.pdx-support__text { margin: 0; font-size: 0.64rem; line-height: 1.4; white-space: nowrap; color: var(--md-footer-fg-color--light); }
+.pdx-support__text a { color: var(--md-footer-fg-color); text-decoration: underline; }
+.pdx-support__text a:hover, .pdx-support__text a:focus-visible { color: var(--md-accent-fg-color); }

@@ -153,6 +153,11 @@ scheme = "slate"
 primary = "custom"
 accent = "light-green"
 
+[[project.extra.social]]
+icon = "simple/kofi"
+link = "https://ko-fi.com/ezraek"
+name = "Support Pradex on Ko-fi"
+
 # [[project.extra.social]]
 # icon = "fontawesome/brands/github"
 # link = "https://github.com/user/repo"
