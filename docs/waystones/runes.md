@@ -15,15 +15,15 @@ Not every rune comes in every tier. River, Flower, City and Mask Runes come in T
 |---|---|
 | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds)<br><small>Sweetwater</small> | 28 combinations, see [the full list](#every-combination) |
 | [Canals of Sweetwater](regions/sweetwater.md#canals-of-sweetwater)<br><small>Sweetwater</small> | River&nbsp;+&nbsp;River&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>River&nbsp;+&nbsp;Flower&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>River&nbsp;+&nbsp;Song&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>River&nbsp;+&nbsp;City&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>River&nbsp;+&nbsp;City&nbsp;+&nbsp;Night |
-| [Festival of Petals](regions/sweetwater.md#festival-of-petals)<br><small>Sweetwater</small> | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Night |
+| [Festival of Petals](regions/sweetwater.md#festival-of-petals)<br><small>Sweetwater</small> | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;City<br>Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;City<br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask<br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Night |
 | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city)<br><small>Eastern Gate</small> | 16 combinations, see [the full list](#every-combination) |
 | [The Theater District](regions/eastern-gate.md#the-theater-district)<br><small>Eastern Gate</small> | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
 | [Heist at Smuggler's Wharf](regions/eastern-gate.md#heist-at-smugglers-wharf)<br><small>Eastern Gate</small> | River&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
 | [Mr. Ripley's Midnight Carnival](regions/eastern-gate.md#mr-ripleys-midnight-carnival)<br><small>Eastern Gate</small> | Song&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night |
-| [The Filthworks](regions/the-burrows.md#the-filthworks)<br><small>The Burrows</small> | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud<br>City&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>City&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>City&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
-| [The Pit of Hands](regions/the-burrows.md#the-pit-of-hands)<br><small>The Burrows</small> | City&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
+| [The Filthworks](regions/the-burrows.md#the-filthworks)<br><small>The Burrows</small> | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud<br>City&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud<br>City&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud<br>City&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
+| [The Pit of Hands](regions/the-burrows.md#the-pit-of-hands)<br><small>The Burrows</small> | City&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
 | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths)<br><small>Gloomhaven</small> | 19 combinations, see [the full list](#every-combination) |
-| [Goblin Shipyard](regions/gloomhaven.md#goblin-shipyard)<br><small>Gloomhaven</small> | River&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
+| [Goblin Shipyard](regions/gloomhaven.md#goblin-shipyard)<br><small>Gloomhaven</small> | River&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud |
 | [Nightsong Bloom](regions/briarstone-quarry.md#nightsong-bloom)<br><small>Briarstone Quarry</small> | Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;Night <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
 
 </div>
@@ -56,7 +56,7 @@ Sorted by rune, in the order River, Flower, Song, City, Mask, Mud, Night. Press 
 | River&nbsp;+&nbsp;Song&nbsp;+&nbsp;Night | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds) |
 | River&nbsp;+&nbsp;City&nbsp;+&nbsp;City | [Canals of Sweetwater](regions/sweetwater.md#canals-of-sweetwater) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
 | River&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask | [Heist at Smuggler's Wharf](regions/eastern-gate.md#heist-at-smugglers-wharf) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
-| River&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud | [Goblin Shipyard](regions/gloomhaven.md#goblin-shipyard) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
+| River&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud | [Goblin Shipyard](regions/gloomhaven.md#goblin-shipyard) |
 | River&nbsp;+&nbsp;City&nbsp;+&nbsp;Night | [Canals of Sweetwater](regions/sweetwater.md#canals-of-sweetwater) |
 | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
 | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
@@ -66,7 +66,7 @@ Sorted by rune, in the order River, Flower, Song, City, Mask, Mud, Night. Press 
 | River&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
 | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Flower | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds) |
 | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Song | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds) |
-| Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;City | [Festival of Petals](regions/sweetwater.md#festival-of-petals) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
+| Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;City | [Festival of Petals](regions/sweetwater.md#festival-of-petals) |
 | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Mask | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds) |
 | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Mud | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds) |
 | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Night | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds) |
@@ -75,8 +75,8 @@ Sorted by rune, in the order River, Flower, Song, City, Mask, Mud, Night. Press 
 | Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;Mask | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds) |
 | Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;Mud | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds) |
 | Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;Night | [Nightsong Bloom](regions/briarstone-quarry.md#nightsong-bloom) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
-| Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;City | [Festival of Petals](regions/sweetwater.md#festival-of-petals) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
-| Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask | [Festival of Petals](regions/sweetwater.md#festival-of-petals) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
+| Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;City | [Festival of Petals](regions/sweetwater.md#festival-of-petals) |
+| Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask | [Festival of Petals](regions/sweetwater.md#festival-of-petals) |
 | Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud | [Festival of Petals](regions/sweetwater.md#festival-of-petals) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
 | Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Night | [Festival of Petals](regions/sweetwater.md#festival-of-petals) |
 | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
@@ -102,13 +102,13 @@ Sorted by rune, in the order River, Flower, Song, City, Mask, Mud, Night. Press 
 | Song&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
 | City&nbsp;+&nbsp;City&nbsp;+&nbsp;City | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
 | City&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
-| City&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud | [The Filthworks](regions/the-burrows.md#the-filthworks) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
+| City&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud | [The Filthworks](regions/the-burrows.md#the-filthworks) |
 | City&nbsp;+&nbsp;City&nbsp;+&nbsp;Night | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
 | City&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
-| City&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud | [The Filthworks](regions/the-burrows.md#the-filthworks) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
+| City&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud | [The Filthworks](regions/the-burrows.md#the-filthworks) |
 | City&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
 | City&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud | [The Filthworks](regions/the-burrows.md#the-filthworks) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
-| City&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night | [The Pit of Hands](regions/the-burrows.md#the-pit-of-hands) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
+| City&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night | [The Pit of Hands](regions/the-burrows.md#the-pit-of-hands) |
 | City&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
 | Mask&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
 | Mask&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |

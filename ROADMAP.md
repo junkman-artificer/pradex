@@ -158,7 +158,7 @@ Then check the page at phone width in the browser's device toolbar. Before handi
 
 ## Rune Combinations
 
-`docs/waystones/runes.md` lists all 84 three-rune combinations. Source: Ezraek's Rune Gap Check spreadsheet (Waystone Forge recipes checked against the community runecrafting site). The 5 High priority combos and Flower + Mask + Night were crafted in game by Ezraek, so they carry no tag. The 17 Medium priority combos use the Waystone Forge pick and are tagged Observed, since every one tested so far has matched. The page no longer links out to the runecrafting site; readers should find it all here.
+`docs/waystones/runes.md` lists all 84 three-rune combinations. Source: Ezraek's Rune Gap Check spreadsheet (Waystone Forge recipes checked against the community runecrafting site). The 5 High priority combos and Flower + Mask + Night were crafted in game by Ezraek, so they carry no tag. The 17 Medium priority combos use the Waystone Forge pick. Ezraek has since crafted 7 of them (City + City + Mud, City + Mask + Mud, City + Mud + Night, Flower + City + City, Flower + City + Mask, Flower + Flower + City, River + City + Mud), all matching, so those lost the tag. The other 10 stay tagged Observed until crafted. The page no longer links out to the runecrafting site; readers should find it all here.
 
 ## Tools
 

@@ -2,6 +2,10 @@
 
 A log of what's been added to the guide.
 
+## November 19, 2026
+
+- **[Rune Combinations](../waystones/runes.md)**: 7 more combinations crafted in game, all matching what the page listed, so they no longer need the Observed tag.
+
 ## November 18, 2026
 
 - **[Mana Calculator](../tools/mana-calculator.md)**: a new Tools section, starting with a calculator for how many cards your build can play before it runs out of mana.
