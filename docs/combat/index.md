@@ -43,7 +43,9 @@ Your party fights in a **2x2 grid**: two front line slots and two back line slot
 - **Too many melee? Grab a bow.** If three of you fight up close, whoever ends up in back takes the 35% hit. Warriors and Thieves can switch to a bow and lose nothing. Bards can too, but they give up their instrument, their biggest source of Performance.
 - **Think about who steps up.** When a front liner falls, the ally behind them takes their place, so put your sturdier back liner behind the front liner most likely to drop first.
 - **Some abilities only help the front line.** A Magician's Firebrand and Icebrand Weapon add damage to front line weapon attacks, so they're at their best when the front is where your damage comes from. A Priest's Divine Shield and Holy Weapon keep the front line alive with Barrier and healing on every weapon hit, so they're at their best when the front is soaking the hits.
-- **Shuffle between fights.** You can change your formation between battles, so if someone needs a breather and you have no other way to recover them, swap them to the back for a fight or two.
+
+!!! tip "Shuffle between fights"
+    You can change your formation between battles. If someone needs a breather and you have no other way to recover them, swap them to the back for a fight or two.
 
 ## Weapon range
 
