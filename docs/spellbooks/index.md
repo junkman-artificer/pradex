@@ -67,4 +67,4 @@ Not sure how to learn a spellbook once you have it? See [Get your first ability]
 
 </div>
 
-[:lucide-arrow-right: Next: Combat](../combat/index.md)
+[:lucide-arrow-right: Next: Warrior Spellbooks](warrior.md)

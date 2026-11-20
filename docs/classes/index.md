@@ -103,4 +103,4 @@ A subclass uses its own level, but it's capped at **half your main class's level
 !!! tip "Claim quests on the class you're leveling"
     Once your main hits level 25, swap the class you're leveling into your main slot in town before you claim quest rewards. That way it gets the full experience instead of half.
 
-[:lucide-arrow-right: Next: Spellbooks](../spellbooks/index.md)
+[:lucide-arrow-right: Next: Warrior](warrior.md)

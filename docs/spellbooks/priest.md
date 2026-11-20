@@ -44,3 +44,5 @@ Where to get every Priest spellbook, by the level you can learn it. For how drop
 | 25 | [Penance V](https://www.pradotraveler.com/abilities/685){ target="_blank" } | Farm in T5+ waystones |
 
 </div>
+
+[:lucide-arrow-right: Next: Bard Spellbooks](bard.md)

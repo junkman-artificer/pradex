@@ -135,3 +135,5 @@ Your field guide to Prado. Everything from making your first character to master
     [:lucide-arrow-right: Look up](reference/index.md)
 
 </div>
+
+[:lucide-arrow-right: Next: Getting Started](getting-started/index.md)

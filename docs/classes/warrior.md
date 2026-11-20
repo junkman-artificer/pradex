@@ -182,3 +182,5 @@ A subclass can never go above level 12, so everything the Warrior unlocks after 
     | 12 | Counter | Trait | Attack with your main-hand weapon whenever you dodge an enemy attack. |
     | 12 | Crippling Blow II | Active | Deliver a powerful strike for 120% weapon damage and reduces the target's damage by 12 for 3 seconds. |
     | 12 | Thunderclap II | Active | Slam the ground with a thunderous blow, dealing 17 to 21 damage to the enemy front line and slowing them for 1.25 seconds. |
+
+[:lucide-arrow-right: Next: Magician](magician.md)

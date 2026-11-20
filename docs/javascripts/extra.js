@@ -38,3 +38,33 @@ if (typeof document$ !== "undefined") {
   });
   window.addEventListener("resize", close);
 })();
+
+// Desktop sidebar: when the menu is taller than its panel, the mouse wheel flips it between
+// two positions, the top and the bottom, instead of scrolling a little at a time.
+// Once it's already at the end you scroll toward, the wheel scrolls the page as usual.
+document.addEventListener("wheel", function (ev) {
+  if (!window.matchMedia("(min-width: 76.25em)").matches) return;
+  var wrap = ev.target.closest && ev.target.closest(".md-sidebar--primary .md-sidebar__scrollwrap");
+  if (!wrap || wrap.scrollHeight <= wrap.clientHeight + 1 || !ev.deltaY) return;
+  var down = ev.deltaY > 0;
+  var end = down ? wrap.scrollHeight - wrap.clientHeight : 0;
+  if (Math.abs(wrap.scrollTop - end) < 2) return;
+  ev.preventDefault();
+  wrap.scrollTo({ top: end, behavior: "smooth" });
+}, { passive: false });
+
+// Desktop sidebar: opening a section closes the other open sections beside it,
+// so only one is expanded at a time.
+document.addEventListener("change", function (ev) {
+  var box = ev.target;
+  if (!box.checked || !box.classList || !box.classList.contains("md-nav__toggle")) return;
+  if (!window.matchMedia("(min-width: 76.25em)").matches) return;
+  if (!box.closest(".md-sidebar--primary")) return;
+  var item = box.parentElement, list = item && item.parentElement;
+  if (!list) return;
+  [].forEach.call(list.children, function (sib) {
+    if (sib === item) return;
+    var other = sib.querySelector(":scope > input.md-nav__toggle");
+    if (other && other.checked) other.checked = false;
+  });
+});

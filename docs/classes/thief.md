@@ -175,3 +175,5 @@ A subclass can never go above level 12, so everything the Thief unlocks after th
     | 12 | Treasure Hunter | Trait | Increase your chance to discover magic items by 10%. |
     | 12 | Poisoned Dagger II | Active | Strike your enemy with a poisoned dagger, applying 3 Poison to the target enemy. |
     | 12 | Deadly Poison II | Active | Coat your weapons with a deadly toxin for 7 seconds, causing them to apply 3 Poison on hit. |
+
+[:lucide-arrow-right: Next: Priest](priest.md)

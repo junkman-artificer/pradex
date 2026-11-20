@@ -69,3 +69,5 @@ Official pages and community tools worth bookmarking.
 ## Help improve Pradex
 
 Spot a mistake, or know something Pradex is missing? Message **Ezraek** on the [Prado Discord](https://discord.gg/CnB2zBeN65){ target="_blank" }. Screenshots are a huge help, and every correction makes the guide better for everyone.
+
+[:lucide-arrow-right: Next: Needs Proof](needs-proof.md)

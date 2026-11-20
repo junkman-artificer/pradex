@@ -40,3 +40,5 @@ Where to get every Bard spellbook, by the level you can learn it. For how drops 
 | 25 | [Moonlight Rhapsody IV](https://www.pradotraveler.com/abilities/648){ target="_blank" } | Farm in T5+ waystones |
 
 </div>
+
+[:lucide-arrow-right: Next: Blood Knight Spellbooks](blood-knight.md)

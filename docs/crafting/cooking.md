@@ -92,3 +92,5 @@ Ingredient picks are still being worked out, so treat these as a starting point.
 | Pork Pot Pie | 40 | 20 | 1 Earth Crystal<br>1 Boar Meat<br>1 Mudspuds<br>1 Bird Egg<br>1 Flour<br>1 Butter |
 
 </div>
+
+[:lucide-arrow-right: Next: Enchanting](../enchanting/index.md)

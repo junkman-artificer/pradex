@@ -162,3 +162,5 @@ A subclass can never go above level 12, so everything the Ranger unlocks after t
     | 11 | Quick Draw | Active | Nock and loose in one fluid motion, granting yourself Ability and Weapon Haste for 2 seconds. |
     | 12 | Quick Shot II | Active | Loose a swift arrow at a random enemy, dealing 100% weapon damage. |
     | 12 | Focus Fire | Trait | Every weapon attack grants 1 Focus (max 10). Each Focus increases your damage by 3%. Taking damage removes half of your Focus. |
+
+[:lucide-arrow-right: Next: Spellbooks](../spellbooks/index.md)

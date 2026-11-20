@@ -48,3 +48,5 @@ Where to get every Ranger spellbook, by the level you can learn it. For how drop
 | 25 | [Penetrating Shot V](https://www.pradotraveler.com/abilities/752){ target="_blank" } | Farm in T5+ waystones |
 
 </div>
+
+[:lucide-arrow-right: Next: Combat](../combat/index.md)

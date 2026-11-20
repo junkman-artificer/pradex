@@ -211,3 +211,5 @@ Ore comes from vein, deposit and cluster cards. Many adventure decks also have a
 | Arcsteel Pauldrons<br><span class="pdx-slot">Shoulder</span> | 25 | 40 | 25~ | 60 to 64 <span class="pdx-a pdx-a--str" title="Strength">STR</span> | 3 Arcsteel Ingot |
 
 </div>
+
+[:lucide-arrow-right: Next: Tailoring](tailoring.md)

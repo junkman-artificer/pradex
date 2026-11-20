@@ -142,3 +142,5 @@ Venture Deeper
 
 Waystone
 :   Endgame content made up of decks in each region. See [Waystones](../waystones/index.md).
+
+[:lucide-arrow-right: Next: FAQ](../getting-started/faq.md)

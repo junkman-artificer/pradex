@@ -172,3 +172,5 @@ Each cloth tier is paired with a thread, made from the same raw material at the 
 | Mythriss Hood :lucide-scroll:{ title="Found in Waystones" }<br><span class="pdx-slot">Helmet</span> | 25 | 40 | 25~ | 60 to 64 <span class="pdx-a pdx-a--int" title="Intellect">INT</span> | 5 Bolt of Mythriss<br>1 Mythriss Thread |
 
 </div>
+
+[:lucide-arrow-right: Next: Leatherworking](leatherworking.md)

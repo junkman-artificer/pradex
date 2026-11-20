@@ -44,3 +44,5 @@ Click a question to see the answer.
 
 !!! tip "Didn't find your question?"
     Ask in the **FAQ channel** on the [Prado Discord](https://discord.gg/CnB2zBeN65). The pinned posts there haven't been updated in a while, but people actively answer new questions.
+
+[:lucide-arrow-right: Next: Resources](../reference/resources.md)

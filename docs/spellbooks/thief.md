@@ -58,3 +58,5 @@ Where to get every Thief spellbook, by the level you can learn it. For how drops
 | 25 | [Leech III](https://www.pradotraveler.com/abilities/338){ target="_blank" } | Farm in T5+ waystones |
 
 </div>
+
+[:lucide-arrow-right: Next: Priest Spellbooks](priest.md)

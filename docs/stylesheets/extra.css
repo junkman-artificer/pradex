@@ -351,6 +351,7 @@
 @media (prefers-reduced-motion: reduce) {
   .md-path__list::before { animation: none; opacity: 0.85; }
 }
+.md-path.pdx-path--home .md-path__list::before { visibility: hidden; animation: none; }
 .md-path__link { color: var(--pdx-dim); }
 .md-path__link:hover { color: var(--pdx-screen); }
 
@@ -790,3 +791,36 @@
   box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.4);
 }
 .md-typeset .twemoji[data-pdx-tip], .md-typeset .pdx-status[data-pdx-tip] { cursor: pointer; }
+
+/* ---------- Navigation as a second, smaller screen ----------
+   On desktop the sidebar becomes its own framed panel that floats above the page and
+   keeps its full height, even at the bottom of a page where it floats over the footer. */
+@media screen and (min-width: 76.25em) {
+  /* Pin it where it starts, so it doesn't slide up as you scroll. */
+  .md-sidebar--primary { z-index: 3; top: calc(3.45rem + 1.5rem) !important; }
+  [data-md-color-scheme="slate"] .md-sidebar--primary .md-sidebar__scrollwrap {
+    height: calc(100vh - 3.45rem - 1.5rem - 1.8rem) !important;
+    margin: 0 0.4rem;
+    background:
+      repeating-linear-gradient(to bottom, rgba(255, 255, 255, 0.014) 0 1px, transparent 1px 3px),
+      radial-gradient(120% 10rem at 50% 0%, rgba(126, 224, 143, 0.05), transparent 70%),
+      var(--pdx-panel);
+    border: 2px solid var(--pdx-line);
+    border-top: 4px solid var(--pdx-screen);
+    border-radius: 0.8rem;
+    box-shadow: 0 0.5rem 1.4rem rgba(0, 0, 0, 0.45), inset 0 0 2rem rgba(126, 224, 143, 0.03);
+    padding-top: 0.4rem;
+  }
+  /* The panel is the menu already, so it doesn't need the PRADEX heading. */
+  .md-sidebar--primary .md-nav--primary > .md-nav__title { display: none; }
+  /* The footer lines up with the main screen above it, so the sidebar panel never covers it. */
+  .md-footer {
+    margin-left: calc(max(0px, (100% - 72rem) / 2) + 12.1rem + 1.2rem);
+    margin-right: calc(max(0px, (100% - 72rem) / 2) + 12.1rem + 1.2rem);
+    border-radius: 1rem 1rem 0 0; overflow: hidden;
+  }
+  /* With the narrower footer the Ko-fi line wraps below the copyright, so keep it on the right. */
+  .md-footer-meta .pdx-support { margin-left: auto; }
+  /* The sidebar is always on screen here, so the Previous/Next bar isn't needed. Phones keep it. */
+  .md-footer .md-footer__inner { display: none !important; }
+}

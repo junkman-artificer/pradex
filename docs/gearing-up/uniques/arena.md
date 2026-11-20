@@ -35,3 +35,5 @@ Every Arena Unique gives **Health**, **Mana**, and **% All Hit Rate**. Armor pie
     The Armory stocks one of each item, and the stock refreshes **every day**. Lost something, or want a second copy? Just come back tomorrow. Uniques aren't limited to one per character either, so go ahead and wear a pair of Gladiator's Bands or two of the same weapon.
 
 For leagues, ranks and how to earn Marks of Valor, see [Arena](../../arena/index.md).
+
+[:lucide-arrow-right: Next: Crafting](../../crafting/index.md)

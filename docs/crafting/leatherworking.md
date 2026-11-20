@@ -157,3 +157,5 @@ Every hide drops from monsters, so look for decks with lots of monster cards and
 | Dragonhide Cuirass :lucide-scroll:{ title="Found in Waystones" }<br><span class="pdx-slot">Chest</span> | 25 | 40 | 25~ | 60 to 64 <span class="pdx-a pdx-a--dex" title="Dexterity">DEX</span> | 5 Dragon Leather<br>1 Mythriss Thread |
 
 </div>
+
+[:lucide-arrow-right: Next: Alchemy](alchemy.md)

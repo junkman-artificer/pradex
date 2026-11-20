@@ -11,6 +11,7 @@ Everything marked <span class="pdx-status pdx-status--unconfirmed" title="A best
 | Blind from % Chance to Apply Blind adds 30% | [Status Effects](../combat/status-effects.md#blind) | The Blinded tooltip on an enemy blinded by gear |
 | Blind and Dazzle add together | [Status Effects](../combat/status-effects.md#blind) | Miss counts against a same level enemy, with and without both |
 | How long Icebite Weapon Oil's Freeze lasts | [Status Effects](../combat/status-effects.md#freeze) | A clip of a freeze from the oil |
+| What enemies target once Provoke ends | [Combat](../combat/index.md#targeting) | A replay showing an enemy's target before, during and after Provoke |
 | No Ranger ability deals Pure damage | [Combat](../combat/index.md#damage-types) | The tags on each Ranger ability in game |
 | How much stronger +1 and +2 potions are | [Alchemy](../crafting/alchemy.md) | Tooltips of a base, +1 and +2 version of the same potion |
 | Dreamshade comes from Stormwatch garden decks | [Alchemy](../crafting/alchemy.md#gathering-materials) | A Dreamshade drop in a Stormwatch garden deck |
@@ -22,3 +23,5 @@ Everything marked <span class="pdx-status pdx-status--unconfirmed" title="A best
 | Staffs are the only pure Intellect two-handers, apart from the odd Epic Great Sword | [Enchanting Strategy](../enchanting/strategy.md#where-the-best-rolls-live) | Any other two-hander rolling pure Intellect |
 
 </div>
+
+[:lucide-arrow-right: Next: What's Changed](changelog.md)

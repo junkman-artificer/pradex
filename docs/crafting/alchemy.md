@@ -120,3 +120,5 @@ Gems upgrade in steps: 3 Chipped make 1 Flawed, 3 Flawed make 1 regular, 3 regul
 | Perfect Amethyst | 29 | 17 | 3 Water Crystal<br>3 Flawless Amethyst |
 
 </div>
+
+[:lucide-arrow-right: Next: Cooking](cooking.md)

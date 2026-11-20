@@ -147,3 +147,5 @@ A subclass can never go above level 12, so everything the Priest unlocks after t
     | 11 | Prayer of Healing | Active | Utter a prayer of healing, instantly restoring 9 health and 5 mana to all allies. |
     | 12 | Divine Shield II | Active | Wrap your front line in holy protection, granting each ally 18 Barrier. |
     | 12 | Supplication | Trait | You may select from 4 blessings when you encounter a Shrine. |
+
+[:lucide-arrow-right: Next: Bard](bard.md)

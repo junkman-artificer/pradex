@@ -45,3 +45,5 @@ Quick lookups for terms, links, and game changes.
     [:lucide-arrow-right: See changes](changelog.md)
 
 </div>
+
+[:lucide-arrow-right: Next: Glossary](glossary.md)

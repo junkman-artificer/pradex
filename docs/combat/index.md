@@ -111,7 +111,7 @@ Most abilities have a tag in game showing their damage type, but not all of them
 Barrier is a shield that absorbs damage before your health does.
 
 - It starts **full** at the beginning of every fight.
-- Damage hits Barrier first, and that damage **isn't reduced by Armor**.
+- Damage hits Barrier first, and that damage **isn't reduced by Armor or Magic Resistance**.
 - Once Barrier is gone, Armor applies as normal and the rest goes to your health.
 - It refills through **Barrier Regen**, certain abilities, and some on-hit effects.
 
@@ -121,7 +121,7 @@ Barrier shows up most often on Intellect-based armor.
 
 - **Melee** attackers can only target the enemy front line.
 - **Ranged** attackers can target either line.
-- **Provoke** (Warrior) forces enemies to attack the Warrior for a few seconds, and it overrides **Focus Target**. Once Provoke ends, they go back to their original target.
+- **Provoke** (Warrior) forces enemies to attack the Warrior for a few seconds, and it overrides **Focus Target**. <span class="pdx-status pdx-status--unconfirmed" title="A best guess that hasn't been tested yet.">Unconfirmed</span> Once Provoke ends, they may go back to their original target or pick a new one.
 
 !!! bug "Focus Target can reach the back line"
     Right now, the Thief's level 8 **Focus Target** trait can ignore formations and lock onto the back line. It's reportedly a bug, and a fix is on the way.
@@ -165,4 +165,4 @@ In the **combat replay**, damage and healing text are shown separately, and Free
 
 </div>
 
-[:lucide-arrow-right: Next: Parties](../parties/index.md)
+[:lucide-arrow-right: Next: Status Effects](status-effects.md)

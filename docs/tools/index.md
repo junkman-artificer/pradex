@@ -14,4 +14,4 @@ Interactive helpers for planning your builds and runs, right here on Pradex.
 
 </div>
 
-[:lucide-arrow-right: Next: Reference](../reference/index.md)
+[:lucide-arrow-right: Next: Mana Calculator](mana-calculator.md)

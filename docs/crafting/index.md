@@ -101,4 +101,4 @@ Crafting earns profession experience, and leveling up unlocks more advanced reci
 
 </div>
 
-[:lucide-arrow-right: Next: Enchanting](../enchanting/index.md)
+[:lucide-arrow-right: Next: Smithing](smithing.md)

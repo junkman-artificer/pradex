@@ -147,3 +147,5 @@ A subclass can never go above level 12, so everything the Magician unlocks after
     | 11 | Dragon's Breath | Active | Unleash a fiery breath, applying Burn to each enemy at the front line for 3 seconds. |
     | 12 | Archivist | Trait | Increase your chance to discover spellbooks by 5%. |
     | 12 | Mage Armor II | Active | Weave arcane wards around your front line, restoring 4 mana to them whenever they take damage. |
+
+[:lucide-arrow-right: Next: Thief](thief.md)

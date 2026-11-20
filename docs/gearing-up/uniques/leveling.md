@@ -142,3 +142,5 @@ Stormcaller Drake, Icehowl and Zephyra, the last bosses you meet while leveling,
 ## No loot listed
 
 Two more Unique Monsters show up while leveling, but the official site lists no loot for them: **Silverhorn Stag** (Level 6) in Travel to Westfield, Windmill Hills, Return to Sweetwater and Journey to Sweetwater, and **Old Briar Lord** (Level 17) in The Beast's Lair.
+
+[:lucide-arrow-right: Next: Endgame Uniques](endgame.md)

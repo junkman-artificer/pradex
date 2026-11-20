@@ -150,3 +150,5 @@ A subclass can never go above level 12, so everything the Blood Knight unlocks a
     | 11 | Blood Strike II | Active | Inflict a deep wound, dealing 85% weapon damage and applying Bleed for 15 + 3.75% of the enemy's Max Health over 7 seconds. |
     | 12 | Blood Pact II | Active | Sacrifice your own vitality to shield your allies, granting all other allies Barrier equal to 8 + 4% of your Max Health. |
     | 12 | Vampiric Aura | Trait | All allies gain 15% Weapon Lifesteal. |
+
+[:lucide-arrow-right: Next: Ranger](ranger.md)
