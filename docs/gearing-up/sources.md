@@ -32,7 +32,7 @@ Unique Monsters in waystones drop 1 to 3 pieces of gear, depending on [party siz
 
 As you click through the cards in a deck, a wild card can sometimes turn up as a **treasure card**. That lets you claim a treasure box to open. See the [FAQ](../getting-started/faq.md) for a faster way to open them.
 
-Two decks also give a treasure box when you complete them. Each box holds one of three <span class="rarity rarity--unique">Unique</span> items.
+Two decks also give a treasure box when you complete them. Each box holds one of three <span class="rarity rarity--unique">Unique</span> items, and you can trade or sell the box on the [Trading Post](../economy/index.md#trading-post) before opening it. Once opened, the item inside is Soulbound.
 
 ### Skeleton's Chest
 

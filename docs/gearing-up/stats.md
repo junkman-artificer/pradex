@@ -100,7 +100,7 @@ Hitting more often, harder, and faster.
 | Performance | Each point adds 0.2 seconds to song-based Haste and Slow effects. |
 
 !!! info "Where Spell Power and Performance come from"
-    - **Spell Power** can be rolled as a Prefix on certain gear, most often Staves and Orbs. Check the [enchanting calculator](https://www.pradotraveler.com/enchantments) to see which items can roll each element. Every 8 Intellect also adds 1 Spell Power.
+    - **Spell Power** can be rolled as a Prefix on Staves, Wands, Orbs and Relics, plus some Intellect one-handed weapons. Staves, Orbs and Relics roll the highest tiers. See [Where the best rolls live](../enchanting/strategy.md#where-the-best-rolls-live) for which items roll each element, or check the [enchanting calculator](https://www.pradotraveler.com/enchantments). Every 8 Intellect also adds 1 Spell Power.
     - **Performance** only comes from three places: the Bard's level 8 **Performer** trait (every 8 Dexterity and 8 Intellect gives 1 Performance), a Prefix on an **Instrument**, or a few key Unique items from waystones.
 
 **Suffixes**
@@ -131,10 +131,13 @@ Hitting more often, harder, and faster.
 | Add % Crit Damage to Barrier | Restores Barrier equal to a percentage of your critical strike damage. Helps rebuild or bolster your Barrier mid-fight. |
 | Decrease Weapon Cooldown by | Shortens the time between weapon attacks. Lower is better. |
 | % Faster Weapon Cooldowns | Cuts the time between weapon attacks by that percentage. Shown as "Weapon Speed" on items. |
-| % Faster Ability Cooldown | Cuts the cooldowns of your active abilities by that percentage. Shown as "Ability Speed" on your character sheet. Stacks with [Ability Haste](../combat/status-effects.md#ability-haste). |
-| All Cooldowns % Faster | Cuts both ability cooldowns and the time between weapon attacks by that percentage. Shown as "All Speed" on your character sheet. Stacks with Haste. |
+| % Faster Ability Cooldown | Cuts the cooldowns of your active abilities by that percentage. Shown as "Ability Speed" on your character sheet. |
+| All Cooldowns % Faster | Cuts both ability cooldowns and the time between weapon attacks by that percentage. Shown as "All Speed" on your character sheet. |
 
-<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Speed cuts the time by its percentage: a 2.80 second weapon with 20% Faster Cooldowns swings every 2.24 seconds. An off-hand weapon swings **50% slower** than its listed speed, after any speed bonus. A 4.20 second off hand shows 6.30 seconds, and a 3.30 second one with 20% speed shows 3.96. Your character sheet already shows both hands at their real speed.
+!!! info "Faster Cooldowns and Haste"
+    - **Faster Cooldowns** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> shortens the timer itself by its percentage. A 2.80 second weapon with 20% Faster Cooldowns swings every 2.24 seconds, and your character sheet shows the shorter time.
+    - **Haste** is a separate step. [Ability Haste](../combat/status-effects.md#ability-haste) and [Weapon Haste](../combat/status-effects.md#weapon-haste) make whatever timer is left count down twice as fast. With 20% Ability Speed, a 10 second cooldown becomes 8 seconds, and Ability Haste counts those 8 down in 4.
+    - **Off hands** <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> swing 50% slower than their listed speed, after any speed bonus. A 4.20 second off hand shows 6.30 seconds, and a 3.30 second one with 20% speed shows 3.96.
 
 ### Damage prefix bonuses
 
@@ -156,28 +159,28 @@ Chances to apply statuses, and bonus damage against targets that have them. For 
 
 | Stat | What it does |
 |---|---|
-| Poison Potency | Each point adds 1 Poison stack to your poisoning abilities. For example, +2 makes a level 1 Poisoned Dagger apply 3 stacks. Only rolls on Daggers. |
-| Poison Duration | Makes the Poison you apply last longer. |
+| Poison Potency | Each point adds 1 Poison stack to your poisoning abilities. For example, +2 makes a level 1 Poisoned Dagger apply 3 stacks. Rolls on Daggers and Bows, and at low tiers on Quivers and Dexterity gloves. |
+| Poison Duration | Makes the Poison you apply last longer than its base 7 seconds. Rolls on Daggers and Bows, and at low tiers on Quivers and Dexterity boots. See [Poison](../combat/status-effects.md#poison). |
 
 **Suffixes**
 
 | Stat | What it does |
 |---|---|
-| % Chance to Apply Bleed | Chance for your attacks to apply Bleed. |
-| % Chance to Apply Poison | Chance for your attacks to apply Poison. |
-| % Chance to Apply Burn | Chance for your attacks to apply Burn. |
-| % Chance to Apply Freeze | Chance for your attacks to apply Freeze. |
-| % Chance to Apply Stun | Chance for your attacks to apply Stun. |
-| % Chance to Apply Blind | Chance for your attacks to apply Blind. |
-| % Chance to Sunder Armor | Chance for your attacks to apply Sunder Armor. |
-| % Chance to Hamstring | Chance for your attacks to apply Hamstring. |
-| % Chance to Deep Wound | Chance for your attacks to apply Deep Wound. |
-| % Chance to Curse | Chance for your attacks to apply Curse. |
-| % Chance to Enfeeble | Chance for your attacks to apply Enfeeble. |
-| % Bonus Damage to Poisoned Targets | Extra damage against Poisoned targets. |
-| % Bonus Damage to Bleeding Targets | Extra damage against Bleeding targets. |
-| % Bonus Damage to Frozen Targets | Extra damage against Frozen targets. |
-| % Bonus Damage to Stunned Targets | Extra damage against Stunned targets. |
+| % Chance to Apply Bleed | Chance for your attacks to apply [Bleed](../combat/status-effects.md#bleed). |
+| % Chance to Apply Poison | Chance for your attacks to apply [Poison](../combat/status-effects.md#poison). |
+| % Chance to Apply Burn | Chance for your attacks to apply [Burn](../combat/status-effects.md#burn). |
+| % Chance to Apply Freeze | Chance for your attacks to apply [Freeze](../combat/status-effects.md#freeze). |
+| % Chance to Apply Stun | Chance for your attacks to apply [Stun](../combat/status-effects.md#stun). |
+| % Chance to Apply Blind | Chance for your attacks to apply [Blind](../combat/status-effects.md#blind). |
+| % Chance to Sunder Armor | Chance for your attacks to apply [Sunder Armor](../combat/status-effects.md#sunder-armor). |
+| % Chance to Hamstring | Chance for your attacks to apply [Hamstring](../combat/status-effects.md#hamstring). |
+| % Chance to Deep Wound | Chance for your attacks to apply [Deep Wound](../combat/status-effects.md#deep-wound). |
+| % Chance to Curse | Chance for your attacks to apply [Curse](../combat/status-effects.md#curse). |
+| % Chance to Enfeeble | Chance for your attacks to apply [Enfeeble](../combat/status-effects.md#enfeeble). |
+| % Bonus Damage to Poisoned Targets | Extra damage against [Poisoned](../combat/status-effects.md#poison) targets. |
+| % Bonus Damage to Bleeding Targets | Extra damage against [Bleeding](../combat/status-effects.md#bleed) targets. |
+| % Bonus Damage to Frozen Targets | Extra damage against [Frozen](../combat/status-effects.md#freeze) targets. |
+| % Bonus Damage to Stunned Targets | Extra damage against [Stunned](../combat/status-effects.md#stun) targets. |
 
 ## Utility
 

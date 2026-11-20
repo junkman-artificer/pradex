@@ -198,8 +198,8 @@ For example, a level 1 Poisoned Dagger applies 1 stack, so it deals 1 damage per
     - Deadly Poison, Poisoned Dagger, Strangling Gas (Thief)
     - Serpent Shot (Ranger)
 - **Empower it:**
-    - Poison Potency (Prefix, Daggers only): each point adds 1 stack to your poisoning abilities
-    - Poison Duration (Prefix)
+    - Poison Potency (Prefix, mostly Daggers and Bows): each point adds 1 stack to your poisoning abilities
+    - Poison Duration (Prefix, mostly Daggers and Bows)
 - **Works well with:**
     - % Bonus Damage to Poisoned Targets (Suffix)
     - Venomous Strike: extra damage per Poison stack (Thief)
@@ -273,7 +273,7 @@ Not every status is bad. These are buffs that help you or your allies.
 
 Makes ability timers count down at **double speed**, so abilities come back in half the time. It's the mirror of [Slow](#slow). It doesn't affect weapon timers.
 
-<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Ability Speed and All Speed on gear work differently: they shorten the cooldown itself, so they stack with Haste. With 20% Ability Speed, a 10 second cooldown becomes 8 seconds, and Haste counts those 8 down in 4.
+<span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Ability Speed and All Speed on gear work differently: they shorten the cooldown itself, and Haste then counts that shorter cooldown down twice as fast. With 20% Ability Speed, a 10 second cooldown becomes 8 seconds, and Haste counts those 8 down in 4.
 
 - **Get it:**
     - Wizard's Minuet, Moonlight Rhapsody, Meadowland Pastoral (Bard songs, whole party)

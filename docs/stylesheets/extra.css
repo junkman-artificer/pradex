@@ -774,3 +774,10 @@
 @media (hover: none) {
   .md-typeset .headerlink { display: none; }
 }
+
+/* "Next:" link at the end of a page: a short red bar, like the one under page titles, sets it apart.
+   Matches a page whose last block is a paragraph holding only an arrow link. */
+.md-content__inner > p:last-child:has(> a:only-child .lucide-arrow-right)::before {
+  content: ""; display: block; width: 3rem; height: 0.25rem;
+  margin: 2rem 0 0.9rem; border-radius: 1rem; background: var(--md-primary-fg-color);
+}
