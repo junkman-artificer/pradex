@@ -96,7 +96,7 @@ Almost all damage is either **Physical** or **Magical**.
 |---|---|---|
 | Physical | Weapon attacks, Hemorrhage, Explosive Shot | Armor |
 | Magical | Fireball, Frostbolt, Staves, Wands | Magic Resistance |
-| Pure <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> | Bleed from Blood Strike and Cruel Weapon, Venomous Strike, Requiem of Suffering, Mighty Strikes | Nothing |
+| Pure <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> | Blood Strike's Bleed, Mighty Strikes, more below | Nothing |
 
 </div>
 
@@ -104,7 +104,7 @@ Almost all damage is either **Physical** or **Magical**.
 
 Every character starts with **20% Magic Resistance**, and gear can add more. Higher level monsters are more likely to use magical abilities, so Magic Resistance matters more as you progress.
 
-The game doesn't label every ability as Physical or Magical yet, but you can usually tell by its theme: fire, frost, and arcane are magical, and weapon strikes are physical.
+Most abilities have a tag in game showing their damage type, but not all of them. When one doesn't, you can usually tell by its theme: fire, frost, and arcane are magical, and weapon strikes are physical.
 
 ## Barrier
 
