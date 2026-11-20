@@ -109,6 +109,10 @@ Rerun this if the game adds abilities, decks or shop stock.
 
 Nothing right now.
 
+### On hold until Season 10
+
+Dylan (the developer) acknowledged Pradex on 2026-11-20 and asked us to wait for the Season 10 release before making too many changes, since significant parts of the game are changing. Until S10 drops, keep edits small (fixes and confirmed facts) and use the time to plan the sections below. Once it lands, recheck every page against the new season before adding anything new.
+
 ### 2. Extend the dex pattern to the pages that are already entries
 
 Each of these is a set of like things, which is exactly what entry numbers and pills are for. Do one set at a time and show Ezraek a screenshot before doing the rest.
@@ -136,6 +140,11 @@ Placeholders left in the site, to fill by spitballing one section at a time:
 - Parties: Building a Team (Ezraek is reworking the layout), Synergies folded into Building a Team as "Combos worth knowing" (Mana Loop, Deep Freeze, Dodge Tank, Spell Storm); review at the end whether it stays, formation tips on Combat.
 - In game checks: shop caps, ongoing. Tooltips without a known cap say "Sold at <shop>" (Alembics & Infusions, plus Moonmoss, Dreamshade and Frostfern at Stormwatch Provisions); every shop rotates its stock, so add caps as screenshots come in, Magic, Spirit and Mystic essence costs for imbuing Gloomhaven gear, Arena draw rating, whether Blind and Dazzle add up (both can be on one enemy; seen 2026-11-17), Alchemy +1 and +2 quality, whether Moonlight Rhapsody's mana discount applies to every spell or only spells with a matching tag (Ezraek is getting a video).
 - Idea on hold until that video: a Bard variant of the Mana Loop on Building a Team. If the Bard keeps Rhapsody up permanently (back within its 5 seconds, through Ability Haste from songs and Virtuoso plus Ability Speed), Prayer of Healing III and IV and Arcane Infusion II and III cost less than the mana they give back, so Bard + Priest or Bard + Magician can loop without the other caster. Also unknown: whether Prayer and Infusion refill the caster too. Not on the site yet, by Ezraek's call.
+
+### Ideas for after Season 10
+
+- **Collapsible screenshots** in spots that can confuse new players, so they can match the guide to what's on screen. Suggested by a reader, whose example was Gems versus Crystals: the in game names are clear, but players new to RPGs may not know which is which without seeing them. Use a collapsible box so pages stay short. Crop out anything personal (names, notifications, chat) before a screenshot goes in.
+- **Time Capsule section** for things tied to one season that won't come back, like Season achievements, so the history isn't lost when the season ends.
 
 ### 5. Known rough edges
 
