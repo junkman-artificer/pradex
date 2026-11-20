@@ -1,6 +1,6 @@
 # Spellbooks
 
-Spellbooks drop from any monster within a level of the ability, so each farming spot is the deck with the most Monster cards at that level, counting any decks you have to clear to reach it. If a shop sells the spellbook, buy it instead. Shops always have them in stock, and it saves you the VITA.
+Spellbooks drop from any monster within a level of the ability, so each farming spot is the deck with the most Monster cards at that level, counting any decks you have to clear to reach it. If a shop sells the spellbook, buy it instead. Shops always have them in stock, and it saves you the VITA. A :lucide-store: next to a shop means the book is sold in more than one place. Hover it, or tap it on a phone, to see the others and their prices.
 
 Not sure how to learn a spellbook once you have it? See [Get your first ability](../getting-started/first-steps.md#3-get-your-first-ability).
 

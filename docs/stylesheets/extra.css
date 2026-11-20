@@ -781,3 +781,12 @@
   content: ""; display: block; width: 3rem; height: 0.25rem;
   margin: 2rem 0 0.9rem; border-radius: 1rem; background: var(--md-primary-fg-color);
 }
+
+/* Tap notes on touch screens, styled like the desktop hover notes (see extra.js). */
+.pdx-tip {
+  position: absolute; z-index: 10; max-width: min(16rem, calc(100vw - 1rem));
+  padding: 0.4rem 0.6rem; border-radius: 0.3rem; font-size: 0.64rem; line-height: 1.4; font-weight: 600;
+  color: var(--md-default-fg-color); background: #262a33; border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.4);
+}
+.md-typeset .twemoji[data-pdx-tip], .md-typeset .pdx-status[data-pdx-tip] { cursor: pointer; }
