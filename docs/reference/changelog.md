@@ -2,6 +2,10 @@
 
 A log of what's been added to the guide.
 
+## November 20, 2026
+
+- **[Armor and Magic Resistance](../gearing-up/stats.md#defense)**: both softcap around 75%, per the developer.
+
 ## November 19, 2026
 
 - **[Rune Combinations](../waystones/runes.md)**: 7 more combinations crafted in game, all matching what the page listed, so they no longer need the Observed tag.

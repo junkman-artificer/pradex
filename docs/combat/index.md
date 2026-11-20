@@ -102,7 +102,7 @@ Almost all damage is either **Physical** or **Magical**.
 
 **Pure** damage ignores both Armor and Magic Resistance. So far it has turned up on Bleeds that scale with the enemy's max health, the bonus damage from a Thief's Venomous Strike, a Bard's Requiem of Suffering, and the splash from a Warrior's Mighty Strikes. Drain Life also scales with the enemy's health, but it isn't Pure.
 
-Every character starts with **20% Magic Resistance**, and gear can add more. Higher level monsters are more likely to use magical abilities, so Magic Resistance matters more as you progress.
+Every character starts with **20% Magic Resistance**, and gear can add more. Both Armor and Magic Resistance softcap around **75%**, so stacking past that does much less. Higher level monsters are more likely to use magical abilities, so Magic Resistance matters more as you progress.
 
 Most abilities have a tag in game showing their damage type, but not all of them. When one doesn't, you can usually tell by its theme: fire, frost, and arcane are magical, and weapon strikes are physical.
 

@@ -70,13 +70,13 @@ Ways to avoid, absorb, or reduce incoming damage.
 
 | Stat | What it does |
 |---|---|
-| Armor | Resistance to physical damage. Your character sheet shows the % it currently blocks against a monster of your level. |
+| Armor | Resistance to physical damage. Your character sheet shows the % it currently blocks against a monster of your level. Softcaps around 75%, so more past that helps much less. |
 | % Evasion | Chance to evade an attack from an enemy of your level. |
 | Barrier | Absorbs damage before your health is hit. Starts full each fight, and damage to it isn't reduced by armor or resistances. Most common on Intellect-based armor. See [Barrier](../combat/index.md#barrier). |
 | Barrier Regen | Barrier restored every 5 seconds. |
 | % of Max HP as Barrier | Adds a percentage of your Max Health to your Barrier. |
 | % of Max MP as Barrier | Adds a percentage of your Max Mana to your Barrier. |
-| % Magic Resistance | Reduces damage taken from magical attacks. Everyone starts with 20%. |
+| % Magic Resistance | Reduces damage taken from magical attacks. Everyone starts with 20%. Softcaps around 75%, so more past that helps much less. |
 | Physical Damage Taken Reduced by | Reduces physical damage taken by a flat amount. |
 | Magical Damage Taken Reduced by | Reduces magic damage taken by a flat amount, before resistances. |
 | Damage Taken Reduced | Reduces all damage taken by a flat amount. |
