@@ -29,7 +29,7 @@ Deals damage every second, and each application adds its own stack. The number o
 
 How much each stack deals depends on the source:
 
-- **Blood Strike and Cruel Weapon** (Blood Knight) scale with the **target's** max health, so they hit hardest against big, tanky enemies.
+- **Blood Strike and Cruel Weapon** (Blood Knight) scale with the **target's** max health, so they hit hardest against big, tanky enemies. <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> Their Bleed is [Pure damage](index.md#damage-types), so Armor and Magic Resistance don't reduce it.
 - **Blood Boil** (Blood Knight) scales with **your** max health.
 - **Hemorrhage** (Warrior) deals a flat amount each second.
 
@@ -202,7 +202,7 @@ For example, a level 1 Poisoned Dagger applies 1 stack, so it deals 1 damage per
     - Poison Duration (Prefix, mostly Daggers and Bows)
 - **Works well with:**
     - % Bonus Damage to Poisoned Targets (Suffix)
-    - Venomous Strike: extra damage per Poison stack (Thief)
+    - Venomous Strike: extra [Pure damage](index.md#damage-types) per Poison stack (Thief)
     - Leech and Extraction: restore health and mana per Poison stack (Thief)
 
 ## Slow

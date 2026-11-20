@@ -11,6 +11,7 @@ Everything marked <span class="pdx-status pdx-status--unconfirmed" title="A best
 | Blind from % Chance to Apply Blind adds 30% | [Status Effects](../combat/status-effects.md#blind) | The Blinded tooltip on an enemy blinded by gear |
 | Blind and Dazzle add together | [Status Effects](../combat/status-effects.md#blind) | Miss counts against a same level enemy, with and without both |
 | How long Icebite Weapon Oil's Freeze lasts | [Status Effects](../combat/status-effects.md#freeze) | A clip of a freeze from the oil |
+| No Ranger ability deals Pure damage | [Combat](../combat/index.md#damage-types) | The tags on each Ranger ability in game |
 | How much stronger +1 and +2 potions are | [Alchemy](../crafting/alchemy.md) | Tooltips of a base, +1 and +2 version of the same potion |
 | Dreamshade comes from Stormwatch garden decks | [Alchemy](../crafting/alchemy.md#gathering-materials) | A Dreamshade drop in a Stormwatch garden deck |
 | Waystone mana cost increases apply after flat cuts like Arcane Spell Power and Moonlight Rhapsody | [Mana Calculator](../tools/mana-calculator.md#how-it-counts) | One spell's cost with Arcane Spell Power, with and without a cost increase |

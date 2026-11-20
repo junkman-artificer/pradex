@@ -88,7 +88,7 @@ Swords, Daggers, Axes, and Wands can't roll any of these.
 
 ## Damage types
 
-All damage is either **Physical** or **Magical**.
+Almost all damage is either **Physical** or **Magical**.
 
 <div class="pdx-compact" markdown>
 
@@ -96,8 +96,11 @@ All damage is either **Physical** or **Magical**.
 |---|---|---|
 | Physical | Weapon attacks, Hemorrhage, Explosive Shot | Armor |
 | Magical | Fireball, Frostbolt, Staves, Wands | Magic Resistance |
+| Pure <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> | Bleed from Blood Strike and Cruel Weapon, Venomous Strike, Requiem of Suffering, Mighty Strikes | Nothing |
 
 </div>
+
+**Pure** damage ignores both Armor and Magic Resistance. So far it has turned up on Bleeds that scale with the enemy's max health, the bonus damage from a Thief's Venomous Strike, a Bard's Requiem of Suffering, and the splash from a Warrior's Mighty Strikes. Drain Life also scales with the enemy's health, but it isn't Pure.
 
 Every character starts with **20% Magic Resistance**, and gear can add more. Higher level monsters are more likely to use magical abilities, so Magic Resistance matters more as you progress.
 
