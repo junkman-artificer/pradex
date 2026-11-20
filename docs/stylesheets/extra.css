@@ -769,3 +769,8 @@
 .pdx-support__text { margin: 0; font-size: 0.64rem; line-height: 1.4; white-space: nowrap; color: var(--md-footer-fg-color--light); }
 .pdx-support__text a { color: var(--md-footer-fg-color); text-decoration: underline; }
 .pdx-support__text a:hover, .pdx-support__text a:focus-visible { color: var(--md-accent-fg-color); }
+
+/* Phones have no hover, so hide the heading link marker there. */
+@media (hover: none) {
+  .md-typeset .headerlink { display: none; }
+}
