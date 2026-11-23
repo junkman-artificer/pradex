@@ -28,7 +28,7 @@ Not every rune comes in every tier. River, Flower, City and Mask Runes come in T
 
 </div>
 
-## The big three
+## The Big 3
 
 Three waystones take far more combinations than the rest, so each one gets its own list. Open a box to see every combination for that waystone.
 
