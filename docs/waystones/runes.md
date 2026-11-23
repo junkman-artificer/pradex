@@ -30,55 +30,109 @@ Not every rune comes in every tier. River, Flower, City and Mask Runes come in T
 
 ## The big three
 
-Three waystones take far more combinations than the rest. Each one is listed once, under its first rune in the order River, Flower, Song, City, Mask, Mud, Night. So for Song, Mask and Mud, look in the Song row for Mask + Mud.
+Three waystones take far more combinations than the rest, so each one gets its own list. Open a box to see every combination for that waystone.
 
 ### Meadowland Wilds
 
 28 combinations. More on this waystone in [Sweetwater](regions/sweetwater.md#meadowland-wilds).
 
-<div class="pdx-compact" markdown>
+??? abstract "All 28 combinations"
 
-| First rune | Other two runes |
-|---|---|
-| River | River&nbsp;+&nbsp;River, River&nbsp;+&nbsp;Flower, River&nbsp;+&nbsp;Song, River&nbsp;+&nbsp;Mask, River&nbsp;+&nbsp;Mud, River&nbsp;+&nbsp;Night, Flower&nbsp;+&nbsp;Flower, Flower&nbsp;+&nbsp;Song, Flower&nbsp;+&nbsp;Mask, Flower&nbsp;+&nbsp;Mud, Flower&nbsp;+&nbsp;Night, Song&nbsp;+&nbsp;Song, Song&nbsp;+&nbsp;Mask, Song&nbsp;+&nbsp;Mud, Song&nbsp;+&nbsp;Night |
-| Flower | Flower&nbsp;+&nbsp;Flower, Flower&nbsp;+&nbsp;Song, Flower&nbsp;+&nbsp;Mask, Flower&nbsp;+&nbsp;Mud, Flower&nbsp;+&nbsp;Night, Song&nbsp;+&nbsp;Song, Song&nbsp;+&nbsp;Mask, Song&nbsp;+&nbsp;Mud |
-| Song | Song&nbsp;+&nbsp;Song, Song&nbsp;+&nbsp;City, Song&nbsp;+&nbsp;Mask, Song&nbsp;+&nbsp;Mud, Song&nbsp;+&nbsp;Night |
+    <div class="pdx-compact" markdown>
 
-</div>
+    | Runes |
+    |---|
+    | River&nbsp;+&nbsp;River&nbsp;+&nbsp;River |
+    | River&nbsp;+&nbsp;River&nbsp;+&nbsp;Flower |
+    | River&nbsp;+&nbsp;River&nbsp;+&nbsp;Song |
+    | River&nbsp;+&nbsp;River&nbsp;+&nbsp;Mask |
+    | River&nbsp;+&nbsp;River&nbsp;+&nbsp;Mud |
+    | River&nbsp;+&nbsp;River&nbsp;+&nbsp;Night |
+    | River&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Flower |
+    | River&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Song |
+    | River&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Mask |
+    | River&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Mud |
+    | River&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Night |
+    | River&nbsp;+&nbsp;Song&nbsp;+&nbsp;Song |
+    | River&nbsp;+&nbsp;Song&nbsp;+&nbsp;Mask |
+    | River&nbsp;+&nbsp;Song&nbsp;+&nbsp;Mud |
+    | River&nbsp;+&nbsp;Song&nbsp;+&nbsp;Night |
+    | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Flower |
+    | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Song |
+    | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Mask |
+    | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Mud |
+    | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;Night |
+    | Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;Song |
+    | Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;Mask |
+    | Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;Mud |
+    | Song&nbsp;+&nbsp;Song&nbsp;+&nbsp;Song |
+    | Song&nbsp;+&nbsp;Song&nbsp;+&nbsp;City |
+    | Song&nbsp;+&nbsp;Song&nbsp;+&nbsp;Mask |
+    | Song&nbsp;+&nbsp;Song&nbsp;+&nbsp;Mud |
+    | Song&nbsp;+&nbsp;Song&nbsp;+&nbsp;Night |
+
+    </div>
 
 ### Outer Wards of the Old City
 
 16 combinations. More on this waystone in [Eastern Gate](regions/eastern-gate.md#outer-wards-of-the-old-city).
 
-<div class="pdx-compact" markdown>
+??? abstract "All 16 combinations"
 
-| First rune | Other two runes |
-|---|---|
-| River | Mask&nbsp;+&nbsp;Mask, Mask&nbsp;+&nbsp;Night |
-| Flower | Mask&nbsp;+&nbsp;Mask, Mask&nbsp;+&nbsp;Mud, Mask&nbsp;+&nbsp;Night |
-| Song | City&nbsp;+&nbsp;City, City&nbsp;+&nbsp;Night, Mask&nbsp;+&nbsp;Mask |
-| City | City&nbsp;+&nbsp;City, City&nbsp;+&nbsp;Mask, City&nbsp;+&nbsp;Night, Mask&nbsp;+&nbsp;Mask, Mask&nbsp;+&nbsp;Night |
-| Mask | Mask&nbsp;+&nbsp;Mask, Mask&nbsp;+&nbsp;Mud, Mask&nbsp;+&nbsp;Night |
+    <div class="pdx-compact" markdown>
 
-</div>
+    | Runes |
+    |---|
+    | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask |
+    | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night |
+    | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask |
+    | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud |
+    | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night |
+    | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;City |
+    | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Night |
+    | Song&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask |
+    | City&nbsp;+&nbsp;City&nbsp;+&nbsp;City |
+    | City&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask |
+    | City&nbsp;+&nbsp;City&nbsp;+&nbsp;Night |
+    | City&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask |
+    | City&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night |
+    | Mask&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask |
+    | Mask&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud |
+    | Mask&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night |
+
+    </div>
 
 ### Gloomwood Depths
 
 19 combinations. More on this waystone in [Gloomhaven](regions/gloomhaven.md#gloomwood-depths).
 
-<div class="pdx-compact" markdown>
+??? abstract "All 19 combinations"
 
-| First rune | Other two runes |
-|---|---|
-| River | Mask&nbsp;+&nbsp;Mud, Mud&nbsp;+&nbsp;Mud, Mud&nbsp;+&nbsp;Night, Night&nbsp;+&nbsp;Night |
-| Flower | Mud&nbsp;+&nbsp;Mud, Mud&nbsp;+&nbsp;Night, Night&nbsp;+&nbsp;Night |
-| Song | Mask&nbsp;+&nbsp;Mud, Mud&nbsp;+&nbsp;Mud, Mud&nbsp;+&nbsp;Night, Night&nbsp;+&nbsp;Night |
-| City | Night&nbsp;+&nbsp;Night |
-| Mask | Mud&nbsp;+&nbsp;Mud, Mud&nbsp;+&nbsp;Night, Night&nbsp;+&nbsp;Night |
-| Mud | Mud&nbsp;+&nbsp;Mud, Mud&nbsp;+&nbsp;Night, Night&nbsp;+&nbsp;Night |
-| Night | Night&nbsp;+&nbsp;Night |
+    <div class="pdx-compact" markdown>
 
-</div>
+    | Runes |
+    |---|
+    | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud |
+    | River&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud |
+    | River&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
+    | River&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
+    | Flower&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud |
+    | Flower&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
+    | Flower&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
+    | Song&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud |
+    | Song&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud |
+    | Song&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
+    | Song&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
+    | City&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
+    | Mask&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud |
+    | Mask&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
+    | Mask&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
+    | Mud&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud |
+    | Mud&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
+    | Mud&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
+    | Night&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
+
+    </div>
 
 ## Every combination
 
