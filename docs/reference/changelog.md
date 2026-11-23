@@ -4,7 +4,7 @@ A log of what's been added to the guide.
 
 ## November 23, 2026
 
-- **[Rune Combinations](../waystones/runes.md#the-big-3)**: Meadowland Wilds, Outer Wards and Gloomwood Depths now each have their own dropdown list, and the full list of 84 sits in a dropdown below them.
+- **[Rune Combinations](../waystones/runes.md#the-big-3)**: Meadowland Wilds, Outer Wards and Gloomwood Depths now each have their own dropdown list, and the full list sits in a dropdown below them. Five combinations that follow no known recipe are now marked as cursed and left out, since one of them has made two different waystones.
 
 ## November 20, 2026
 

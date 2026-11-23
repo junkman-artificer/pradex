@@ -1,11 +1,20 @@
 # Rune Combinations
 
-Every waystone takes three runes, and the rune **types** decide which deck you get. There are seven types, so there are 84 possible combinations, and every one of them is below. The order you put them in doesn't matter.
+Every waystone takes three runes, and the rune **types** decide which deck you get. There are seven types, so there are 84 possible combinations. All but five of them are below. The order you put them in doesn't matter.
 
 Not every rune comes in every tier. River, Flower, City and Mask Runes come in T1+, Mud and Song Runes in T2+, and Night Runes in T3+.
 
 !!! info "How sure is this?"
     Most of these come from crafting in game. <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> marks combinations where more than one deck could fit the recipe rules and nobody has crafted that exact mix yet, but every one tested so far has matched.
+
+!!! warning "Cursed combinations"
+    These five don't follow any known recipe, and Song + Mask + Mud has already made both Gloomwood Depths and Outer Wards of the Old City. There's no telling what they'll give you, so they're left out of the lists below. Skip them unless any waystone will do.
+
+    - Flower + Mask + Mud
+    - River + Mask + Mud
+    - River + Mask + Night
+    - Song + City + Night
+    - Song + Mask + Mud
 
 ## By waystone
 
@@ -16,13 +25,13 @@ Not every rune comes in every tier. River, Flower, City and Mask Runes come in T
 | [Meadowland Wilds](regions/sweetwater.md#meadowland-wilds)<br><small>Sweetwater</small> | 28 combinations, see [the full list](#meadowland-wilds) |
 | [Canals of Sweetwater](regions/sweetwater.md#canals-of-sweetwater)<br><small>Sweetwater</small> | River&nbsp;+&nbsp;River&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>River&nbsp;+&nbsp;Flower&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>River&nbsp;+&nbsp;Song&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>River&nbsp;+&nbsp;City&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>River&nbsp;+&nbsp;City&nbsp;+&nbsp;Night |
 | [Festival of Petals](regions/sweetwater.md#festival-of-petals)<br><small>Sweetwater</small> | Flower&nbsp;+&nbsp;Flower&nbsp;+&nbsp;City<br>Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;City <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;City<br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask<br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span><br>Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Night |
-| [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city)<br><small>Eastern Gate</small> | 16 combinations, see [the full list](#outer-wards-of-the-old-city) |
+| [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city)<br><small>Eastern Gate</small> | 13 combinations, see [the full list](#outer-wards-of-the-old-city) |
 | [The Theater District](regions/eastern-gate.md#the-theater-district)<br><small>Eastern Gate</small> | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
 | [Heist at Smuggler's Wharf](regions/eastern-gate.md#heist-at-smugglers-wharf)<br><small>Eastern Gate</small> | River&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
 | [Mr. Ripley's Midnight Carnival](regions/eastern-gate.md#mr-ripleys-midnight-carnival)<br><small>Eastern Gate</small> | Song&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night |
 | [The Filthworks](regions/the-burrows.md#the-filthworks)<br><small>The Burrows</small> | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud<br>City&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud<br>City&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud<br>City&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
 | [The Pit of Hands](regions/the-burrows.md#the-pit-of-hands)<br><small>The Burrows</small> | City&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
-| [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths)<br><small>Gloomhaven</small> | 19 combinations, see [the full list](#gloomwood-depths) |
+| [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths)<br><small>Gloomhaven</small> | 17 combinations, see [the full list](#gloomwood-depths) |
 | [Goblin Shipyard](regions/gloomhaven.md#goblin-shipyard)<br><small>Gloomhaven</small> | River&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud |
 | [Nightsong Bloom](regions/briarstone-quarry.md#nightsong-bloom)<br><small>Briarstone Quarry</small> | Flower&nbsp;+&nbsp;Song&nbsp;+&nbsp;Night <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
 
@@ -75,21 +84,18 @@ Three waystones take far more combinations than the rest, so each one gets its o
 
 ### Outer Wards of the Old City
 
-16 combinations. More on this waystone in [Eastern Gate](regions/eastern-gate.md#outer-wards-of-the-old-city).
+13 combinations. More on this waystone in [Eastern Gate](regions/eastern-gate.md#outer-wards-of-the-old-city).
 
-??? abstract "All 16 combinations"
+??? abstract "All 13 combinations"
 
     <div class="pdx-compact" markdown>
 
     | Runes |
     |---|
     | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask |
-    | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night |
     | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask |
-    | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud |
     | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night |
     | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;City |
-    | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Night |
     | Song&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask |
     | City&nbsp;+&nbsp;City&nbsp;+&nbsp;City |
     | City&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask |
@@ -104,22 +110,20 @@ Three waystones take far more combinations than the rest, so each one gets its o
 
 ### Gloomwood Depths
 
-19 combinations. More on this waystone in [Gloomhaven](regions/gloomhaven.md#gloomwood-depths).
+17 combinations. More on this waystone in [Gloomhaven](regions/gloomhaven.md#gloomwood-depths).
 
-??? abstract "All 19 combinations"
+??? abstract "All 17 combinations"
 
     <div class="pdx-compact" markdown>
 
     | Runes |
     |---|
-    | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud |
     | River&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud |
     | River&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
     | River&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
     | Flower&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud |
     | Flower&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
     | Flower&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
-    | Song&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud |
     | Song&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud |
     | Song&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night |
     | Song&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night |
@@ -138,7 +142,7 @@ Three waystones take far more combinations than the rest, so each one gets its o
 
 Already holding three runes? Open the list below and press ++ctrl+f++ to find them. Runes are sorted in the order River, Flower, Song, City, Mask, Mud, Night.
 
-??? abstract "All 84 combinations"
+??? abstract "All 79 combinations"
 
     <div class="pdx-compact" markdown>
 
@@ -167,8 +171,6 @@ Already holding three runes? Open the list below and press ++ctrl+f++ to find th
     | River&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud | [Goblin Shipyard](regions/gloomhaven.md#goblin-shipyard) |
     | River&nbsp;+&nbsp;City&nbsp;+&nbsp;Night | [Canals of Sweetwater](regions/sweetwater.md#canals-of-sweetwater) |
     | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
-    | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
-    | River&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
     | River&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
     | River&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
     | River&nbsp;+&nbsp;Night&nbsp;+&nbsp;Night | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
@@ -188,7 +190,6 @@ Already holding three runes? Open the list below and press ++ctrl+f++ to find th
     | Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud | [Festival of Petals](regions/sweetwater.md#festival-of-petals) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
     | Flower&nbsp;+&nbsp;City&nbsp;+&nbsp;Night | [Festival of Petals](regions/sweetwater.md#festival-of-petals) |
     | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
-    | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
     | Flower&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
     | Flower&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
     | Flower&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
@@ -201,9 +202,7 @@ Already holding three runes? Open the list below and press ++ctrl+f++ to find th
     | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;City | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
     | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Mask | [The Theater District](regions/eastern-gate.md#the-theater-district) <span class="pdx-status pdx-status--observed" title="Seen in play or testing. No official source.">Observed</span> |
     | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Mud | [The Filthworks](regions/the-burrows.md#the-filthworks) |
-    | Song&nbsp;+&nbsp;City&nbsp;+&nbsp;Night | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
     | Song&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mask | [Outer Wards of the Old City](regions/eastern-gate.md#outer-wards-of-the-old-city) |
-    | Song&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Mud | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
     | Song&nbsp;+&nbsp;Mask&nbsp;+&nbsp;Night | [Mr. Ripley's Midnight Carnival](regions/eastern-gate.md#mr-ripleys-midnight-carnival) |
     | Song&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Mud | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
     | Song&nbsp;+&nbsp;Mud&nbsp;+&nbsp;Night | [Gloomwood Depths](regions/gloomhaven.md#gloomwood-depths) |
