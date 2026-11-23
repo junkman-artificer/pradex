@@ -2,6 +2,10 @@
 
 A log of what's been added to the guide.
 
+## November 23, 2026
+
+- **[Rune Combinations](../waystones/runes.md#the-big-three)**: Meadowland Wilds, Outer Wards and Gloomwood Depths now have their own grouped lists, and the full list of 84 sits in a box below them.
+
 ## November 20, 2026
 
 - **[Armor and Magic Resistance](../gearing-up/stats.md#defense)**: both softcap around 75%, per the developer.
