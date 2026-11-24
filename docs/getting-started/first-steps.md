@@ -16,8 +16,8 @@ Your first 5,000 steps each day earn the most VITA, plus 200 bonus experience. M
 
 **Pebble Beach** is the level 1 adventure deck, so start there. Crooked Creek will open up, but I recommend running the **Forage at Lake Serentis** gathering deck to make sure you reach level 2 and pick up some materials you can sell in town.
 
-!!! warning "Never sell your crystals"
-    Every crafting recipe needs at least one crystal, and you'll go through a lot of them. Hold onto every crystal you find, even if you're not crafting yet. You'll be glad you did.
+!!! warning "Never vendor your crystals"
+    Every crafting recipe needs at least one crystal, and you'll go through a lot of them. Don't sell them to vendors. If you have extra of one kind, the [Trading Post](../economy/index.md#trading-post) is a good place to trade it for the ones you need.
 
 The goal is to get your first ability as soon as possible. Abilities are learned from spellbooks, which you can find as random monster drops or buy from the **Skillbooks** tab in certain stores, like the **Sunflower Market** in Sweetwater. Click a spellbook and check its class tag to make sure it's for your class.
 
